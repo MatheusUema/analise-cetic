@@ -1,0 +1,411 @@
+TOTAL PARA O INDICADOR D3 – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE POSSÍVEIS IMPACTOS DAS TIC EM PRÁTICAS PEDAGÓGICAS
+Em termos de TOTAL:
+    Total: 2017(78532) 2018(80504) 2019(77296) 
+    Os professores passaram a adotar novos métodos pedagógicos
+        -> 2017: Concorda:77.36%| Não concorda nem discorda:11.23%| Discorda:9.02%| Não sabe:0.08%| Não respondeu:0.4%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:75.17%| Não concorda nem discorda:14.51%| Discorda:8.58%| Não sabe:0.0%| Não respondeu:0.11%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:77.27%| Não concorda nem discorda:12.7%| Discorda:8.43%| Não sabe:0.09%| Não respondeu:0.1%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Não concorda nem discorda que foi de 1.47%
+    Os professores passaram a fazer avaliações mais individualizadas dos alunos
+        -> 2017: Concorda:53.83%| Não concorda nem discorda:17.63%| Discorda:24.15%| Não sabe:2.08%| Não respondeu:0.4%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:57.99%| Não concorda nem discorda:15.6%| Discorda:24.63%| Não sabe:0.15%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:57.5%| Não concorda nem discorda:21.19%| Discorda:19.29%| Não sabe:0.54%| Não respondeu:0.07%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Discorda que foi de 4.86%
+    Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+        -> 2017: Concorda:84.04%| Não concorda nem discorda:6.96%| Discorda:5.71%| Não sabe:0.98%| Não respondeu:0.41%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:83.52%| Não concorda nem discorda:7.93%| Discorda:6.92%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:87.65%| Não concorda nem discorda:6.44%| Discorda:4.44%| Não sabe:0.07%| Não respondeu:0.0%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Concorda que foi de 3.61%
+    Os professores passaram a colaborar mais com outros colegas da escola
+        -> 2017: Concorda:77.25%| Não concorda nem discorda:9.39%| Discorda:10.07%| Não sabe:0.96%| Não respondeu:0.43%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:76.8%| Não concorda nem discorda:13.68%| Discorda:7.2%| Não sabe:0.68%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:79.04%| Não concorda nem discorda:12.15%| Discorda:7.31%| Não sabe:0.09%| Não respondeu:0.0%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Discorda que foi de 2.76%
+    Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+        -> 2017: Concorda:55.8%| Não concorda nem discorda:13.94%| Discorda:25.54%| Não sabe:1.91%| Não respondeu:0.91%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:51.62%| Não concorda nem discorda:14.65%| Discorda:30.39%| Não sabe:1.7%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:58.01%| Não concorda nem discorda:15.11%| Discorda:23.95%| Não sabe:1.49%| Não respondeu:0.02%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Concorda que foi de 2.21%
+    Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+        -> 2017: Concorda:68.41%| Não concorda nem discorda:12.99%| Discorda:14.61%| Não sabe:1.59%| Não respondeu:0.5%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:70.25%| Não concorda nem discorda:12.78%| Discorda:15.29%| Não sabe:0.05%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:75.23%| Não concorda nem discorda:14.09%| Discorda:8.85%| Não sabe:0.42%| Não respondeu:0.0%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Concorda que foi de 6.82%
+    A quantidade de trabalho dos professores diminuiu
+        -> 2017: Concorda:23.1%| Não concorda nem discorda:17.89%| Discorda:56.49%| Não sabe:0.2%| Não respondeu:0.41%| A escola não possui Internet:1.9%| 
+        -> 2018: Concorda:27.17%| Não concorda nem discorda:21.83%| Discorda:49.03%| Não sabe:0.23%| Não respondeu:0.1%| A escola não possui Internet:1.63%| 
+        -> 2019: Concorda:35.11%| Não concorda nem discorda:19.76%| Discorda:43.01%| Não sabe:0.71%| Não respondeu:0.0%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Discorda que foi de 13.48%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(69342) 2018(72029) 2019(70755) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:78.04%| Não concorda nem discorda:10.99%| Discorda:8.37%| Não sabe:0.09%| Não respondeu:0.46%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:76.31%| Não concorda nem discorda:15.1%| Discorda:7.15%| Não sabe:0.0%| Não respondeu:0.12%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:78.09%| Não concorda nem discorda:12.98%| Discorda:7.37%| Não sabe:0.1%| Não respondeu:0.11%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.99%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:53.8%| Não concorda nem discorda:16.93%| Discorda:24.52%| Não sabe:2.25%| Não respondeu:0.46%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:59.3%| Não concorda nem discorda:15.34%| Discorda:23.88%| Não sabe:0.17%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:58.16%| Não concorda nem discorda:20.91%| Discorda:18.92%| Não sabe:0.59%| Não respondeu:0.08%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Discorda que foi de 5.6%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:83.2%| Não concorda nem discorda:7.41%| Discorda:5.77%| Não sabe:1.1%| Não respondeu:0.47%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:84.14%| Não concorda nem discorda:8.26%| Discorda:6.28%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:88.57%| Não concorda nem discorda:6.51%| Discorda:3.5%| Não sabe:0.08%| Não respondeu:0.0%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Concorda que foi de 5.37%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:78.68%| Não concorda nem discorda:8.92%| Discorda:8.79%| Não sabe:1.08%| Não respondeu:0.49%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:78.24%| Não concorda nem discorda:13.4%| Discorda:6.28%| Não sabe:0.76%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:80.21%| Não concorda nem discorda:11.36%| Discorda:7.01%| Não sabe:0.08%| Não respondeu:0.0%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.44%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:55.65%| Não concorda nem discorda:13.95%| Discorda:25.21%| Não sabe:2.12%| Não respondeu:1.03%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:51.61%| Não concorda nem discorda:14.6%| Discorda:30.57%| Não sabe:1.9%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:59.13%| Não concorda nem discorda:15.53%| Discorda:22.68%| Não sabe:1.29%| Não respondeu:0.03%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Concorda que foi de 3.48%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:68.03%| Não concorda nem discorda:13.29%| Discorda:14.28%| Não sabe:1.8%| Não respondeu:0.56%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:71.6%| Não concorda nem discorda:12.82%| Discorda:14.2%| Não sabe:0.05%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:75.92%| Não concorda nem discorda:14.11%| Discorda:8.17%| Não sabe:0.46%| Não respondeu:0.0%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Concorda que foi de 7.89%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:23.64%| Não concorda nem discorda:17.75%| Discorda:55.89%| Não sabe:0.21%| Não respondeu:0.47%| A escola não possui Internet:2.04%| 
+                -> 2018: Concorda:27.86%| Não concorda nem discorda:21.51%| Discorda:49.04%| Não sabe:0.26%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Concorda:34.68%| Não concorda nem discorda:20.62%| Discorda:42.77%| Não sabe:0.59%| Não respondeu:0.0%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Discorda que foi de 13.12%
+   Masculino:
+        Total: 2017(9190) 2018(8474) 2019(6541) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:72.23%| Não concorda nem discorda:13.03%| Discorda:13.93%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:65.55%| Não concorda nem discorda:9.49%| Discorda:20.69%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:68.41%| Não concorda nem discorda:9.6%| Discorda:19.86%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Discorda que foi de 5.93%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:54.06%| Não concorda nem discorda:22.96%| Discorda:21.34%| Não sabe:0.84%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:46.86%| Não concorda nem discorda:17.8%| Discorda:31.07%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:50.37%| Não concorda nem discorda:24.19%| Discorda:23.31%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Concorda que foi de 3.69%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:90.38%| Não concorda nem discorda:3.51%| Discorda:5.2%| Não sabe:0.09%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:78.26%| Não concorda nem discorda:5.1%| Discorda:12.36%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:77.68%| Não concorda nem discorda:5.61%| Discorda:14.57%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Concorda que foi de 12.7%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:66.49%| Não concorda nem discorda:12.97%| Discorda:19.74%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:64.61%| Não concorda nem discorda:16.04%| Discorda:15.08%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:66.37%| Não concorda nem discorda:20.67%| Discorda:10.59%| Não sabe:0.24%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Discorda que foi de 9.15%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:56.97%| Não concorda nem discorda:13.9%| Discorda:28.0%| Não sabe:0.33%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:51.75%| Não concorda nem discorda:15.06%| Discorda:28.91%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:45.86%| Não concorda nem discorda:10.63%| Discorda:37.72%| Não sabe:3.65%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Concorda que foi de 11.11%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:71.36%| Não concorda nem discorda:10.74%| Discorda:17.09%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:58.8%| Não concorda nem discorda:12.39%| Discorda:24.52%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:67.74%| Não concorda nem discorda:13.9%| Discorda:16.24%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Concorda que foi de 3.62%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:19.02%| Não concorda nem discorda:18.98%| Discorda:61.04%| Não sabe:0.15%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Concorda:21.28%| Não concorda nem discorda:24.56%| Discorda:48.94%| Não sabe:0.0%| Não respondeu:0.96%| A escola não possui Internet:4.27%| 
+                -> 2019: Concorda:39.78%| Não concorda nem discorda:10.37%| Discorda:45.67%| Não sabe:2.05%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Concorda que foi de 20.76%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(6577) 2018(6891) 2019(6061) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:67.23%| Não concorda nem discorda:10.2%| Discorda:12.56%| Não sabe:0.0%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:69.77%| Não concorda nem discorda:16.99%| Discorda:9.11%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:79.54%| Não concorda nem discorda:9.88%| Discorda:6.93%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 12.31%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:45.19%| Não concorda nem discorda:15.98%| Discorda:27.49%| Não sabe:1.34%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:51.84%| Não concorda nem discorda:20.94%| Discorda:22.46%| Não sabe:0.64%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:55.96%| Não concorda nem discorda:22.49%| Discorda:17.88%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 10.77%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:71.22%| Não concorda nem discorda:5.9%| Discorda:11.54%| Não sabe:1.57%| Não respondeu:0.0%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:80.67%| Não concorda nem discorda:9.43%| Discorda:5.78%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:86.49%| Não concorda nem discorda:1.53%| Discorda:8.32%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 15.27%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:69.26%| Não concorda nem discorda:7.09%| Discorda:12.3%| Não sabe:1.13%| Não respondeu:0.46%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:76.22%| Não concorda nem discorda:7.71%| Discorda:11.96%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:81.59%| Não concorda nem discorda:10.56%| Discorda:4.21%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 12.33%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:47.03%| Não concorda nem discorda:11.66%| Discorda:31.29%| Não sabe:0.24%| Não respondeu:0.0%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:48.03%| Não concorda nem discorda:22.54%| Discorda:23.35%| Não sabe:1.96%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:49.73%| Não concorda nem discorda:19.32%| Discorda:25.26%| Não sabe:1.73%| Não respondeu:0.3%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Não concorda nem discorda que foi de 7.66%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:57.0%| Não concorda nem discorda:13.5%| Discorda:18.6%| Não sabe:0.88%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:68.26%| Não concorda nem discorda:8.9%| Discorda:18.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:75.15%| Não concorda nem discorda:15.99%| Discorda:5.05%| Não sabe:0.16%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 18.15%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:26.9%| Não concorda nem discorda:19.05%| Discorda:44.03%| Não sabe:0.0%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Concorda:40.04%| Não concorda nem discorda:19.34%| Discorda:36.51%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Concorda:36.88%| Não concorda nem discorda:22.69%| Discorda:36.78%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Concorda que foi de 9.98%
+   Centro-Oeste:
+        Total: 2017(6206) 2018(6004) 2019(5729) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:85.77%| Não concorda nem discorda:7.36%| Discorda:5.49%| Não sabe:0.92%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:86.31%| Não concorda nem discorda:9.99%| Discorda:3.7%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:78.69%| Não concorda nem discorda:13.96%| Discorda:6.41%| Não sabe:0.0%| Não respondeu:0.94%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 7.08%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:73.78%| Não concorda nem discorda:10.7%| Discorda:13.86%| Não sabe:1.22%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:66.94%| Não concorda nem discorda:14.77%| Discorda:18.27%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:58.02%| Não concorda nem discorda:22.81%| Discorda:18.0%| Não sabe:0.23%| Não respondeu:0.94%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 15.76%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:92.12%| Não concorda nem discorda:5.25%| Discorda:1.66%| Não sabe:0.13%| Não respondeu:0.39%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:85.09%| Não concorda nem discorda:5.63%| Discorda:9.28%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:88.17%| Não concorda nem discorda:6.02%| Discorda:4.87%| Não sabe:0.94%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 3.95%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:73.88%| Não concorda nem discorda:15.61%| Discorda:9.68%| Não sabe:0.39%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:83.36%| Não concorda nem discorda:10.76%| Discorda:5.86%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:81.04%| Não concorda nem discorda:12.9%| Discorda:5.1%| Não sabe:0.94%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 7.16%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:62.23%| Não concorda nem discorda:17.03%| Discorda:18.22%| Não sabe:2.08%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:65.59%| Não concorda nem discorda:14.26%| Discorda:19.37%| Não sabe:0.77%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:62.86%| Não concorda nem discorda:14.42%| Discorda:18.66%| Não sabe:4.07%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.61%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:82.65%| Não concorda nem discorda:6.4%| Discorda:10.52%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:82.79%| Não concorda nem discorda:10.33%| Discorda:6.21%| Não sabe:0.65%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:83.02%| Não concorda nem discorda:11.07%| Discorda:5.9%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.67%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:36.66%| Não concorda nem discorda:16.84%| Discorda:44.91%| Não sabe:1.14%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Concorda:40.22%| Não concorda nem discorda:18.32%| Discorda:40.79%| Não sabe:0.65%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:44.77%| Não concorda nem discorda:15.64%| Discorda:39.57%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 8.11%
+   Nordeste:
+        Total: 2017(23993) 2018(24469) 2019(23941) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:77.91%| Não concorda nem discorda:11.94%| Discorda:6.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:79.86%| Não concorda nem discorda:7.21%| Discorda:8.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:83.76%| Não concorda nem discorda:6.0%| Discorda:6.98%| Não sabe:0.3%| Não respondeu:0.1%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não concorda nem discorda que foi de 5.94%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:56.7%| Não concorda nem discorda:16.49%| Discorda:18.41%| Não sabe:4.97%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:70.96%| Não concorda nem discorda:8.94%| Discorda:15.89%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:56.51%| Não concorda nem discorda:17.88%| Discorda:22.74%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não sabe que foi de 4.97%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:85.07%| Não concorda nem discorda:2.5%| Discorda:6.29%| Não sabe:2.72%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:86.01%| Não concorda nem discorda:2.33%| Discorda:7.45%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:85.92%| Não concorda nem discorda:6.14%| Discorda:5.07%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não concorda nem discorda que foi de 3.64%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:79.71%| Não concorda nem discorda:5.72%| Discorda:8.42%| Não sabe:2.72%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:78.63%| Não concorda nem discorda:11.43%| Discorda:5.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:84.74%| Não concorda nem discorda:6.66%| Discorda:5.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Concorda que foi de 5.03%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:54.38%| Não concorda nem discorda:8.31%| Discorda:28.65%| Não sabe:3.51%| Não respondeu:1.73%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:57.8%| Não concorda nem discorda:9.57%| Discorda:26.25%| Não sabe:2.17%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:54.78%| Não concorda nem discorda:16.73%| Discorda:24.3%| Não sabe:1.32%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não concorda nem discorda que foi de 8.42%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:59.92%| Não concorda nem discorda:13.48%| Discorda:18.42%| Não sabe:4.45%| Não respondeu:0.3%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:66.13%| Não concorda nem discorda:13.58%| Discorda:16.08%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:76.17%| Não concorda nem discorda:13.6%| Discorda:6.04%| Não sabe:1.32%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Concorda que foi de 16.25%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:25.57%| Não concorda nem discorda:12.12%| Discorda:58.68%| Não sabe:0.2%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Concorda:35.22%| Não concorda nem discorda:24.14%| Discorda:36.43%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Concorda:36.34%| Não concorda nem discorda:23.09%| Discorda:36.37%| Não sabe:1.32%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Discorda que foi de 22.31%
+   Sudeste:
+        Total: 2017(29938) 2018(30855) 2019(30031) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:76.99%| Não concorda nem discorda:11.35%| Discorda:10.65%| Não sabe:0.0%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:72.83%| Não concorda nem discorda:19.23%| Discorda:7.93%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:71.07%| Não concorda nem discorda:18.2%| Discorda:10.13%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.85%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:52.68%| Não concorda nem discorda:17.69%| Discorda:28.1%| Não sabe:0.52%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:51.83%| Não concorda nem discorda:16.84%| Discorda:31.33%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:56.08%| Não concorda nem discorda:24.43%| Discorda:17.55%| Não sabe:1.34%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Discorda que foi de 10.55%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:82.77%| Não concorda nem discorda:12.0%| Discorda:4.22%| Não sabe:0.0%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:83.19%| Não concorda nem discorda:9.91%| Discorda:6.9%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:88.91%| Não concorda nem discorda:7.1%| Discorda:3.4%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Concorda que foi de 6.14%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:79.45%| Não concorda nem discorda:11.56%| Discorda:7.98%| Não sabe:0.0%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:76.45%| Não concorda nem discorda:15.76%| Discorda:6.02%| Não sabe:1.77%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:74.14%| Não concorda nem discorda:14.96%| Discorda:10.3%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Concorda que foi de 5.31%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:53.38%| Não concorda nem discorda:21.03%| Discorda:23.34%| Não sabe:1.25%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:44.26%| Não concorda nem discorda:15.1%| Discorda:38.62%| Não sabe:2.03%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:61.22%| Não concorda nem discorda:11.17%| Discorda:25.38%| Não sabe:1.62%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Não concorda nem discorda que foi de 9.86%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:69.25%| Não concorda nem discorda:16.02%| Discorda:13.73%| Não sabe:0.0%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:70.0%| Não concorda nem discorda:13.45%| Discorda:16.55%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:73.52%| Não concorda nem discorda:14.32%| Discorda:11.56%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Concorda que foi de 4.27%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:18.8%| Não concorda nem discorda:20.95%| Discorda:59.26%| Não sabe:0.0%| Não respondeu:1.01%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:15.18%| Não concorda nem discorda:22.1%| Discorda:61.97%| Não sabe:0.48%| Não respondeu:0.26%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:34.65%| Não concorda nem discorda:15.27%| Discorda:49.14%| Não sabe:0.34%| Não respondeu:0.0%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Concorda que foi de 15.85%
+   Sul:
+        Total: 2017(11819) 2018(12284) 2019(11535) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:78.42%| Não concorda nem discorda:12.08%| Discorda:9.43%| Não sabe:0.07%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:69.31%| Não concorda nem discorda:17.99%| Discorda:11.97%| Não sabe:0.0%| Não respondeu:0.73%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:78.05%| Não concorda nem discorda:13.13%| Discorda:8.83%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.05%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:45.26%| Não concorda nem discorda:24.37%| Discorda:29.32%| Não sabe:1.05%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:46.71%| Não concorda nem discorda:23.13%| Discorda:29.56%| Não sabe:0.62%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:63.79%| Não concorda nem discorda:18.14%| Discorda:18.08%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 18.53%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:88.05%| Não concorda nem discorda:4.7%| Discorda:7.17%| Não sabe:0.07%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:80.23%| Não concorda nem discorda:14.39%| Discorda:5.39%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:88.31%| Não concorda nem discorda:8.11%| Discorda:3.59%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Discorda que foi de 3.58%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:72.92%| Não concorda nem discorda:9.37%| Discorda:17.65%| Não sabe:0.0%| Não respondeu:0.07%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:71.2%| Não concorda nem discorda:17.7%| Discorda:11.11%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:77.62%| Não concorda nem discorda:16.69%| Discorda:5.57%| Não sabe:0.14%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Discorda que foi de 12.08%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:66.34%| Não concorda nem discorda:7.07%| Discorda:25.4%| Não sabe:1.18%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:53.0%| Não concorda nem discorda:19.39%| Discorda:27.34%| Não sabe:0.28%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:58.27%| Não concorda nem discorda:20.16%| Discorda:21.45%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 13.09%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:82.41%| Não concorda nem discorda:7.51%| Discorda:9.02%| Não sabe:1.05%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:74.08%| Não concorda nem discorda:12.87%| Discorda:13.06%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:73.88%| Não concorda nem discorda:15.02%| Discorda:11.11%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Concorda que foi de 8.53%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:19.74%| Não concorda nem discorda:21.79%| Discorda:58.07%| Não sabe:0.34%| Não respondeu:0.07%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:27.61%| Não concorda nem discorda:19.71%| Discorda:52.69%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:28.02%| Não concorda nem discorda:25.0%| Discorda:45.83%| Não sabe:1.16%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Discorda que foi de 12.24%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(31574) 2018(32485) 2019(30987) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:77.26%| Não concorda nem discorda:12.87%| Discorda:5.62%| Não sabe:0.0%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:71.59%| Não concorda nem discorda:14.17%| Discorda:10.49%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:73.02%| Não concorda nem discorda:10.06%| Discorda:13.94%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Discorda que foi de 8.32%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:51.93%| Não concorda nem discorda:16.29%| Discorda:23.18%| Não sabe:4.35%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:54.1%| Não concorda nem discorda:17.24%| Discorda:24.77%| Não sabe:0.14%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:59.77%| Não concorda nem discorda:14.79%| Discorda:21.62%| Não sabe:0.85%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Concorda que foi de 7.84%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:79.9%| Não concorda nem discorda:9.49%| Discorda:4.35%| Não sabe:2.06%| Não respondeu:0.0%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:77.77%| Não concorda nem discorda:7.14%| Discorda:11.33%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:83.32%| Não concorda nem discorda:9.05%| Discorda:4.66%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Concorda que foi de 3.42%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:77.1%| Não concorda nem discorda:10.37%| Discorda:6.27%| Não sabe:2.06%| Não respondeu:0.0%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:69.8%| Não concorda nem discorda:19.05%| Discorda:7.4%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:78.47%| Não concorda nem discorda:8.45%| Discorda:10.05%| Não sabe:0.05%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Discorda que foi de 3.78%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:55.36%| Não concorda nem discorda:13.08%| Discorda:23.15%| Não sabe:2.9%| Não respondeu:1.32%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:50.72%| Não concorda nem discorda:14.27%| Discorda:29.7%| Não sabe:1.56%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:59.35%| Não concorda nem discorda:10.73%| Discorda:26.6%| Não sabe:0.34%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Concorda que foi de 3.99%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:67.03%| Não concorda nem discorda:14.83%| Discorda:10.33%| Não sabe:3.57%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:63.17%| Não concorda nem discorda:14.68%| Discorda:18.27%| Não sabe:0.12%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:69.57%| Não concorda nem discorda:13.32%| Discorda:14.13%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Discorda que foi de 3.8%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:25.58%| Não concorda nem discorda:19.72%| Discorda:50.3%| Não sabe:0.16%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Concorda:20.27%| Não concorda nem discorda:28.75%| Discorda:46.86%| Não sabe:0.12%| Não respondeu:0.25%| A escola não possui Internet:3.75%| 
+                -> 2019: Concorda:32.27%| Não concorda nem discorda:17.06%| Discorda:47.68%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Concorda que foi de 6.69%
+   Pública Estadual:
+        Total: 2017(25973) 2018(26643) 2019(24491) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:70.03%| Não concorda nem discorda:15.27%| Discorda:13.81%| Não sabe:0.25%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:71.43%| Não concorda nem discorda:17.48%| Discorda:10.39%| Não sabe:0.0%| Não respondeu:0.34%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:71.0%| Não concorda nem discorda:20.15%| Discorda:7.81%| Não sabe:0.29%| Não respondeu:0.22%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 6.0%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:45.19%| Não concorda nem discorda:18.7%| Discorda:34.77%| Não sabe:0.71%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:48.72%| Não concorda nem discorda:20.97%| Discorda:29.67%| Não sabe:0.29%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:47.6%| Não concorda nem discorda:29.05%| Discorda:21.98%| Não sabe:0.62%| Não respondeu:0.22%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 12.79%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:82.99%| Não concorda nem discorda:4.5%| Discorda:11.33%| Não sabe:0.46%| Não respondeu:0.09%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:83.57%| Não concorda nem discorda:9.59%| Discorda:6.48%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:84.71%| Não concorda nem discorda:6.99%| Discorda:7.55%| Não sabe:0.22%| Não respondeu:0.0%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 3.78%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:70.58%| Não concorda nem discorda:10.95%| Discorda:17.43%| Não sabe:0.38%| Não respondeu:0.03%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:74.34%| Não concorda nem discorda:13.64%| Discorda:9.61%| Não sabe:2.05%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:75.75%| Não concorda nem discorda:16.54%| Discorda:6.95%| Não sabe:0.22%| Não respondeu:0.0%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 10.48%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:44.56%| Não concorda nem discorda:17.46%| Discorda:35.93%| Não sabe:1.42%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:47.14%| Não concorda nem discorda:20.21%| Discorda:31.21%| Não sabe:1.08%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:52.58%| Não concorda nem discorda:17.24%| Discorda:28.52%| Não sabe:1.05%| Não respondeu:0.07%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Concorda que foi de 8.02%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:64.38%| Não concorda nem discorda:13.08%| Discorda:21.15%| Não sabe:0.48%| Não respondeu:0.28%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:73.34%| Não concorda nem discorda:11.05%| Discorda:15.25%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:74.37%| Não concorda nem discorda:16.47%| Discorda:8.62%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 12.53%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:21.4%| Não concorda nem discorda:16.67%| Discorda:60.85%| Não sabe:0.43%| Não respondeu:0.03%| A escola não possui Internet:0.64%| 
+                -> 2018: Concorda:25.1%| Não concorda nem discorda:20.49%| Discorda:54.05%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Concorda:36.1%| Não concorda nem discorda:21.42%| Discorda:40.99%| Não sabe:0.96%| Não respondeu:0.0%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Discorda que foi de 19.86%
+   Particular:
+        Total: 2017(20985) 2018(21375) 2019(21819) 
+        Os professores passaram a adotar novos métodos pedagógicos
+                -> 2017: Concorda:86.59%| Não concorda nem discorda:3.76%| Discorda:8.22%| Não sabe:0.0%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:85.29%| Não concorda nem discorda:11.3%| Discorda:3.41%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:90.34%| Não concorda nem discorda:8.08%| Discorda:1.31%| Não sabe:0.0%| Não respondeu:0.11%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Discorda que foi de 6.91%
+        Os professores passaram a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:67.41%| Não concorda nem discorda:18.34%| Discorda:12.46%| Não sabe:0.37%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:75.46%| Não concorda nem discorda:6.39%| Discorda:18.15%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:65.39%| Não concorda nem discorda:21.46%| Discorda:12.99%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não concorda nem discorda que foi de 3.12%
+        Os professores passaram a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:91.58%| Não concorda nem discorda:6.19%| Discorda:0.79%| Não sabe:0.0%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:92.19%| Não concorda nem discorda:7.06%| Discorda:0.75%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:97.09%| Não concorda nem discorda:2.1%| Discorda:0.64%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Concorda que foi de 5.51%
+        Os professores passaram a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:85.76%| Não concorda nem discorda:6.0%| Discorda:6.67%| Não sabe:0.0%| Não respondeu:1.57%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:90.53%| Não concorda nem discorda:5.57%| Discorda:3.91%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:83.53%| Não concorda nem discorda:12.47%| Discorda:3.83%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.47%
+        Os professores passaram a ter contato com educadores e com especialistas de outras escolas
+                -> 2017: Concorda:70.39%| Não concorda nem discorda:10.88%| Discorda:16.25%| Não sabe:1.04%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:58.59%| Não concorda nem discorda:8.29%| Discorda:30.44%| Não sabe:2.69%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:62.18%| Não concorda nem discorda:18.94%| Discorda:15.08%| Não sabe:3.63%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Concorda que foi de 8.21%
+        Os professores passaram a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:75.49%| Não concorda nem discorda:10.13%| Discorda:12.95%| Não sabe:0.0%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:77.16%| Não concorda nem discorda:12.03%| Discorda:10.81%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:84.22%| Não concorda nem discorda:12.5%| Discorda:1.62%| Não sabe:1.49%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Discorda que foi de 11.33%
+        A quantidade de trabalho dos professores diminuiu
+                -> 2017: Concorda:21.46%| Não concorda nem discorda:16.67%| Discorda:60.43%| Não sabe:0.0%| Não respondeu:1.43%| A escola não possui Internet:0.0%| 
+                -> 2018: Concorda:40.22%| Não concorda nem discorda:13.01%| Discorda:46.08%| Não sabe:0.7%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Concorda:38.02%| Não concorda nem discorda:21.72%| Discorda:38.65%| Não sabe:1.45%| Não respondeu:0.0%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Discorda que foi de 21.78%

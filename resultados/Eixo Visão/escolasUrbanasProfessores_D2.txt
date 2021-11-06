@@ -1,0 +1,411 @@
+TOTAL PARA O INDICADOR D2 – PROFESSORES DE ESCOLAS URBANAS, POR MODO DE ACESSO AO CURSO DE FORMAÇÃO
+Em termos de TOTAL:
+    Total: 2017(289395) 2018(310630) 2019(305596) 
+    Pago com recursos próprios
+        -> 2017: Sim:6.44%| Não:16.56%| Não sabe:0.0%| Não respondeu:0.04%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Sim:11.05%| Não:18.89%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Sim:9.33%| Não:23.45%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Oferecido pela escola durante treinamentos
+        -> 2017: Sim:9.3%| Não:13.63%| Não sabe:0.06%| Não respondeu:0.04%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Sim:12.02%| Não:17.89%| Não sabe:0.0%| Não respondeu:0.02%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Sim:15.47%| Não:17.05%| Não sabe:0.25%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Oferecido pelo governo ou Secretarias de Educação
+        -> 2017: Sim:13.44%| Não:9.55%| Não sabe:0.0%| Não respondeu:0.04%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Não possui 
+        -> 2019: Sim:19.64%| Não:13.13%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+        -> 2017: Sim:3.61%| Não:19.0%| Não sabe:0.34%| Não respondeu:0.08%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Sim:3.25%| Não:26.53%| Não sabe:0.15%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Sim:5.51%| Não:27.17%| Não sabe:0.1%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Oferecido por uma instituição de Ensino Superior
+        -> 2017: Sim:7.58%| Não:15.2%| Não sabe:0.1%| Não respondeu:0.15%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Sim:9.33%| Não:20.49%| Não sabe:0.1%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Sim:12.85%| Não:19.73%| Não sabe:0.2%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Outro
+        -> 2017: Sim:0.89%| Não:22.11%| Não fez um curso de educação continuada:76.97%| 
+        -> 2018: Sim:2.09%| Não:27.84%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Sim:1.25%| Não:31.53%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+    Oferecido pelo governo ou pela Secretaria de Educação
+        -> 2017: Não possui 
+        -> 2018: Sim:14.88%| Não:14.91%| Não sabe:0.14%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.07%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227329) 2018(228485) 2019(225702) 
+        Pago com recursos próprios
+                -> 2017: Sim:5.53%| Não:16.85%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Sim:11.43%| Não:17.84%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Sim:7.11%| Não:22.83%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:8.88%| Não:13.44%| Não sabe:0.07%| Não respondeu:0.0%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Sim:11.68%| Não:17.57%| Não sabe:0.0%| Não respondeu:0.02%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Sim:14.0%| Não:15.88%| Não sabe:0.06%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:14.25%| Não:8.13%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:18.87%| Não:11.07%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:3.05%| Não:18.85%| Não sabe:0.44%| Não respondeu:0.05%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Sim:2.92%| Não:26.26%| Não sabe:0.08%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Sim:4.93%| Não:24.88%| Não sabe:0.14%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:6.56%| Não:15.55%| Não sabe:0.13%| Não respondeu:0.15%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Sim:8.93%| Não:20.19%| Não sabe:0.13%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Sim:9.86%| Não:19.86%| Não sabe:0.22%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:0.86%| Não:21.53%| Não fez um curso de educação continuada:77.61%| 
+                -> 2018: Sim:2.14%| Não:27.13%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Sim:1.4%| Não:28.54%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:14.12%| Não:14.95%| Não sabe:0.19%| Não respondeu:0.01%| Não fez um curso de educação continuada:70.73%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Masculino:
+        Total: 2017(62067) 2018(82146) 2019(79894) 
+        Pago com recursos próprios
+                -> 2017: Sim:9.75%| Não:15.48%| Não sabe:0.0%| Não respondeu:0.18%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Sim:9.97%| Não:21.8%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Sim:15.58%| Não:25.2%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:10.86%| Não:14.36%| Não sabe:0.0%| Não respondeu:0.18%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Sim:12.99%| Não:18.78%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Sim:19.64%| Não:20.34%| Não sabe:0.8%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:10.47%| Não:14.75%| Não sabe:0.0%| Não respondeu:0.18%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:21.81%| Não:18.97%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:5.66%| Não:19.56%| Não sabe:0.0%| Não respondeu:0.18%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Sim:4.16%| Não:27.25%| Não sabe:0.36%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Sim:7.14%| Não:33.63%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:11.33%| Não:13.89%| Não sabe:0.0%| Não respondeu:0.18%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Sim:10.43%| Não:21.33%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Sim:21.31%| Não:19.35%| Não sabe:0.12%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:1.0%| Não:24.23%| Não fez um curso de educação continuada:74.59%| 
+                -> 2018: Sim:1.94%| Não:29.83%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Sim:0.81%| Não:39.97%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:16.97%| Não:14.8%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.23%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20209) 2018(23100) 2019(26017) 
+        Pago com recursos próprios
+                -> 2017: Sim:4.2%| Não:15.59%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Sim:8.52%| Não:15.57%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Sim:7.4%| Não:25.66%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:11.17%| Não:8.61%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Sim:10.85%| Não:13.14%| Não sabe:0.0%| Não respondeu:0.1%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Sim:17.44%| Não:15.62%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:11.76%| Não:8.03%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:20.48%| Não:12.58%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:3.04%| Não:16.75%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Sim:7.02%| Não:16.63%| Não sabe:0.44%| Não respondeu:0.0%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Sim:3.95%| Não:29.11%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:5.13%| Não:14.66%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Sim:9.63%| Não:13.14%| Não sabe:1.32%| Não respondeu:0.0%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Sim:9.05%| Não:23.65%| Não sabe:0.36%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:2.89%| Não:16.89%| Não fez um curso de educação continuada:80.21%| 
+                -> 2018: Sim:2.84%| Não:21.24%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Sim:2.6%| Não:30.46%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:13.47%| Não:10.61%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:75.91%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Centro-Oeste:
+        Total: 2017(24934) 2018(26988) 2019(25515) 
+        Pago com recursos próprios
+                -> 2017: Sim:12.88%| Não:24.91%| Não sabe:0.0%| Não respondeu:0.46%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Sim:7.34%| Não:20.29%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Sim:9.19%| Não:25.92%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:19.58%| Não:18.22%| Não sabe:0.0%| Não respondeu:0.46%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Sim:15.92%| Não:11.72%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Sim:17.27%| Não:17.83%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:19.23%| Não:18.57%| Não sabe:0.0%| Não respondeu:0.46%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:14.89%| Não:20.22%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:1.79%| Não:34.83%| Não sabe:1.17%| Não respondeu:0.46%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Sim:2.31%| Não:25.33%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Sim:3.57%| Não:31.44%| Não sabe:0.09%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:7.62%| Não:29.01%| Não sabe:1.17%| Não respondeu:0.46%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Sim:7.83%| Não:19.81%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Sim:10.19%| Não:24.91%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:4.3%| Não:33.49%| Não fez um curso de educação continuada:61.75%| 
+                -> 2018: Sim:1.12%| Não:26.52%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Sim:0.97%| Não:34.13%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:13.56%| Não:13.97%| Não sabe:0.12%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.36%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Nordeste:
+        Total: 2017(81270) 2018(87048) 2019(94786) 
+        Pago com recursos próprios
+                -> 2017: Sim:7.85%| Não:11.25%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Sim:5.33%| Não:21.98%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Sim:5.58%| Não:18.74%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:6.89%| Não:12.2%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Sim:9.96%| Não:17.35%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Sim:13.07%| Não:11.11%| Não sabe:0.14%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:11.23%| Não:7.87%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:14.99%| Não:9.33%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:3.37%| Não:14.87%| Não sabe:0.86%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Sim:2.64%| Não:24.68%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Sim:4.39%| Não:19.93%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:8.58%| Não:10.52%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Sim:6.83%| Não:20.49%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Sim:7.3%| Não:16.67%| Não sabe:0.35%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:0.5%| Não:18.59%| Não fez um curso de educação continuada:80.9%| 
+                -> 2018: Sim:1.77%| Não:25.54%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Sim:1.24%| Não:23.08%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:18.56%| Não:8.75%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:72.69%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Sudeste:
+        Total: 2017(126143) 2018(133030) 2019(122199) 
+        Pago com recursos próprios
+                -> 2017: Sim:3.76%| Não:16.79%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Sim:17.54%| Não:11.88%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Sim:12.39%| Não:23.24%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:6.55%| Não:14.0%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Sim:10.0%| Não:19.42%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Sim:13.76%| Não:21.35%| Não sabe:0.52%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:13.11%| Não:7.44%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:22.41%| Não:13.23%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:4.75%| Não:15.71%| Não sabe:0.0%| Não respondeu:0.09%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Sim:2.67%| Não:26.52%| Não sabe:0.22%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Sim:6.54%| Não:29.01%| Não sabe:0.09%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:6.25%| Não:14.03%| Não sabe:0.0%| Não respondeu:0.26%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Sim:11.37%| Não:18.04%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Sim:16.15%| Não:19.49%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:0.11%| Não:20.44%| Não fez um curso de educação continuada:79.46%| 
+                -> 2018: Sim:2.68%| Não:26.74%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Sim:1.03%| Não:34.61%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:7.77%| Não:21.53%| Não sabe:0.11%| Não respondeu:0.0%| Não fez um curso de educação continuada:70.58%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37082) 
+        Pago com recursos próprios
+                -> 2017: Sim:9.36%| Não:22.36%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Sim:5.91%| Não:36.22%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Sim:10.24%| Não:32.91%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:16.07%| Não:15.21%| Não sabe:0.44%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Sim:21.21%| Não:20.85%| Não sabe:0.0%| Não respondeu:0.07%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Sim:24.65%| Não:18.51%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:16.47%| Não:15.25%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:25.08%| Não:18.07%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:1.82%| Não:29.9%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Sim:4.93%| Não:36.94%| Não sabe:0.18%| Não respondeu:0.07%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Sim:7.39%| Não:35.29%| Não sabe:0.47%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:11.27%| Não:20.45%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Sim:8.83%| Não:33.22%| Não sabe:0.0%| Não respondeu:0.07%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Sim:20.7%| Não:21.98%| Não sabe:0.47%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:1.01%| Não:30.71%| Não fez um curso de educação continuada:68.28%| 
+                -> 2018: Sim:1.05%| Não:41.08%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Sim:1.25%| Não:41.9%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:31.98%| Não:9.47%| Não sabe:0.6%| Não respondeu:0.07%| Não fez um curso de educação continuada:57.88%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        Pago com recursos próprios
+                -> 2017: Sim:4.44%| Não:12.41%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Sim:11.34%| Não:13.31%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Sim:10.77%| Não:17.44%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:8.27%| Não:8.42%| Não sabe:0.15%| Não respondeu:0.0%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Sim:9.16%| Não:15.44%| Não sabe:0.0%| Não respondeu:0.05%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Sim:12.16%| Não:15.94%| Não sabe:0.11%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:11.55%| Não:5.3%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:18.24%| Não:9.98%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:1.55%| Não:14.37%| Não sabe:0.92%| Não respondeu:0.0%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Sim:3.12%| Não:21.35%| Não sabe:0.15%| Não respondeu:0.03%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Sim:5.16%| Não:23.04%| Não sabe:0.02%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:4.07%| Não:12.51%| Não sabe:0.28%| Não respondeu:0.0%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Sim:5.94%| Não:18.59%| Não sabe:0.09%| Não respondeu:0.03%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Sim:13.66%| Não:14.4%| Não sabe:0.15%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:1.2%| Não:15.65%| Não fez um curso de educação continuada:83.15%| 
+                -> 2018: Sim:1.04%| Não:23.6%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Sim:1.17%| Não:27.04%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:12.78%| Não:11.78%| Não sabe:0.06%| Não respondeu:0.03%| Não fez um curso de educação continuada:75.35%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Pública Estadual:
+        Total: 2017(122458) 2018(127038) 2019(120289) 
+        Pago com recursos próprios
+                -> 2017: Sim:6.47%| Não:20.28%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Sim:7.43%| Não:24.63%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Sim:5.88%| Não:28.62%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:8.05%| Não:18.69%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Sim:12.06%| Não:20.0%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Sim:14.72%| Não:19.25%| Não sabe:0.53%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:17.85%| Não:8.9%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.73%| Não:7.77%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:5.07%| Não:21.67%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Sim:3.47%| Não:28.59%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Sim:6.06%| Não:28.2%| Não sabe:0.24%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:9.12%| Não:17.36%| Não sabe:0.0%| Não respondeu:0.27%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Sim:7.55%| Não:24.35%| Não sabe:0.16%| Não respondeu:0.0%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Sim:11.71%| Não:22.45%| Não sabe:0.34%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:0.78%| Não:25.97%| Não fez um curso de educação continuada:73.25%| 
+                -> 2018: Sim:3.31%| Não:28.75%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Sim:1.24%| Não:33.26%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:22.47%| Não:9.32%| Não sabe:0.28%| Não respondeu:0.0%| Não fez um curso de educação continuada:67.94%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Particular:
+        Total: 2017(60815) 2018(69976) 2019(58902) 
+        Pago com recursos próprios
+                -> 2017: Sim:9.85%| Não:16.3%| Não sabe:0.0%| Não respondeu:0.19%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Sim:17.13%| Não:17.51%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Sim:13.26%| Não:25.78%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pela escola durante treinamentos
+                -> 2017: Sim:13.62%| Não:12.54%| Não sabe:0.0%| Não respondeu:0.19%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Sim:16.6%| Não:18.04%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Sim:24.12%| Não:14.92%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou Secretarias de Educação
+                -> 2017: Sim:7.86%| Não:18.3%| Não sabe:0.0%| Não respondeu:0.19%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:8.19%| Não:30.85%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma empresa, ONG, associação, telecentro ou alguma outra entidade
+                -> 2017: Sim:4.26%| Não:21.7%| Não sabe:0.02%| Não respondeu:0.37%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Sim:3.05%| Não:31.18%| Não sabe:0.42%| Não respondeu:0.0%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Sim:5.14%| Não:33.9%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido por uma instituição de Ensino Superior
+                -> 2017: Sim:10.63%| Não:15.53%| Não sabe:0.0%| Não respondeu:0.19%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Sim:18.07%| Não:16.58%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Sim:13.45%| Não:25.58%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Outro
+                -> 2017: Sim:0.57%| Não:25.59%| Não fez um curso de educação continuada:73.66%| 
+                -> 2018: Sim:1.57%| Não:33.08%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Sim:1.43%| Não:37.61%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores
+        Oferecido pelo governo ou pela Secretaria de Educação
+                -> 2017: Não possui 
+                -> 2018: Sim:4.5%| Não:30.14%| Não sabe:0.0%| Não respondeu:0.0%| Não fez um curso de educação continuada:65.36%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%

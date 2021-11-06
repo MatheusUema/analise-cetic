@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR B1A – PROFESSORES DE ESCOLAS URBANAS QUE JÁ ACESSARAM A INTERNET
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310631) 2019(305596) 
+    -> 2017: Sim:99.67%| Não:0.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2018: Sim:99.91%| Não:0.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2019: Sim:99.98%| Não:0.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.31%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228485) 2019(225702) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.87%| Não:0.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Masculino:
+        Total: 2017(62068) 2018(82146) 2019(79894) 
+        -> 2017: Sim:98.48%| Não:1.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.92%| Não:0.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.44%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20209) 2018(23100) 2019(26016) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.76%| Não:0.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.24%
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26988) 2019(25514) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Nordeste:
+        Total: 2017(81269) 2018(87048) 2019(94785) 
+        -> 2017: Sim:99.67%| Não:0.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.74%| Não:0.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.33%
+   Sudeste:
+        Total: 2017(126144) 2018(133030) 2019(122198) 
+        -> 2017: Sim:99.46%| Não:0.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.96%| Não:0.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.54%
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37082) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.96%| Não:0.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        -> 2017: Sim:99.75%| Não:0.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.76%| Não:0.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.25%
+   Pública Estadual:
+        Total: 2017(122457) 2018(127039) 2019(120289) 
+        -> 2017: Sim:99.45%| Não:0.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.99%| Não:0.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.95%| Não:0.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.5%
+   Particular:
+        Total: 2017(60815) 2018(69977) 2019(58903) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%

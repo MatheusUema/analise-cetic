@@ -1,0 +1,57 @@
+TOTAL PARA O INDICADOR D25A – ESCOLAS URBANAS, POR VELOCIDADE DA PRINCIPAL CONEXÃO À INTERNET
+Em termos de TOTAL:
+    Total: 2017(72566) 2018(73338) 2019(74137) 
+    -> 2017: Até 256 Kbps:1.06%| De 257 Kbps até 999 Kbps:3.49%| 1 Mbps:9.26%| 2 Mbps:19.89%| De 3 Mbps até 4 Mbps:5.94%| De 5 Mbps até 8 Mbps:10.32%| De 9 Mbps até 10 Mbps:11.88%| De 11 Mbps até 20 Mbps:7.11%| De 21 Mbps até 50 Mbps:5.69%| 51 Mbps ou mais:1.99%| Não sabe:22.37%| Não respondeu:0.99%| Não possui Internet:0.0%| 
+    -> 2018: Até 256 Kbps:2.09%| De 257 Kbps até 999 Kbps:1.87%| 1 Mbps:10.16%| 2 Mbps:12.42%| De 3 Mbps até 4 Mbps:8.62%| De 5 Mbps até 8 Mbps:9.73%| De 9 Mbps até 10 Mbps:13.87%| De 11 Mbps até 20 Mbps:7.62%| De 21 Mbps até 50 Mbps:4.75%| 51 Mbps ou mais:7.54%| Não sabe:21.33%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+    -> 2019: Até 256 Kbps:1.1%| De 257 Kbps até 999 Kbps:0.95%| 1 Mbps:5.39%| 2 Mbps:10.09%| De 3 Mbps até 4 Mbps:13.29%| De 5 Mbps até 8 Mbps:7.07%| De 9 Mbps até 10 Mbps:11.26%| De 11 Mbps até 20 Mbps:6.77%| De 21 Mbps até 50 Mbps:10.56%| 51 Mbps ou mais:17.44%| Não sabe:16.03%| Não respondeu:0.04%| Não possui Internet:0.0%| 
+        A principal variação foi de 51 Mbps ou mais que foi de 15.45%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(5323) 2018(5064) 2019(5606) 
+        -> 2017: Até 256 Kbps:3.98%| De 257 Kbps até 999 Kbps:4.38%| 1 Mbps:14.56%| 2 Mbps:17.53%| De 3 Mbps até 4 Mbps:6.14%| De 5 Mbps até 8 Mbps:4.19%| De 9 Mbps até 10 Mbps:12.06%| De 11 Mbps até 20 Mbps:7.91%| De 21 Mbps até 50 Mbps:1.03%| 51 Mbps ou mais:2.22%| Não sabe:25.76%| Não respondeu:0.24%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:1.58%| De 257 Kbps até 999 Kbps:6.04%| 1 Mbps:11.12%| 2 Mbps:17.93%| De 3 Mbps até 4 Mbps:6.54%| De 5 Mbps até 8 Mbps:11.73%| De 9 Mbps até 10 Mbps:14.55%| De 11 Mbps até 20 Mbps:4.07%| De 21 Mbps até 50 Mbps:3.57%| 51 Mbps ou mais:4.46%| Não sabe:18.4%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:4.32%| De 257 Kbps até 999 Kbps:4.92%| 1 Mbps:14.81%| 2 Mbps:11.49%| De 3 Mbps até 4 Mbps:4.99%| De 5 Mbps até 8 Mbps:10.81%| De 9 Mbps até 10 Mbps:7.31%| De 11 Mbps até 20 Mbps:7.03%| De 21 Mbps até 50 Mbps:5.92%| 51 Mbps ou mais:8.54%| Não sabe:19.85%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de De 5 Mbps até 8 Mbps que foi de 6.62%
+   Centro-Oeste:
+        Total: 2017(5567) 2018(5596) 2019(5570) 
+        -> 2017: Até 256 Kbps:0.36%| De 257 Kbps até 999 Kbps:0.13%| 1 Mbps:13.38%| 2 Mbps:18.03%| De 3 Mbps até 4 Mbps:4.54%| De 5 Mbps até 8 Mbps:15.02%| De 9 Mbps até 10 Mbps:13.94%| De 11 Mbps até 20 Mbps:10.13%| De 21 Mbps até 50 Mbps:9.23%| 51 Mbps ou mais:2.16%| Não sabe:12.61%| Não respondeu:0.47%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:3.18%| De 257 Kbps até 999 Kbps:0.09%| 1 Mbps:8.93%| 2 Mbps:13.4%| De 3 Mbps até 4 Mbps:9.27%| De 5 Mbps até 8 Mbps:7.54%| De 9 Mbps até 10 Mbps:15.44%| De 11 Mbps até 20 Mbps:13.71%| De 21 Mbps até 50 Mbps:7.93%| 51 Mbps ou mais:3.06%| Não sabe:17.44%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:0.63%| De 257 Kbps até 999 Kbps:0.25%| 1 Mbps:4.22%| 2 Mbps:10.59%| De 3 Mbps até 4 Mbps:6.36%| De 5 Mbps até 8 Mbps:10.05%| De 9 Mbps até 10 Mbps:17.38%| De 11 Mbps até 20 Mbps:8.65%| De 21 Mbps até 50 Mbps:16.55%| 51 Mbps ou mais:13.68%| Não sabe:11.63%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de 51 Mbps ou mais que foi de 11.52%
+   Nordeste:
+        Total: 2017(22223) 2018(22571) 2019(22898) 
+        -> 2017: Até 256 Kbps:1.03%| De 257 Kbps até 999 Kbps:7.33%| 1 Mbps:12.41%| 2 Mbps:17.81%| De 3 Mbps até 4 Mbps:4.9%| De 5 Mbps até 8 Mbps:11.79%| De 9 Mbps até 10 Mbps:7.97%| De 11 Mbps até 20 Mbps:5.42%| De 21 Mbps até 50 Mbps:7.3%| 51 Mbps ou mais:0.91%| Não sabe:20.76%| Não respondeu:2.37%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:3.47%| De 257 Kbps até 999 Kbps:1.89%| 1 Mbps:14.73%| 2 Mbps:10.93%| De 3 Mbps até 4 Mbps:10.54%| De 5 Mbps até 8 Mbps:11.16%| De 9 Mbps até 10 Mbps:9.06%| De 11 Mbps até 20 Mbps:6.93%| De 21 Mbps até 50 Mbps:3.01%| 51 Mbps ou mais:3.24%| Não sabe:25.05%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:1.56%| De 257 Kbps até 999 Kbps:0.65%| 1 Mbps:6.13%| 2 Mbps:13.52%| De 3 Mbps até 4 Mbps:8.11%| De 5 Mbps até 8 Mbps:9.11%| De 9 Mbps até 10 Mbps:13.43%| De 11 Mbps até 20 Mbps:5.33%| De 21 Mbps até 50 Mbps:12.39%| 51 Mbps ou mais:16.19%| Não sabe:13.45%| Não respondeu:0.12%| Não possui Internet:0.0%| 
+                A principal variação foi de 51 Mbps ou mais que foi de 15.28%
+   Sudeste:
+        Total: 2017(28466) 2018(29110) 2019(29045) 
+        -> 2017: Até 256 Kbps:0.21%| De 257 Kbps até 999 Kbps:1.14%| 1 Mbps:5.95%| 2 Mbps:23.67%| De 3 Mbps até 4 Mbps:6.6%| De 5 Mbps até 8 Mbps:10.05%| De 9 Mbps até 10 Mbps:13.17%| De 11 Mbps até 20 Mbps:6.71%| De 21 Mbps até 50 Mbps:4.42%| 51 Mbps ou mais:2.39%| Não sabe:25.14%| Não respondeu:0.54%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:1.49%| De 257 Kbps até 999 Kbps:1.86%| 1 Mbps:9.23%| 2 Mbps:11.07%| De 3 Mbps até 4 Mbps:9.19%| De 5 Mbps até 8 Mbps:9.12%| De 9 Mbps até 10 Mbps:14.73%| De 11 Mbps até 20 Mbps:7.12%| De 21 Mbps até 50 Mbps:3.98%| 51 Mbps ou mais:9.76%| Não sabe:22.44%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:0.45%| De 257 Kbps até 999 Kbps:0.7%| 1 Mbps:4.25%| 2 Mbps:6.72%| De 3 Mbps até 4 Mbps:24.91%| De 5 Mbps até 8 Mbps:4.74%| De 9 Mbps até 10 Mbps:8.83%| De 11 Mbps até 20 Mbps:6.1%| De 21 Mbps até 50 Mbps:8.5%| 51 Mbps ou mais:17.33%| Não sabe:17.47%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de De 3 Mbps até 4 Mbps que foi de 18.31%
+   Sul:
+        Total: 2017(10984) 2018(11000) 2019(11022) 
+        -> 2017: Até 256 Kbps:2.26%| De 257 Kbps até 999 Kbps:3.1%| 1 Mbps:6.81%| 2 Mbps:16.37%| De 3 Mbps até 4 Mbps:6.95%| De 5 Mbps até 8 Mbps:8.62%| De 9 Mbps até 10 Mbps:15.32%| De 11 Mbps até 20 Mbps:9.65%| De 21 Mbps até 50 Mbps:6.22%| 51 Mbps ou mais:2.95%| Não sabe:21.76%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:0.55%| De 257 Kbps até 999 Kbps:0.82%| 1 Mbps:3.41%| 2 Mbps:16.0%| De 3 Mbps até 4 Mbps:3.84%| De 5 Mbps até 8 Mbps:8.61%| De 9 Mbps até 10 Mbps:20.34%| De 11 Mbps até 20 Mbps:8.89%| De 21 Mbps até 50 Mbps:9.25%| 51 Mbps ou mais:14.21%| Não sabe:14.08%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:0.44%| De 257 Kbps até 999 Kbps:0.61%| 1 Mbps:2.68%| 2 Mbps:10.87%| De 3 Mbps até 4 Mbps:1.17%| De 5 Mbps até 8 Mbps:5.57%| De 9 Mbps até 10 Mbps:12.05%| De 11 Mbps até 20 Mbps:10.45%| De 21 Mbps até 50 Mbps:11.5%| 51 Mbps ou mais:26.76%| Não sabe:17.9%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de 51 Mbps ou mais que foi de 23.81%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(28442) 2018(29708) 2019(29781) 
+        -> 2017: Até 256 Kbps:1.52%| De 257 Kbps até 999 Kbps:7.27%| 1 Mbps:14.93%| 2 Mbps:29.31%| De 3 Mbps até 4 Mbps:4.36%| De 5 Mbps até 8 Mbps:6.43%| De 9 Mbps até 10 Mbps:6.53%| De 11 Mbps até 20 Mbps:1.97%| De 21 Mbps até 50 Mbps:1.19%| 51 Mbps ou mais:0.09%| Não sabe:25.85%| Não respondeu:0.54%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:4.1%| De 257 Kbps até 999 Kbps:1.42%| 1 Mbps:16.26%| 2 Mbps:13.65%| De 3 Mbps até 4 Mbps:9.08%| De 5 Mbps até 8 Mbps:9.08%| De 9 Mbps até 10 Mbps:11.95%| De 11 Mbps até 20 Mbps:4.39%| De 21 Mbps até 50 Mbps:2.71%| 51 Mbps ou mais:1.52%| Não sabe:25.84%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:1.13%| De 257 Kbps até 999 Kbps:1.49%| 1 Mbps:7.86%| 2 Mbps:14.44%| De 3 Mbps até 4 Mbps:14.0%| De 5 Mbps até 8 Mbps:7.58%| De 9 Mbps até 10 Mbps:10.78%| De 11 Mbps até 20 Mbps:5.06%| De 21 Mbps até 50 Mbps:9.17%| 51 Mbps ou mais:11.48%| Não sabe:17.02%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de 2 Mbps que foi de 14.87%
+   Pública Estadual:
+        Total: 2017(23407) 2018(23536) 2019(23176) 
+        -> 2017: Até 256 Kbps:0.69%| De 257 Kbps até 999 Kbps:2.0%| 1 Mbps:5.91%| 2 Mbps:16.32%| De 3 Mbps até 4 Mbps:8.6%| De 5 Mbps até 8 Mbps:15.7%| De 9 Mbps até 10 Mbps:15.64%| De 11 Mbps até 20 Mbps:5.7%| De 21 Mbps até 50 Mbps:3.48%| 51 Mbps ou mais:0.65%| Não sabe:25.14%| Não respondeu:0.17%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:0.87%| De 257 Kbps até 999 Kbps:1.72%| 1 Mbps:7.18%| 2 Mbps:15.33%| De 3 Mbps até 4 Mbps:9.22%| De 5 Mbps até 8 Mbps:12.56%| De 9 Mbps até 10 Mbps:14.9%| De 11 Mbps até 20 Mbps:7.5%| De 21 Mbps até 50 Mbps:2.97%| 51 Mbps ou mais:4.96%| Não sabe:22.78%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:1.63%| De 257 Kbps até 999 Kbps:1.14%| 1 Mbps:3.22%| 2 Mbps:10.48%| De 3 Mbps até 4 Mbps:8.49%| De 5 Mbps até 8 Mbps:8.82%| De 9 Mbps até 10 Mbps:15.47%| De 11 Mbps até 20 Mbps:7.79%| De 21 Mbps até 50 Mbps:9.34%| 51 Mbps ou mais:13.49%| Não sabe:20.02%| Não respondeu:0.12%| Não possui Internet:0.0%| 
+                A principal variação foi de 51 Mbps ou mais que foi de 12.84%
+   Particular:
+        Total: 2017(20717) 2018(20095) 2019(21181) 
+        -> 2017: Até 256 Kbps:0.84%| De 257 Kbps até 999 Kbps:0.0%| 1 Mbps:5.25%| 2 Mbps:10.99%| De 3 Mbps até 4 Mbps:5.09%| De 5 Mbps até 8 Mbps:9.58%| De 9 Mbps até 10 Mbps:14.98%| De 11 Mbps até 20 Mbps:15.75%| De 21 Mbps até 50 Mbps:14.37%| 51 Mbps ou mais:6.13%| Não sabe:14.47%| Não respondeu:2.54%| Não possui Internet:0.0%| 
+        -> 2018: Até 256 Kbps:0.56%| De 257 Kbps até 999 Kbps:2.7%| 1 Mbps:4.61%| 2 Mbps:7.18%| De 3 Mbps até 4 Mbps:7.26%| De 5 Mbps até 8 Mbps:7.38%| De 9 Mbps até 10 Mbps:15.48%| De 11 Mbps até 20 Mbps:12.54%| De 21 Mbps até 50 Mbps:9.84%| 51 Mbps ou mais:19.47%| Não sabe:12.97%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Até 256 Kbps:0.47%| De 257 Kbps até 999 Kbps:0.0%| 1 Mbps:4.3%| 2 Mbps:3.55%| De 3 Mbps até 4 Mbps:17.56%| De 5 Mbps até 8 Mbps:4.46%| De 9 Mbps até 10 Mbps:7.31%| De 11 Mbps até 20 Mbps:8.05%| De 21 Mbps até 50 Mbps:13.86%| 51 Mbps ou mais:30.15%| Não sabe:10.29%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de 51 Mbps ou mais que foi de 24.02%

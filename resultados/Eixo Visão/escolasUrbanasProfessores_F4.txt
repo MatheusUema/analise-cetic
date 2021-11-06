@@ -1,0 +1,356 @@
+TOTAL PARA O INDICADOR F4 – PROFESSORES DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE O USO DAS TIC NA ESCOLA
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310632) 2019(305596) 
+    Esta escola oferece acesso à Internet aos alunos
+        -> 2017: Concorda:47.15%| Não concorda nem discorda:9.86%| Discorda:41.75%| Não sabe:1.24%| Não respondeu:0.0%| 
+        -> 2018: Concorda:40.83%| Não concorda nem discorda:10.46%| Discorda:47.76%| Não sabe:0.87%| Não respondeu:0.08%| 
+        -> 2019: Concorda:39.03%| Não concorda nem discorda:12.25%| Discorda:47.87%| Não sabe:0.78%| Não respondeu:0.08%| 
+        A principal variação foi de Concorda que foi de 8.12%
+    Nesta escola é feita manutenção regular nos computadores
+        -> 2017: Concorda:37.37%| Não concorda nem discorda:16.33%| Discorda:39.08%| Não sabe:7.17%| Não respondeu:0.05%| 
+        -> 2018: Concorda:42.24%| Não concorda nem discorda:13.7%| Discorda:39.99%| Não sabe:3.7%| Não respondeu:0.36%| 
+        -> 2019: Concorda:41.36%| Não concorda nem discorda:18.34%| Discorda:36.44%| Não sabe:3.71%| Não respondeu:0.16%| 
+        A principal variação foi de Concorda que foi de 3.99%
+    Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+        -> 2017: Concorda:39.4%| Não concorda nem discorda:12.51%| Discorda:45.72%| Não sabe:2.37%| Não respondeu:0.0%| 
+        -> 2018: Concorda:43.14%| Não concorda nem discorda:12.85%| Discorda:41.8%| Não sabe:2.18%| Não respondeu:0.03%| 
+        -> 2019: Concorda:45.08%| Não concorda nem discorda:12.47%| Discorda:40.24%| Não sabe:1.54%| Não respondeu:0.67%| 
+        A principal variação foi de Concorda que foi de 5.68%
+    O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+        -> 2017: Concorda:62.09%| Não concorda nem discorda:13.5%| Discorda:20.56%| Não sabe:3.4%| Não respondeu:0.45%| 
+        -> 2018: Concorda:63.93%| Não concorda nem discorda:13.32%| Discorda:20.24%| Não sabe:2.46%| Não respondeu:0.04%| 
+        -> 2019: Concorda:60.72%| Não concorda nem discorda:14.45%| Discorda:22.61%| Não sabe:2.13%| Não respondeu:0.09%| 
+        A principal variação foi de Discorda que foi de 2.05%
+    A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+        -> 2017: Concorda:70.02%| Não concorda nem discorda:11.1%| Discorda:18.37%| Não sabe:0.31%| Não respondeu:0.21%| 
+        -> 2018: Concorda:76.29%| Não concorda nem discorda:10.52%| Discorda:12.86%| Não sabe:0.2%| Não respondeu:0.14%| 
+        -> 2019: Concorda:71.56%| Não concorda nem discorda:12.42%| Discorda:15.32%| Não sabe:0.57%| Não respondeu:0.13%| 
+        A principal variação foi de Discorda que foi de 3.05%
+    A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+        -> 2017: Concorda:72.58%| Não concorda nem discorda:11.56%| Discorda:15.06%| Não sabe:0.5%| Não respondeu:0.31%| 
+        -> 2018: Concorda:77.24%| Não concorda nem discorda:9.8%| Discorda:12.44%| Não sabe:0.37%| Não respondeu:0.14%| 
+        -> 2019: Concorda:74.93%| Não concorda nem discorda:12.63%| Discorda:11.9%| Não sabe:0.53%| Não respondeu:0.01%| 
+        A principal variação foi de Discorda que foi de 3.16%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228485) 2019(225701) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:47.93%| Não concorda nem discorda:9.08%| Discorda:41.65%| Não sabe:1.33%| Não respondeu:0.0%| 
+                -> 2018: Concorda:43.28%| Não concorda nem discorda:9.75%| Discorda:45.99%| Não sabe:0.89%| Não respondeu:0.08%| 
+                -> 2019: Concorda:37.16%| Não concorda nem discorda:12.44%| Discorda:49.43%| Não sabe:0.91%| Não respondeu:0.06%| 
+                A principal variação foi de Concorda que foi de 10.77%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:39.27%| Não concorda nem discorda:14.71%| Discorda:38.92%| Não sabe:7.03%| Não respondeu:0.06%| 
+                -> 2018: Concorda:43.39%| Não concorda nem discorda:15.05%| Discorda:36.8%| Não sabe:4.31%| Não respondeu:0.45%| 
+                -> 2019: Concorda:40.61%| Não concorda nem discorda:19.35%| Discorda:35.72%| Não sabe:4.22%| Não respondeu:0.09%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.64%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:40.93%| Não concorda nem discorda:12.88%| Discorda:44.2%| Não sabe:1.99%| Não respondeu:0.0%| 
+                -> 2018: Concorda:46.3%| Não concorda nem discorda:12.29%| Discorda:38.88%| Não sabe:2.49%| Não respondeu:0.04%| 
+                -> 2019: Concorda:45.8%| Não concorda nem discorda:12.11%| Discorda:39.77%| Não sabe:1.53%| Não respondeu:0.79%| 
+                A principal variação foi de Concorda que foi de 4.87%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:62.68%| Não concorda nem discorda:12.26%| Discorda:20.95%| Não sabe:3.7%| Não respondeu:0.41%| 
+                -> 2018: Concorda:65.88%| Não concorda nem discorda:12.36%| Discorda:18.92%| Não sabe:2.78%| Não respondeu:0.06%| 
+                -> 2019: Concorda:60.23%| Não concorda nem discorda:15.2%| Discorda:22.8%| Não sabe:1.77%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.94%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:70.51%| Não concorda nem discorda:10.22%| Discorda:18.63%| Não sabe:0.38%| Não respondeu:0.27%| 
+                -> 2018: Concorda:78.48%| Não concorda nem discorda:9.08%| Discorda:12.13%| Não sabe:0.12%| Não respondeu:0.19%| 
+                -> 2019: Concorda:71.25%| Não concorda nem discorda:12.7%| Discorda:15.24%| Não sabe:0.71%| Não respondeu:0.1%| 
+                A principal variação foi de Discorda que foi de 3.39%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:73.71%| Não concorda nem discorda:10.89%| Discorda:14.74%| Não sabe:0.46%| Não respondeu:0.2%| 
+                -> 2018: Concorda:78.62%| Não concorda nem discorda:9.41%| Discorda:11.44%| Não sabe:0.34%| Não respondeu:0.19%| 
+                -> 2019: Concorda:74.88%| Não concorda nem discorda:12.98%| Discorda:11.49%| Não sabe:0.64%| Não respondeu:0.01%| 
+                A principal variação foi de Discorda que foi de 3.25%
+   Masculino:
+        Total: 2017(62067) 2018(82145) 2019(79893) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:44.29%| Não concorda nem discorda:12.71%| Discorda:42.09%| Não sabe:0.91%| Não respondeu:0.0%| 
+                -> 2018: Concorda:34.0%| Não concorda nem discorda:12.46%| Discorda:52.7%| Não sabe:0.78%| Não respondeu:0.06%| 
+                -> 2019: Concorda:44.31%| Não concorda nem discorda:11.69%| Discorda:43.45%| Não sabe:0.41%| Não respondeu:0.14%| 
+                A principal variação foi de Discorda que foi de 1.36%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:30.41%| Não concorda nem discorda:22.25%| Discorda:39.67%| Não sabe:7.68%| Não respondeu:0.0%| 
+                -> 2018: Concorda:39.03%| Não concorda nem discorda:9.95%| Discorda:48.89%| Não sabe:2.02%| Não respondeu:0.12%| 
+                -> 2019: Concorda:43.46%| Não concorda nem discorda:15.46%| Discorda:38.5%| Não sabe:2.25%| Não respondeu:0.34%| 
+                A principal variação foi de Concorda que foi de 13.05%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:33.82%| Não concorda nem discorda:11.16%| Discorda:51.28%| Não sabe:3.75%| Não respondeu:0.0%| 
+                -> 2018: Concorda:34.36%| Não concorda nem discorda:14.41%| Discorda:49.9%| Não sabe:1.34%| Não respondeu:0.0%| 
+                -> 2019: Concorda:43.05%| Não concorda nem discorda:13.51%| Discorda:41.59%| Não sabe:1.55%| Não respondeu:0.31%| 
+                A principal variação foi de Discorda que foi de 9.69%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:59.91%| Não concorda nem discorda:18.05%| Discorda:19.14%| Não sabe:2.29%| Não respondeu:0.61%| 
+                -> 2018: Concorda:58.52%| Não concorda nem discorda:15.99%| Discorda:23.93%| Não sabe:1.56%| Não respondeu:0.0%| 
+                -> 2019: Concorda:62.14%| Não concorda nem discorda:12.31%| Discorda:22.09%| Não sabe:3.13%| Não respondeu:0.33%| 
+                A principal variação foi de Não concorda nem discorda que foi de 5.74%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:68.23%| Não concorda nem discorda:14.3%| Discorda:17.4%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2018: Concorda:70.19%| Não concorda nem discorda:14.5%| Discorda:14.89%| Não sabe:0.43%| Não respondeu:0.0%| 
+                -> 2019: Concorda:72.43%| Não concorda nem discorda:11.65%| Discorda:15.55%| Não sabe:0.17%| Não respondeu:0.2%| 
+                A principal variação foi de Concorda que foi de 4.2%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:68.42%| Não concorda nem discorda:13.99%| Discorda:16.23%| Não sabe:0.65%| Não respondeu:0.71%| 
+                -> 2018: Concorda:73.41%| Não concorda nem discorda:10.89%| Discorda:15.23%| Não sabe:0.47%| Não respondeu:0.0%| 
+                -> 2019: Concorda:75.08%| Não concorda nem discorda:11.63%| Discorda:13.08%| Não sabe:0.22%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.66%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20209) 2018(23101) 2019(26016) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:29.06%| Não concorda nem discorda:8.22%| Discorda:62.46%| Não sabe:0.26%| Não respondeu:0.0%| 
+                -> 2018: Concorda:27.64%| Não concorda nem discorda:14.71%| Discorda:57.44%| Não sabe:0.2%| Não respondeu:0.0%| 
+                -> 2019: Concorda:23.23%| Não concorda nem discorda:9.39%| Discorda:65.4%| Não sabe:1.36%| Não respondeu:0.62%| 
+                A principal variação foi de Concorda que foi de 5.83%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:25.22%| Não concorda nem discorda:12.83%| Discorda:56.46%| Não sabe:5.49%| Não respondeu:0.0%| 
+                -> 2018: Concorda:20.61%| Não concorda nem discorda:14.21%| Discorda:60.46%| Não sabe:3.85%| Não respondeu:0.85%| 
+                -> 2019: Concorda:29.83%| Não concorda nem discorda:16.89%| Discorda:49.4%| Não sabe:2.53%| Não respondeu:1.36%| 
+                A principal variação foi de Discorda que foi de 7.06%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:20.9%| Não concorda nem discorda:13.05%| Discorda:64.4%| Não sabe:1.64%| Não respondeu:0.0%| 
+                -> 2018: Concorda:22.96%| Não concorda nem discorda:15.14%| Discorda:60.09%| Não sabe:1.69%| Não respondeu:0.12%| 
+                -> 2019: Concorda:34.35%| Não concorda nem discorda:9.4%| Discorda:54.31%| Não sabe:0.96%| Não respondeu:0.98%| 
+                A principal variação foi de Concorda que foi de 13.45%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:54.72%| Não concorda nem discorda:13.57%| Discorda:24.62%| Não sabe:6.86%| Não respondeu:0.22%| 
+                -> 2018: Concorda:54.83%| Não concorda nem discorda:14.87%| Discorda:27.38%| Não sabe:2.78%| Não respondeu:0.14%| 
+                -> 2019: Concorda:58.63%| Não concorda nem discorda:13.3%| Discorda:25.08%| Não sabe:1.94%| Não respondeu:1.04%| 
+                A principal variação foi de Não sabe que foi de 4.92%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:66.94%| Não concorda nem discorda:8.82%| Discorda:23.89%| Não sabe:0.35%| Não respondeu:0.0%| 
+                -> 2018: Concorda:67.63%| Não concorda nem discorda:13.38%| Discorda:18.49%| Não sabe:0.49%| Não respondeu:0.0%| 
+                -> 2019: Concorda:59.32%| Não concorda nem discorda:13.22%| Discorda:27.18%| Não sabe:0.25%| Não respondeu:0.04%| 
+                A principal variação foi de Concorda que foi de 7.62%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:69.81%| Não concorda nem discorda:10.96%| Discorda:18.88%| Não sabe:0.35%| Não respondeu:0.0%| 
+                -> 2018: Concorda:66.98%| Não concorda nem discorda:14.86%| Discorda:17.35%| Não sabe:0.81%| Não respondeu:0.0%| 
+                -> 2019: Concorda:63.64%| Não concorda nem discorda:17.98%| Discorda:17.95%| Não sabe:0.4%| Não respondeu:0.04%| 
+                A principal variação foi de Não concorda nem discorda que foi de 7.02%
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26988) 2019(25514) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:45.78%| Não concorda nem discorda:10.0%| Discorda:42.86%| Não sabe:1.36%| Não respondeu:0.0%| 
+                -> 2018: Concorda:39.8%| Não concorda nem discorda:7.97%| Discorda:51.2%| Não sabe:1.03%| Não respondeu:0.0%| 
+                -> 2019: Concorda:37.01%| Não concorda nem discorda:11.44%| Discorda:51.48%| Não sabe:0.08%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 8.77%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:49.21%| Não concorda nem discorda:10.47%| Discorda:35.35%| Não sabe:4.4%| Não respondeu:0.58%| 
+                -> 2018: Concorda:46.26%| Não concorda nem discorda:15.17%| Discorda:34.21%| Não sabe:4.36%| Não respondeu:0.0%| 
+                -> 2019: Concorda:45.52%| Não concorda nem discorda:17.3%| Discorda:32.82%| Não sabe:4.25%| Não respondeu:0.1%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.83%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:51.89%| Não concorda nem discorda:9.02%| Discorda:37.99%| Não sabe:1.09%| Não respondeu:0.0%| 
+                -> 2018: Concorda:44.95%| Não concorda nem discorda:11.85%| Discorda:40.68%| Não sabe:2.52%| Não respondeu:0.0%| 
+                -> 2019: Concorda:42.14%| Não concorda nem discorda:13.83%| Discorda:41.13%| Não sabe:2.89%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 9.75%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:73.65%| Não concorda nem discorda:5.68%| Discorda:16.87%| Não sabe:3.8%| Não respondeu:0.0%| 
+                -> 2018: Concorda:67.87%| Não concorda nem discorda:11.55%| Discorda:19.43%| Não sabe:1.15%| Não respondeu:0.0%| 
+                -> 2019: Concorda:67.22%| Não concorda nem discorda:11.54%| Discorda:19.15%| Não sabe:2.1%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.43%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:82.97%| Não concorda nem discorda:6.88%| Discorda:10.06%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2018: Concorda:78.28%| Não concorda nem discorda:10.81%| Discorda:10.88%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Concorda:83.25%| Não concorda nem discorda:10.3%| Discorda:6.37%| Não sabe:0.08%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 3.69%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:86.24%| Não concorda nem discorda:4.42%| Discorda:9.19%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2018: Concorda:81.15%| Não concorda nem discorda:8.26%| Discorda:9.86%| Não sabe:0.73%| Não respondeu:0.0%| 
+                -> 2019: Concorda:76.71%| Não concorda nem discorda:12.21%| Discorda:10.54%| Não sabe:0.55%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 9.53%
+   Nordeste:
+        Total: 2017(81270) 2018(87048) 2019(94785) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:31.79%| Não concorda nem discorda:11.1%| Discorda:56.38%| Não sabe:0.73%| Não respondeu:0.0%| 
+                -> 2018: Concorda:28.51%| Não concorda nem discorda:11.29%| Discorda:59.51%| Não sabe:0.63%| Não respondeu:0.06%| 
+                -> 2019: Concorda:33.77%| Não concorda nem discorda:10.97%| Discorda:54.64%| Não sabe:0.53%| Não respondeu:0.08%| 
+                A principal variação foi de Concorda que foi de 1.98%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:31.0%| Não concorda nem discorda:12.59%| Discorda:48.53%| Não sabe:7.88%| Não respondeu:0.0%| 
+                -> 2018: Concorda:32.68%| Não concorda nem discorda:11.44%| Discorda:52.09%| Não sabe:3.79%| Não respondeu:0.0%| 
+                -> 2019: Concorda:39.15%| Não concorda nem discorda:19.08%| Discorda:39.76%| Não sabe:1.93%| Não respondeu:0.08%| 
+                A principal variação foi de Discorda que foi de 8.77%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:35.64%| Não concorda nem discorda:10.34%| Discorda:51.87%| Não sabe:2.15%| Não respondeu:0.0%| 
+                -> 2018: Concorda:30.07%| Não concorda nem discorda:14.77%| Discorda:54.08%| Não sabe:1.08%| Não respondeu:0.0%| 
+                -> 2019: Concorda:36.4%| Não concorda nem discorda:14.86%| Discorda:48.15%| Não sabe:0.5%| Não respondeu:0.08%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.52%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:56.17%| Não concorda nem discorda:16.71%| Discorda:23.21%| Não sabe:3.39%| Não respondeu:0.52%| 
+                -> 2018: Concorda:53.78%| Não concorda nem discorda:13.15%| Discorda:31.5%| Não sabe:1.57%| Não respondeu:0.0%| 
+                -> 2019: Concorda:56.3%| Não concorda nem discorda:18.72%| Discorda:24.68%| Não sabe:0.31%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 3.08%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:62.47%| Não concorda nem discorda:11.41%| Discorda:25.89%| Não sabe:0.05%| Não respondeu:0.18%| 
+                -> 2018: Concorda:69.88%| Não concorda nem discorda:11.08%| Discorda:18.49%| Não sabe:0.12%| Não respondeu:0.44%| 
+                -> 2019: Concorda:64.92%| Não concorda nem discorda:15.94%| Discorda:18.38%| Não sabe:0.36%| Não respondeu:0.4%| 
+                A principal variação foi de Discorda que foi de 7.51%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:67.63%| Não concorda nem discorda:12.41%| Discorda:19.05%| Não sabe:0.36%| Não respondeu:0.54%| 
+                -> 2018: Concorda:71.78%| Não concorda nem discorda:12.06%| Discorda:15.59%| Não sabe:0.12%| Não respondeu:0.44%| 
+                -> 2019: Concorda:74.14%| Não concorda nem discorda:11.26%| Discorda:14.27%| Não sabe:0.32%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.51%
+   Sudeste:
+        Total: 2017(126142) 2018(133030) 2019(122199) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:54.28%| Não concorda nem discorda:10.0%| Discorda:34.66%| Não sabe:1.06%| Não respondeu:0.0%| 
+                -> 2018: Concorda:48.19%| Não concorda nem discorda:10.42%| Discorda:40.13%| Não sabe:1.12%| Não respondeu:0.15%| 
+                -> 2019: Concorda:43.16%| Não concorda nem discorda:14.1%| Discorda:41.68%| Não sabe:1.06%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 11.12%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:36.7%| Não concorda nem discorda:21.75%| Discorda:33.55%| Não sabe:8.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:49.65%| Não concorda nem discorda:13.35%| Discorda:32.35%| Não sabe:3.95%| Não respondeu:0.69%| 
+                -> 2019: Concorda:41.47%| Não concorda nem discorda:19.07%| Discorda:34.01%| Não sabe:5.45%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.77%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:40.65%| Não concorda nem discorda:13.57%| Discorda:43.34%| Não sabe:2.44%| Não respondeu:0.0%| 
+                -> 2018: Concorda:51.78%| Não concorda nem discorda:12.18%| Discorda:32.47%| Não sabe:3.54%| Não respondeu:0.04%| 
+                -> 2019: Concorda:54.05%| Não concorda nem discorda:10.82%| Discorda:31.38%| Não sabe:2.36%| Não respondeu:1.39%| 
+                A principal variação foi de Concorda que foi de 13.4%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:62.26%| Não concorda nem discorda:12.99%| Discorda:21.2%| Não sabe:2.9%| Não respondeu:0.66%| 
+                -> 2018: Concorda:70.01%| Não concorda nem discorda:13.72%| Discorda:13.43%| Não sabe:2.79%| Não respondeu:0.04%| 
+                -> 2019: Concorda:62.65%| Não concorda nem discorda:11.17%| Discorda:22.96%| Não sabe:3.22%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.82%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:70.28%| Não concorda nem discorda:12.88%| Discorda:16.04%| Não sabe:0.44%| Não respondeu:0.36%| 
+                -> 2018: Concorda:80.2%| Não concorda nem discorda:9.64%| Discorda:9.86%| Não sabe:0.26%| Não respondeu:0.04%| 
+                -> 2019: Concorda:75.43%| Não concorda nem discorda:10.47%| Discorda:13.08%| Não sabe:1.02%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 5.15%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:71.54%| Não concorda nem discorda:12.45%| Discorda:15.04%| Não sabe:0.62%| Não respondeu:0.36%| 
+                -> 2018: Concorda:79.46%| Não concorda nem discorda:8.7%| Discorda:11.32%| Não sabe:0.48%| Não respondeu:0.04%| 
+                -> 2019: Concorda:76.85%| Não concorda nem discorda:12.84%| Discorda:9.57%| Não sabe:0.74%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 5.47%
+   Sul:
+        Total: 2017(36839) 2018(40465) 2019(37081) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:67.49%| Não concorda nem discorda:7.44%| Discorda:21.65%| Não sabe:3.43%| Não respondeu:0.0%| 
+                -> 2018: Concorda:51.34%| Não concorda nem discorda:8.09%| Discorda:39.78%| Não sabe:0.8%| Não respondeu:0.0%| 
+                -> 2019: Concorda:51.33%| Não concorda nem discorda:11.96%| Discorda:36.16%| Não sabe:0.55%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 16.16%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:52.38%| Não concorda nem discorda:11.9%| Discorda:30.15%| Não sabe:5.57%| Não respondeu:0.0%| 
+                -> 2018: Concorda:48.09%| Não concorda nem discorda:18.45%| Discorda:31.26%| Não sabe:2.15%| Não respondeu:0.05%| 
+                -> 2019: Concorda:51.82%| Não concorda nem discorda:15.76%| Discorda:29.42%| Não sabe:2.94%| Não respondeu:0.06%| 
+                A principal variação foi de Não concorda nem discorda que foi de 3.86%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:45.13%| Não concorda nem discorda:15.75%| Discorda:35.27%| Não sabe:3.86%| Não respondeu:0.0%| 
+                -> 2018: Concorda:53.19%| Não concorda nem discorda:10.31%| Discorda:36.34%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2019: Concorda:47.24%| Não concorda nem discorda:13.06%| Discorda:38.76%| Não sabe:0.94%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 3.49%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:70.79%| Não concorda nem discorda:13.48%| Discorda:12.8%| Não sabe:2.94%| Não respondeu:0.0%| 
+                -> 2018: Concorda:68.37%| Não concorda nem discorda:12.66%| Discorda:14.9%| Não sabe:3.94%| Não respondeu:0.13%| 
+                -> 2019: Concorda:62.7%| Não concorda nem discorda:17.14%| Discorda:16.81%| Não sabe:3.34%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 8.09%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:78.69%| Não concorda nem discorda:8.41%| Discorda:12.33%| Não sabe:0.58%| Não respondeu:0.0%| 
+                -> 2018: Concorda:80.82%| Não concorda nem discorda:10.35%| Discorda:8.7%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2019: Concorda:76.3%| Não concorda nem discorda:10.77%| Discorda:12.74%| Não sabe:0.19%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.39%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:79.3%| Não concorda nem discorda:11.79%| Discorda:8.19%| Não sabe:0.72%| Não respondeu:0.0%| 
+                -> 2018: Concorda:84.95%| Não concorda nem discorda:6.69%| Discorda:8.29%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Concorda:77.34%| Não concorda nem discorda:11.94%| Discorda:10.25%| Não sabe:0.41%| Não respondeu:0.06%| 
+                A principal variação foi de Discorda que foi de 2.06%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:37.87%| Não concorda nem discorda:8.06%| Discorda:52.64%| Não sabe:1.43%| Não respondeu:0.0%| 
+                -> 2018: Concorda:31.76%| Não concorda nem discorda:8.78%| Discorda:59.32%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2019: Concorda:26.57%| Não concorda nem discorda:11.29%| Discorda:61.03%| Não sabe:0.95%| Não respondeu:0.15%| 
+                A principal variação foi de Concorda que foi de 11.3%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:26.94%| Não concorda nem discorda:16.11%| Discorda:49.74%| Não sabe:7.21%| Não respondeu:0.0%| 
+                -> 2018: Concorda:36.73%| Não concorda nem discorda:11.86%| Discorda:48.21%| Não sabe:2.89%| Não respondeu:0.32%| 
+                -> 2019: Concorda:34.66%| Não concorda nem discorda:21.38%| Discorda:41.48%| Não sabe:2.42%| Não respondeu:0.06%| 
+                A principal variação foi de Discorda que foi de 8.26%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:34.71%| Não concorda nem discorda:12.31%| Discorda:51.75%| Não sabe:1.22%| Não respondeu:0.0%| 
+                -> 2018: Concorda:37.36%| Não concorda nem discorda:13.12%| Discorda:48.79%| Não sabe:0.73%| Não respondeu:0.0%| 
+                -> 2019: Concorda:42.5%| Não concorda nem discorda:9.12%| Discorda:47.56%| Não sabe:0.77%| Não respondeu:0.06%| 
+                A principal variação foi de Concorda que foi de 7.79%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:56.33%| Não concorda nem discorda:12.14%| Discorda:27.8%| Não sabe:3.12%| Não respondeu:0.62%| 
+                -> 2018: Concorda:53.28%| Não concorda nem discorda:13.4%| Discorda:30.7%| Não sabe:2.63%| Não respondeu:0.0%| 
+                -> 2019: Concorda:48.05%| Não concorda nem discorda:17.88%| Discorda:33.06%| Não sabe:1.01%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 8.28%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:59.26%| Não concorda nem discorda:14.82%| Discorda:25.8%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2018: Concorda:69.35%| Não concorda nem discorda:11.08%| Discorda:19.44%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2019: Concorda:65.12%| Não concorda nem discorda:14.39%| Discorda:19.5%| Não sabe:0.82%| Não respondeu:0.17%| 
+                A principal variação foi de Discorda que foi de 6.3%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:67.47%| Não concorda nem discorda:12.06%| Discorda:20.09%| Não sabe:0.38%| Não respondeu:0.0%| 
+                -> 2018: Concorda:73.58%| Não concorda nem discorda:8.21%| Discorda:17.73%| Não sabe:0.16%| Não respondeu:0.33%| 
+                -> 2019: Concorda:71.72%| Não concorda nem discorda:14.08%| Discorda:13.21%| Não sabe:0.98%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 6.88%
+   Pública Estadual:
+        Total: 2017(122457) 2018(127039) 2019(120289) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:45.12%| Não concorda nem discorda:10.02%| Discorda:43.59%| Não sabe:1.27%| Não respondeu:0.0%| 
+                -> 2018: Concorda:35.34%| Não concorda nem discorda:13.17%| Discorda:49.85%| Não sabe:1.45%| Não respondeu:0.19%| 
+                -> 2019: Concorda:38.84%| Não concorda nem discorda:15.8%| Discorda:44.57%| Não sabe:0.75%| Não respondeu:0.04%| 
+                A principal variação foi de Concorda que foi de 6.28%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:31.1%| Não concorda nem discorda:19.46%| Discorda:40.96%| Não sabe:8.36%| Não respondeu:0.12%| 
+                -> 2018: Concorda:31.09%| Não concorda nem discorda:18.91%| Discorda:44.18%| Não sabe:5.3%| Não respondeu:0.52%| 
+                -> 2019: Concorda:32.29%| Não concorda nem discorda:19.25%| Discorda:41.45%| Não sabe:6.68%| Não respondeu:0.33%| 
+                A principal variação foi de Não sabe que foi de 1.68%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:33.18%| Não concorda nem discorda:14.15%| Discorda:49.12%| Não sabe:3.55%| Não respondeu:0.0%| 
+                -> 2018: Concorda:33.07%| Não concorda nem discorda:15.28%| Discorda:47.65%| Não sabe:3.97%| Não respondeu:0.04%| 
+                -> 2019: Concorda:36.94%| Não concorda nem discorda:14.56%| Discorda:44.12%| Não sabe:2.76%| Não respondeu:1.63%| 
+                A principal variação foi de Discorda que foi de 5.0%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:60.15%| Não concorda nem discorda:16.21%| Discorda:18.48%| Não sabe:5.01%| Não respondeu:0.16%| 
+                -> 2018: Concorda:64.52%| Não concorda nem discorda:15.31%| Discorda:16.91%| Não sabe:3.16%| Não respondeu:0.11%| 
+                -> 2019: Concorda:64.67%| Não concorda nem discorda:12.98%| Discorda:18.23%| Não sabe:3.89%| Não respondeu:0.23%| 
+                A principal variação foi de Concorda que foi de 4.52%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:73.21%| Não concorda nem discorda:9.77%| Discorda:16.26%| Não sabe:0.63%| Não respondeu:0.12%| 
+                -> 2018: Concorda:78.41%| Não concorda nem discorda:10.14%| Discorda:11.1%| Não sabe:0.31%| Não respondeu:0.04%| 
+                -> 2019: Concorda:73.61%| Não concorda nem discorda:12.22%| Discorda:13.65%| Não sabe:0.51%| Não respondeu:0.01%| 
+                A principal variação foi de Discorda que foi de 2.61%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:72.17%| Não concorda nem discorda:12.97%| Discorda:14.0%| Não sabe:0.49%| Não respondeu:0.36%| 
+                -> 2018: Concorda:77.77%| Não concorda nem discorda:10.7%| Discorda:10.87%| Não sabe:0.63%| Não respondeu:0.04%| 
+                -> 2019: Concorda:72.54%| Não concorda nem discorda:14.67%| Discorda:12.53%| Não sabe:0.23%| Não respondeu:0.03%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.7%
+   Particular:
+        Total: 2017(60816) 2018(69977) 2019(58901) 
+        Esta escola oferece acesso à Internet aos alunos
+                -> 2017: Concorda:67.44%| Não concorda nem discorda:12.68%| Discorda:19.04%| Não sabe:0.85%| Não respondeu:0.0%| 
+                -> 2018: Concorda:65.51%| Não concorda nem discorda:8.28%| Discorda:25.21%| Não sabe:1.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:66.14%| Não concorda nem discorda:7.03%| Discorda:26.34%| Não sabe:0.48%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 7.3%
+        Nesta escola é feita manutenção regular nos computadores
+                -> 2017: Concorda:68.2%| Não concorda nem discorda:10.39%| Discorda:16.7%| Não sabe:4.71%| Não respondeu:0.0%| 
+                -> 2018: Concorda:71.41%| Não concorda nem discorda:7.25%| Discorda:19.06%| Não sabe:2.13%| Não respondeu:0.15%| 
+                -> 2019: Concorda:74.24%| Não concorda nem discorda:9.93%| Discorda:15.43%| Não sabe:0.39%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.04%
+        Nesta escola os alunos recebem instruções sobre como usar a Internet com segurança
+                -> 2017: Concorda:60.12%| Não concorda nem discorda:9.57%| Discorda:28.33%| Não sabe:1.98%| Não respondeu:0.0%| 
+                -> 2018: Concorda:70.82%| Não concorda nem discorda:8.03%| Discorda:19.81%| Não sabe:1.3%| Não respondeu:0.04%| 
+                -> 2019: Concorda:67.24%| Não concorda nem discorda:15.43%| Discorda:16.64%| Não sabe:0.69%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 11.69%
+        O projeto político pedagógico desta escola orienta que a Internet seja usada em atividades com os alunos
+                -> 2017: Concorda:76.03%| Não concorda nem discorda:10.44%| Discorda:12.13%| Não sabe:0.64%| Não respondeu:0.75%| 
+                -> 2018: Concorda:80.18%| Não concorda nem discorda:9.58%| Discorda:9.32%| Não sabe:0.92%| Não respondeu:0.0%| 
+                -> 2019: Concorda:79.86%| Não concorda nem discorda:10.07%| Discorda:9.13%| Não sabe:0.94%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 3.83%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades administrativas
+                -> 2017: Concorda:82.36%| Não concorda nem discorda:7.26%| Discorda:9.62%| Não sabe:0.0%| Não respondeu:0.75%| 
+                -> 2018: Concorda:83.68%| Não concorda nem discorda:10.28%| Discorda:5.36%| Não sabe:0.13%| Não respondeu:0.55%| 
+                -> 2019: Concorda:81.19%| Não concorda nem discorda:8.62%| Discorda:9.78%| Não sabe:0.15%| Não respondeu:0.27%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.36%
+        A direção ou coordenação pedagógica desta escola incentiva os professores a usarem a Internet nas atividades pedagógicas
+                -> 2017: Concorda:82.3%| Não concorda nem discorda:7.83%| Discorda:8.4%| Não sabe:0.72%| Não respondeu:0.75%| 
+                -> 2018: Concorda:82.24%| Não concorda nem discorda:10.75%| Discorda:6.73%| Não sabe:0.25%| Não respondeu:0.02%| 
+                -> 2019: Concorda:86.72%| Não concorda nem discorda:5.32%| Discorda:7.81%| Não sabe:0.15%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.42%

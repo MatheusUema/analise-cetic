@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR B7A – DIRETORES DE ESCOLAS URBANAS QUE JÁ ACESSARAM A INTERNET
+Em termos de TOTAL:
+    Total: 2017(74773) 2018(74906) 2019(75116) 
+    -> 2017: Sim:99.48%| Não:0.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2018: Sim:99.51%| Não:0.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2019: Sim:99.88%| Não:0.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 0.4%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(59364) 2018(56974) 2019(54274) 
+        -> 2017: Sim:99.69%| Não:0.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.36%| Não:0.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.83%| Não:0.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.14%
+   Masculino:
+        Total: 2017(15409) 2018(17932) 2019(20842) 
+        -> 2017: Sim:98.7%| Não:1.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.3%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(5817) 2018(5877) 2019(5908) 
+        -> 2017: Sim:99.6%| Não:0.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.4%
+   Centro-Oeste:
+        Total: 2017(5583) 2018(5595) 2019(5592) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Nordeste:
+        Total: 2017(23391) 2018(23305) 2019(23405) 
+        -> 2017: Sim:98.44%| Não:1.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:98.44%| Não:1.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.6%| Não:0.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.16%
+   Sudeste:
+        Total: 2017(28998) 2018(29109) 2019(29187) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Sul:
+        Total: 2017(10984) 2018(11020) 2019(11024) 
+        -> 2017: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(30422) 2018(30533) 2019(30468) 
+        -> 2017: Sim:99.37%| Não:0.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.33%| Não:0.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.63%
+   Pública Estadual:
+        Total: 2017(23634) 2018(23583) 2019(23448) 
+        -> 2017: Sim:99.94%| Não:0.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.06%
+   Particular:
+        Total: 2017(20717) 2018(20790) 2019(21200) 
+        -> 2017: Sim:99.14%| Não:0.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:99.24%| Não:0.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:99.56%| Não:0.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.42%

@@ -1,0 +1,1973 @@
+TOTAL PARA O INDICADOR E1A – ALUNOS DE ESCOLAS URBANAS, POR USO DA INTERNET EM ATIVIDADES ESCOLARES
+Em termos de TOTAL:
+    Total: 2017(5076682) 2018(5565251) 2019(5794473) 
+    Faz trabalhos sobre um tema
+        -> 2017: Sim:80.4%| Não:19.51%| Não sabe:0.0%| Não respondeu:0.09%| Não se aplica:0.0%| 
+        -> 2018: Sim:80.21%| Não:19.66%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Faz lição e exercícios que o professor passa 
+        -> 2017: Sim:65.05%| Não:34.94%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:63.43%| Não:36.56%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Faz pesquisa para a escola 
+        -> 2017: Sim:85.98%| Não:13.98%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:83.72%| Não:16.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Usa a Internet para fazer apresentações para os colegas de classe 
+        -> 2017: Sim:46.21%| Não:53.61%| Não sabe:0.06%| Não respondeu:0.12%| Não se aplica:0.0%| 
+        -> 2018: Sim:45.82%| Não:54.18%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Joga jogos educativos
+        -> 2017: Sim:55.59%| Não:44.25%| Não sabe:0.16%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:55.52%| Não:44.46%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Fala com o professor
+        -> 2017: Sim:26.39%| Não:73.6%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:24.85%| Não:75.15%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Realiza trabalhos em grupo
+        -> 2017: Sim:73.1%| Não:26.63%| Não sabe:0.27%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:71.82%| Não:28.18%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Faz trabalhos escolares a distância
+        -> 2017: Sim:61.2%| Não:38.79%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:60.87%| Não:39.11%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Participa de cursos
+        -> 2017: Sim:15.15%| Não:84.82%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:15.93%| Não:84.07%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Usa a Internet para estudar para uma prova
+        -> 2017: Sim:71.98%| Não:28.02%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:71.04%| Não:28.96%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Faz pesquisas sobre o que os professores falam nas aulas
+        -> 2017: Sim:75.7%| Não:24.3%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:74.73%| Não:25.23%| Não sabe:0.03%| Não respondeu:0.02%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+        -> 2017: Sim:23.84%| Não:76.15%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:22.63%| Não:77.34%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Faz provas ou simulados
+        -> 2017: Sim:24.31%| Não:75.63%| Não sabe:0.05%| Não respondeu:0.01%| Não se aplica:0.0%| 
+        -> 2018: Sim:22.01%| Não:77.98%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Fazer trabalhos sobre um tema
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:82.06%| Não:17.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Fazer lição e exercícios que o professor passa 
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:68.55%| Não:31.42%| Não sabe:0.03%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Fazer pesquisa para a escola 
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:84.74%| Não:15.21%| Não sabe:0.05%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Usar a Internet para fazer apresentações para os colegas de classe 
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:46.08%| Não:53.9%| Não sabe:0.01%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Jogar jogos educativos
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:59.62%| Não:40.26%| Não sabe:0.12%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Falar com o professor
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:28.2%| Não:71.78%| Não sabe:0.03%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Realizar trabalhos em grupo
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:76.93%| Não:23.03%| Não sabe:0.03%| Não respondeu:0.01%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Fazer trabalhos escolares a distância
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:64.88%| Não:35.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Participar de cursos
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:16.37%| Não:83.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Usar a Internet para estudar para uma prova
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:73.93%| Não:26.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Fazer pesquisas sobre o que os professores falam nas aulas
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:75.83%| Não:24.16%| Não sabe:0.0%| Não respondeu:0.01%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:24.96%| Não:75.01%| Não sabe:0.03%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Fazer provas ou simulados
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:24.38%| Não:75.58%| Não sabe:0.04%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Usar a Internet para aprender um idioma
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:58.06%| Não:41.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(2599458) 2018(2967259) 2019(3023871) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:83.01%| Não:16.96%| Não sabe:0.01%| Não respondeu:0.02%| Não se aplica:0.0%| 
+                -> 2018: Sim:80.49%| Não:19.41%| Não sabe:0.1%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:64.97%| Não:35.02%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:61.92%| Não:38.06%| Não sabe:0.01%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:89.41%| Não:10.58%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:87.66%| Não:12.34%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:48.37%| Não:51.34%| Não sabe:0.06%| Não respondeu:0.23%| Não se aplica:0.0%| 
+                -> 2018: Sim:46.76%| Não:53.23%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:51.26%| Não:48.46%| Não sabe:0.29%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:54.38%| Não:45.59%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:30.91%| Não:69.08%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.32%| Não:73.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:74.83%| Não:25.16%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.92%| Não:26.08%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:62.32%| Não:37.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:62.9%| Não:37.1%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:14.06%| Não:85.88%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.58%| Não:83.42%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:72.11%| Não:27.89%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.24%| Não:28.76%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:78.12%| Não:21.88%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:75.3%| Não:24.66%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:25.13%| Não:74.87%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:22.37%| Não:77.59%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:23.36%| Não:76.61%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:22.36%| Não:77.62%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:83.72%| Não:16.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.5%| Não:30.49%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:89.93%| Não:10.06%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:48.76%| Não:51.22%| Não sabe:0.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:56.83%| Não:43.06%| Não sabe:0.11%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:30.07%| Não:69.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:78.19%| Não:21.76%| Não sabe:0.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:66.24%| Não:33.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:15.78%| Não:84.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:76.12%| Não:23.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:77.76%| Não:22.23%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:24.67%| Não:75.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:25.02%| Não:74.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:63.96%| Não:36.02%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(2477225) 2018(2597991) 2019(2770601) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:77.66%| Não:22.18%| Não sabe:0.0%| Não respondeu:0.15%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.88%| Não:19.94%| Não sabe:0.18%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:65.14%| Não:34.85%| Não sabe:0.0%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:65.15%| Não:34.85%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:82.39%| Não:17.55%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.23%| Não:20.77%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:43.95%| Não:55.99%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:44.74%| Não:55.26%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:60.14%| Não:39.84%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:56.82%| Não:43.17%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:21.65%| Não:78.35%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:23.18%| Não:76.82%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:71.3%| Não:28.16%| Não sabe:0.54%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:69.42%| Não:30.58%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:60.03%| Não:39.95%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:58.56%| Não:41.4%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:16.29%| Não:83.71%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:15.18%| Não:84.81%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:71.84%| Não:28.16%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.8%| Não:29.2%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:73.15%| Não:26.85%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:74.07%| Não:25.87%| Não sabe:0.02%| Não respondeu:0.03%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:22.49%| Não:77.5%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:22.93%| Não:77.05%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:25.31%| Não:74.59%| Não sabe:0.08%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:21.62%| Não:78.38%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:80.25%| Não:19.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:67.5%| Não:32.45%| Não sabe:0.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:79.07%| Não:20.83%| Não sabe:0.1%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:43.17%| Não:56.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:62.65%| Não:37.21%| Não sabe:0.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.16%| Não:73.78%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:75.57%| Não:24.42%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:63.4%| Não:36.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:17.02%| Não:82.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:71.54%| Não:28.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:73.74%| Não:26.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:25.27%| Não:74.67%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:23.67%| Não:76.24%| Não sabe:0.09%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:51.61%| Não:48.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(345739) 2018(427151) 2019(502156) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:82.54%| Não:17.46%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:80.5%| Não:19.44%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:64.58%| Não:35.39%| Não sabe:0.0%| Não respondeu:0.02%| Não se aplica:0.0%| 
+                -> 2018: Sim:66.36%| Não:33.6%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:85.24%| Não:14.76%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:80.46%| Não:19.54%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:50.68%| Não:49.32%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:50.97%| Não:49.02%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:59.76%| Não:40.24%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:50.53%| Não:49.46%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:25.46%| Não:74.54%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:24.28%| Não:75.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:73.82%| Não:26.18%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.5%| Não:29.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:57.03%| Não:42.97%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:58.74%| Não:41.13%| Não sabe:0.12%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:14.41%| Não:85.59%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:17.32%| Não:82.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:73.78%| Não:26.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.85%| Não:26.15%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:76.28%| Não:23.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:74.57%| Não:25.43%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:23.18%| Não:76.82%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:27.71%| Não:72.24%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:17.43%| Não:82.57%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:19.56%| Não:80.44%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:77.61%| Não:22.37%| Não sabe:0.02%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:67.89%| Não:32.04%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:81.7%| Não:18.23%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:49.83%| Não:50.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:58.7%| Não:41.28%| Não sabe:0.02%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:25.63%| Não:74.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:71.84%| Não:28.15%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:57.33%| Não:42.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:18.4%| Não:81.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:76.72%| Não:23.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:75.77%| Não:24.17%| Não sabe:0.0%| Não respondeu:0.07%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.66%| Não:73.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:20.41%| Não:79.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:53.28%| Não:46.65%| Não sabe:0.05%| Não respondeu:0.02%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(494294) 2018(470136) 2019(471487) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:81.06%| Não:18.83%| Não sabe:0.0%| Não respondeu:0.11%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.23%| Não:20.77%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:68.49%| Não:31.51%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:63.01%| Não:36.94%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:84.03%| Não:15.97%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:81.17%| Não:18.83%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:48.71%| Não:51.29%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:48.18%| Não:51.78%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:54.3%| Não:45.61%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:57.91%| Não:42.08%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:26.71%| Não:73.29%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.37%| Não:73.61%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:71.38%| Não:28.62%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.87%| Não:28.12%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:68.78%| Não:31.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:61.21%| Não:38.79%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:21.01%| Não:78.99%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:18.38%| Não:81.62%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:75.73%| Não:24.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:77.34%| Não:22.66%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:79.32%| Não:20.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:72.26%| Não:27.55%| Não sabe:0.02%| Não respondeu:0.18%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:24.56%| Não:75.44%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:25.18%| Não:74.8%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:22.96%| Não:76.92%| Não sabe:0.06%| Não respondeu:0.06%| Não se aplica:0.0%| 
+                -> 2018: Sim:20.12%| Não:79.88%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:83.85%| Não:16.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:66.51%| Não:33.35%| Não sabe:0.12%| Não respondeu:0.02%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:83.89%| Não:15.96%| Não sabe:0.15%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:48.91%| Não:50.91%| Não sabe:0.18%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:55.71%| Não:44.26%| Não sabe:0.04%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.62%| Não:73.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:75.48%| Não:24.47%| Não sabe:0.0%| Não respondeu:0.05%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:66.85%| Não:33.14%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:16.38%| Não:83.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:77.09%| Não:22.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:79.72%| Não:20.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:24.86%| Não:75.01%| Não sabe:0.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:21.64%| Não:78.05%| Não sabe:0.3%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:56.15%| Não:43.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(1257083) 2018(1263791) 2019(1573078) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:77.67%| Não:22.32%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.11%| Não:20.74%| Não sabe:0.15%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:67.6%| Não:32.4%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:66.77%| Não:33.23%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:85.58%| Não:14.29%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:83.28%| Não:16.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:47.56%| Não:51.75%| Não sabe:0.22%| Não respondeu:0.47%| Não se aplica:0.0%| 
+                -> 2018: Sim:47.61%| Não:52.39%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:60.49%| Não:39.47%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:55.0%| Não:44.98%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:32.16%| Não:67.83%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:30.54%| Não:69.46%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:70.59%| Não:29.41%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:72.33%| Não:27.67%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:61.88%| Não:38.08%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:63.87%| Não:36.11%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:12.23%| Não:87.65%| Não sabe:0.12%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.82%| Não:86.18%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:69.11%| Não:30.89%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.15%| Não:28.85%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:75.73%| Não:24.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:76.85%| Não:23.15%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:27.4%| Não:72.6%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:28.54%| Não:71.46%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:20.64%| Não:79.2%| Não sabe:0.16%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:18.31%| Não:81.69%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:83.23%| Não:16.76%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.88%| Não:30.08%| Não sabe:0.04%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:85.27%| Não:14.72%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:50.82%| Não:49.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:58.8%| Não:41.16%| Não sabe:0.03%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:37.24%| Não:62.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:75.3%| Não:24.64%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:68.12%| Não:31.87%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:15.72%| Não:84.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:75.35%| Não:24.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:79.12%| Não:20.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:29.04%| Não:70.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:14.66%| Não:85.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:62.22%| Não:37.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(2337489) 2018(2697957) 2019(2557928) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:81.62%| Não:18.22%| Não sabe:0.0%| Não respondeu:0.16%| Não se aplica:0.0%| 
+                -> 2018: Sim:81.03%| Não:18.78%| Não sabe:0.19%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:62.86%| Não:37.13%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:62.22%| Não:37.78%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:87.18%| Não:12.82%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:84.28%| Não:15.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:42.49%| Não:57.5%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:43.63%| Não:56.37%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:52.87%| Não:46.83%| Não sabe:0.3%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:56.07%| Não:43.93%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:22.18%| Não:77.82%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:21.19%| Não:78.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:73.95%| Não:25.47%| Não sabe:0.58%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.88%| Não:28.12%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:58.8%| Não:41.2%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:59.78%| Não:40.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:16.48%| Não:83.52%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.77%| Não:83.23%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:71.77%| Não:28.23%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:69.94%| Não:30.06%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:74.69%| Não:25.31%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.78%| Não:26.18%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:22.29%| Não:77.7%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:20.14%| Não:79.81%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:27.38%| Não:72.62%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:24.02%| Não:75.98%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:82.14%| Não:17.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.84%| Não:30.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:85.08%| Não:14.84%| Não sabe:0.08%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:41.97%| Não:58.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:61.17%| Não:38.6%| Não sabe:0.23%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:24.67%| Não:75.26%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:81.9%| Não:18.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:66.13%| Não:33.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:16.38%| Não:83.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:73.55%| Não:26.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:73.56%| Não:26.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:23.11%| Não:76.84%| Não sabe:0.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:31.67%| Não:68.29%| Não sabe:0.04%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:57.48%| Não:42.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(642077) 2018(706216) 2019(689822) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:79.68%| Não:20.32%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.52%| Não:20.47%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:65.65%| Não:34.31%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:60.56%| Não:39.4%| Não sabe:0.0%| Não respondeu:0.04%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:84.34%| Não:15.66%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:86.08%| Não:13.91%| Não sabe:0.01%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:52.82%| Não:47.18%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:46.31%| Não:53.69%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:54.66%| Não:45.34%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:55.78%| Não:44.09%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:30.72%| Não:69.28%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:28.02%| Não:71.98%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:75.87%| Não:24.08%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.42%| Não:28.58%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:65.04%| Não:34.96%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:60.74%| Não:39.23%| Não sabe:0.01%| Não respondeu:0.02%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:11.88%| Não:88.12%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:14.01%| Não:85.97%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:74.5%| Não:25.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:69.12%| Não:30.88%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:76.19%| Não:23.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:76.27%| Não:23.64%| Não sabe:0.07%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:22.32%| Não:77.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.8%| Não:83.15%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:25.1%| Não:74.85%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:23.71%| Não:76.19%| Não sabe:0.1%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:81.09%| Não:18.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:62.57%| Não:37.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:85.01%| Não:14.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:45.85%| Não:54.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:59.04%| Não:40.9%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:23.58%| Não:76.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:66.95%| Não:32.98%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:57.02%| Não:42.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:16.33%| Não:83.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:67.89%| Não:32.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:74.15%| Não:25.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:21.33%| Não:78.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:24.26%| Não:75.73%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:55.49%| Não:44.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(1628319) 2018(1968595) 2019(2143221) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:67.25%| Não:32.72%| Não sabe:0.0%| Não respondeu:0.03%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.12%| Não:29.65%| Não sabe:0.23%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:57.11%| Não:42.87%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:54.87%| Não:45.12%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:78.23%| Não:21.75%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:77.13%| Não:22.87%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:31.6%| Não:68.03%| Não sabe:0.0%| Não respondeu:0.36%| Não se aplica:0.0%| 
+                -> 2018: Sim:33.11%| Não:66.89%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:69.35%| Não:30.37%| Não sabe:0.28%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:65.51%| Não:34.45%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:25.78%| Não:74.22%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:21.78%| Não:78.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:58.25%| Não:40.92%| Não sabe:0.83%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:61.42%| Não:38.58%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:46.15%| Não:53.82%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:49.55%| Não:50.44%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:10.13%| Não:89.87%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:11.36%| Não:88.63%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:60.55%| Não:39.45%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:60.5%| Não:39.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:69.51%| Não:30.49%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.84%| Não:29.12%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:24.3%| Não:75.69%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:22.83%| Não:77.17%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:14.15%| Não:85.71%| Não sabe:0.14%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.68%| Não:86.32%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.42%| Não:30.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:60.4%| Não:39.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:78.21%| Não:21.66%| Não sabe:0.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:34.44%| Não:65.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.32%| Não:30.48%| Não sabe:0.2%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:25.67%| Não:74.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:65.71%| Não:34.26%| Não sabe:0.02%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:53.38%| Não:46.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:11.24%| Não:88.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:61.61%| Não:38.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:69.02%| Não:30.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:21.53%| Não:78.44%| Não sabe:0.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:13.36%| Não:86.56%| Não sabe:0.08%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:51.01%| Não:48.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(2611688) 2018(2576220) 2019(2627954) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:87.23%| Não:12.62%| Não sabe:0.0%| Não respondeu:0.15%| Não se aplica:0.0%| 
+                -> 2018: Sim:86.76%| Não:13.21%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:69.99%| Não:30.01%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.87%| Não:29.11%| Não sabe:0.01%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:88.8%| Não:11.14%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:87.07%| Não:12.93%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:53.45%| Não:46.45%| Não sabe:0.1%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:53.34%| Não:46.65%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:45.88%| Não:54.12%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:47.13%| Não:52.87%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:24.11%| Não:75.89%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:25.67%| Não:74.33%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:80.35%| Não:19.65%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.99%| Não:20.01%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:67.87%| Não:32.13%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:69.64%| Não:30.34%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:17.71%| Não:82.24%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:20.35%| Não:79.65%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:78.33%| Não:21.67%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:78.98%| Não:21.02%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:77.26%| Não:22.74%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:77.51%| Não:22.41%| Não sabe:0.04%| Não respondeu:0.04%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:23.5%| Não:76.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:24.82%| Não:75.12%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:29.99%| Não:69.98%| Não sabe:0.01%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.52%| Não:73.45%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:89.24%| Não:10.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:73.5%| Não:26.49%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:87.87%| Não:12.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:54.57%| Não:45.42%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:51.17%| Não:48.75%| Não sabe:0.08%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:28.85%| Não:71.08%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:84.44%| Não:15.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:73.94%| Não:26.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:19.98%| Não:80.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:82.61%| Não:17.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:80.1%| Não:19.89%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:27.22%| Não:72.73%| Não sabe:0.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.16%| Não:73.81%| Não sabe:0.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:59.61%| Não:40.38%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(836676) 2018(1020437) 2019(1023298) 
+        Faz trabalhos sobre um tema
+                -> 2017: Sim:84.68%| Não:15.3%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:83.1%| Não:16.68%| Não sabe:0.22%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz lição e exercícios que o professor passa 
+                -> 2017: Sim:65.09%| Não:34.9%| Não sabe:0.0%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:61.15%| Não:38.85%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisa para a escola 
+                -> 2017: Sim:92.28%| Não:7.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:87.99%| Não:12.01%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Sim:52.07%| Não:47.88%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:51.34%| Não:48.66%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Joga jogos educativos
+                -> 2017: Sim:59.13%| Não:40.47%| Não sabe:0.4%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:57.42%| Não:42.54%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fala com o professor
+                -> 2017: Sim:34.73%| Não:65.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:28.73%| Não:71.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Realiza trabalhos em grupo
+                -> 2017: Sim:79.38%| Não:20.58%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.26%| Não:28.74%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz trabalhos escolares a distância
+                -> 2017: Sim:69.69%| Não:30.31%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:60.57%| Não:39.39%| Não sabe:0.02%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Participa de cursos
+                -> 2017: Sim:16.94%| Não:83.06%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.55%| Não:86.45%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Usa a Internet para estudar para uma prova
+                -> 2017: Sim:74.39%| Não:25.61%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.31%| Não:28.69%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Sim:82.85%| Não:17.15%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:75.19%| Não:24.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Divulga na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Sim:24.01%| Não:75.99%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.72%| Não:83.26%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Faz provas ou simulados
+                -> 2017: Sim:26.37%| Não:73.62%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.71%| Não:73.29%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer trabalhos sobre um tema
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.07%| Não:9.91%| Não sabe:0.02%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer lição e exercícios que o professor passa 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:72.9%| Não:26.98%| Não sabe:0.12%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisa para a escola 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.35%| Não:9.61%| Não sabe:0.04%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para fazer apresentações para os colegas de classe 
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:48.68%| Não:51.25%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Jogar jogos educativos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:60.98%| Não:38.95%| Não sabe:0.06%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Falar com o professor
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:31.81%| Não:68.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Realizar trabalhos em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:81.18%| Não:18.72%| Não sabe:0.1%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer trabalhos escolares a distância
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:65.72%| Não:34.28%| Não sabe:0.0%| Não respondeu:0.01%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Participar de cursos
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:17.86%| Não:82.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para estudar para uma prova
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:77.42%| Não:22.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer pesquisas sobre o que os professores falam nas aulas
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:79.15%| Não:20.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgar na Internet o próprio trabalho da escola ou um trabalho realizado em grupo
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.32%| Não:73.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Fazer provas ou simulados
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:42.87%| Não:57.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Usar a Internet para aprender um idioma
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:68.86%| Não:31.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

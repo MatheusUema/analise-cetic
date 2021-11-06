@@ -1,0 +1,191 @@
+TOTAL PARA O INDICADOR A1A – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR GRAU DE ESCOLARIDADE
+Em termos de TOTAL:
+    Total: 2019(77296) 
+    Ensino Médio
+        -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de  que foi de 0%
+    Ensino Superior
+        -> 2019: Sim:99.71%| Não:0.17%| Não sabe:0.0%| Não respondeu:0.12%| 
+        A principal variação foi de  que foi de 0%
+    Especialização ou pós-graduação
+        -> 2019: Sim:84.5%| Não:15.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de  que foi de 0%
+    Mestrado
+        -> 2019: Sim:5.56%| Não:94.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de  que foi de 0%
+    Doutorado
+        -> 2019: Sim:0.62%| Não:99.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de  que foi de 0%
+Em termos de SEXO:
+   Feminino:
+        Total: 2019(70755) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.86%| Não:0.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:84.62%| Não:15.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:3.99%| Não:96.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.43%| Não:99.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Masculino:
+        Total: 2019(6541) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:98.13%| Não:0.46%| Não sabe:0.0%| Não respondeu:1.41%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:83.17%| Não:16.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:22.57%| Não:77.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:2.57%| Não:97.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2019(6060) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:88.8%| Não:11.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:6.2%| Não:93.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.89%| Não:99.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Centro-Oeste:
+        Total: 2019(5729) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:98.9%| Não:1.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:89.33%| Não:10.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:9.25%| Não:90.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.33%| Não:99.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Nordeste:
+        Total: 2019(23941) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.62%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.38%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:90.53%| Não:9.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:6.44%| Não:93.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.7%| Não:99.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Sudeste:
+        Total: 2019(30032) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.82%| Não:0.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:75.53%| Não:24.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:3.25%| Não:96.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.78%| Não:99.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Sul:
+        Total: 2019(11536) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.88%| Não:0.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:90.63%| Não:9.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:7.58%| Não:92.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.0%| Não:100.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2019(30986) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.91%| Não:0.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:85.39%| Não:14.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:3.9%| Não:96.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.15%| Não:99.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Pública Estadual:
+        Total: 2019(24490) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.72%| Não:0.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:84.8%| Não:15.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:5.92%| Não:94.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:1.18%| Não:98.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+   Particular:
+        Total: 2019(21820) 
+        Ensino Médio
+                -> 2019: Sim:100.0%| Não:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Ensino Superior
+                -> 2019: Sim:99.42%| Não:0.16%| Não sabe:0.0%| Não respondeu:0.42%| 
+                A principal variação foi de  que foi de 0%
+        Especialização ou pós-graduação
+                -> 2019: Sim:82.89%| Não:17.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Mestrado
+                -> 2019: Sim:7.52%| Não:92.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%
+        Doutorado
+                -> 2019: Sim:0.64%| Não:99.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de  que foi de 0%

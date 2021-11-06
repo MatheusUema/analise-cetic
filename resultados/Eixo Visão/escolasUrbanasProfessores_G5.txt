@@ -1,0 +1,378 @@
+TOTAL PARA O INDICADOR G5 – PROFESSORES DE ESCOLAS URBANAS, POR TIPO DE MOTIVAÇÃO PARA O USO DE RECURSOS OBTIDOS NA INTERNET
+Em termos de TOTAL:
+    Total: 2018(309699) 2019(304139) 
+    Direção da escola
+        -> 2018: Sim:48.97%| Não:47.27%| Não sabe:0.18%| Não respondeu:0.04%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:48.23%| Não:47.14%| Não sabe:0.17%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Coordenação pedagógica
+        -> 2018: Sim:56.03%| Não:40.22%| Não sabe:0.13%| Não respondeu:0.07%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:59.0%| Não:36.4%| Não sabe:0.15%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Secretaria de Educação ou outros órgãos governamentais
+        -> 2018: Sim:34.24%| Não:61.94%| Não sabe:0.26%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:41.86%| Não:52.85%| Não sabe:0.68%| Não respondeu:0.19%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Projeto Político Pedagógico
+        -> 2018: Sim:57.21%| Não:38.87%| Não sabe:0.3%| Não respondeu:0.08%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:59.43%| Não:35.45%| Não sabe:0.5%| Não respondeu:0.19%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Colegas ou outros educadores
+        -> 2018: Sim:73.42%| Não:23.03%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:71.67%| Não:23.85%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Motivação própria
+        -> 2018: Sim:95.97%| Não:0.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:94.43%| Não:1.14%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Alunos
+        -> 2018: Sim:56.56%| Não:39.87%| Não sabe:0.03%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:53.35%| Não:42.21%| Não sabe:0.01%| Não respondeu:0.01%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+    Outros
+        -> 2018: Sim:20.03%| Não:76.42%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:23.67%| Não:71.9%| Não utilizou recursos obtidos da Internet:4.42%| 
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2018(227752) 2019(224798) 
+        Direção da escola
+                -> 2018: Sim:47.15%| Não:49.92%| Não sabe:0.15%| Não respondeu:0.05%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:48.75%| Não:46.42%| Não sabe:0.24%| Não respondeu:0.04%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:53.78%| Não:43.29%| Não sabe:0.14%| Não respondeu:0.06%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:59.92%| Não:35.3%| Não sabe:0.21%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:33.91%| Não:63.1%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:40.61%| Não:53.73%| Não sabe:0.86%| Não respondeu:0.25%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:57.15%| Não:39.84%| Não sabe:0.28%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:61.74%| Não:33.04%| Não sabe:0.53%| Não respondeu:0.13%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:73.22%| Não:24.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:70.63%| Não:24.74%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:97.0%| Não:0.27%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:95.06%| Não:0.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:56.98%| Não:40.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:52.46%| Não:42.96%| Não sabe:0.01%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:18.94%| Não:78.33%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:24.73%| Não:70.71%| Não utilizou recursos obtidos da Internet:4.55%| 
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2018(81947) 2019(79341) 
+        Direção da escola
+                -> 2018: Sim:54.04%| Não:39.9%| Não sabe:0.25%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:46.76%| Não:49.18%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:62.29%| Não:31.7%| Não sabe:0.1%| Não respondeu:0.1%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:56.42%| Não:39.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:35.16%| Não:58.72%| Não sabe:0.25%| Não respondeu:0.06%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:45.4%| Não:50.36%| Não sabe:0.18%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:57.36%| Não:36.17%| Não sabe:0.35%| Não respondeu:0.31%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:52.86%| Não:42.29%| Não sabe:0.42%| Não respondeu:0.37%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:73.97%| Não:20.19%| Não sabe:0.03%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:74.61%| Não:21.33%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:93.11%| Não:1.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:92.66%| Não:3.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:55.38%| Não:38.71%| Não sabe:0.1%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:55.87%| Não:40.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:23.06%| Não:71.13%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:20.68%| Não:75.26%| Não utilizou recursos obtidos da Internet:4.06%| 
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(22935) 2019(25940) 
+        Direção da escola
+                -> 2018: Sim:41.36%| Não:52.82%| Não sabe:1.03%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:42.56%| Não:53.62%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:53.51%| Não:40.34%| Não sabe:1.0%| Não respondeu:0.36%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:56.85%| Não:39.33%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:34.22%| Não:59.69%| Não sabe:1.3%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:33.55%| Não:62.11%| Não sabe:0.0%| Não respondeu:0.52%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:53.14%| Não:41.12%| Não sabe:0.95%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:51.14%| Não:43.63%| Não sabe:1.41%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:69.43%| Não:25.78%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:66.52%| Não:29.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:94.18%| Não:1.03%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:94.87%| Não:1.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:56.33%| Não:38.88%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:49.55%| Não:46.4%| Não sabe:0.09%| Não respondeu:0.15%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:28.97%| Não:66.24%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:23.92%| Não:72.26%| Não utilizou recursos obtidos da Internet:3.82%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2018(26514) 2019(25144) 
+        Direção da escola
+                -> 2018: Sim:45.83%| Não:49.26%| Não sabe:0.99%| Não respondeu:0.4%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:54.96%| Não:43.42%| Não sabe:0.18%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:52.12%| Não:44.03%| Não sabe:0.33%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:68.42%| Não:28.86%| Não sabe:1.27%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:35.54%| Não:60.17%| Não sabe:0.77%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:39.83%| Não:57.13%| Não sabe:1.38%| Não respondeu:0.21%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:60.71%| Não:35.03%| Não sabe:0.73%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:65.01%| Não:31.1%| Não sabe:2.45%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:61.92%| Não:34.47%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:76.42%| Não:22.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:95.76%| Não:0.72%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:97.32%| Não:1.23%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:54.98%| Não:41.19%| Não sabe:0.3%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:55.74%| Não:42.81%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:16.51%| Não:79.96%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:26.79%| Não:71.76%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2018(86822) 2019(94678) 
+        Direção da escola
+                -> 2018: Sim:48.63%| Não:47.59%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:47.35%| Não:45.64%| Não sabe:0.16%| Não respondeu:0.09%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:57.99%| Não:38.23%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:57.45%| Não:35.72%| Não sabe:0.0%| Não respondeu:0.06%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:35.25%| Não:60.9%| Não sabe:0.0%| Não respondeu:0.06%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:42.0%| Não:50.7%| Não sabe:0.31%| Não respondeu:0.22%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:58.57%| Não:37.64%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:55.37%| Não:37.13%| Não sabe:0.42%| Não respondeu:0.31%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:74.09%| Não:22.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:72.14%| Não:21.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:95.81%| Não:0.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:90.86%| Não:2.37%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:51.71%| Não:44.5%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:46.58%| Não:46.65%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:17.81%| Não:78.41%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:30.36%| Não:62.87%| Não utilizou recursos obtidos da Internet:6.77%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2018(132979) 2019(121294) 
+        Direção da escola
+                -> 2018: Sim:51.91%| Não:45.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:50.37%| Não:45.11%| Não sabe:0.27%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:57.68%| Não:39.59%| Não sabe:0.0%| Não respondeu:0.1%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:59.43%| Não:36.2%| Não sabe:0.12%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:33.86%| Não:63.29%| Não sabe:0.22%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:44.38%| Não:50.31%| Não sabe:1.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:56.99%| Não:39.87%| Não sabe:0.32%| Não respondeu:0.19%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:63.73%| Não:31.78%| Não sabe:0.0%| Não respondeu:0.24%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:75.55%| Não:21.82%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:71.09%| Não:24.65%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:96.97%| Não:0.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:95.35%| Não:0.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:61.12%| Não:36.25%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:55.79%| Não:39.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:21.31%| Não:76.07%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:18.74%| Não:77.01%| Não utilizou recursos obtidos da Internet:4.25%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2018(40451) 2019(37082) 
+        Direção da escola
+                -> 2018: Sim:46.4%| Não:48.1%| Não sabe:0.11%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:42.9%| Não:55.65%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:50.41%| Não:44.02%| Não sabe:0.18%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:56.7%| Não:41.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:32.46%| Não:62.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:40.43%| Não:57.25%| Não sabe:0.41%| Não respondeu:0.46%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:54.99%| Não:39.42%| Não sabe:0.23%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:57.73%| Não:40.42%| Não sabe:0.41%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:74.78%| Não:19.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:72.77%| Não:25.38%| Não sabe:0.41%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:94.2%| Não:0.44%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:98.3%| Não:0.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:53.11%| Não:41.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:63.66%| Não:34.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:17.85%| Não:76.79%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:20.47%| Não:78.09%| Não utilizou recursos obtidos da Internet:1.44%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(113287) 2019(125492) 
+        Direção da escola
+                -> 2018: Sim:45.79%| Não:51.12%| Não sabe:0.24%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:47.97%| Não:45.77%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:56.27%| Não:40.64%| Não sabe:0.24%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:59.24%| Não:34.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:36.35%| Não:60.54%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:42.78%| Não:49.76%| Não sabe:1.14%| Não respondeu:0.11%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:54.42%| Não:42.44%| Não sabe:0.06%| Não respondeu:0.22%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:57.59%| Não:35.76%| Não sabe:0.2%| Não respondeu:0.24%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:74.76%| Não:22.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:68.58%| Não:25.2%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:97.07%| Não:0.09%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:91.66%| Não:2.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:51.95%| Não:45.21%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:48.63%| Não:45.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:24.14%| Não:73.01%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:23.94%| Não:69.84%| Não utilizou recursos obtidos da Internet:6.22%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2018(126435) 2019(119745) 
+        Direção da escola
+                -> 2018: Sim:51.04%| Não:44.01%| Não sabe:0.15%| Não respondeu:0.09%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:43.08%| Não:52.69%| Não sabe:0.28%| Não respondeu:0.07%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:55.84%| Não:39.24%| Não sabe:0.03%| Não respondeu:0.18%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:52.82%| Não:43.03%| Não sabe:0.27%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:42.54%| Não:52.57%| Não sabe:0.14%| Não respondeu:0.04%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:44.98%| Não:50.52%| Não sabe:0.27%| Não respondeu:0.36%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:61.82%| Não:32.84%| Não sabe:0.64%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:57.26%| Não:37.98%| Não sabe:0.64%| Não respondeu:0.24%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:69.52%| Não:25.76%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:71.28%| Não:24.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:94.31%| Não:0.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:95.74%| Não:0.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:55.88%| Não:39.41%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:56.15%| Não:39.94%| Não sabe:0.0%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:21.18%| Não:74.12%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:20.97%| Não:75.15%| Não utilizou recursos obtidos da Internet:3.88%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2018(69977) 2019(58903) 
+        Direção da escola
+                -> 2018: Sim:50.37%| Não:46.94%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:59.25%| Não:38.78%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Coordenação pedagógica
+                -> 2018: Sim:55.98%| Não:41.32%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:71.06%| Não:26.88%| Não sabe:0.25%| Não respondeu:0.1%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Secretaria de Educação ou outros órgãos governamentais
+                -> 2018: Sim:15.83%| Não:81.13%| Não sabe:0.45%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:33.56%| Não:64.17%| Não sabe:0.56%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Projeto Político Pedagógico
+                -> 2018: Sim:53.38%| Não:43.95%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:67.76%| Não:29.64%| Não sabe:0.88%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Colegas ou outros educadores
+                -> 2018: Sim:78.29%| Não:19.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:79.03%| Não:18.99%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Motivação própria
+                -> 2018: Sim:97.21%| Não:0.2%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:97.7%| Não:0.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Alunos
+                -> 2018: Sim:65.24%| Não:32.06%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:57.7%| Não:40.54%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores
+        Outros
+                -> 2018: Sim:11.3%| Não:86.11%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:28.62%| Não:69.67%| Não utilizou recursos obtidos da Internet:1.71%| 
+                Não foi possível analisar com anos anteriores

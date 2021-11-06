@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR C3A – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR REALIZAÇÃO DE ATIVIDADES DE FORMAÇÃO DE PROFESSORES PARA O USO PEDAGÓGICO DAS TIC NA ESCOLA
+Em termos de TOTAL:
+    Total: 2017(78532) 2018(80504) 2019(77295) 
+    -> 2017: Sim:37.99%| Não:60.09%| Não sabe:1.9%| Não respondeu:0.02%| 
+    -> 2018: Sim:40.5%| Não:57.29%| Não sabe:2.09%| Não respondeu:0.12%| 
+    -> 2019: Sim:41.31%| Não:56.81%| Não sabe:1.68%| Não respondeu:0.2%| 
+        A principal variação foi de Sim que foi de 3.32%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(69343) 2018(72029) 2019(70755) 
+        -> 2017: Sim:38.98%| Não:58.94%| Não sabe:2.06%| Não respondeu:0.02%| 
+        -> 2018: Sim:39.94%| Não:57.71%| Não sabe:2.21%| Não respondeu:0.13%| 
+        -> 2019: Sim:41.82%| Não:56.46%| Não sabe:1.5%| Não respondeu:0.22%| 
+                A principal variação foi de Sim que foi de 2.84%
+   Masculino:
+        Total: 2017(9191) 2018(8473) 2019(6541) 
+        -> 2017: Sim:30.5%| Não:68.73%| Não sabe:0.77%| Não respondeu:0.0%| 
+        -> 2018: Sim:45.21%| Não:53.71%| Não sabe:1.07%| Não respondeu:0.0%| 
+        -> 2019: Sim:35.79%| Não:60.63%| Não sabe:3.58%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.1%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(6577) 2018(6890) 2019(6060) 
+        -> 2017: Sim:30.21%| Não:66.92%| Não sabe:2.62%| Não respondeu:0.26%| 
+        -> 2018: Sim:33.44%| Não:63.89%| Não sabe:2.48%| Não respondeu:0.19%| 
+        -> 2019: Sim:24.36%| Não:73.89%| Não sabe:1.2%| Não respondeu:0.54%| 
+                A principal variação foi de Não que foi de 6.97%
+   Centro-Oeste:
+        Total: 2017(6207) 2018(6003) 2019(5729) 
+        -> 2017: Sim:41.53%| Não:57.18%| Não sabe:1.29%| Não respondeu:0.0%| 
+        -> 2018: Sim:40.06%| Não:58.57%| Não sabe:1.37%| Não respondeu:0.0%| 
+        -> 2019: Sim:43.74%| Não:56.07%| Não sabe:0.19%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.21%
+   Nordeste:
+        Total: 2017(23992) 2018(24470) 2019(23940) 
+        -> 2017: Sim:32.9%| Não:62.63%| Não sabe:4.46%| Não respondeu:0.0%| 
+        -> 2018: Sim:34.51%| Não:63.16%| Não sabe:1.98%| Não respondeu:0.34%| 
+        -> 2019: Sim:39.34%| Não:59.0%| Não sabe:1.66%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.44%
+   Sudeste:
+        Total: 2017(29938) 2018(30855) 2019(30031) 
+        -> 2017: Sim:43.41%| Não:56.38%| Não sabe:0.21%| Não respondeu:0.0%| 
+        -> 2018: Sim:41.63%| Não:56.39%| Não sabe:1.98%| Não respondeu:0.0%| 
+        -> 2019: Sim:44.42%| Não:53.36%| Não sabe:1.81%| Não respondeu:0.41%| 
+                A principal variação foi de Não que foi de 3.02%
+   Sul:
+        Total: 2017(11819) 2018(12285) 2019(11536) 
+        -> 2017: Sim:37.03%| Não:62.03%| Não sabe:0.94%| Não respondeu:0.0%| 
+        -> 2018: Sim:53.76%| Não:43.52%| Não sabe:2.73%| Não respondeu:0.0%| 
+        -> 2019: Sim:44.99%| Não:52.64%| Não sabe:2.37%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.39%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(31575) 2018(32484) 2019(30987) 
+        -> 2017: Sim:23.43%| Não:74.85%| Não sabe:1.66%| Não respondeu:0.05%| 
+        -> 2018: Sim:29.17%| Não:68.06%| Não sabe:2.72%| Não respondeu:0.04%| 
+        -> 2019: Sim:31.28%| Não:68.41%| Não sabe:0.2%| Não respondeu:0.11%| 
+                A principal variação foi de Sim que foi de 7.85%
+   Pública Estadual:
+        Total: 2017(25974) 2018(26643) 2019(24489) 
+        -> 2017: Sim:37.11%| Não:59.16%| Não sabe:3.73%| Não respondeu:0.0%| 
+        -> 2018: Sim:36.11%| Não:61.17%| Não sabe:2.72%| Não respondeu:0.0%| 
+        -> 2019: Sim:36.6%| Não:59.19%| Não sabe:4.21%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.51%
+   Particular:
+        Total: 2017(20984) 2018(21376) 2019(21819) 
+        -> 2017: Sim:60.98%| Não:39.01%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2018: Sim:63.17%| Não:36.08%| Não sabe:0.35%| Não respondeu:0.39%| 
+        -> 2019: Sim:60.82%| Não:37.67%| Não sabe:0.95%| Não respondeu:0.56%| 
+                A principal variação foi de Não que foi de 1.34%

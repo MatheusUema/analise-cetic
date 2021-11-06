@@ -1,0 +1,114 @@
+TOTAL PARA O INDICADOR C4A – DIRETORES DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE O PROJETO POLÍTICO PEDAGÓGICO DA ESCOLA
+Em termos de TOTAL:
+    Total: 2018(74906) 2019(75116) 
+    Prevê o uso de Internet para atividades com os alunos
+        -> 2018: Sim:79.36%| Não:19.59%| Não sabe:1.05%| Não respondeu:0.01%| 
+        -> 2019: Sim:87.93%| Não:11.65%| Não sabe:0.38%| Não respondeu:0.04%| 
+        A principal variação foi de Sim que foi de 8.57%
+    Contém orientações sobre como usar a Internet nas atividades com os alunos
+        -> 2018: Sim:60.58%| Não:38.61%| Não sabe:0.8%| Não respondeu:0.01%| 
+        -> 2019: Sim:66.65%| Não:32.7%| Não sabe:0.61%| Não respondeu:0.04%| 
+        A principal variação foi de Sim que foi de 6.07%
+Em termos de SEXO:
+   Feminino:
+        Total: 2018(56974) 2019(54275) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:77.46%| Não:21.28%| Não sabe:1.26%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.52%| Não:11.97%| Não sabe:0.45%| Não respondeu:0.06%| 
+                A principal variação foi de Sim que foi de 10.06%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:60.2%| Não:38.85%| Não sabe:0.95%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.61%| Não:33.76%| Não sabe:0.57%| Não respondeu:0.06%| 
+                A principal variação foi de Sim que foi de 5.41%
+   Masculino:
+        Total: 2018(17933) 2019(20841) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:85.38%| Não:14.21%| Não sabe:0.37%| Não respondeu:0.04%| 
+                -> 2019: Sim:89.0%| Não:10.81%| Não sabe:0.19%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.62%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:61.8%| Não:37.83%| Não sabe:0.33%| Não respondeu:0.04%| 
+                -> 2019: Sim:69.36%| Não:29.92%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.91%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(5877) 2019(5908) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:72.61%| Não:26.82%| Não sabe:0.58%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.62%| Não:14.88%| Não sabe:1.96%| Não respondeu:0.54%| 
+                A principal variação foi de Não que foi de 11.94%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:53.72%| Não:44.78%| Não sabe:1.5%| Não respondeu:0.0%| 
+                -> 2019: Sim:64.39%| Não:31.69%| Não sabe:3.39%| Não respondeu:0.54%| 
+                A principal variação foi de Não que foi de 13.09%
+   Centro-Oeste:
+        Total: 2018(5595) 2019(5592) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:79.96%| Não:18.41%| Não sabe:1.63%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.98%| Não:10.87%| Não sabe:0.14%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.02%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:68.1%| Não:30.55%| Não sabe:1.36%| Não respondeu:0.0%| 
+                -> 2019: Sim:68.53%| Não:29.33%| Não sabe:2.15%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.22%
+   Nordeste:
+        Total: 2018(23305) 2019(23405) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:80.31%| Não:18.59%| Não sabe:1.09%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.89%| Não:15.83%| Não sabe:0.28%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.58%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:59.78%| Não:38.54%| Não sabe:1.68%| Não respondeu:0.0%| 
+                -> 2019: Sim:67.66%| Não:32.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.88%
+   Sudeste:
+        Total: 2018(29109) 2019(29187) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:77.21%| Não:21.52%| Não sabe:1.27%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.13%| Não:8.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 13.92%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:58.79%| Não:41.18%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.58%| Não:34.15%| Não sabe:0.27%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.03%
+   Sul:
+        Total: 2018(11020) 2019(11024) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:86.3%| Não:13.34%| Não sabe:0.3%| Não respondeu:0.06%| 
+                -> 2019: Sim:90.38%| Não:8.76%| Não sabe:0.86%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.58%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:66.87%| Não:32.74%| Não sabe:0.33%| Não respondeu:0.06%| 
+                -> 2019: Sim:67.61%| Não:31.86%| Não sabe:0.53%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.88%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(30533) 2019(30468) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:75.24%| Não:24.6%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.01%| Não:14.29%| Não sabe:0.7%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.31%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:51.95%| Não:47.8%| Não sabe:0.25%| Não respondeu:0.0%| 
+                -> 2019: Sim:62.24%| Não:36.78%| Não sabe:0.98%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 11.02%
+   Pública Estadual:
+        Total: 2018(23583) 2019(23449) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:88.76%| Não:9.59%| Não sabe:1.65%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.78%| Não:9.78%| Não sabe:0.3%| Não respondeu:0.14%| 
+                A principal variação foi de Não sabe que foi de 1.35%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:61.68%| Não:37.96%| Não sabe:0.36%| Não respondeu:0.0%| 
+                -> 2019: Sim:66.57%| Não:32.68%| Não sabe:0.61%| Não respondeu:0.14%| 
+                A principal variação foi de Não que foi de 5.28%
+   Particular:
+        Total: 2018(20790) 2019(21200) 
+        Prevê o uso de Internet para atividades com os alunos
+                -> 2018: Sim:74.74%| Não:23.56%| Não sabe:1.66%| Não respondeu:0.03%| 
+                -> 2019: Sim:90.09%| Não:9.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 15.35%
+        Contém orientações sobre como usar a Internet nas atividades com os alunos
+                -> 2018: Sim:72.02%| Não:25.83%| Não sabe:2.12%| Não respondeu:0.03%| 
+                -> 2019: Sim:73.09%| Não:26.83%| Não sabe:0.08%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 2.04%

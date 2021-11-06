@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR B11 – ALUNOS DE ESCOLAS URBANAS, POR PRINCIPAL LOCAL DE ACESSO À INTERNET
+Em termos de TOTAL:
+    Total: 2017(5076682) 2018(5564932) 2019(5790857) 
+    -> 2017: Quarto:44.59%| Sala de casa ou outro lugar que não seja o quarto:38.63%| Escola:1.33%| Casa de outra pessoa :9.62%| Lanhouse ou cybercafé:0.88%| Telecentro:1.92%| Em deslocamento:2.58%| Outro local, como shopping, igreja ou lanchonete:0.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2018: Quarto:46.33%| Sala de casa ou outro lugar que não seja o quarto:39.63%| Escola:1.38%| Casa de outra pessoa :8.76%| Lanhouse ou cybercafé:0.51%| Em deslocamento:1.65%| Outro local, como shopping, igreja ou lanchonete:1.41%| Telecentro:0.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+    -> 2019: Quarto:46.72%| Sala de casa ou outro lugar que não seja o quarto:39.95%| Escola:1.17%| Casa de outra pessoa :8.19%| Lanhouse ou cybercafé:0.6%| Em deslocamento:1.55%| Outro local, como shopping, igreja ou lanchonete:1.54%| Centro público de acesso gratuito:0.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(2599459) 2018(2967261) 2019(3022750) 
+        -> 2017: Quarto:47.45%| Sala de casa ou outro lugar que não seja o quarto:35.54%| Escola:1.36%| Casa de outra pessoa :9.71%| Lanhouse ou cybercafé:0.41%| Telecentro:2.26%| Em deslocamento:2.75%| Outro local, como shopping, igreja ou lanchonete:0.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:50.02%| Sala de casa ou outro lugar que não seja o quarto:36.52%| Escola:1.63%| Casa de outra pessoa :8.36%| Lanhouse ou cybercafé:0.53%| Em deslocamento:1.45%| Outro local, como shopping, igreja ou lanchonete:1.29%| Telecentro:0.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:47.49%| Sala de casa ou outro lugar que não seja o quarto:39.6%| Escola:1.44%| Casa de outra pessoa :8.56%| Lanhouse ou cybercafé:0.12%| Em deslocamento:1.3%| Outro local, como shopping, igreja ou lanchonete:1.24%| Centro público de acesso gratuito:0.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(2477225) 2018(2597673) 2019(2768105) 
+        -> 2017: Quarto:41.59%| Sala de casa ou outro lugar que não seja o quarto:41.87%| Escola:1.3%| Casa de outra pessoa :9.52%| Lanhouse ou cybercafé:1.37%| Telecentro:1.56%| Em deslocamento:2.41%| Outro local, como shopping, igreja ou lanchonete:0.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:42.11%| Sala de casa ou outro lugar que não seja o quarto:43.19%| Escola:1.1%| Casa de outra pessoa :9.23%| Lanhouse ou cybercafé:0.48%| Em deslocamento:1.88%| Outro local, como shopping, igreja ou lanchonete:1.56%| Telecentro:0.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:45.89%| Sala de casa ou outro lugar que não seja o quarto:40.34%| Escola:0.88%| Casa de outra pessoa :7.79%| Lanhouse ou cybercafé:1.12%| Em deslocamento:1.83%| Outro local, como shopping, igreja ou lanchonete:1.87%| Centro público de acesso gratuito:0.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(345741) 2018(426833) 2019(502048) 
+        -> 2017: Quarto:39.88%| Sala de casa ou outro lugar que não seja o quarto:38.24%| Escola:1.82%| Casa de outra pessoa :12.69%| Lanhouse ou cybercafé:1.6%| Telecentro:1.24%| Em deslocamento:3.03%| Outro local, como shopping, igreja ou lanchonete:1.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:38.81%| Sala de casa ou outro lugar que não seja o quarto:37.78%| Escola:2.7%| Casa de outra pessoa :12.42%| Lanhouse ou cybercafé:1.49%| Em deslocamento:1.85%| Outro local, como shopping, igreja ou lanchonete:4.43%| Telecentro:0.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:39.75%| Sala de casa ou outro lugar que não seja o quarto:41.81%| Escola:1.63%| Casa de outra pessoa :10.36%| Lanhouse ou cybercafé:0.7%| Em deslocamento:2.12%| Outro local, como shopping, igreja ou lanchonete:2.9%| Centro público de acesso gratuito:0.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(494296) 2018(470136) 2019(470753) 
+        -> 2017: Quarto:53.29%| Sala de casa ou outro lugar que não seja o quarto:34.92%| Escola:0.3%| Casa de outra pessoa :8.86%| Lanhouse ou cybercafé:0.24%| Telecentro:0.72%| Em deslocamento:1.46%| Outro local, como shopping, igreja ou lanchonete:0.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:42.84%| Sala de casa ou outro lugar que não seja o quarto:43.74%| Escola:0.88%| Casa de outra pessoa :9.2%| Lanhouse ou cybercafé:0.28%| Em deslocamento:2.01%| Outro local, como shopping, igreja ou lanchonete:0.94%| Telecentro:0.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:44.0%| Sala de casa ou outro lugar que não seja o quarto:42.36%| Escola:0.9%| Casa de outra pessoa :7.19%| Lanhouse ou cybercafé:0.25%| Em deslocamento:2.38%| Outro local, como shopping, igreja ou lanchonete:2.63%| Centro público de acesso gratuito:0.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(1257082) 2018(1263792) 2019(1572801) 
+        -> 2017: Quarto:41.06%| Sala de casa ou outro lugar que não seja o quarto:36.97%| Escola:1.13%| Casa de outra pessoa :14.2%| Lanhouse ou cybercafé:1.66%| Telecentro:1.26%| Em deslocamento:3.14%| Outro local, como shopping, igreja ou lanchonete:0.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:43.22%| Sala de casa ou outro lugar que não seja o quarto:38.83%| Escola:1.13%| Casa de outra pessoa :12.75%| Lanhouse ou cybercafé:1.07%| Em deslocamento:0.72%| Outro local, como shopping, igreja ou lanchonete:1.86%| Telecentro:0.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:44.94%| Sala de casa ou outro lugar que não seja o quarto:39.03%| Escola:1.28%| Casa de outra pessoa :10.57%| Lanhouse ou cybercafé:0.53%| Em deslocamento:1.04%| Outro local, como shopping, igreja ou lanchonete:2.32%| Centro público de acesso gratuito:0.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(2337487) 2018(2697957) 2019(2555466) 
+        -> 2017: Quarto:44.3%| Sala de casa ou outro lugar que não seja o quarto:40.17%| Escola:1.54%| Casa de outra pessoa :7.65%| Lanhouse ou cybercafé:0.72%| Telecentro:2.75%| Em deslocamento:2.61%| Outro local, como shopping, igreja ou lanchonete:0.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:48.76%| Sala de casa ou outro lugar que não seja o quarto:39.96%| Escola:1.45%| Casa de outra pessoa :6.36%| Lanhouse ou cybercafé:0.24%| Em deslocamento:2.02%| Outro local, como shopping, igreja ou lanchonete:0.97%| Telecentro:0.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:50.03%| Sala de casa ou outro lugar que não seja o quarto:38.73%| Escola:0.94%| Casa de outra pessoa :7.13%| Lanhouse ou cybercafé:0.74%| Em deslocamento:1.49%| Outro local, como shopping, igreja ou lanchonete:0.81%| Centro público de acesso gratuito:0.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(642076) 2018(706215) 2019(689790) 
+        -> 2017: Quarto:48.43%| Sala de casa ou outro lugar que não seja o quarto:39.34%| Escola:1.51%| Casa de outra pessoa :6.74%| Lanhouse ou cybercafé:0.05%| Telecentro:1.48%| Em deslocamento:2.01%| Outro local, como shopping, igreja ou lanchonete:0.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:49.46%| Sala de casa ou outro lugar que não seja o quarto:38.19%| Escola:1.1%| Casa de outra pessoa :8.32%| Lanhouse ou cybercafé:0.08%| Em deslocamento:1.55%| Outro local, como shopping, igreja ou lanchonete:0.81%| Telecentro:0.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:45.47%| Sala de casa ou outro lugar que não seja o quarto:43.59%| Escola:1.63%| Casa de outra pessoa :5.79%| Lanhouse ou cybercafé:0.4%| Em deslocamento:1.99%| Outro local, como shopping, igreja ou lanchonete:0.74%| Centro público de acesso gratuito:0.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(1628320) 2018(1968277) 2019(2142209) 
+        -> 2017: Quarto:35.01%| Sala de casa ou outro lugar que não seja o quarto:40.37%| Escola:1.28%| Casa de outra pessoa :15.61%| Lanhouse ou cybercafé:1.4%| Telecentro:2.53%| Em deslocamento:3.22%| Outro local, como shopping, igreja ou lanchonete:0.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:37.65%| Sala de casa ou outro lugar que não seja o quarto:44.73%| Escola:0.46%| Casa de outra pessoa :13.39%| Lanhouse ou cybercafé:0.96%| Em deslocamento:1.16%| Outro local, como shopping, igreja ou lanchonete:1.19%| Telecentro:0.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:34.5%| Sala de casa ou outro lugar que não seja o quarto:47.36%| Escola:0.89%| Casa de outra pessoa :12.81%| Lanhouse ou cybercafé:1.32%| Em deslocamento:0.73%| Outro local, como shopping, igreja ou lanchonete:2.1%| Centro público de acesso gratuito:0.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(2611686) 2018(2576219) 2019(2625350) 
+        -> 2017: Quarto:48.48%| Sala de casa ou outro lugar que não seja o quarto:36.62%| Escola:1.56%| Casa de outra pessoa :7.91%| Lanhouse ou cybercafé:0.82%| Telecentro:1.91%| Em deslocamento:2.32%| Outro local, como shopping, igreja ou lanchonete:0.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:51.75%| Sala de casa ou outro lugar que não seja o quarto:34.03%| Escola:2.04%| Casa de outra pessoa :7.25%| Lanhouse ou cybercafé:0.34%| Em deslocamento:2.39%| Outro local, como shopping, igreja ou lanchonete:1.85%| Telecentro:0.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:53.95%| Sala de casa ou outro lugar que não seja o quarto:34.67%| Escola:1.35%| Casa de outra pessoa :5.64%| Lanhouse ou cybercafé:0.21%| Em deslocamento:2.57%| Outro local, como shopping, igreja ou lanchonete:1.27%| Centro público de acesso gratuito:0.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(836675) 2018(1020435) 2019(1023299) 
+        -> 2017: Quarto:51.1%| Sala de casa ou outro lugar que não seja o quarto:41.5%| Escola:0.71%| Casa de outra pessoa :3.28%| Lanhouse ou cybercafé:0.06%| Telecentro:0.75%| Em deslocamento:2.18%| Outro local, como shopping, igreja ou lanchonete:0.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Quarto:49.38%| Sala de casa ou outro lugar que não seja o quarto:43.93%| Escola:1.52%| Casa de outra pessoa :3.66%| Lanhouse ou cybercafé:0.05%| Em deslocamento:0.72%| Outro local, como shopping, igreja ou lanchonete:0.74%| Telecentro:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Quarto:53.77%| Sala de casa ou outro lugar que não seja o quarto:37.99%| Escola:1.32%| Casa de outra pessoa :5.07%| Lanhouse ou cybercafé:0.09%| Em deslocamento:0.67%| Outro local, como shopping, igreja ou lanchonete:1.09%| Centro público de acesso gratuito:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores

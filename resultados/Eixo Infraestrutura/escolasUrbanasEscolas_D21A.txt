@@ -1,0 +1,273 @@
+TOTAL PARA O INDICADOR D21A – ESCOLAS URBANAS, POR PROGRAMA DE IMPLEMENTAÇÃO DE INFRAESTRUTURA TECNOLÓGICA
+Em termos de TOTAL:
+    Total: 2018(74906) 2019(75115) 
+    Programa Nacional de Tecnologia Educacional (ProInfo)
+        -> 2018: Sim:23.89%| Não:74.0%| Não sabe:2.12%| Não respondeu:0.0%| 
+        -> 2019: Sim:20.26%| Não:75.88%| Não sabe:3.7%| Não respondeu:0.16%| 
+        A principal variação foi de Sim que foi de 3.63%
+    Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+        -> 2018: Sim:1.7%| Não:93.01%| Não sabe:5.07%| Não respondeu:0.22%| 
+        -> 2019: Sim:0.87%| Não:90.21%| Não sabe:8.85%| Não respondeu:0.07%| 
+        A principal variação foi de Não sabe que foi de 3.78%
+    Programa Banda Larga nas Escolas (PBLE)
+        -> 2018: Sim:36.36%| Não:61.04%| Não sabe:2.51%| Não respondeu:0.09%| 
+        -> 2019: Sim:31.77%| Não:65.7%| Não sabe:2.53%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 4.66%
+    Empresas
+        -> 2018: Sim:7.72%| Não:91.64%| Não sabe:0.51%| Não respondeu:0.14%| 
+        -> 2019: Sim:8.49%| Não:90.99%| Não sabe:0.52%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.77%
+    Organizações não governamentais
+        -> 2018: Sim:2.53%| Não:97.25%| Não sabe:0.21%| Não respondeu:0.0%| 
+        -> 2019: Sim:1.37%| Não:98.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 1.38%
+    Programa de Inovação Educação Conectada (Piec)
+        -> 2018: Sim:27.36%| Não:71.56%| Não sabe:1.08%| Não respondeu:0.0%| 
+        -> 2019: Sim:28.35%| Não:67.62%| Não sabe:3.98%| Não respondeu:0.04%| 
+        A principal variação foi de Não que foi de 3.94%
+    Outro
+        -> 2018: Sim:6.29%| Não:93.71%| 
+        -> 2019: Sim:2.71%| Não:97.3%| 
+        A principal variação foi de Não que foi de 3.59%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(5877) 2019(5908) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:25.64%| Não:71.35%| Não sabe:3.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:20.29%| Não:77.01%| Não sabe:2.69%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.66%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:6.52%| Não:89.6%| Não sabe:3.86%| Não respondeu:0.0%| 
+                -> 2019: Sim:3.88%| Não:90.32%| Não sabe:4.87%| Não respondeu:0.93%| 
+                A principal variação foi de Sim que foi de 2.64%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:31.27%| Não:64.88%| Não sabe:3.85%| Não respondeu:0.0%| 
+                -> 2019: Sim:30.45%| Não:67.67%| Não sabe:1.88%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.79%
+        Empresas
+                -> 2018: Sim:5.75%| Não:94.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:3.81%| Não:95.68%| Não sabe:0.51%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.94%
+        Organizações não governamentais
+                -> 2018: Sim:2.21%| Não:97.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:2.13%| Não:97.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.08%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:32.09%| Não:66.94%| Não sabe:0.97%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.99%| Não:66.96%| Não sabe:2.51%| Não respondeu:0.54%| 
+                A principal variação foi de Sim que foi de 2.1%
+        Outro
+                -> 2018: Sim:3.68%| Não:96.32%| 
+                -> 2019: Sim:2.74%| Não:97.26%| 
+                A principal variação foi de Não que foi de 0.94%
+   Centro-Oeste:
+        Total: 2018(5594) 2019(5592) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:27.73%| Não:71.02%| Não sabe:1.25%| Não respondeu:0.0%| 
+                -> 2019: Sim:20.49%| Não:75.61%| Não sabe:3.9%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.24%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:0.59%| Não:94.76%| Não sabe:4.65%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.48%| Não:93.12%| Não sabe:6.4%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 1.75%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:40.54%| Não:55.99%| Não sabe:2.22%| Não respondeu:1.27%| 
+                -> 2019: Sim:29.69%| Não:67.35%| Não sabe:2.95%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 11.36%
+        Empresas
+                -> 2018: Sim:14.05%| Não:85.48%| Não sabe:0.21%| Não respondeu:0.29%| 
+                -> 2019: Sim:7.4%| Não:92.01%| Não sabe:0.61%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.65%
+        Organizações não governamentais
+                -> 2018: Sim:3.22%| Não:95.51%| Não sabe:1.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:1.18%| Não:98.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.31%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:18.81%| Não:80.3%| Não sabe:0.91%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.26%| Não:64.2%| Não sabe:0.54%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 16.45%
+        Outro
+                -> 2018: Sim:3.97%| Não:96.05%| 
+                -> 2019: Sim:3.95%| Não:96.05%| 
+                A principal variação foi de Sim que foi de 0.02%
+   Nordeste:
+        Total: 2018(23305) 2019(23404) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:17.34%| Não:80.84%| Não sabe:1.82%| Não respondeu:0.0%| 
+                -> 2019: Sim:14.36%| Não:83.56%| Não sabe:1.56%| Não respondeu:0.52%| 
+                A principal variação foi de Sim que foi de 2.98%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:3.23%| Não:93.05%| Não sabe:3.72%| Não respondeu:0.0%| 
+                -> 2019: Sim:1.59%| Não:86.82%| Não sabe:11.59%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 7.87%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:34.68%| Não:64.1%| Não sabe:1.22%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.98%| Não:71.97%| Não sabe:1.06%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.87%
+        Empresas
+                -> 2018: Sim:7.31%| Não:91.25%| Não sabe:1.43%| Não respondeu:0.0%| 
+                -> 2019: Sim:7.25%| Não:91.37%| Não sabe:1.39%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.12%
+        Organizações não governamentais
+                -> 2018: Sim:4.33%| Não:95.43%| Não sabe:0.24%| Não respondeu:0.0%| 
+                -> 2019: Sim:2.09%| Não:97.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.48%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:27.95%| Não:71.91%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2019: Sim:23.88%| Não:75.93%| Não sabe:0.2%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.07%
+        Outro
+                -> 2018: Sim:4.05%| Não:95.95%| 
+                -> 2019: Sim:2.75%| Não:97.25%| 
+                A principal variação foi de Sim que foi de 1.3%
+   Sudeste:
+        Total: 2018(29108) 2019(29188) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:22.0%| Não:75.06%| Não sabe:2.94%| Não respondeu:0.0%| 
+                -> 2019: Sim:18.96%| Não:75.36%| Não sabe:5.68%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.04%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:0.3%| Não:92.31%| Não sabe:6.82%| Não respondeu:0.57%| 
+                -> 2019: Sim:0.0%| Não:92.27%| Não sabe:7.73%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 0.91%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:35.3%| Não:61.35%| Não sabe:3.35%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.25%| Não:61.75%| Não sabe:2.99%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.4%
+        Empresas
+                -> 2018: Sim:6.12%| Não:93.58%| Não sabe:0.0%| Não respondeu:0.31%| 
+                -> 2019: Sim:9.77%| Não:90.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.65%
+        Organizações não governamentais
+                -> 2018: Sim:0.85%| Não:99.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.99%| Não:99.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.15%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:25.04%| Não:73.83%| Não sabe:1.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:25.55%| Não:66.04%| Não sabe:8.4%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.79%
+        Outro
+                -> 2018: Sim:5.91%| Não:94.1%| 
+                -> 2019: Sim:2.35%| Não:97.65%| 
+                A principal variação foi de Sim que foi de 3.56%
+   Sul:
+        Total: 2018(11020) 2019(11024) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:39.82%| Não:59.64%| Não sabe:0.54%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.11%| Não:60.48%| Não sabe:3.41%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.71%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:0.17%| Não:95.7%| Não sabe:4.13%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.25%| Não:90.39%| Não sabe:9.35%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.31%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:43.28%| Não:54.29%| Não sabe:2.43%| Não respondeu:0.0%| 
+                -> 2019: Sim:34.47%| Não:60.98%| Não sabe:4.54%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.81%
+        Empresas
+                -> 2018: Sim:10.63%| Não:89.08%| Não sabe:0.3%| Não respondeu:0.0%| 
+                -> 2019: Sim:10.79%| Não:89.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 0.3%
+        Organizações não governamentais
+                -> 2018: Sim:2.99%| Não:96.71%| Não sabe:0.3%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.54%| Não:99.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.75%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:34.06%| Não:62.89%| Não sabe:3.05%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.9%| Não:56.25%| Não sabe:2.85%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.84%
+        Outro
+                -> 2018: Sim:14.59%| Não:85.41%| 
+                -> 2019: Sim:2.9%| Não:97.1%| 
+                A principal variação foi de Sim que foi de 11.69%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(30533) 2019(30467) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:25.03%| Não:73.49%| Não sabe:1.48%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.89%| Não:70.89%| Não sabe:1.82%| Não respondeu:0.4%| 
+                A principal variação foi de Não que foi de 2.6%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:1.44%| Não:94.35%| Não sabe:4.21%| Não respondeu:0.0%| 
+                -> 2019: Sim:1.29%| Não:84.78%| Não sabe:13.86%| Não respondeu:0.08%| 
+                A principal variação foi de Não sabe que foi de 9.65%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:36.9%| Não:59.8%| Não sabe:3.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:33.14%| Não:64.61%| Não sabe:2.25%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.81%
+        Empresas
+                -> 2018: Sim:8.5%| Não:91.39%| Não sabe:0.11%| Não respondeu:0.0%| 
+                -> 2019: Sim:11.33%| Não:87.51%| Não sabe:1.17%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.88%
+        Organizações não governamentais
+                -> 2018: Sim:3.54%| Não:96.35%| Não sabe:0.11%| Não respondeu:0.0%| 
+                -> 2019: Sim:2.55%| Não:97.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.1%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:32.48%| Não:66.89%| Não sabe:0.63%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.6%| Não:60.15%| Não sabe:3.25%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.74%
+        Outro
+                -> 2018: Sim:6.09%| Não:93.91%| 
+                -> 2019: Sim:1.7%| Não:98.3%| 
+                A principal variação foi de Não que foi de 4.39%
+   Pública Estadual:
+        Total: 2018(23582) 2019(23448) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:42.21%| Não:53.97%| Não sabe:3.82%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.32%| Não:64.15%| Não sabe:6.54%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 12.89%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:2.97%| Não:86.71%| Não sabe:9.62%| Não respondeu:0.7%| 
+                -> 2019: Sim:1.13%| Não:92.58%| Não sabe:6.25%| Não respondeu:0.03%| 
+                A principal variação foi de Não que foi de 5.87%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:56.34%| Não:39.79%| Não sabe:3.57%| Não respondeu:0.3%| 
+                -> 2019: Sim:52.78%| Não:43.71%| Não sabe:3.51%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.92%
+        Empresas
+                -> 2018: Sim:6.35%| Não:93.53%| Não sabe:0.05%| Não respondeu:0.07%| 
+                -> 2019: Sim:2.69%| Não:97.27%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.74%
+        Organizações não governamentais
+                -> 2018: Sim:1.75%| Não:97.84%| Não sabe:0.42%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.81%| Não:99.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.35%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:36.92%| Não:60.6%| Não sabe:2.48%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.39%| Não:57.5%| Não sabe:5.97%| Não respondeu:0.14%| 
+                A principal variação foi de Não sabe que foi de 3.49%
+        Outro
+                -> 2018: Sim:7.96%| Não:92.04%| 
+                -> 2019: Sim:6.32%| Não:93.68%| 
+                A principal variação foi de Não que foi de 1.64%
+   Particular:
+        Total: 2018(20790) 2019(21200) 
+        Programa Nacional de Tecnologia Educacional (ProInfo)
+                -> 2018: Sim:1.44%| Não:97.45%| Não sabe:1.11%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.71%| Não:96.04%| Não sabe:3.25%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 2.14%
+        Governo Eletrônico – Serviço de Atendimento ao Cidadão (Gesac)
+                -> 2018: Sim:0.65%| Não:98.19%| Não sabe:1.16%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.0%| Não:95.39%| Não sabe:4.5%| Não respondeu:0.11%| 
+                A principal variação foi de Não sabe que foi de 3.34%
+        Programa Banda Larga nas Escolas (PBLE)
+                -> 2018: Sim:12.89%| Não:86.96%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:6.56%| Não:91.6%| Não sabe:1.84%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.33%
+        Empresas
+                -> 2018: Sim:8.11%| Não:89.85%| Não sabe:1.61%| Não respondeu:0.44%| 
+                -> 2019: Sim:10.83%| Não:89.05%| Não sabe:0.12%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.72%
+        Organizações não governamentais
+                -> 2018: Sim:1.93%| Não:97.92%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:0.29%| Não:99.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.79%
+        Programa de Inovação Educação Conectada (Piec)
+                -> 2018: Sim:8.98%| Não:90.88%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:7.62%| Não:89.55%| Não sabe:2.83%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 2.69%
+        Outro
+                -> 2018: Sim:4.68%| Não:95.32%| 
+                -> 2019: Sim:0.16%| Não:99.84%| 
+                A principal variação foi de Não que foi de 4.52%

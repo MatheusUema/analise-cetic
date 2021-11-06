@@ -1,0 +1,191 @@
+TOTAL PARA O INDICADOR B3 – PROFESSORES DE ESCOLAS URBANAS, POR TIPO DE COMPUTADOR EXISTENTE NO DOMICÍLIO
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310632) 2019(305595) 
+    Computador de mesa
+        -> 2017: Sim:64.54%| Não:35.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:64.75%| Não:35.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:60.45%| Não:39.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 4.09%
+    Computador portátil
+        -> 2017: Sim:91.46%| Não:8.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:90.72%| Não:9.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:91.71%| Não:8.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.25%
+    Tablet
+        -> 2017: Sim:53.53%| Não:46.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:50.53%| Não:49.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:44.82%| Não:55.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 8.71%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228485) 2019(225701) 
+        Computador de mesa
+                -> 2017: Sim:65.55%| Não:34.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:67.69%| Não:32.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.29%| Não:39.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.26%
+        Computador portátil
+                -> 2017: Sim:91.61%| Não:8.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.2%| Não:8.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.3%| Não:9.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.31%
+        Tablet
+                -> 2017: Sim:53.5%| Não:46.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.93%| Não:48.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.17%| Não:56.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.33%
+   Masculino:
+        Total: 2017(62067) 2018(82146) 2019(79894) 
+        Computador de mesa
+                -> 2017: Sim:60.84%| Não:39.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:56.58%| Não:43.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.89%| Não:39.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.05%
+        Computador portátil
+                -> 2017: Sim:90.91%| Não:9.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.39%| Não:10.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.7%| Não:4.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.79%
+        Tablet
+                -> 2017: Sim:53.66%| Não:46.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:46.63%| Não:53.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.47%| Não:50.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.19%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20208) 2018(23100) 2019(26016) 
+        Computador de mesa
+                -> 2017: Sim:52.15%| Não:47.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.3%| Não:48.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.71%| Não:52.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.44%
+        Computador portátil
+                -> 2017: Sim:91.16%| Não:8.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.87%| Não:11.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.84%| Não:11.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.32%
+        Tablet
+                -> 2017: Sim:46.07%| Não:53.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.08%| Não:59.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.95%| Não:63.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.12%
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26989) 2019(25514) 
+        Computador de mesa
+                -> 2017: Sim:64.8%| Não:35.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:62.63%| Não:37.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:56.81%| Não:43.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.99%
+        Computador portátil
+                -> 2017: Sim:95.58%| Não:4.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.59%| Não:8.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.67%| Não:6.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.91%
+        Tablet
+                -> 2017: Sim:51.36%| Não:48.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.15%| Não:50.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.81%| Não:54.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.55%
+   Nordeste:
+        Total: 2017(81270) 2018(87048) 2019(94785) 
+        Computador de mesa
+                -> 2017: Sim:57.72%| Não:42.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:57.84%| Não:42.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:54.01%| Não:45.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.71%
+        Computador portátil
+                -> 2017: Sim:87.6%| Não:12.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.88%| Não:13.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.04%| Não:8.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.44%
+        Tablet
+                -> 2017: Sim:44.55%| Não:55.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:38.82%| Não:61.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.27%| Não:59.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.28%
+   Sudeste:
+        Total: 2017(126143) 2018(133029) 2019(122198) 
+        Computador de mesa
+                -> 2017: Sim:70.12%| Não:29.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.71%| Não:25.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:69.77%| Não:30.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.35%
+        Computador portátil
+                -> 2017: Sim:93.0%| Não:7.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.3%| Não:7.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.75%| Não:8.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.25%
+        Tablet
+                -> 2017: Sim:59.68%| Não:40.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:60.09%| Não:39.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.26%| Não:50.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.42%
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37082) 
+        Computador de mesa
+                -> 2017: Sim:67.1%| Não:32.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:55.95%| Não:44.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:57.64%| Não:42.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.46%
+        Computador portátil
+                -> 2017: Sim:92.07%| Não:7.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.29%| Não:5.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.93%| Não:6.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.86%
+        Tablet
+                -> 2017: Sim:57.87%| Não:42.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.2%| Não:48.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.65%| Não:53.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.22%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        Computador de mesa
+                -> 2017: Sim:66.73%| Não:33.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:63.59%| Não:36.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:62.39%| Não:37.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.34%
+        Computador portátil
+                -> 2017: Sim:90.18%| Não:9.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.57%| Não:13.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.59%| Não:12.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.59%
+        Tablet
+                -> 2017: Sim:49.06%| Não:50.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.07%| Não:57.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.24%| Não:64.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 13.82%
+   Pública Estadual:
+        Total: 2017(122457) 2018(127038) 2019(120289) 
+        Computador de mesa
+                -> 2017: Sim:65.85%| Não:34.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:60.74%| Não:39.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:59.14%| Não:40.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.71%
+        Computador portátil
+                -> 2017: Sim:90.74%| Não:9.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.28%| Não:6.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.77%| Não:5.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.03%
+        Tablet
+                -> 2017: Sim:55.92%| Não:44.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.61%| Não:50.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.05%| Não:51.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.87%
+   Particular:
+        Total: 2017(60816) 2018(69977) 2019(58902) 
+        Computador de mesa
+                -> 2017: Sim:58.09%| Não:41.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:73.9%| Não:26.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:58.96%| Não:41.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.87%
+        Computador portátil
+                -> 2017: Sim:95.13%| Não:4.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.81%| Não:7.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.29%| Não:5.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.85%
+        Tablet
+                -> 2017: Sim:56.51%| Não:43.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:65.93%| Não:34.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:58.8%| Não:41.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.29%

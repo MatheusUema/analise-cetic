@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR D6A – PROFESSORES DE ESCOLAS URBANAS, POR PERCEPÇÃO A RESPEITO DO CURSO DE FORMAÇÃO CONTINUADA SOBRE O USO DE COMPUTADOR E INTERNET EM ATIVIDADES DE ENSINO
+Em termos de TOTAL:
+    Total: 2017(289395) 2018(310631) 2019(305596) 
+    -> 2017: Contibuiu muito:16.06%| Contribuiu pouco:6.28%| Não contribuiu nada:0.65%| Não sabe:0.0%| Não respondeu:0.04%| Não realizou um curso de educação continuada no último ano:76.97%| 
+    -> 2018: Contribuiu muito:18.58%| Contribuiu pouco:10.11%| Não contribuiu nada:1.25%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:70.07%| 
+    -> 2019: Contibuiu muito:20.87%| Contribuiu pouco:11.16%| Não contribuiu nada:0.58%| Não sabe:0.17%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:67.22%| 
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228486) 2019(225702) 
+        -> 2017: Contibuiu muito:15.54%| Contribuiu pouco:6.04%| Não contribuiu nada:0.81%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:77.61%| 
+        -> 2018: Contribuiu muito:18.09%| Contribuiu pouco:9.65%| Não contribuiu nada:1.53%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:70.73%| 
+        -> 2019: Contibuiu muito:18.4%| Contribuiu pouco:10.77%| Não contribuiu nada:0.55%| Não sabe:0.23%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:70.06%| 
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(62068) 2018(82146) 2019(79893) 
+        -> 2017: Contibuiu muito:18.0%| Contribuiu pouco:7.16%| Não contribuiu nada:0.07%| Não sabe:0.0%| Não respondeu:0.18%| Não realizou um curso de educação continuada no último ano:74.59%| 
+        -> 2018: Contribuiu muito:19.92%| Contribuiu pouco:11.39%| Não contribuiu nada:0.46%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:68.23%| 
+        -> 2019: Contibuiu muito:27.86%| Contribuiu pouco:12.25%| Não contribuiu nada:0.67%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:59.22%| 
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20209) 2018(23100) 2019(26017) 
+        -> 2017: Contibuiu muito:15.07%| Contribuiu pouco:4.31%| Não contribuiu nada:0.4%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:80.21%| 
+        -> 2018: Contribuiu muito:15.58%| Contribuiu pouco:7.29%| Não contribuiu nada:1.21%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:75.91%| 
+        -> 2019: Contibuiu muito:20.41%| Contribuiu pouco:12.18%| Não contribuiu nada:0.48%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:66.94%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(24934) 2018(26988) 2019(25514) 
+        -> 2017: Contibuiu muito:27.21%| Contribuiu pouco:10.06%| Não contribuiu nada:0.53%| Não sabe:0.0%| Não respondeu:0.46%| Não realizou um curso de educação continuada no último ano:61.75%| 
+        -> 2018: Contribuiu muito:18.65%| Contribuiu pouco:8.38%| Não contribuiu nada:0.61%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:72.36%| 
+        -> 2019: Contibuiu muito:21.57%| Contribuiu pouco:12.93%| Não contribuiu nada:0.6%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.9%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(81269) 2018(87047) 2019(94785) 
+        -> 2017: Contibuiu muito:14.99%| Contribuiu pouco:3.82%| Não contribuiu nada:0.3%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:80.9%| 
+        -> 2018: Contribuiu muito:18.76%| Contribuiu pouco:7.69%| Não contribuiu nada:0.86%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:72.69%| 
+        -> 2019: Contibuiu muito:19.74%| Contribuiu pouco:4.18%| Não contribuiu nada:0.41%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:75.68%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(126143) 2018(133031) 2019(122198) 
+        -> 2017: Contibuiu muito:13.53%| Contribuiu pouco:6.36%| Não contribuiu nada:0.65%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:79.46%| 
+        -> 2018: Contribuiu muito:18.73%| Contribuiu pouco:9.65%| Não contribuiu nada:1.03%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:70.58%| 
+        -> 2019: Contibuiu muito:21.14%| Contribuiu pouco:13.18%| Não contribuiu nada:0.9%| Não sabe:0.42%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:64.36%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37083) 
+        -> 2017: Contibuiu muito:20.12%| Contribuiu pouco:9.96%| Não contribuiu nada:1.63%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:68.28%| 
+        -> 2018: Contribuiu muito:19.35%| Contribuiu pouco:19.55%| Não contribuiu nada:3.23%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:57.88%| 
+        -> 2019: Contibuiu muito:22.73%| Contribuiu pouco:20.38%| Não contribuiu nada:0.04%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:56.85%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106124) 2018(113616) 2019(126404) 
+        -> 2017: Contibuiu muito:12.01%| Contribuiu pouco:4.12%| Não contribuiu nada:0.72%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:83.15%| 
+        -> 2018: Contribuiu muito:16.84%| Contribuiu pouco:6.92%| Não contribuiu nada:0.89%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:75.35%| 
+        -> 2019: Contibuiu muito:16.83%| Contribuiu pouco:11.01%| Não contribuiu nada:0.38%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:71.79%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(122458) 2018(127038) 2019(120289) 
+        -> 2017: Contibuiu muito:17.54%| Contribuiu pouco:8.4%| Não contribuiu nada:0.81%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:73.25%| 
+        -> 2018: Contribuiu muito:16.68%| Contribuiu pouco:13.2%| Não contribuiu nada:2.19%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:67.94%| 
+        -> 2019: Contibuiu muito:20.19%| Contribuiu pouco:12.81%| Não contribuiu nada:1.07%| Não sabe:0.43%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:65.5%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(60815) 2018(69977) 2019(58902) 
+        -> 2017: Contibuiu muito:20.17%| Contribuiu pouco:5.78%| Não contribuiu nada:0.2%| Não sabe:0.0%| Não respondeu:0.19%| Não realizou um curso de educação continuada no último ano:73.66%| 
+        -> 2018: Contribuiu muito:24.85%| Contribuiu pouco:9.68%| Não contribuiu nada:0.12%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada no último ano:65.36%| 
+        -> 2019: Contibuiu muito:30.94%| Contribuiu pouco:8.1%| Não contribuiu nada:0.0%| Não sabe:0.0%| Não respondeu:0.0%| Não realizou um curso de educação continuada sobre tecnologias nos processos de ensino e de aprendizagem no último ano:60.96%| 
+                Não foi possível analisar com anos anteriores

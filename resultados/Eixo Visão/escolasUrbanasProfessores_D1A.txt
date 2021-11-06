@@ -1,0 +1,884 @@
+TOTAL PARA O INDICADOR D1A – PROFESSORES DE ESCOLAS URBANAS, POR FORMA DE APRENDIZADO E ATUALIZAÇÃO SOBRE O USO DO COMPUTADOR E DA INTERNET
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310631) 2019(305596) 
+    Contatos informais com outros professores
+        -> 2017: Sim:79.43%| Não:20.56%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2018: Sim:81.67%| Não:17.97%| Não sabe:0.01%| Não respondeu:0.36%| 
+        -> 2019: Sim:82.36%| Não:17.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 2.93%
+    Monitor(a) ou responsável pela sala de informática da escola
+        -> 2017: Sim:23.94%| Não:75.03%| Não sabe:0.63%| Não respondeu:0.4%| 
+        -> 2018: Sim:23.62%| Não:76.31%| Não sabe:0.05%| Não respondeu:0.02%| 
+        -> 2019: Sim:21.81%| Não:77.98%| Não sabe:0.21%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 2.95%
+    Coordenador(a) pedagógico(a)
+        -> 2017: Sim:31.03%| Não:68.92%| Não sabe:0.04%| Não respondeu:0.0%| 
+        -> 2018: Sim:40.94%| Não:59.04%| Não sabe:0.01%| Não respondeu:0.01%| 
+        -> 2019: Sim:40.25%| Não:59.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 9.22%
+    Diretor(a) da escola
+        -> 2017: Sim:20.18%| Não:79.73%| Não sabe:0.1%| Não respondeu:0.0%| 
+        -> 2018: Sim:22.31%| Não:77.6%| Não sabe:0.08%| Não respondeu:0.01%| 
+        -> 2019: Sim:25.5%| Não:74.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.32%
+    Algum grupo de professores da própria escola
+        -> 2017: Sim:49.6%| Não:50.25%| Não sabe:0.16%| Não respondeu:0.0%| 
+        -> 2018: Sim:51.06%| Não:48.9%| Não sabe:0.04%| Não respondeu:0.01%| 
+        -> 2019: Sim:55.45%| Não:44.54%| Não sabe:0.01%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.85%
+    Revistas e textos especializados sobre computador e Internet
+        -> 2017: Sim:44.24%| Não:55.6%| Não sabe:0.16%| Não respondeu:0.0%| 
+        -> 2018: Sim:47.25%| Não:52.74%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:50.45%| Não:49.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 6.21%
+    Formadores da Secretaria de Ensino
+        -> 2017: Sim:20.24%| Não:79.71%| Não sabe:0.0%| Não respondeu:0.05%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Formadores de outras organizações externas à escola
+        -> 2017: Sim:39.19%| Não:60.48%| Não sabe:0.31%| Não respondeu:0.03%| 
+        -> 2018: Sim:39.11%| Não:60.88%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:43.16%| Não:56.34%| Não sabe:0.5%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 4.14%
+    Cursos específicos sobre computador e Internet
+        -> 2017: Sim:33.75%| Não:66.0%| Não sabe:0.08%| Não respondeu:0.17%| 
+        -> 2018: Sim:40.73%| Não:59.26%| Não sabe:0.02%| Não respondeu:0.0%| 
+        -> 2019: Sim:37.65%| Não:62.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 3.9%
+    Sozinho(a)
+        -> 2017: Sim:92.26%| Não:7.72%| Não sabe:0.03%| Não respondeu:0.0%| 
+        -> 2018: Sim:90.22%| Não:9.67%| Não sabe:0.11%| Não respondeu:0.0%| 
+        -> 2019: Sim:93.22%| Não:6.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.96%
+    Com alunos
+        -> 2017: Sim:46.73%| Não:53.25%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2018: Sim:47.82%| Não:52.17%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:48.67%| Não:51.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 1.94%
+    Com outras pessoas
+        -> 2017: Sim:87.05%| Não:12.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:86.68%| Não:13.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:83.82%| Não:16.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 3.23%
+    Com vídeos ou tutoriais on-line
+        -> 2017: Sim:74.92%| Não:24.85%| Não sabe:0.0%| Não respondeu:0.23%| 
+        -> 2018: Sim:75.25%| Não:24.68%| Não sabe:0.01%| Não respondeu:0.06%| 
+        -> 2019: Sim:80.56%| Não:19.42%| Não sabe:0.0%| Não respondeu:0.02%| 
+        A principal variação foi de Sim que foi de 5.64%
+    Outra forma
+        -> 2017: Sim:0.88%| Não:99.12%| 
+        -> 2018: Sim:0.85%| Não:99.15%| 
+        -> 2019: Sim:0.89%| Não:99.11%| 
+        A principal variação foi de Não que foi de 0.01%
+    Formadores da secretaria de ensino
+        -> 2017: Não possui 
+        -> 2018: Sim:23.15%| Não:76.76%| Não sabe:0.09%| Não respondeu:0.0%| 
+        -> 2019: Sim:26.06%| Não:73.89%| Não sabe:0.0%| Não respondeu:0.05%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228486) 2019(225702) 
+        Contatos informais com outros professores
+                -> 2017: Sim:80.85%| Não:19.13%| Não sabe:0.0%| Não respondeu:0.01%| 
+                -> 2018: Sim:81.21%| Não:18.76%| Não sabe:0.01%| Não respondeu:0.01%| 
+                -> 2019: Sim:82.8%| Não:17.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.95%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:24.99%| Não:73.74%| Não sabe:0.8%| Não respondeu:0.48%| 
+                -> 2018: Sim:24.75%| Não:75.16%| Não sabe:0.07%| Não respondeu:0.02%| 
+                -> 2019: Sim:22.33%| Não:77.57%| Não sabe:0.09%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.83%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:31.94%| Não:68.01%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.8%| Não:56.17%| Não sabe:0.02%| Não respondeu:0.01%| 
+                -> 2019: Sim:41.11%| Não:58.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.17%
+        Diretor(a) da escola
+                -> 2017: Sim:21.7%| Não:78.18%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2018: Sim:22.85%| Não:77.03%| Não sabe:0.11%| Não respondeu:0.01%| 
+                -> 2019: Sim:26.99%| Não:73.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.29%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:52.35%| Não:47.45%| Não sabe:0.2%| Não respondeu:0.0%| 
+                -> 2018: Sim:53.37%| Não:46.61%| Não sabe:0.01%| Não respondeu:0.01%| 
+                -> 2019: Sim:58.85%| Não:41.13%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.5%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:40.75%| Não:59.06%| Não sabe:0.2%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.81%| Não:54.18%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.05%| Não:52.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.3%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:19.57%| Não:80.37%| Não sabe:0.0%| Não respondeu:0.07%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:39.05%| Não:60.52%| Não sabe:0.4%| Não respondeu:0.03%| 
+                -> 2018: Sim:37.4%| Não:62.58%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.66%| Não:59.68%| Não sabe:0.66%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.84%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:34.13%| Não:65.76%| Não sabe:0.11%| Não respondeu:0.01%| 
+                -> 2018: Sim:41.55%| Não:58.44%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:33.35%| Não:66.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.89%
+        Sozinho(a)
+                -> 2017: Sim:91.53%| Não:8.43%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.24%| Não:11.62%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.92%| Não:8.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.39%
+        Com alunos
+                -> 2017: Sim:48.9%| Não:51.08%| Não sabe:0.0%| Não respondeu:0.01%| 
+                -> 2018: Sim:48.63%| Não:51.35%| Não sabe:0.0%| Não respondeu:0.01%| 
+                -> 2019: Sim:48.04%| Não:51.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.88%
+        Com outras pessoas
+                -> 2017: Sim:90.02%| Não:9.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.41%| Não:11.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.3%| Não:14.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.72%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:73.33%| Não:26.38%| Não sabe:0.0%| Não respondeu:0.29%| 
+                -> 2018: Sim:72.86%| Não:27.05%| Não sabe:0.01%| Não respondeu:0.08%| 
+                -> 2019: Sim:78.18%| Não:21.79%| Não sabe:0.0%| Não respondeu:0.03%| 
+                A principal variação foi de Sim que foi de 4.85%
+        Outra forma
+                -> 2017: Sim:0.93%| Não:99.07%| 
+                -> 2018: Sim:0.99%| Não:99.01%| 
+                -> 2019: Sim:0.81%| Não:99.19%| 
+                A principal variação foi de Não que foi de 0.12%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:22.3%| Não:77.6%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.67%| Não:75.26%| Não sabe:0.0%| Não respondeu:0.07%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(62068) 2018(82145) 2019(79894) 
+        Contatos informais com outros professores
+                -> 2017: Sim:74.22%| Não:25.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.93%| Não:15.75%| Não sabe:0.0%| Não respondeu:1.32%| 
+                -> 2019: Sim:81.11%| Não:18.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.89%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:20.11%| Não:79.78%| Não sabe:0.0%| Não respondeu:0.11%| 
+                -> 2018: Sim:20.48%| Não:79.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:20.33%| Não:79.13%| Não sabe:0.53%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.65%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:27.71%| Não:72.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:32.98%| Não:67.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:37.84%| Não:62.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.13%
+        Diretor(a) da escola
+                -> 2017: Sim:14.62%| Não:85.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:20.82%| Não:79.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:21.3%| Não:78.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.68%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:39.53%| Não:60.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.61%| Não:55.28%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.83%| Não:54.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.31%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:57.04%| Não:42.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.26%| Não:48.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.06%| Não:39.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.02%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:22.7%| Não:77.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:39.67%| Não:60.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.86%| Não:56.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.04%| Não:46.91%| Não sabe:0.05%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 13.42%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:32.35%| Não:66.87%| Não sabe:0.0%| Não respondeu:0.77%| 
+                -> 2018: Sim:38.45%| Não:61.53%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.78%| Não:50.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 17.43%
+        Sozinho(a)
+                -> 2017: Sim:94.91%| Não:5.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.75%| Não:4.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.91%| Não:3.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.0%
+        Com alunos
+                -> 2017: Sim:38.79%| Não:61.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.57%| Não:54.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.45%| Não:49.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.66%
+        Com outras pessoas
+                -> 2017: Sim:76.21%| Não:23.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.88%| Não:18.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:79.63%| Não:20.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.42%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:80.73%| Não:19.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.9%| Não:18.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.29%| Não:12.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.56%
+        Outra forma
+                -> 2017: Sim:0.7%| Não:99.3%| 
+                -> 2018: Sim:0.46%| Não:99.54%| 
+                -> 2019: Sim:1.11%| Não:98.89%| 
+                A principal variação foi de Sim que foi de 0.41%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:25.54%| Não:74.4%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Sim:30.0%| Não:70.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20208) 2018(23101) 2019(26016) 
+        Contatos informais com outros professores
+                -> 2017: Sim:75.68%| Não:24.16%| Não sabe:0.0%| Não respondeu:0.15%| 
+                -> 2018: Sim:79.23%| Não:20.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.02%| Não:21.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.34%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:16.37%| Não:83.28%| Não sabe:0.0%| Não respondeu:0.35%| 
+                -> 2018: Sim:19.66%| Não:80.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.05%| Não:80.93%| Não sabe:0.0%| Não respondeu:0.02%| 
+                A principal variação foi de Sim que foi de 2.68%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:27.93%| Não:72.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:35.19%| Não:64.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:30.15%| Não:69.83%| Não sabe:0.0%| Não respondeu:0.01%| 
+                A principal variação foi de Não que foi de 2.24%
+        Diretor(a) da escola
+                -> 2017: Sim:13.65%| Não:86.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:16.5%| Não:82.51%| Não sabe:0.99%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.85%| Não:80.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.2%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:43.38%| Não:56.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:55.57%| Não:44.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.48%| Não:53.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.11%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:49.65%| Não:50.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.64%| Não:52.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.28%| Não:53.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.37%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:17.8%| Não:82.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:38.67%| Não:61.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.48%| Não:52.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:38.57%| Não:61.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.1%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:41.44%| Não:58.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:38.5%| Não:61.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.24%| Não:59.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.2%
+        Sozinho(a)
+                -> 2017: Sim:90.01%| Não:10.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.51%| Não:8.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.58%| Não:7.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.58%
+        Com alunos
+                -> 2017: Sim:39.55%| Não:60.3%| Não sabe:0.0%| Não respondeu:0.15%| 
+                -> 2018: Sim:39.93%| Não:60.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:42.05%| Não:57.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.5%
+        Com outras pessoas
+                -> 2017: Sim:85.43%| Não:14.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.22%| Não:12.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.35%| Não:23.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.08%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:72.61%| Não:27.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.43%| Não:25.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.03%| Não:22.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.42%
+        Outra forma
+                -> 2017: Sim:2.72%| Não:97.29%| 
+                -> 2018: Sim:1.06%| Não:98.94%| 
+                -> 2019: Sim:1.9%| Não:98.1%| 
+                A principal variação foi de Sim que foi de 0.82%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:28.26%| Não:71.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.91%| Não:75.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26989) 2019(25514) 
+        Contatos informais com outros professores
+                -> 2017: Sim:74.82%| Não:25.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:65.81%| Não:34.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:86.54%| Não:13.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.72%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:25.61%| Não:74.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:27.24%| Não:72.17%| Não sabe:0.58%| Não respondeu:0.0%| 
+                -> 2019: Sim:22.94%| Não:75.39%| Não sabe:1.67%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.67%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:43.91%| Não:56.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:39.04%| Não:60.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.67%| Não:49.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.76%
+        Diretor(a) da escola
+                -> 2017: Sim:22.99%| Não:77.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:21.79%| Não:78.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:25.07%| Não:74.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.08%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:51.14%| Não:48.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.04%| Não:55.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:59.43%| Não:40.4%| Não sabe:0.17%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.46%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:46.83%| Não:53.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.96%| Não:54.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.84%| Não:54.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.99%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:26.67%| Não:73.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:36.3%| Não:63.59%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.15%| Não:62.78%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.08%| Não:58.76%| Não sabe:0.16%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.83%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:38.73%| Não:61.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:39.81%| Não:60.11%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.37%| Não:64.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.37%
+        Sozinho(a)
+                -> 2017: Sim:96.55%| Não:3.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.51%| Não:6.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.25%| Não:5.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.31%
+        Com alunos
+                -> 2017: Sim:47.06%| Não:52.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:50.49%| Não:49.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.23%| Não:46.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.17%
+        Com outras pessoas
+                -> 2017: Sim:81.26%| Não:18.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:72.51%| Não:27.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.07%| Não:17.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.81%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:74.3%| Não:25.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.84%| Não:28.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:86.24%| Não:13.48%| Não sabe:0.0%| Não respondeu:0.29%| 
+                A principal variação foi de Não que foi de 12.21%
+        Outra forma
+                -> 2017: Sim:0.75%| Não:99.25%| 
+                -> 2018: Sim:1.18%| Não:98.82%| 
+                -> 2019: Sim:1.08%| Não:98.92%| 
+                A principal variação foi de Sim que foi de 0.33%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:23.85%| Não:75.95%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.47%| Não:74.88%| Não sabe:0.0%| Não respondeu:0.65%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(81270) 2018(87048) 2019(94785) 
+        Contatos informais com outros professores
+                -> 2017: Sim:82.5%| Não:17.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.24%| Não:15.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.68%| Não:17.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.18%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:17.97%| Não:81.91%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Sim:13.67%| Não:86.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:17.47%| Não:82.32%| Não sabe:0.21%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.5%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:26.36%| Não:73.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.01%| Não:65.98%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:34.53%| Não:65.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.17%
+        Diretor(a) da escola
+                -> 2017: Sim:19.34%| Não:80.31%| Não sabe:0.35%| Não respondeu:0.0%| 
+                -> 2018: Sim:21.85%| Não:78.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:18.44%| Não:81.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.25%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:51.38%| Não:48.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:52.3%| Não:47.59%| Não sabe:0.11%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.33%| Não:53.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.05%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:43.16%| Não:56.28%| Não sabe:0.55%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.44%| Não:55.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:51.08%| Não:48.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.92%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:19.22%| Não:80.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:38.2%| Não:61.71%| Não sabe:0.0%| Não respondeu:0.09%| 
+                -> 2018: Sim:37.77%| Não:62.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:44.55%| Não:55.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.35%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:32.91%| Não:66.95%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2018: Sim:33.71%| Não:66.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.91%| Não:60.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.0%
+        Sozinho(a)
+                -> 2017: Sim:91.93%| Não:7.97%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.21%| Não:10.41%| Não sabe:0.38%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.67%| Não:8.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.36%
+        Com alunos
+                -> 2017: Sim:44.07%| Não:55.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.21%| Não:52.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.0%| Não:61.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.07%
+        Com outras pessoas
+                -> 2017: Sim:86.61%| Não:13.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.92%| Não:11.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.75%| Não:19.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.86%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:75.91%| Não:24.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:77.56%| Não:22.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.23%| Não:16.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.32%
+        Outra forma
+                -> 2017: Sim:0.94%| Não:99.06%| 
+                -> 2018: Sim:0.4%| Não:99.6%| 
+                -> 2019: Sim:0.46%| Não:99.54%| 
+                A principal variação foi de Não que foi de 0.48%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:25.95%| Não:73.81%| Não sabe:0.24%| Não respondeu:0.0%| 
+                -> 2019: Sim:22.65%| Não:77.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(126143) 2018(133030) 2019(122199) 
+        Contatos informais com outros professores
+                -> 2017: Sim:79.39%| Não:20.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.95%| Não:16.23%| Não sabe:0.0%| Não respondeu:0.82%| 
+                -> 2019: Sim:82.46%| Não:17.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.07%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:25.68%| Não:72.1%| Não sabe:1.44%| Não respondeu:0.79%| 
+                -> 2018: Sim:26.48%| Não:73.48%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Sim:26.17%| Não:73.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.73%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:31.63%| Não:68.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.86%| Não:52.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:44.76%| Não:55.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 13.13%
+        Diretor(a) da escola
+                -> 2017: Sim:21.48%| Não:78.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:21.55%| Não:78.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:33.97%| Não:66.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 12.49%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:50.39%| Não:49.25%| Não sabe:0.36%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.42%| Não:48.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.71%| Não:34.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 15.32%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:43.81%| Não:56.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:51.98%| Não:48.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.02%| Não:46.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.21%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:17.34%| Não:82.54%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:38.41%| Não:60.9%| Não sabe:0.69%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.23%| Não:59.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.55%| Não:57.24%| Não sabe:1.21%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.66%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:28.75%| Não:70.87%| Não sabe:0.0%| Não respondeu:0.38%| 
+                -> 2018: Sim:49.46%| Não:50.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.54%| Não:63.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.79%
+        Sozinho(a)
+                -> 2017: Sim:92.86%| Não:7.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.11%| Não:8.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.73%| Não:6.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.87%
+        Com alunos
+                -> 2017: Sim:47.11%| Não:52.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.83%| Não:50.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:57.22%| Não:42.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.11%
+        Com outras pessoas
+                -> 2017: Sim:89.01%| Não:10.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.43%| Não:11.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.78%| Não:12.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.23%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:75.11%| Não:24.36%| Não sabe:0.0%| Não respondeu:0.52%| 
+                -> 2018: Sim:76.31%| Não:23.58%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2019: Sim:77.89%| Não:22.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.78%
+        Outra forma
+                -> 2017: Sim:0.42%| Não:99.58%| 
+                -> 2018: Sim:1.17%| Não:98.83%| 
+                -> 2019: Sim:0.61%| Não:99.39%| 
+                A principal variação foi de Sim que foi de 0.19%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:20.24%| Não:79.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:28.34%| Não:71.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37081) 
+        Contatos informais com outros professores
+                -> 2017: Sim:77.95%| Não:22.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.87%| Não:15.99%| Não sabe:0.07%| Não respondeu:0.07%| 
+                -> 2019: Sim:81.36%| Não:18.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.41%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:34.18%| Não:65.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:35.47%| Não:64.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.73%| Não:80.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 14.45%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:32.29%| Não:67.38%| Não sabe:0.33%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.64%| Não:62.22%| Não sabe:0.07%| Não respondeu:0.07%| 
+                -> 2019: Sim:39.96%| Não:60.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.67%
+        Diretor(a) da escola
+                -> 2017: Sim:19.25%| Não:80.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:29.46%| Não:70.4%| Não sabe:0.07%| Não respondeu:0.07%| 
+                -> 2019: Sim:19.89%| Não:80.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.64%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:45.33%| Não:54.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.29%| Não:50.6%| Não sabe:0.07%| Não respondeu:0.04%| 
+                -> 2019: Sim:48.48%| Não:51.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.15%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:43.36%| Não:56.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:38.39%| Não:61.54%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.5%| Não:53.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.14%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:29.41%| Não:70.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:46.23%| Não:53.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.82%| Não:65.12%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.56%| Não:50.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.33%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:45.09%| Não:54.5%| Não sabe:0.36%| Não respondeu:0.05%| 
+                -> 2018: Sim:28.99%| Não:70.94%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.23%| Não:64.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.27%
+        Sozinho(a)
+                -> 2017: Sim:89.22%| Não:10.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.56%| Não:13.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.25%| Não:4.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.03%
+        Com alunos
+                -> 2017: Sim:55.06%| Não:44.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.27%| Não:54.65%| Não sabe:0.0%| Não respondeu:0.07%| 
+                -> 2019: Sim:46.7%| Não:53.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.36%
+        Com outras pessoas
+                -> 2017: Sim:86.13%| Não:13.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.28%| Não:14.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.05%| Não:14.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.09%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:73.74%| Não:26.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:69.53%| Não:30.33%| Não sabe:0.07%| Não respondeu:0.07%| 
+                -> 2019: Sim:81.11%| Não:18.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.37%
+        Outra forma
+                -> 2017: Sim:1.43%| Não:98.57%| 
+                -> 2018: Sim:0.38%| Não:99.62%| 
+                -> 2019: Sim:2.04%| Não:97.96%| 
+                A principal variação foi de Sim que foi de 0.61%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:23.32%| Não:76.61%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.16%| Não:70.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113617) 2019(126403) 
+        Contatos informais com outros professores
+                -> 2017: Sim:81.91%| Não:18.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:78.74%| Não:21.23%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:82.33%| Não:17.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.42%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:27.95%| Não:70.28%| Não sabe:0.89%| Não respondeu:0.89%| 
+                -> 2018: Sim:19.15%| Não:80.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.04%| Não:80.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.68%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:27.97%| Não:72.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:30.08%| Não:69.89%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:37.46%| Não:62.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.5%
+        Diretor(a) da escola
+                -> 2017: Sim:16.68%| Não:83.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:19.11%| Não:80.66%| Não sabe:0.2%| Não respondeu:0.03%| 
+                -> 2019: Sim:25.44%| Não:74.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.76%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:50.01%| Não:49.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.72%| Não:54.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.4%| Não:46.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.39%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:39.64%| Não:59.93%| Não sabe:0.42%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.21%| Não:56.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.7%| Não:52.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.06%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:20.6%| Não:79.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:41.71%| Não:58.22%| Não sabe:0.0%| Não respondeu:0.07%| 
+                -> 2018: Sim:39.35%| Não:60.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:37.13%| Não:61.69%| Não sabe:1.17%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.58%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:30.31%| Não:69.68%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2018: Sim:32.0%| Não:68.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.09%| Não:64.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.78%
+        Sozinho(a)
+                -> 2017: Sim:93.23%| Não:6.69%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.7%| Não:9.01%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.33%| Não:7.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.98%
+        Com alunos
+                -> 2017: Sim:35.89%| Não:64.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:32.61%| Não:67.37%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:38.06%| Não:61.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.17%
+        Com outras pessoas
+                -> 2017: Sim:92.09%| Não:7.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.54%| Não:11.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.3%| Não:15.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.79%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:70.35%| Não:29.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:79.55%| Não:20.28%| Não sabe:0.0%| Não respondeu:0.16%| 
+                -> 2019: Sim:77.92%| Não:22.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.57%
+        Outra forma
+                -> 2017: Sim:0.7%| Não:99.3%| 
+                -> 2018: Sim:0.84%| Não:99.16%| 
+                -> 2019: Sim:0.86%| Não:99.14%| 
+                A principal variação foi de Sim que foi de 0.16%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:22.46%| Não:77.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.56%| Não:75.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(122457) 2018(127038) 2019(120290) 
+        Contatos informais com outros professores
+                -> 2017: Sim:75.7%| Não:24.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:79.69%| Não:19.43%| Não sabe:0.02%| Não respondeu:0.85%| 
+                -> 2019: Sim:84.67%| Não:15.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.97%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:16.77%| Não:82.34%| Não sabe:0.71%| Não respondeu:0.17%| 
+                -> 2018: Sim:18.29%| Não:81.55%| Não sabe:0.12%| Não respondeu:0.04%| 
+                -> 2019: Sim:12.81%| Não:87.02%| Não sabe:0.17%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.68%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:30.93%| Não:68.97%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.06%| Não:59.92%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.91%| Não:63.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.98%
+        Diretor(a) da escola
+                -> 2017: Sim:19.57%| Não:80.29%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2018: Sim:24.93%| Não:75.05%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:21.92%| Não:78.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.35%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:47.8%| Não:51.83%| Não sabe:0.37%| Não respondeu:0.0%| 
+                -> 2018: Sim:48.53%| Não:51.44%| Não sabe:0.02%| Não respondeu:0.01%| 
+                -> 2019: Sim:54.59%| Não:45.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.79%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:44.45%| Não:55.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.56%| Não:55.42%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.2%| Não:51.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.76%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:22.91%| Não:76.97%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:36.54%| Não:62.72%| Não sabe:0.73%| Não respondeu:0.0%| 
+                -> 2018: Sim:36.86%| Não:63.12%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.86%| Não:56.11%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.32%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:32.47%| Não:67.03%| Não sabe:0.11%| Não respondeu:0.39%| 
+                -> 2018: Sim:41.15%| Não:58.82%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.46%| Não:60.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.99%
+        Sozinho(a)
+                -> 2017: Sim:92.01%| Não:7.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.27%| Não:7.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.0%| Não:5.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.0%
+        Com alunos
+                -> 2017: Sim:47.27%| Não:52.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:52.77%| Não:47.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.02%| Não:50.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.76%
+        Com outras pessoas
+                -> 2017: Sim:82.03%| Não:17.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.6%| Não:15.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.4%| Não:17.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.37%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:74.71%| Não:24.76%| Não sabe:0.0%| Não respondeu:0.54%| 
+                -> 2018: Sim:72.08%| Não:27.9%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.37%| Não:17.57%| Não sabe:0.0%| Não respondeu:0.06%| 
+                A principal variação foi de Sim que foi de 7.66%
+        Outra forma
+                -> 2017: Sim:1.13%| Não:98.87%| 
+                -> 2018: Sim:0.57%| Não:99.43%| 
+                -> 2019: Sim:0.51%| Não:99.49%| 
+                A principal variação foi de Sim que foi de 0.62%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:28.4%| Não:71.54%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Sim:31.31%| Não:68.55%| Não sabe:0.0%| Não respondeu:0.14%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(60815) 2018(69977) 2019(58903) 
+        Contatos informais com outros professores
+                -> 2017: Sim:82.61%| Não:17.34%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2018: Sim:90.0%| Não:10.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.7%| Não:22.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.96%
+        Monitor(a) ou responsável pela sala de informática da escola
+                -> 2017: Sim:31.38%| Não:68.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.56%| Não:59.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.14%| Não:53.14%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 15.48%
+        Coordenador(a) pedagógico(a)
+                -> 2017: Sim:36.61%| Não:63.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:60.18%| Não:39.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.09%| Não:46.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 16.48%
+        Diretor(a) da escola
+                -> 2017: Sim:27.51%| Não:72.31%| Não sabe:0.18%| Não respondeu:0.0%| 
+                -> 2018: Sim:22.75%| Não:77.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:32.93%| Não:67.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.42%
+        Algum grupo de professores da própria escola
+                -> 2017: Sim:52.5%| Não:47.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:64.31%| Não:35.55%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:61.58%| Não:38.34%| Não sabe:0.07%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.16%
+        Revistas e textos especializados sobre computador e Internet
+                -> 2017: Sim:51.85%| Não:48.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:58.69%| Não:41.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.94%| Não:39.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.09%
+        Formadores da Secretaria de Ensino
+                -> 2017: Sim:14.25%| Não:85.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Formadores de outras organizações externas à escola
+                -> 2017: Sim:40.11%| Não:59.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.79%| Não:57.18%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:54.66%| Não:45.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 14.55%
+        Cursos específicos sobre computador e Internet
+                -> 2017: Sim:42.32%| Não:57.5%| Não sabe:0.18%| Não respondeu:0.0%| 
+                -> 2018: Sim:54.13%| Não:45.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.42%| Não:60.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.08%
+        Sozinho(a)
+                -> 2017: Sim:91.05%| Não:8.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.74%| Não:14.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.55%| Não:6.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.5%
+        Com alunos
+                -> 2017: Sim:64.57%| Não:35.38%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2018: Sim:63.56%| Não:36.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:70.7%| Não:29.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.13%
+        Com outras pessoas
+                -> 2017: Sim:88.38%| Não:11.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.45%| Não:12.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.67%| Não:14.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.71%
+        Com vídeos ou tutoriais on-line
+                -> 2017: Sim:83.33%| Não:16.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.0%| Não:26.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.54%| Não:17.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.79%
+        Outra forma
+                -> 2017: Sim:0.69%| Não:99.31%| 
+                -> 2018: Sim:1.37%| Não:98.63%| 
+                -> 2019: Sim:1.72%| Não:98.28%| 
+                A principal variação foi de Não que foi de 1.03%
+        Formadores da secretaria de ensino
+                -> 2017: Não possui 
+                -> 2018: Sim:14.75%| Não:84.95%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:18.56%| Não:81.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

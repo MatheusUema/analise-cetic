@@ -1,0 +1,631 @@
+TOTAL PARA O INDICADOR G12 – PROFESSORES DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE BARREIRAS PARA A PUBLICAÇÃO DE RECURSOS NA INTERNET
+Em termos de TOTAL:
+    Total: 2017(286863) 2018(309700) 2019(304138) 
+    Receio sobre violação de direitos autorais
+        -> 2017: Dificulta muito:37.18%| Dificulta um pouco:33.69%| Não dificulta nada:18.82%| Não sabe:1.64%| Não respondeu:0.43%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:34.58%| Dificulta um pouco:34.91%| Não dificulta nada:22.05%| Não sabe:1.26%| Não respondeu:0.21%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:30.93%| Dificulta um pouco:38.37%| Não dificulta nada:22.32%| Não sabe:0.78%| Não respondeu:0.47%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta muito que foi de 6.25%
+    Receio de se expor
+        -> 2017: Dificulta muito:38.67%| Dificulta um pouco:31.28%| Não dificulta nada:21.45%| Não sabe:0.26%| Não respondeu:0.1%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:40.45%| Dificulta um pouco:31.43%| Não dificulta nada:20.68%| Não sabe:0.45%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:34.41%| Dificulta um pouco:38.51%| Não dificulta nada:19.69%| Não sabe:0.11%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta um pouco que foi de 7.23%
+    Falta de tempo
+        -> 2017: Dificulta muito:51.66%| Dificulta um pouco:29.2%| Não dificulta nada:10.65%| Não sabe:0.23%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:54.95%| Dificulta um pouco:28.99%| Não dificulta nada:8.64%| Não sabe:0.43%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:52.1%| Dificulta um pouco:32.1%| Não dificulta nada:8.23%| Não sabe:0.09%| Não respondeu:0.36%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta um pouco que foi de 2.9%
+    Falta de incentivo ou apoio da escola
+        -> 2017: Dificulta muito:15.96%| Dificulta um pouco:26.77%| Não dificulta nada:48.3%| Não sabe:0.1%| Não respondeu:0.63%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:16.74%| Dificulta um pouco:28.4%| Não dificulta nada:47.01%| Não sabe:0.75%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:12.84%| Dificulta um pouco:27.97%| Não dificulta nada:51.6%| Não sabe:0.29%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Não dificulta nada que foi de 3.3%
+    Falta de conhecimento sobre como publicar
+        -> 2017: Dificulta muito:27.52%| Dificulta um pouco:37.86%| Não dificulta nada:24.74%| Não sabe:0.06%| Não respondeu:1.58%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:29.57%| Dificulta um pouco:42.08%| Não dificulta nada:19.92%| Não sabe:1.43%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:24.35%| Dificulta um pouco:43.53%| Não dificulta nada:24.78%| Não sabe:0.07%| Não respondeu:0.13%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta um pouco que foi de 5.67%
+    Baixa velocidade de conexão à Internet
+        -> 2017: Dificulta muito:43.82%| Dificulta um pouco:22.13%| Não dificulta nada:25.51%| Não sabe:0.23%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:42.62%| Dificulta um pouco:20.73%| Não dificulta nada:29.49%| Não sabe:0.1%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:40.0%| Dificulta um pouco:24.28%| Não dificulta nada:28.38%| Não sabe:0.11%| Não respondeu:0.1%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta muito que foi de 3.82%
+    Uso de computador ultrapassado
+        -> 2017: Dificulta muito:44.53%| Dificulta um pouco:18.48%| Não dificulta nada:28.16%| Não sabe:0.5%| Não respondeu:0.09%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:45.49%| Dificulta um pouco:16.86%| Não dificulta nada:30.09%| Não sabe:0.43%| Não respondeu:0.15%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:49.1%| Dificulta um pouco:17.72%| Não dificulta nada:25.8%| Não sabe:0.13%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta muito que foi de 4.57%
+    Programas para criar e produzir conteúdos
+        -> 2017: Dificulta muito:34.55%| Dificulta um pouco:39.13%| Não dificulta nada:16.99%| Não sabe:1.0%| Não respondeu:0.09%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:32.55%| Dificulta um pouco:40.53%| Não dificulta nada:18.87%| Não sabe:0.98%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:32.85%| Dificulta um pouco:39.31%| Não dificulta nada:18.9%| Não sabe:1.57%| Não respondeu:0.24%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Não dificulta nada que foi de 1.91%
+    Falta de conhecimento sobre onde publicar
+        -> 2017: Dificulta muito:32.79%| Dificulta um pouco:40.93%| Não dificulta nada:17.54%| Não sabe:0.35%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:34.19%| Dificulta um pouco:43.06%| Não dificulta nada:15.49%| Não sabe:0.23%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:33.59%| Dificulta um pouco:37.5%| Não dificulta nada:21.54%| Não sabe:0.19%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Não dificulta nada que foi de 4.0%
+    Falta de interesse em publicar 
+        -> 2017: Dificulta muito:16.95%| Dificulta um pouco:41.06%| Não dificulta nada:32.8%| Não sabe:0.47%| Não respondeu:0.48%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:21.58%| Dificulta um pouco:43.53%| Não dificulta nada:27.41%| Não sabe:0.24%| Não respondeu:0.25%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:20.97%| Dificulta um pouco:40.6%| Não dificulta nada:30.98%| Não sabe:0.18%| Não respondeu:0.13%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta muito que foi de 4.02%
+    Não ser remunerado
+        -> 2017: Dificulta muito:25.41%| Dificulta um pouco:22.0%| Não dificulta nada:43.82%| Não sabe:0.51%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.24%| 
+        -> 2018: Dificulta muito:26.87%| Dificulta um pouco:25.01%| Não dificulta nada:40.7%| Não sabe:0.35%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:6.99%| 
+        -> 2019: Dificulta muito:23.94%| Dificulta um pouco:25.28%| Não dificulta nada:43.48%| Não sabe:0.1%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.14%| 
+        A principal variação foi de Dificulta um pouco que foi de 3.28%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(226129) 2018(227752) 2019(224796) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:38.75%| Dificulta um pouco:33.71%| Não dificulta nada:17.11%| Não sabe:1.7%| Não respondeu:0.46%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:35.78%| Dificulta um pouco:36.08%| Não dificulta nada:20.95%| Não sabe:1.66%| Não respondeu:0.15%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:31.63%| Dificulta um pouco:37.26%| Não dificulta nada:23.33%| Não sabe:0.94%| Não respondeu:0.64%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta muito que foi de 7.12%
+        Receio de se expor
+                -> 2017: Dificulta muito:41.76%| Dificulta um pouco:29.96%| Não dificulta nada:19.62%| Não sabe:0.31%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:45.47%| Dificulta um pouco:29.9%| Não dificulta nada:18.64%| Não sabe:0.61%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:36.58%| Dificulta um pouco:39.18%| Não dificulta nada:17.77%| Não sabe:0.08%| Não respondeu:0.19%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta um pouco que foi de 9.22%
+        Falta de tempo
+                -> 2017: Dificulta muito:52.46%| Dificulta um pouco:29.52%| Não dificulta nada:9.52%| Não sabe:0.21%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:57.1%| Dificulta um pouco:29.08%| Não dificulta nada:7.86%| Não sabe:0.58%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:55.38%| Dificulta um pouco:29.62%| Não dificulta nada:8.26%| Não sabe:0.06%| Não respondeu:0.48%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta muito que foi de 2.92%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:16.05%| Dificulta um pouco:25.02%| Não dificulta nada:49.74%| Não sabe:0.11%| Não respondeu:0.8%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:17.07%| Dificulta um pouco:29.17%| Não dificulta nada:47.3%| Não sabe:0.99%| Não respondeu:0.1%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:13.33%| Dificulta um pouco:25.72%| Não dificulta nada:54.31%| Não sabe:0.31%| Não respondeu:0.13%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Não dificulta nada que foi de 4.57%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:28.83%| Dificulta um pouco:37.9%| Não dificulta nada:22.92%| Não sabe:0.06%| Não respondeu:2.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:33.2%| Dificulta um pouco:42.04%| Não dificulta nada:19.08%| Não sabe:0.29%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:26.98%| Dificulta um pouco:45.73%| Não dificulta nada:20.95%| Não sabe:0.07%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.83%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:44.44%| Dificulta um pouco:21.68%| Não dificulta nada:25.27%| Não sabe:0.26%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:43.85%| Dificulta um pouco:20.83%| Não dificulta nada:29.7%| Não sabe:0.14%| Não respondeu:0.1%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:42.35%| Dificulta um pouco:24.89%| Não dificulta nada:26.37%| Não sabe:0.12%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta um pouco que foi de 3.21%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:46.41%| Dificulta um pouco:17.78%| Não dificulta nada:26.83%| Não sabe:0.59%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:45.68%| Dificulta um pouco:16.33%| Não dificulta nada:32.16%| Não sabe:0.26%| Não respondeu:0.2%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:51.53%| Dificulta um pouco:17.19%| Não dificulta nada:24.93%| Não sabe:0.06%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta muito que foi de 5.12%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:35.84%| Dificulta um pouco:39.74%| Não dificulta nada:14.84%| Não sabe:1.19%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:34.64%| Dificulta um pouco:39.03%| Não dificulta nada:19.66%| Não sabe:1.18%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:33.81%| Dificulta um pouco:40.81%| Não dificulta nada:16.79%| Não sabe:2.06%| Não respondeu:0.33%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet que foi de 2.08%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:34.75%| Dificulta um pouco:39.67%| Não dificulta nada:16.71%| Não sabe:0.42%| Não respondeu:0.18%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:36.3%| Dificulta um pouco:44.41%| Não dificulta nada:13.71%| Não sabe:0.15%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:37.46%| Dificulta um pouco:37.23%| Não dificulta nada:18.78%| Não sabe:0.25%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta muito que foi de 2.71%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:16.44%| Dificulta um pouco:42.07%| Não dificulta nada:32.06%| Não sabe:0.56%| Não respondeu:0.6%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:22.44%| Dificulta um pouco:44.83%| Não dificulta nada:26.83%| Não sabe:0.18%| Não respondeu:0.34%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:22.14%| Dificulta um pouco:40.01%| Não dificulta nada:31.22%| Não sabe:0.25%| Não respondeu:0.18%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta muito que foi de 5.7%
+        Não ser remunerado
+                -> 2017: Dificulta muito:24.87%| Dificulta um pouco:20.34%| Não dificulta nada:45.88%| Não sabe:0.62%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.28%| 
+                -> 2018: Dificulta muito:26.76%| Dificulta um pouco:26.94%| Não dificulta nada:40.52%| Não sabe:0.3%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:5.38%| 
+                -> 2019: Dificulta muito:24.01%| Dificulta um pouco:22.59%| Não dificulta nada:47.06%| Não sabe:0.07%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.2%| 
+                A principal variação foi de Dificulta um pouco que foi de 2.25%
+   Masculino:
+        Total: 2017(60733) 2018(81947) 2019(79342) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:31.34%| Dificulta um pouco:33.63%| Não dificulta nada:25.18%| Não sabe:1.41%| Não respondeu:0.32%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:31.27%| Dificulta um pouco:31.65%| Não dificulta nada:25.1%| Não sabe:0.15%| Não respondeu:0.36%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:28.92%| Dificulta um pouco:41.53%| Não dificulta nada:19.45%| Não sabe:0.32%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.9%
+        Receio de se expor
+                -> 2017: Dificulta muito:27.16%| Dificulta um pouco:36.18%| Não dificulta nada:28.29%| Não sabe:0.04%| Não respondeu:0.21%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:26.51%| Dificulta um pouco:35.67%| Não dificulta nada:26.35%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:28.28%| Dificulta um pouco:36.61%| Não dificulta nada:25.12%| Não sabe:0.2%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Não dificulta nada que foi de 3.17%
+        Falta de tempo
+                -> 2017: Dificulta muito:48.68%| Dificulta um pouco:28.01%| Não dificulta nada:14.86%| Não sabe:0.33%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:48.96%| Dificulta um pouco:28.76%| Não dificulta nada:10.81%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:42.79%| Dificulta um pouco:39.11%| Não dificulta nada:8.15%| Não sabe:0.17%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta um pouco que foi de 11.1%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:15.63%| Dificulta um pouco:33.28%| Não dificulta nada:42.92%| Não sabe:0.04%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:15.82%| Dificulta um pouco:26.27%| Não dificulta nada:46.21%| Não sabe:0.1%| Não respondeu:0.13%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:11.45%| Dificulta um pouco:34.34%| Não dificulta nada:43.93%| Não sabe:0.22%| Não respondeu:0.27%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta muito que foi de 4.18%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:22.61%| Dificulta um pouco:37.7%| Não dificulta nada:31.52%| Não sabe:0.04%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:19.47%| Dificulta um pouco:42.19%| Não dificulta nada:22.26%| Não sabe:4.61%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:16.92%| Dificulta um pouco:37.3%| Não dificulta nada:35.63%| Não sabe:0.08%| Não respondeu:0.28%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta muito que foi de 5.69%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:41.51%| Dificulta um pouco:23.78%| Não dificulta nada:26.42%| Não sabe:0.12%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:39.2%| Dificulta um pouco:20.44%| Não dificulta nada:28.89%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:33.35%| Dificulta um pouco:22.58%| Não dificulta nada:34.05%| Não sabe:0.08%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta muito que foi de 8.16%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:37.5%| Dificulta um pouco:21.11%| Não dificulta nada:33.1%| Não sabe:0.17%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:44.95%| Dificulta um pouco:18.34%| Não dificulta nada:24.33%| Não sabe:0.91%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:42.22%| Dificulta um pouco:19.23%| Não dificulta nada:28.25%| Não sabe:0.34%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Não dificulta nada que foi de 4.85%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:29.73%| Dificulta um pouco:36.87%| Não dificulta nada:24.97%| Não sabe:0.3%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:26.76%| Dificulta um pouco:44.68%| Não dificulta nada:16.66%| Não sabe:0.41%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:30.12%| Dificulta um pouco:35.07%| Não dificulta nada:24.86%| Não sabe:0.17%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta um pouco que foi de 1.8%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:25.5%| Dificulta um pouco:45.63%| Não dificulta nada:20.66%| Não sabe:0.08%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:28.35%| Dificulta um pouco:39.32%| Não dificulta nada:20.42%| Não sabe:0.43%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:22.61%| Dificulta um pouco:38.27%| Não dificulta nada:29.34%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Não dificulta nada que foi de 8.68%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:18.83%| Dificulta um pouco:37.31%| Não dificulta nada:35.57%| Não sabe:0.12%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:19.2%| Dificulta um pouco:39.9%| Não dificulta nada:29.04%| Não sabe:0.39%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:17.65%| Dificulta um pouco:42.26%| Não dificulta nada:30.3%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Não dificulta nada que foi de 5.27%
+        Não ser remunerado
+                -> 2017: Dificulta muito:27.41%| Dificulta um pouco:28.21%| Não dificulta nada:36.13%| Não sabe:0.12%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.12%| 
+                -> 2018: Dificulta muito:27.17%| Dificulta um pouco:19.67%| Não dificulta nada:41.19%| Não sabe:0.49%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:11.47%| 
+                -> 2019: Dificulta muito:23.76%| Dificulta um pouco:32.93%| Não dificulta nada:33.33%| Não sabe:0.2%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.78%| 
+                A principal variação foi de Dificulta um pouco que foi de 4.72%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(19749) 2018(22936) 2019(25940) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:32.02%| Dificulta um pouco:39.14%| Não dificulta nada:20.09%| Não sabe:1.44%| Não respondeu:0.36%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:33.14%| Dificulta um pouco:36.83%| Não dificulta nada:19.59%| Não sabe:0.34%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:30.03%| Dificulta um pouco:35.8%| Não dificulta nada:24.07%| Não sabe:0.81%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Não dificulta nada que foi de 3.98%
+        Receio de se expor
+                -> 2017: Dificulta muito:36.55%| Dificulta um pouco:32.37%| Não dificulta nada:23.05%| Não sabe:0.86%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:35.91%| Dificulta um pouco:31.76%| Não dificulta nada:22.22%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:32.96%| Dificulta um pouco:30.41%| Não dificulta nada:26.71%| Não sabe:0.64%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Não dificulta nada que foi de 3.66%
+        Falta de tempo
+                -> 2017: Dificulta muito:54.76%| Dificulta um pouco:30.32%| Não dificulta nada:7.77%| Não sabe:0.22%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:51.9%| Dificulta um pouco:27.63%| Não dificulta nada:10.36%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:43.8%| Dificulta um pouco:34.63%| Não dificulta nada:11.89%| Não sabe:0.4%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta muito que foi de 10.96%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:28.27%| Dificulta um pouco:28.78%| Não dificulta nada:35.88%| Não sabe:0.0%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:19.0%| Dificulta um pouco:30.86%| Não dificulta nada:39.72%| Não sabe:0.3%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:19.69%| Dificulta um pouco:33.81%| Não dificulta nada:35.97%| Não sabe:1.25%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta muito que foi de 8.58%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:36.51%| Dificulta um pouco:35.16%| Não dificulta nada:21.31%| Não sabe:0.08%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:28.57%| Dificulta um pouco:38.37%| Não dificulta nada:21.42%| Não sabe:1.53%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:28.38%| Dificulta um pouco:36.2%| Não dificulta nada:25.48%| Não sabe:0.65%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta muito que foi de 8.13%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:61.59%| Dificulta um pouco:21.52%| Não dificulta nada:9.84%| Não sabe:0.0%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:56.19%| Dificulta um pouco:22.44%| Não dificulta nada:11.26%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:57.95%| Dificulta um pouco:16.55%| Não dificulta nada:15.59%| Não sabe:0.63%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Não dificulta nada que foi de 5.75%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:54.13%| Dificulta um pouco:18.39%| Não dificulta nada:20.31%| Não sabe:0.23%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:54.51%| Dificulta um pouco:15.13%| Não dificulta nada:20.26%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:50.97%| Dificulta um pouco:19.3%| Não dificulta nada:20.05%| Não sabe:0.4%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta muito que foi de 3.16%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:36.64%| Dificulta um pouco:37.39%| Não dificulta nada:18.35%| Não sabe:0.52%| Não respondeu:0.16%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:33.34%| Dificulta um pouco:44.21%| Não dificulta nada:11.55%| Não sabe:0.75%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:37.87%| Dificulta um pouco:39.11%| Não dificulta nada:13.23%| Não sabe:0.5%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Não dificulta nada que foi de 5.12%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:40.21%| Dificulta um pouco:34.55%| Não dificulta nada:18.04%| Não sabe:0.12%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:38.46%| Dificulta um pouco:40.66%| Não dificulta nada:10.46%| Não sabe:0.3%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:35.61%| Dificulta um pouco:39.61%| Não dificulta nada:15.1%| Não sabe:0.4%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta um pouco que foi de 5.06%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:23.65%| Dificulta um pouco:43.7%| Não dificulta nada:25.03%| Não sabe:0.67%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:24.83%| Dificulta um pouco:48.31%| Não dificulta nada:16.39%| Não sabe:0.0%| Não respondeu:0.37%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:14.33%| Dificulta um pouco:45.86%| Não dificulta nada:29.42%| Não sabe:1.11%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Dificulta muito que foi de 9.32%
+        Não ser remunerado
+                -> 2017: Dificulta muito:28.12%| Dificulta um pouco:26.42%| Não dificulta nada:36.94%| Não sabe:1.57%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:6.94%| 
+                -> 2018: Dificulta muito:23.5%| Dificulta um pouco:30.43%| Não dificulta nada:35.53%| Não sabe:0.43%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.1%| 
+                -> 2019: Dificulta muito:28.1%| Dificulta um pouco:24.23%| Não dificulta nada:37.98%| Não sabe:0.41%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.25%| 
+                A principal variação foi de Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet que foi de 2.31%
+   Centro-Oeste:
+        Total: 2017(24679) 2018(26514) 2019(25144) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:29.25%| Dificulta um pouco:33.76%| Não dificulta nada:26.57%| Não sabe:2.56%| Não respondeu:0.53%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:32.36%| Dificulta um pouco:35.34%| Não dificulta nada:21.51%| Não sabe:1.2%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:27.69%| Dificulta um pouco:40.6%| Não dificulta nada:26.22%| Não sabe:1.18%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 6.84%
+        Receio de se expor
+                -> 2017: Dificulta muito:36.3%| Dificulta um pouco:27.32%| Não dificulta nada:28.47%| Não sabe:0.58%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:35.44%| Dificulta um pouco:30.37%| Não dificulta nada:24.45%| Não sabe:0.15%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:31.1%| Dificulta um pouco:36.52%| Não dificulta nada:28.06%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 9.2%
+        Falta de tempo
+                -> 2017: Dificulta muito:49.22%| Dificulta um pouco:28.1%| Não dificulta nada:14.64%| Não sabe:0.71%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:47.22%| Dificulta um pouco:24.71%| Não dificulta nada:18.31%| Não sabe:0.15%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:50.38%| Dificulta um pouco:35.31%| Não dificulta nada:9.99%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.21%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:16.55%| Dificulta um pouco:22.94%| Não dificulta nada:52.53%| Não sabe:0.66%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:19.77%| Dificulta um pouco:25.85%| Não dificulta nada:44.24%| Não sabe:0.48%| Não respondeu:0.06%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:14.35%| Dificulta um pouco:32.06%| Não dificulta nada:48.63%| Não sabe:0.21%| Não respondeu:0.43%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 9.12%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:24.41%| Dificulta um pouco:29.43%| Não dificulta nada:38.7%| Não sabe:0.13%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:27.56%| Dificulta um pouco:37.22%| Não dificulta nada:25.48%| Não sabe:0.15%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:28.87%| Dificulta um pouco:38.16%| Não dificulta nada:28.65%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Não dificulta nada que foi de 10.05%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:42.83%| Dificulta um pouco:18.42%| Não dificulta nada:30.95%| Não sabe:0.47%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:43.5%| Dificulta um pouco:19.62%| Não dificulta nada:27.13%| Não sabe:0.15%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:45.95%| Dificulta um pouco:27.61%| Não dificulta nada:22.06%| Não sabe:0.07%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 9.19%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:32.08%| Dificulta um pouco:11.88%| Não dificulta nada:48.67%| Não sabe:0.04%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:39.55%| Dificulta um pouco:15.78%| Não dificulta nada:34.82%| Não sabe:0.25%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:47.83%| Dificulta um pouco:20.94%| Não dificulta nada:26.91%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Não dificulta nada que foi de 21.76%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:30.9%| Dificulta um pouco:28.93%| Não dificulta nada:30.87%| Não sabe:1.97%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:29.17%| Dificulta um pouco:38.12%| Não dificulta nada:22.32%| Não sabe:0.8%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:33.85%| Dificulta um pouco:44.63%| Não dificulta nada:17.18%| Não sabe:0.02%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 15.7%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:31.16%| Dificulta um pouco:26.36%| Não dificulta nada:34.86%| Não sabe:0.29%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:27.52%| Dificulta um pouco:41.16%| Não dificulta nada:21.39%| Não sabe:0.34%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:36.5%| Dificulta um pouco:35.77%| Não dificulta nada:23.41%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Não dificulta nada que foi de 11.45%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:21.52%| Dificulta um pouco:33.59%| Não dificulta nada:37.0%| Não sabe:0.47%| Não respondeu:0.09%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:23.45%| Dificulta um pouco:36.7%| Não dificulta nada:29.99%| Não sabe:0.26%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:21.5%| Dificulta um pouco:44.35%| Não dificulta nada:29.59%| Não sabe:0.25%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 10.76%
+        Não ser remunerado
+                -> 2017: Dificulta muito:21.11%| Dificulta um pouco:16.72%| Não dificulta nada:53.56%| Não sabe:1.29%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.33%| 
+                -> 2018: Dificulta muito:24.98%| Dificulta um pouco:27.16%| Não dificulta nada:38.09%| Não sabe:0.18%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:9.59%| 
+                -> 2019: Dificulta muito:25.36%| Dificulta um pouco:26.53%| Não dificulta nada:43.8%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.32%| 
+                A principal variação foi de Dificulta um pouco que foi de 9.81%
+   Nordeste:
+        Total: 2017(80128) 2018(86821) 2019(94678) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:32.06%| Dificulta um pouco:35.87%| Não dificulta nada:17.99%| Não sabe:2.34%| Não respondeu:0.51%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:32.56%| Dificulta um pouco:40.33%| Não dificulta nada:16.84%| Não sabe:2.3%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:25.08%| Dificulta um pouco:46.9%| Não dificulta nada:17.07%| Não sabe:0.47%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta um pouco que foi de 11.03%
+        Receio de se expor
+                -> 2017: Dificulta muito:31.93%| Dificulta um pouco:31.89%| Não dificulta nada:24.7%| Não sabe:0.23%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:37.27%| Dificulta um pouco:36.94%| Não dificulta nada:16.74%| Não sabe:1.08%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:32.28%| Dificulta um pouco:38.56%| Não dificulta nada:18.41%| Não sabe:0.0%| Não respondeu:0.27%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta um pouco que foi de 6.67%
+        Falta de tempo
+                -> 2017: Dificulta muito:48.41%| Dificulta um pouco:31.7%| Não dificulta nada:8.44%| Não sabe:0.21%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:52.67%| Dificulta um pouco:30.11%| Não dificulta nada:8.17%| Não sabe:1.08%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:50.48%| Dificulta um pouco:34.71%| Não dificulta nada:4.33%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Não dificulta nada que foi de 4.11%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:17.69%| Dificulta um pouco:31.25%| Não dificulta nada:39.22%| Não sabe:0.03%| Não respondeu:0.57%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:16.83%| Dificulta um pouco:34.04%| Não dificulta nada:39.78%| Não sabe:1.08%| Não respondeu:0.3%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:11.3%| Dificulta um pouco:28.73%| Não dificulta nada:49.13%| Não sabe:0.26%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Não dificulta nada que foi de 9.91%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:27.46%| Dificulta um pouco:38.51%| Não dificulta nada:22.76%| Não sabe:0.03%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:26.2%| Dificulta um pouco:46.44%| Não dificulta nada:19.4%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:23.03%| Dificulta um pouco:46.56%| Não dificulta nada:19.84%| Não sabe:0.0%| Não respondeu:0.1%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta um pouco que foi de 8.05%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:44.29%| Dificulta um pouco:23.39%| Não dificulta nada:20.35%| Não sabe:0.57%| Não respondeu:0.16%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:52.65%| Dificulta um pouco:20.08%| Não dificulta nada:19.31%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:36.49%| Dificulta um pouco:29.74%| Não dificulta nada:23.16%| Não sabe:0.13%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta muito que foi de 7.8%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:42.05%| Dificulta um pouco:17.28%| Não dificulta nada:29.34%| Não sabe:0.09%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:50.16%| Dificulta um pouco:17.47%| Não dificulta nada:24.41%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:44.65%| Dificulta um pouco:23.24%| Não dificulta nada:21.64%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Não dificulta nada que foi de 7.7%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:33.8%| Dificulta um pouco:41.74%| Não dificulta nada:13.07%| Não sabe:0.11%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:35.11%| Dificulta um pouco:46.05%| Não dificulta nada:10.58%| Não sabe:0.29%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:31.87%| Dificulta um pouco:42.71%| Não dificulta nada:14.82%| Não sabe:0.12%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta muito que foi de 1.93%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:32.5%| Dificulta um pouco:41.12%| Não dificulta nada:15.11%| Não sabe:0.03%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:34.89%| Dificulta um pouco:42.67%| Não dificulta nada:14.48%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:36.25%| Dificulta um pouco:38.51%| Não dificulta nada:14.77%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta muito que foi de 3.75%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:16.21%| Dificulta um pouco:41.37%| Não dificulta nada:31.14%| Não sabe:0.03%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:23.62%| Dificulta um pouco:42.84%| Não dificulta nada:25.56%| Não sabe:0.02%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:21.97%| Dificulta um pouco:40.8%| Não dificulta nada:26.51%| Não sabe:0.0%| Não respondeu:0.25%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta muito que foi de 5.76%
+        Não ser remunerado
+                -> 2017: Dificulta muito:20.76%| Dificulta um pouco:25.73%| Não dificulta nada:42.03%| Não sabe:0.24%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:11.24%| 
+                -> 2018: Dificulta muito:26.1%| Dificulta um pouco:24.93%| Não dificulta nada:40.76%| Não sabe:0.24%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.97%| 
+                -> 2019: Dificulta muito:20.87%| Dificulta um pouco:33.03%| Não dificulta nada:35.62%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:10.48%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.3%
+   Sudeste:
+        Total: 2017(125466) 2018(132979) 2019(121294) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:44.79%| Dificulta um pouco:30.42%| Não dificulta nada:15.66%| Não sabe:1.16%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:38.42%| Dificulta um pouco:30.57%| Não dificulta nada:25.64%| Não sabe:0.72%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:39.6%| Dificulta um pouco:28.65%| Não dificulta nada:24.0%| Não sabe:0.91%| Não respondeu:1.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 8.34%
+        Receio de se expor
+                -> 2017: Dificulta muito:46.19%| Dificulta um pouco:30.85%| Não dificulta nada:14.9%| Não sabe:0.0%| Não respondeu:0.09%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:44.93%| Dificulta um pouco:30.03%| Não dificulta nada:20.72%| Não sabe:0.1%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:36.5%| Dificulta um pouco:43.1%| Não dificulta nada:14.62%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Dificulta um pouco que foi de 12.25%
+        Falta de tempo
+                -> 2017: Dificulta muito:55.13%| Dificulta um pouco:27.19%| Não dificulta nada:9.48%| Não sabe:0.23%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:58.75%| Dificulta um pouco:29.43%| Não dificulta nada:7.45%| Não sabe:0.14%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:54.41%| Dificulta um pouco:30.55%| Não dificulta nada:8.51%| Não sabe:0.0%| Não respondeu:0.75%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Dificulta um pouco que foi de 3.36%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:15.16%| Dificulta um pouco:25.16%| Não dificulta nada:50.7%| Não sabe:0.0%| Não respondeu:1.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:17.52%| Dificulta um pouco:26.7%| Não dificulta nada:50.66%| Não sabe:0.88%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:11.18%| Dificulta um pouco:24.8%| Não dificulta nada:58.09%| Não sabe:0.15%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 7.39%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:29.19%| Dificulta um pouco:38.07%| Não dificulta nada:21.15%| Não sabe:0.0%| Não respondeu:3.62%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:31.86%| Dificulta um pouco:41.76%| Não dificulta nada:19.29%| Não sabe:2.84%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:24.09%| Dificulta um pouco:42.84%| Não dificulta nada:27.29%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 6.14%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:42.4%| Dificulta um pouco:21.15%| Não dificulta nada:28.48%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:35.01%| Dificulta um pouco:19.48%| Não dificulta nada:40.89%| Não sabe:0.21%| Não respondeu:0.18%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:38.86%| Dificulta um pouco:20.63%| Não dificulta nada:34.72%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 6.24%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:47.03%| Dificulta um pouco:21.37%| Não dificulta nada:22.65%| Não sabe:0.98%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:44.62%| Dificulta um pouco:17.04%| Não dificulta nada:32.85%| Não sabe:0.93%| Não respondeu:0.34%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:53.64%| Dificulta um pouco:10.88%| Não dificulta nada:29.47%| Não sabe:0.22%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Dificulta um pouco que foi de 10.49%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:37.15%| Dificulta um pouco:38.52%| Não dificulta nada:14.79%| Não sabe:1.43%| Não respondeu:0.15%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:30.33%| Dificulta um pouco:39.52%| Não dificulta nada:24.33%| Não sabe:1.39%| Não respondeu:0.19%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:31.97%| Dificulta um pouco:35.81%| Não dificulta nada:23.12%| Não sabe:2.85%| Não respondeu:0.45%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 8.33%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:34.56%| Dificulta um pouco:43.9%| Não dificulta nada:12.66%| Não sabe:0.63%| Não respondeu:0.28%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:33.38%| Dificulta um pouco:46.66%| Não dificulta nada:15.42%| Não sabe:0.22%| Não respondeu:0.08%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:31.24%| Dificulta um pouco:35.2%| Não dificulta nada:27.61%| Não sabe:0.16%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 14.95%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:14.22%| Dificulta um pouco:43.4%| Não dificulta nada:32.6%| Não sabe:0.75%| Não respondeu:1.06%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:19.52%| Dificulta um pouco:46.93%| Não dificulta nada:28.46%| Não sabe:0.35%| Não respondeu:0.51%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:22.6%| Dificulta um pouco:35.16%| Não dificulta nada:36.46%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Dificulta muito que foi de 8.38%
+        Não ser remunerado
+                -> 2017: Dificulta muito:29.97%| Dificulta um pouco:20.97%| Não dificulta nada:40.76%| Não sabe:0.33%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.97%| 
+                -> 2018: Dificulta muito:29.33%| Dificulta um pouco:25.92%| Não dificulta nada:39.94%| Não sabe:0.4%| Não respondeu:0.18%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:4.23%| 
+                -> 2019: Dificulta muito:24.41%| Dificulta um pouco:19.87%| Não dificulta nada:49.81%| Não sabe:0.13%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:5.79%| 
+                A principal variação foi de Não dificulta nada que foi de 9.05%
+   Sul:
+        Total: 2017(36841) 2018(40450) 2019(37082) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:30.5%| Dificulta um pouco:37.12%| Não dificulta nada:25.53%| Não sabe:1.21%| Não respondeu:1.69%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:28.58%| Dificulta um pouco:36.19%| Não dificulta nada:23.14%| Não sabe:1.38%| Não respondeu:0.21%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:20.31%| Dificulta um pouco:48.65%| Não dificulta nada:26.36%| Não sabe:0.83%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta um pouco que foi de 11.53%
+        Receio de se expor
+                -> 2017: Dificulta muito:30.38%| Dificulta um pouco:33.47%| Não dificulta nada:31.14%| Não sabe:0.65%| Não respondeu:0.38%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:38.42%| Dificulta um pouco:24.69%| Não dificulta nada:25.69%| Não sabe:0.7%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:36.32%| Dificulta um pouco:30.35%| Não dificulta nada:28.96%| Não sabe:0.45%| Não respondeu:0.46%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta muito que foi de 5.94%
+        Falta de tempo
+                -> 2017: Dificulta muito:46.91%| Dificulta um pouco:30.75%| Não dificulta nada:18.32%| Não sabe:0.0%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:54.11%| Dificulta um pouco:28.72%| Não dificulta nada:6.26%| Não sabe:0.41%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:55.61%| Dificulta um pouco:26.54%| Não dificulta nada:13.49%| Não sabe:0.45%| Não respondeu:0.46%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta muito que foi de 8.7%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:7.9%| Dificulta um pouco:23.97%| Não dificulta nada:63.68%| Não sabe:0.26%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:10.68%| Dificulta um pouco:22.18%| Não dificulta nada:56.48%| Não sabe:0.07%| Não respondeu:0.09%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:16.41%| Dificulta um pouco:29.55%| Não dificulta nada:49.63%| Não sabe:0.2%| Não respondeu:0.77%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Não dificulta nada que foi de 14.05%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:19.2%| Dificulta um pouco:42.83%| Não dificulta nada:33.77%| Não sabe:0.24%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:31.17%| Dificulta um pouco:39.03%| Não dificulta nada:18.64%| Não sabe:0.66%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:22.73%| Dificulta um pouco:46.82%| Não dificulta nada:26.09%| Não sabe:0.15%| Não respondeu:0.77%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Não dificulta nada que foi de 7.68%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:38.75%| Dificulta um pouco:25.55%| Não dificulta nada:31.39%| Não sabe:0.24%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:37.81%| Dificulta um pouco:25.97%| Não dificulta nada:25.72%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:36.08%| Dificulta um pouco:25.46%| Não dificulta nada:34.15%| Não sabe:0.09%| Não respondeu:0.77%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Não dificulta nada que foi de 2.76%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:44.57%| Dificulta um pouco:15.77%| Não dificulta nada:34.8%| Não sabe:0.21%| Não respondeu:0.68%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:37.09%| Dificulta um pouco:16.67%| Não dificulta nada:35.67%| Não sabe:0.07%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:45.19%| Dificulta um pouco:22.75%| Não dificulta nada:27.7%| Não sabe:0.09%| Não respondeu:0.84%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Não dificulta nada que foi de 7.1%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:28.62%| Dificulta um pouco:43.3%| Não dificulta nada:22.96%| Não sabe:1.11%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:36.13%| Dificulta um pouco:31.45%| Não dificulta nada:20.56%| Não sabe:1.36%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:34.03%| Dificulta um pouco:38.61%| Não dificulta nada:20.61%| Não sabe:2.84%| Não respondeu:0.47%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta muito que foi de 5.41%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:24.55%| Dificulta um pouco:43.6%| Não dificulta nada:27.6%| Não sabe:0.24%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:37.36%| Dificulta um pouco:34.68%| Não dificulta nada:16.85%| Não sabe:0.62%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:31.08%| Dificulta um pouco:42.17%| Não dificulta nada:22.18%| Não sabe:0.72%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta muito que foi de 6.53%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:21.16%| Dificulta um pouco:35.98%| Não dificulta nada:38.48%| Não sabe:0.36%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:20.91%| Dificulta um pouco:35.58%| Não dificulta nada:32.54%| Não sabe:0.47%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:17.39%| Dificulta um pouco:51.69%| Não dificulta nada:26.51%| Não sabe:0.56%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Dificulta um pouco que foi de 15.71%
+        Não ser remunerado
+                -> 2017: Dificulta muito:21.45%| Dificulta um pouco:18.58%| Não dificulta nada:55.32%| Não sabe:0.65%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.97%| 
+                -> 2018: Dificulta muito:23.55%| Dificulta um pouco:17.75%| Não dificulta nada:47.74%| Não sabe:0.47%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:10.5%| 
+                -> 2019: Dificulta muito:26.38%| Dificulta um pouco:23.14%| Não dificulta nada:46.48%| Não sabe:0.15%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:3.44%| 
+                A principal variação foi de Não dificulta nada que foi de 8.84%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(104785) 2018(113288) 2019(125491) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:36.53%| Dificulta um pouco:30.2%| Não dificulta nada:20.13%| Não sabe:2.21%| Não respondeu:0.96%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:37.74%| Dificulta um pouco:33.08%| Não dificulta nada:19.88%| Não sabe:1.51%| Não respondeu:0.49%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:31.95%| Dificulta um pouco:35.14%| Não dificulta nada:23.44%| Não sabe:1.29%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta um pouco que foi de 4.94%
+        Receio de se expor
+                -> 2017: Dificulta muito:44.64%| Dificulta um pouco:25.88%| Não dificulta nada:18.8%| Não sabe:0.6%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:42.69%| Dificulta um pouco:31.27%| Não dificulta nada:17.75%| Não sabe:0.97%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:37.91%| Dificulta um pouco:39.07%| Não dificulta nada:14.64%| Não sabe:0.19%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta um pouco que foi de 13.19%
+        Falta de tempo
+                -> 2017: Dificulta muito:49.84%| Dificulta um pouco:29.93%| Não dificulta nada:10.09%| Não sabe:0.16%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:52.65%| Dificulta um pouco:32.22%| Não dificulta nada:6.67%| Não sabe:1.14%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:46.32%| Dificulta um pouco:37.52%| Não dificulta nada:7.07%| Não sabe:0.19%| Não respondeu:0.84%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.59%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:20.25%| Dificulta um pouco:26.1%| Não dificulta nada:41.86%| Não sabe:0.11%| Não respondeu:1.69%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:23.29%| Dificulta um pouco:27.04%| Não dificulta nada:41.16%| Não sabe:1.07%| Não respondeu:0.11%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:10.46%| Dificulta um pouco:27.44%| Não dificulta nada:53.41%| Não sabe:0.37%| Não respondeu:0.25%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Não dificulta nada que foi de 11.55%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:31.76%| Dificulta um pouco:34.86%| Não dificulta nada:23.23%| Não sabe:0.0%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:31.25%| Dificulta um pouco:41.79%| Não dificulta nada:16.14%| Não sabe:3.48%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:28.11%| Dificulta um pouco:45.06%| Não dificulta nada:18.46%| Não sabe:0.08%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta um pouco que foi de 10.2%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:50.09%| Dificulta um pouco:21.56%| Não dificulta nada:18.27%| Não sabe:0.1%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:42.88%| Dificulta um pouco:22.05%| Não dificulta nada:27.49%| Não sabe:0.24%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:43.15%| Dificulta um pouco:22.93%| Não dificulta nada:25.55%| Não sabe:0.08%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Não dificulta nada que foi de 7.28%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:43.84%| Dificulta um pouco:21.04%| Não dificulta nada:24.39%| Não sabe:0.76%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:43.4%| Dificulta um pouco:18.58%| Não dificulta nada:30.44%| Não sabe:0.24%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:52.6%| Dificulta um pouco:18.22%| Não dificulta nada:20.81%| Não sabe:0.08%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta muito que foi de 8.76%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:38.08%| Dificulta um pouco:39.88%| Não dificulta nada:10.61%| Não sabe:1.28%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:30.15%| Dificulta um pouco:42.82%| Não dificulta nada:17.89%| Não sabe:1.59%| Não respondeu:0.23%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:38.65%| Dificulta um pouco:32.2%| Não dificulta nada:18.34%| Não sabe:2.63%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Não dificulta nada que foi de 7.73%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:36.91%| Dificulta um pouco:36.49%| Não dificulta nada:15.47%| Não sabe:0.82%| Não respondeu:0.34%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:36.27%| Dificulta um pouco:41.32%| Não dificulta nada:14.66%| Não sabe:0.41%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:40.24%| Dificulta um pouco:34.04%| Não dificulta nada:17.45%| Não sabe:0.08%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta muito que foi de 3.33%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:14.0%| Dificulta um pouco:43.88%| Não dificulta nada:30.78%| Não sabe:0.1%| Não respondeu:1.27%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:21.22%| Dificulta um pouco:46.53%| Não dificulta nada:24.16%| Não sabe:0.55%| Não respondeu:0.22%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:23.67%| Dificulta um pouco:36.31%| Não dificulta nada:31.42%| Não sabe:0.23%| Não respondeu:0.31%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta muito que foi de 9.67%
+        Não ser remunerado
+                -> 2017: Dificulta muito:26.15%| Dificulta um pouco:19.38%| Não dificulta nada:44.4%| Não sabe:0.1%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:9.97%| 
+                -> 2018: Dificulta muito:27.75%| Dificulta um pouco:21.03%| Não dificulta nada:43.33%| Não sabe:0.56%| Não respondeu:0.02%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:7.32%| 
+                -> 2019: Dificulta muito:23.39%| Dificulta um pouco:23.13%| Não dificulta nada:45.22%| Não sabe:0.08%| Não respondeu:0.12%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:8.06%| 
+                A principal variação foi de Dificulta um pouco que foi de 3.75%
+   Pública Estadual:
+        Total: 2017(121401) 2018(126435) 2019(119745) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:35.05%| Dificulta um pouco:37.07%| Não dificulta nada:18.8%| Não sabe:1.62%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:34.91%| Dificulta um pouco:33.63%| Não dificulta nada:21.71%| Não sabe:1.23%| Não respondeu:0.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:29.1%| Dificulta um pouco:40.33%| Não dificulta nada:21.49%| Não sabe:0.47%| Não respondeu:1.07%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta muito que foi de 5.95%
+        Receio de se expor
+                -> 2017: Dificulta muito:36.26%| Dificulta um pouco:33.94%| Não dificulta nada:22.29%| Não sabe:0.09%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:36.64%| Dificulta um pouco:30.83%| Não dificulta nada:23.85%| Não sabe:0.23%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:29.9%| Dificulta um pouco:38.14%| Não dificulta nada:24.1%| Não sabe:0.08%| Não respondeu:0.24%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta muito que foi de 6.36%
+        Falta de tempo
+                -> 2017: Dificulta muito:56.36%| Dificulta um pouco:25.24%| Não dificulta nada:10.71%| Não sabe:0.41%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:54.0%| Dificulta um pouco:27.65%| Não dificulta nada:9.86%| Não sabe:0.03%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:53.93%| Dificulta um pouco:29.81%| Não dificulta nada:8.66%| Não sabe:0.03%| Não respondeu:0.03%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta um pouco que foi de 4.57%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:15.36%| Dificulta um pouco:28.49%| Não dificulta nada:48.7%| Não sabe:0.13%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:14.1%| Dificulta um pouco:28.03%| Não dificulta nada:48.37%| Não sabe:0.88%| Não respondeu:0.16%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:16.18%| Dificulta um pouco:30.54%| Não dificulta nada:45.39%| Não sabe:0.19%| Não respondeu:0.16%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Não dificulta nada que foi de 3.31%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:29.25%| Dificulta um pouco:42.28%| Não dificulta nada:21.06%| Não sabe:0.13%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:26.09%| Dificulta um pouco:42.08%| Não dificulta nada:22.99%| Não sabe:0.39%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:23.7%| Dificulta um pouco:43.58%| Não dificulta nada:25.07%| Não sabe:0.1%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta muito que foi de 5.55%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:48.72%| Dificulta um pouco:22.72%| Não dificulta nada:20.68%| Não sabe:0.46%| Não respondeu:0.14%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:45.11%| Dificulta um pouco:21.91%| Não dificulta nada:24.32%| Não sabe:0.03%| Não respondeu:0.17%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:42.66%| Dificulta um pouco:25.09%| Não dificulta nada:24.51%| Não sabe:0.19%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta muito que foi de 6.06%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:49.9%| Dificulta um pouco:15.78%| Não dificulta nada:26.93%| Não sabe:0.1%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:48.35%| Dificulta um pouco:15.46%| Não dificulta nada:26.58%| Não sabe:0.82%| Não respondeu:0.34%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:50.31%| Dificulta um pouco:16.77%| Não dificulta nada:25.1%| Não sabe:0.25%| Não respondeu:0.03%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Não dificulta nada que foi de 1.83%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:37.76%| Dificulta um pouco:35.22%| Não dificulta nada:18.58%| Não sabe:1.13%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:34.77%| Dificulta um pouco:38.99%| Não dificulta nada:16.84%| Não sabe:0.95%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:32.7%| Dificulta um pouco:41.54%| Não dificulta nada:17.07%| Não sabe:0.67%| Não respondeu:0.48%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta um pouco que foi de 6.32%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:33.55%| Dificulta um pouco:42.66%| Não dificulta nada:16.36%| Não sabe:0.12%| Não respondeu:0.04%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:32.17%| Dificulta um pouco:43.63%| Não dificulta nada:15.55%| Não sabe:0.19%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:31.45%| Dificulta um pouco:41.15%| Não dificulta nada:19.46%| Não sabe:0.39%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Não dificulta nada que foi de 3.1%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:22.57%| Dificulta um pouco:38.56%| Não dificulta nada:31.35%| Não sabe:0.21%| Não respondeu:0.03%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:21.4%| Dificulta um pouco:40.02%| Não dificulta nada:29.64%| Não sabe:0.08%| Não respondeu:0.41%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:19.99%| Dificulta um pouco:46.42%| Não dificulta nada:25.94%| Não sabe:0.1%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta um pouco que foi de 7.86%
+        Não ser remunerado
+                -> 2017: Dificulta muito:27.74%| Dificulta um pouco:26.19%| Não dificulta nada:37.65%| Não sabe:1.13%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.28%| 
+                -> 2018: Dificulta muito:23.05%| Dificulta um pouco:26.02%| Não dificulta nada:41.97%| Não sabe:0.33%| Não respondeu:0.18%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:8.46%| 
+                -> 2019: Dificulta muito:26.55%| Dificulta um pouco:28.59%| Não dificulta nada:37.13%| Não sabe:0.18%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.54%| 
+                A principal variação foi de Dificulta um pouco que foi de 2.4%
+   Particular:
+        Total: 2017(60676) 2018(69976) 2019(58903) 
+        Receio sobre violação de direitos autorais
+                -> 2017: Dificulta muito:42.58%| Dificulta um pouco:32.94%| Não dificulta nada:16.59%| Não sabe:0.67%| Não respondeu:0.03%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:28.89%| Dificulta um pouco:40.2%| Não dificulta nada:26.17%| Não sabe:0.92%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:32.46%| Dificulta um pouco:41.26%| Não dificulta nada:21.63%| Não sabe:0.32%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta muito que foi de 10.12%
+        Receio de se expor
+                -> 2017: Dificulta muito:33.16%| Dificulta um pouco:35.28%| Não dificulta nada:24.37%| Não sabe:0.0%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:43.71%| Dificulta um pouco:32.77%| Não dificulta nada:19.71%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:36.14%| Dificulta um pouco:38.05%| Não dificulta nada:21.47%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta muito que foi de 2.98%
+        Falta de tempo
+                -> 2017: Dificulta muito:45.41%| Dificulta um pouco:35.86%| Não dificulta nada:11.51%| Não sabe:0.02%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:60.38%| Dificulta um pouco:26.19%| Não dificulta nada:9.61%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:60.67%| Dificulta um pouco:25.18%| Não dificulta nada:9.81%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta muito que foi de 15.26%
+        Falta de incentivo ou apoio da escola
+                -> 2017: Dificulta muito:9.74%| Dificulta um pouco:24.46%| Não dificulta nada:58.61%| Não sabe:0.0%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:10.88%| Dificulta um pouco:31.28%| Não dificulta nada:54.02%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:11.13%| Dificulta um pouco:23.87%| Não dificulta nada:60.37%| Não sabe:0.3%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet que foi de 2.86%
+        Falta de conhecimento sobre como publicar
+                -> 2017: Dificulta muito:16.71%| Dificulta um pouco:34.2%| Não dificulta nada:34.71%| Não sabe:0.0%| Não respondeu:7.19%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:33.13%| Dificulta um pouco:42.53%| Não dificulta nada:20.52%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:17.68%| Dificulta um pouco:40.16%| Não dificulta nada:37.66%| Não sabe:0.01%| Não respondeu:0.15%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Não respondeu que foi de 7.04%
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:23.17%| Dificulta um pouco:21.92%| Não dificulta nada:47.68%| Não sabe:0.0%| Não respondeu:0.05%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:37.69%| Dificulta um pouco:16.43%| Não dificulta nada:42.06%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:27.88%| Dificulta um pouco:25.54%| Não dificulta nada:42.24%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Não dificulta nada que foi de 5.44%
+        Uso de computador ultrapassado
+                -> 2017: Dificulta muito:34.97%| Dificulta um pouco:19.48%| Não dificulta nada:37.12%| Não sabe:0.86%| Não respondeu:0.39%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:43.69%| Dificulta um pouco:16.61%| Não dificulta nada:35.86%| Não sabe:0.03%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:39.21%| Dificulta um pouco:18.61%| Não dificulta nada:37.84%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta muito que foi de 4.24%
+        Programas para criar e produzir conteúdos
+                -> 2017: Dificulta muito:22.02%| Dificulta um pouco:45.66%| Não dificulta nada:24.8%| Não sabe:0.27%| Não respondeu:0.06%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:32.44%| Dificulta um pouco:39.59%| Não dificulta nada:24.12%| Não sabe:0.04%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:20.8%| Dificulta um pouco:49.95%| Não dificulta nada:23.78%| Não sabe:1.14%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta um pouco que foi de 4.29%
+        Falta de conhecimento sobre onde publicar
+                -> 2017: Dificulta muito:24.17%| Dificulta um pouco:45.14%| Não dificulta nada:23.5%| Não sabe:0.0%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:34.49%| Dificulta um pouco:44.85%| Não dificulta nada:16.71%| Não sabe:0.0%| Não respondeu:0.13%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:23.76%| Dificulta um pouco:37.44%| Não dificulta nada:34.46%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Não dificulta nada que foi de 10.96%
+        Falta de interesse em publicar 
+                -> 2017: Dificulta muito:10.78%| Dificulta um pouco:41.19%| Não dificulta nada:39.21%| Não sabe:1.62%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:22.49%| Dificulta um pouco:45.01%| Não dificulta nada:28.66%| Não sabe:0.02%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:17.23%| Dificulta um pouco:37.91%| Não dificulta nada:40.27%| Não sabe:0.26%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta muito que foi de 6.45%
+        Não ser remunerado
+                -> 2017: Dificulta muito:19.48%| Dificulta um pouco:18.17%| Não dificulta nada:55.15%| Não sabe:0.0%| Não respondeu:0.01%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:7.19%| 
+                -> 2018: Dificulta muito:32.33%| Dificulta um pouco:29.66%| Não dificulta nada:34.15%| Não sabe:0.05%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido na Internet:3.81%| 
+                -> 2019: Dificulta muito:19.82%| Dificulta um pouco:23.16%| Não dificulta nada:52.69%| Não sabe:0.0%| Não respondeu:0.0%| Não modificou o conteúdo ou criou um novo a partir do conteúdo obtido da Internet:4.33%| 
+                A principal variação foi de Dificulta um pouco que foi de 4.99%

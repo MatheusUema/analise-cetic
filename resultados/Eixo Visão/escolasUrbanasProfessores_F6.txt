@@ -1,0 +1,796 @@
+TOTAL PARA O INDICADOR F6 – PROFESSORES DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE O CONHECIMENTO DOS ALUNOS ACERCA DO USO DE COMPUTADOR E INTERNET
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310631) 2019(305596) 
+    Os alunos sabem fazer pesquisas na Internet
+        -> 2017: Sim:69.52%| Não:29.44%| Não sabe:0.85%| Não respondeu:0.18%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+        -> 2017: Sim:75.31%| Não:22.88%| Não sabe:1.46%| Não respondeu:0.35%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Os alunos sabem criar e manter um blog ou site
+        -> 2017: Sim:33.09%| Não:55.7%| Não sabe:11.14%| Não respondeu:0.07%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Os alunos sabem comparar sites identificando as fontes de informações relevantes
+        -> 2017: Sim:34.7%| Não:59.93%| Não sabe:4.92%| Não respondeu:0.45%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+        -> 2017: Sim:42.65%| Não:53.37%| Não sabe:3.87%| Não respondeu:0.12%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+        -> 2017: Sim:26.58%| Não:68.87%| Não sabe:4.32%| Não respondeu:0.23%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Fazer pesquisas na Internet
+        -> 2017: Não possui 
+        -> 2018: Sim:73.7%| Não:25.65%| Não sabe:0.49%| Não respondeu:0.16%| 
+        -> 2019: Sim:73.95%| Não:24.74%| Não sabe:1.23%| Não respondeu:0.08%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+        -> 2017: Não possui 
+        -> 2018: Sim:75.38%| Não:23.25%| Não sabe:0.96%| Não respondeu:0.41%| 
+        -> 2019: Sim:77.16%| Não:21.11%| Não sabe:1.6%| Não respondeu:0.13%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Comparar sites identificando as fontes de informações relevantes
+        -> 2017: Não possui 
+        -> 2018: Sim:32.15%| Não:65.51%| Não sabe:2.23%| Não respondeu:0.12%| 
+        -> 2019: Sim:29.1%| Não:67.93%| Não sabe:2.72%| Não respondeu:0.25%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Avaliar quais informações não devem compartilhar na Internet
+        -> 2017: Não possui 
+        -> 2018: Sim:31.69%| Não:63.74%| Não sabe:3.94%| Não respondeu:0.63%| 
+        -> 2019: Sim:35.6%| Não:62.12%| Não sabe:2.09%| Não respondeu:0.19%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+        -> 2017: Não possui 
+        -> 2018: Sim:20.98%| Não:75.16%| Não sabe:3.48%| Não respondeu:0.38%| 
+        -> 2019: Sim:24.76%| Não:72.64%| Não sabe:2.45%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228486) 2019(225702) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:71.07%| Não:28.24%| Não sabe:0.46%| Não respondeu:0.22%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:75.95%| Não:22.31%| Não sabe:1.3%| Não respondeu:0.44%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:34.57%| Não:54.26%| Não sabe:11.11%| Não respondeu:0.06%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:36.03%| Não:59.54%| Não sabe:3.85%| Não respondeu:0.58%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:44.64%| Não:51.79%| Não sabe:3.42%| Não respondeu:0.15%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:26.56%| Não:68.49%| Não sabe:4.65%| Não respondeu:0.3%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:75.12%| Não:24.33%| Não sabe:0.35%| Não respondeu:0.2%| 
+                -> 2019: Sim:74.09%| Não:24.31%| Não sabe:1.49%| Não respondeu:0.11%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:76.24%| Não:22.15%| Não sabe:1.08%| Não respondeu:0.53%| 
+                -> 2019: Sim:77.68%| Não:20.16%| Não sabe:1.99%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:33.71%| Não:64.49%| Não sabe:1.67%| Não respondeu:0.14%| 
+                -> 2019: Sim:27.64%| Não:69.64%| Não sabe:2.39%| Não respondeu:0.32%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:32.68%| Não:62.4%| Não sabe:4.06%| Não respondeu:0.85%| 
+                -> 2019: Sim:35.21%| Não:62.33%| Não sabe:2.23%| Não respondeu:0.22%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:22.29%| Não:73.7%| Não sabe:3.51%| Não respondeu:0.49%| 
+                -> 2019: Sim:24.39%| Não:73.48%| Não sabe:1.92%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(62068) 2018(82145) 2019(79894) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:63.85%| Não:33.84%| Não sabe:2.27%| Não respondeu:0.05%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:72.99%| Não:24.96%| Não sabe:2.05%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:27.67%| Não:60.98%| Não sabe:11.27%| Não respondeu:0.09%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:29.84%| Não:61.34%| Não sabe:8.83%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:35.35%| Não:59.16%| Não sabe:5.49%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:26.63%| Não:70.29%| Não sabe:3.08%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:69.75%| Não:29.31%| Não sabe:0.88%| Não respondeu:0.06%| 
+                -> 2019: Sim:73.54%| Não:25.93%| Não sabe:0.52%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:73.0%| Não:26.29%| Não sabe:0.64%| Não respondeu:0.06%| 
+                -> 2019: Sim:75.67%| Não:23.83%| Não sabe:0.5%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:27.83%| Não:68.34%| Não sabe:3.78%| Não respondeu:0.05%| 
+                -> 2019: Sim:33.23%| Não:63.1%| Não sabe:3.63%| Não respondeu:0.04%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:28.95%| Não:67.46%| Não sabe:3.59%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.69%| Não:61.52%| Não sabe:1.67%| Não respondeu:0.11%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:17.32%| Não:79.21%| Não sabe:3.4%| Não respondeu:0.07%| 
+                -> 2019: Sim:25.78%| Não:70.26%| Não sabe:3.93%| Não respondeu:0.04%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20208) 2018(23100) 2019(26017) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:75.8%| Não:22.67%| Não sabe:1.38%| Não respondeu:0.15%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:77.29%| Não:21.67%| Não sabe:1.05%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:24.35%| Não:67.91%| Não sabe:7.27%| Não respondeu:0.47%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:31.02%| Não:65.15%| Não sabe:3.76%| Não respondeu:0.07%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:42.05%| Não:55.08%| Não sabe:2.88%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:27.47%| Não:68.56%| Não sabe:3.85%| Não respondeu:0.12%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:71.43%| Não:27.65%| Não sabe:0.33%| Não respondeu:0.59%| 
+                -> 2019: Sim:75.26%| Não:23.78%| Não sabe:0.95%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:76.27%| Não:21.72%| Não sabe:1.18%| Não respondeu:0.83%| 
+                -> 2019: Sim:78.48%| Não:21.19%| Não sabe:0.33%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:34.28%| Não:62.97%| Não sabe:1.52%| Não respondeu:1.24%| 
+                -> 2019: Sim:28.38%| Não:69.45%| Não sabe:2.16%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:39.17%| Não:56.91%| Não sabe:3.0%| Não respondeu:0.92%| 
+                -> 2019: Sim:38.78%| Não:58.82%| Não sabe:2.4%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:28.86%| Não:68.71%| Não sabe:1.52%| Não respondeu:0.92%| 
+                -> 2019: Sim:20.55%| Não:76.62%| Não sabe:2.83%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(24934) 2018(26989) 2019(25514) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:74.16%| Não:24.83%| Não sabe:1.02%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:75.75%| Não:24.06%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:35.62%| Não:59.57%| Não sabe:4.82%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:37.64%| Não:61.62%| Não sabe:0.75%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:44.35%| Não:53.61%| Não sabe:2.04%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:32.18%| Não:65.99%| Não sabe:1.82%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:71.91%| Não:27.49%| Não sabe:0.33%| Não respondeu:0.27%| 
+                -> 2019: Sim:73.89%| Não:25.47%| Não sabe:0.64%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:73.16%| Não:25.79%| Não sabe:0.78%| Não respondeu:0.27%| 
+                -> 2019: Sim:73.88%| Não:24.12%| Não sabe:1.99%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:31.57%| Não:66.05%| Não sabe:2.31%| Não respondeu:0.07%| 
+                -> 2019: Sim:36.88%| Não:61.67%| Não sabe:1.34%| Não respondeu:0.11%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:33.13%| Não:64.89%| Não sabe:1.9%| Não respondeu:0.07%| 
+                -> 2019: Sim:36.25%| Não:63.31%| Não sabe:0.44%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:21.22%| Não:75.7%| Não sabe:3.0%| Não respondeu:0.07%| 
+                -> 2019: Sim:17.85%| Não:81.25%| Não sabe:0.79%| Não respondeu:0.11%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(81269) 2018(87048) 2019(94785) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:78.39%| Não:20.18%| Não sabe:1.25%| Não respondeu:0.19%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:77.43%| Não:21.05%| Não sabe:1.51%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:32.28%| Não:55.3%| Não sabe:12.42%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:39.54%| Não:53.63%| Não sabe:6.78%| Não respondeu:0.06%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:50.49%| Não:45.4%| Não sabe:4.11%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:33.98%| Não:62.01%| Não sabe:3.74%| Não respondeu:0.27%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:75.77%| Não:23.5%| Não sabe:0.6%| Não respondeu:0.13%| 
+                -> 2019: Sim:78.07%| Não:21.62%| Não sabe:0.32%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:78.05%| Não:21.82%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.59%| Não:19.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:32.84%| Não:66.21%| Não sabe:0.91%| Não respondeu:0.03%| 
+                -> 2019: Sim:27.38%| Não:71.73%| Não sabe:0.52%| Não respondeu:0.37%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:37.55%| Não:60.94%| Não sabe:1.51%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.45%| Não:63.54%| Não sabe:0.91%| Não respondeu:0.1%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:24.45%| Não:74.39%| Não sabe:1.16%| Não respondeu:0.0%| 
+                -> 2019: Sim:22.6%| Não:76.66%| Não sabe:0.74%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(126144) 2018(133029) 2019(122198) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:63.88%| Não:35.34%| Não sabe:0.5%| Não respondeu:0.27%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:73.15%| Não:24.13%| Não sabe:1.99%| Não respondeu:0.73%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:33.75%| Não:53.54%| Não sabe:12.71%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:32.29%| Não:62.31%| Não sabe:4.41%| Não respondeu:1.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:39.53%| Não:55.64%| Não sabe:4.56%| Não respondeu:0.27%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:21.38%| Não:72.78%| Não sabe:5.57%| Não respondeu:0.27%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:75.25%| Não:24.29%| Não sabe:0.38%| Não respondeu:0.09%| 
+                -> 2019: Sim:73.42%| Não:24.35%| Não sabe:2.23%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:74.22%| Não:23.46%| Não sabe:1.58%| Não respondeu:0.73%| 
+                -> 2019: Sim:74.69%| Não:22.05%| Não sabe:3.26%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:34.08%| Não:63.14%| Não sabe:2.78%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.8%| Não:64.91%| Não sabe:5.29%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:27.44%| Não:65.42%| Não sabe:5.9%| Não respondeu:1.24%| 
+                -> 2019: Sim:37.54%| Não:58.81%| Não sabe:3.56%| Não respondeu:0.09%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:18.52%| Não:75.6%| Não sabe:5.26%| Não respondeu:0.62%| 
+                -> 2019: Sim:29.23%| Não:66.26%| Não sabe:4.45%| Não respondeu:0.06%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37083) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:62.71%| Não:36.52%| Não sabe:0.77%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:76.68%| Não:22.48%| Não sabe:0.6%| Não respondeu:0.24%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:35.71%| Não:54.65%| Não sabe:9.37%| Não respondeu:0.28%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:32.32%| Não:61.65%| Não sabe:6.03%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:35.18%| Não:62.07%| Não sabe:2.75%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:23.75%| Não:72.76%| Não sabe:3.25%| Não respondeu:0.24%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:66.66%| Não:32.37%| Não sabe:0.8%| Não respondeu:0.17%| 
+                -> 2019: Sim:64.28%| Não:34.15%| Não sabe:0.9%| Não respondeu:0.67%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:74.43%| Não:24.78%| Não sabe:0.71%| Não respondeu:0.07%| 
+                -> 2019: Sim:77.83%| Não:20.27%| Não sabe:0.87%| Não respondeu:1.03%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:23.48%| Não:72.86%| Não sabe:3.58%| Não respondeu:0.07%| 
+                -> 2019: Sim:26.35%| Não:71.42%| Não sabe:1.19%| Não respondeu:1.03%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:27.86%| Não:67.36%| Não sabe:4.61%| Não respondeu:0.18%| 
+                -> 2019: Sim:26.92%| Não:70.87%| Não sabe:1.18%| Não respondeu:1.03%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:16.95%| Não:78.67%| Não sabe:4.08%| Não respondeu:0.31%| 
+                -> 2019: Sim:23.25%| Não:74.65%| Não sabe:1.06%| Não respondeu:1.03%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:69.3%| Não:29.38%| Não sabe:1.0%| Não respondeu:0.32%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:74.02%| Não:24.31%| Não sabe:1.35%| Não respondeu:0.32%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:22.86%| Não:63.01%| Não sabe:14.13%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:30.35%| Não:62.79%| Não sabe:5.68%| Não respondeu:1.18%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:41.75%| Não:53.77%| Não sabe:4.16%| Não respondeu:0.32%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:25.51%| Não:69.32%| Não sabe:4.64%| Não respondeu:0.53%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:70.8%| Não:28.91%| Não sabe:0.23%| Não respondeu:0.06%| 
+                -> 2019: Sim:71.92%| Não:25.88%| Não sabe:2.01%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:67.09%| Não:32.53%| Não sabe:0.35%| Não respondeu:0.03%| 
+                -> 2019: Sim:72.21%| Não:24.14%| Não sabe:3.46%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:23.11%| Não:75.29%| Não sabe:1.58%| Não respondeu:0.03%| 
+                -> 2019: Sim:14.2%| Não:81.67%| Não sabe:3.65%| Não respondeu:0.47%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:27.63%| Não:67.2%| Não sabe:5.14%| Não respondeu:0.03%| 
+                -> 2019: Sim:27.09%| Não:70.29%| Não sabe:2.43%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:15.7%| Não:79.29%| Não sabe:4.93%| Não respondeu:0.08%| 
+                -> 2019: Sim:17.22%| Não:78.58%| Não sabe:4.01%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(122457) 2018(127038) 2019(120289) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:68.29%| Não:30.78%| Não sabe:0.81%| Não respondeu:0.12%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:73.22%| Não:24.18%| Não sabe:2.06%| Não respondeu:0.54%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:32.89%| Não:57.75%| Não sabe:9.3%| Não respondeu:0.05%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:33.8%| Não:62.7%| Não sabe:3.45%| Não respondeu:0.05%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:40.92%| Não:56.1%| Não sabe:2.97%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:24.33%| Não:72.28%| Não sabe:3.3%| Não respondeu:0.09%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:71.79%| Não:27.37%| Não sabe:0.5%| Não respondeu:0.35%| 
+                -> 2019: Sim:69.49%| Não:29.48%| Não sabe:1.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:75.58%| Não:22.62%| Não sabe:0.83%| Não respondeu:0.98%| 
+                -> 2019: Sim:74.46%| Não:24.99%| Não sabe:0.44%| Não respondeu:0.11%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:35.8%| Não:61.47%| Não sabe:2.49%| Não respondeu:0.24%| 
+                -> 2019: Sim:30.5%| Não:67.1%| Não sabe:2.27%| Não respondeu:0.14%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:31.89%| Não:63.8%| Não sabe:2.8%| Não respondeu:1.51%| 
+                -> 2019: Sim:33.71%| Não:64.96%| Não sabe:1.12%| Não respondeu:0.21%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:22.5%| Não:73.47%| Não sabe:3.17%| Não respondeu:0.87%| 
+                -> 2019: Sim:23.27%| Não:75.31%| Não sabe:1.23%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(60815) 2018(69977) 2019(58902) 
+        Os alunos sabem fazer pesquisas na Internet
+                -> 2017: Sim:72.42%| Não:26.87%| Não sabe:0.66%| Não respondeu:0.05%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Sim:81.8%| Não:17.76%| Não sabe:0.44%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem criar e manter um blog ou site
+                -> 2017: Sim:51.36%| Não:38.8%| Não sabe:9.63%| Não respondeu:0.22%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem comparar sites identificando as fontes de informações relevantes
+                -> 2017: Sim:44.11%| Não:49.34%| Não sabe:6.55%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Sim:47.69%| Não:47.16%| Não sabe:5.16%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Os alunos sabem interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Sim:32.96%| Não:61.24%| Não sabe:5.8%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Fazer pesquisas na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:81.89%| Não:17.23%| Não sabe:0.88%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.4%| Não:12.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Utilizar computador e Internet para acessar conteúdos sobre os temas tratados em aula
+                -> 2017: Não possui 
+                -> 2018: Sim:88.49%| Não:9.32%| Não sabe:2.19%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.28%| Não:6.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Comparar sites identificando as fontes de informações relevantes
+                -> 2017: Não possui 
+                -> 2018: Sim:40.21%| Não:56.95%| Não sabe:2.8%| Não respondeu:0.04%| 
+                -> 2019: Sim:58.21%| Não:40.15%| Não sabe:1.64%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Avaliar quais informações não devem compartilhar na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:37.93%| Não:58.01%| Não sabe:4.06%| Não respondeu:0.0%| 
+                -> 2019: Sim:57.73%| Não:38.78%| Não sabe:3.33%| Não respondeu:0.15%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Interpretar e julgar a confiabilidade das informações disponíveis na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:26.78%| Não:71.5%| Não sabe:1.71%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.98%| Não:54.45%| Não sabe:1.57%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

@@ -1,0 +1,510 @@
+TOTAL PARA O INDICADOR C6 – ALUNOS DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE OS EFEITOS DO USO DA INTERNET NAS ATIVIDADES DE APRENDIZAGEM
+Em termos de TOTAL:
+    Total: 2017(5076682) 2018(5565251) 2019(5794473) 
+    As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+        -> 2017: Sim:91.93%| Não:8.03%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:92.31%| Não:7.62%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Sim:91.48%| Não:8.42%| Não sabe:0.09%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+    A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+        -> 2017: Sim:86.11%| Não:13.69%| Não sabe:0.2%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Não possui 
+        -> 2019: Sim:90.55%| Não:9.36%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+    As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+        -> 2017: Sim:85.94%| Não:13.99%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:85.83%| Não:14.14%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+        -> 2017: Sim:70.28%| Não:29.58%| Não sabe:0.09%| Não respondeu:0.05%| Não se aplica:0.0%| 
+        -> 2018: Sim:73.64%| Não:26.1%| Não sabe:0.25%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Sim:74.37%| Não:25.55%| Não sabe:0.07%| Não respondeu:0.01%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+    As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+        -> 2017: Sim:92.62%| Não:7.38%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:91.37%| Não:8.62%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Sim:93.66%| Não:6.28%| Não sabe:0.05%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+    As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+        -> 2017: Sim:77.35%| Não:22.56%| Não sabe:0.08%| Não respondeu:0.01%| Não se aplica:0.0%| 
+        -> 2018: Sim:76.53%| Não:23.37%| Não sabe:0.09%| Não respondeu:0.01%| Não se aplica:0.0%| 
+        -> 2019: Sim:80.38%| Não:19.49%| Não sabe:0.12%| Não respondeu:0.01%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+    As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+        -> 2017: Não possui 
+        -> 2018: Sim:88.47%| Não:11.38%| Não sabe:0.14%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:87.63%| Não:12.17%| Não sabe:0.19%| Não respondeu:0.01%| Não realiza atividades na Internet:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(2599458) 2018(2967259) 2019(3023872) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:92.16%| Não:7.82%| Não sabe:0.01%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:93.14%| Não:6.85%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:91.7%| Não:8.27%| Não sabe:0.0%| Não respondeu:0.03%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:86.86%| Não:12.85%| Não sabe:0.28%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.61%| Não:9.35%| Não sabe:0.03%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:85.41%| Não:14.52%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:86.09%| Não:13.88%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:70.81%| Não:29.11%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:74.04%| Não:25.64%| Não sabe:0.32%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:71.74%| Não:28.18%| Não sabe:0.06%| Não respondeu:0.03%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:93.31%| Não:6.69%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:90.76%| Não:9.23%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.39%| Não:6.56%| Não sabe:0.06%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.08%| Não:22.91%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:75.95%| Não:23.93%| Não sabe:0.09%| Não respondeu:0.03%| Não se aplica:0.0%| 
+                -> 2019: Sim:80.93%| Não:19.03%| Não sabe:0.02%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:88.96%| Não:10.84%| Não sabe:0.2%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:87.86%| Não:11.89%| Não sabe:0.25%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(2477224) 2018(2597991) 2019(2770601) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:91.7%| Não:8.24%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:91.37%| Não:8.49%| Não sabe:0.14%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:91.23%| Não:8.59%| Não sabe:0.18%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:85.32%| Não:14.56%| Não sabe:0.12%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.49%| Não:9.38%| Não sabe:0.13%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:86.49%| Não:13.43%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:85.54%| Não:14.44%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:69.73%| Não:30.08%| Não sabe:0.1%| Não respondeu:0.09%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.18%| Não:26.64%| Não sabe:0.18%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.24%| Não:22.68%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:91.88%| Não:8.1%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:92.07%| Não:7.92%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.97%| Não:5.99%| Não sabe:0.04%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.63%| Não:22.19%| Não sabe:0.15%| Não respondeu:0.03%| Não se aplica:0.0%| 
+                -> 2018: Sim:77.18%| Não:22.73%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:79.77%| Não:19.99%| Não sabe:0.24%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:87.91%| Não:12.0%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:87.37%| Não:12.48%| Não sabe:0.13%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(345740) 2018(427150) 2019(502156) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:93.26%| Não:6.7%| Não sabe:0.0%| Não respondeu:0.04%| Não se aplica:0.0%| 
+                -> 2018: Sim:93.58%| Não:6.36%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:94.22%| Não:5.75%| Não sabe:0.03%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:90.61%| Não:9.39%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:92.81%| Não:7.12%| Não sabe:0.07%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:89.24%| Não:10.71%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:87.28%| Não:12.63%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:74.93%| Não:25.07%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:72.46%| Não:27.54%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.74%| Não:22.2%| Não sabe:0.07%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:94.22%| Não:5.78%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:91.86%| Não:8.14%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:94.98%| Não:5.02%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:82.72%| Não:17.27%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:76.1%| Não:23.82%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:82.21%| Não:17.71%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:84.16%| Não:15.63%| Não sabe:0.22%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:88.7%| Não:11.27%| Não sabe:0.02%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(494294) 2018(470136) 2019(471488) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:92.92%| Não:6.95%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:91.24%| Não:8.76%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:91.62%| Não:8.2%| Não sabe:0.18%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:87.57%| Não:12.3%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.87%| Não:9.05%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:87.0%| Não:12.91%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:86.65%| Não:13.21%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:76.35%| Não:23.5%| Não sabe:0.14%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:75.1%| Não:24.49%| Não sabe:0.41%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:73.62%| Não:26.24%| Não sabe:0.12%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:92.22%| Não:7.78%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:92.12%| Não:7.82%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:92.39%| Não:7.61%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.43%| Não:22.39%| Não sabe:0.18%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.51%| Não:20.12%| Não sabe:0.21%| Não respondeu:0.16%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.62%| Não:22.31%| Não sabe:0.05%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:90.56%| Não:9.34%| Não sabe:0.11%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:87.85%| Não:12.14%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(1257083) 2018(1263791) 2019(1573077) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:92.96%| Não:7.04%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:91.35%| Não:8.65%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.54%| Não:6.36%| Não sabe:0.04%| Não respondeu:0.06%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:86.78%| Não:13.13%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:91.55%| Não:8.44%| Não sabe:0.01%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:84.77%| Não:15.13%| Não sabe:0.1%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:84.21%| Não:15.77%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:71.67%| Não:28.15%| Não sabe:0.0%| Não respondeu:0.18%| Não se aplica:0.0%| 
+                -> 2018: Sim:74.78%| Não:25.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:75.66%| Não:24.2%| Não sabe:0.13%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:92.91%| Não:7.09%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:93.44%| Não:6.56%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.29%| Não:6.64%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:79.49%| Não:20.42%| Não sabe:0.04%| Não respondeu:0.05%| Não se aplica:0.0%| 
+                -> 2018: Sim:79.12%| Não:20.77%| Não sabe:0.11%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:83.67%| Não:16.19%| Não sabe:0.12%| Não respondeu:0.03%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:87.78%| Não:11.89%| Não sabe:0.33%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:88.04%| Não:11.7%| Não sabe:0.22%| Não respondeu:0.04%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(2337489) 2018(2697957) 2019(2557929) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:91.04%| Não:8.96%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:93.28%| Não:6.6%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:89.28%| Não:10.59%| Não sabe:0.13%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:84.09%| Não:15.74%| Não sabe:0.17%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:89.81%| Não:10.1%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:85.52%| Não:14.45%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:86.78%| Não:13.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:67.83%| Não:32.05%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.78%| Não:25.8%| Não sabe:0.41%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:74.04%| Não:25.96%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:92.26%| Não:7.74%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:90.44%| Não:9.56%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.99%| Não:5.94%| Não sabe:0.07%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:75.92%| Não:24.01%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:75.77%| Não:24.2%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:79.23%| Não:20.63%| Não sabe:0.14%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:89.37%| Não:10.63%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:88.05%| Não:11.66%| Não sabe:0.29%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(642077) 2018(706216) 2019(689822) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:91.71%| Não:8.11%| Não sabe:0.18%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:90.3%| Não:9.67%| Não sabe:0.02%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Sim:92.82%| Não:7.18%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:88.63%| Não:10.65%| Não sabe:0.72%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:89.17%| Não:10.58%| Não sabe:0.26%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:87.15%| Não:12.63%| Não sabe:0.22%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:83.71%| Não:16.25%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:69.34%| Não:30.51%| Não sabe:0.15%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.79%| Não:29.05%| Não sabe:0.14%| Não respondeu:0.02%| Não se aplica:0.0%| 
+                -> 2019: Sim:70.7%| Não:29.08%| Não sabe:0.12%| Não respondeu:0.1%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:92.77%| Não:7.18%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:90.43%| Não:9.52%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:93.23%| Não:6.77%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:75.4%| Não:24.46%| Não sabe:0.14%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:73.04%| Não:26.74%| Não sabe:0.22%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.69%| Não:22.13%| Não sabe:0.18%| Não respondeu:0.01%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:87.49%| Não:12.16%| Não sabe:0.35%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:84.19%| Não:15.81%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(1628319) 2018(1968595) 2019(2143221) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:90.69%| Não:9.25%| Não sabe:0.06%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:91.06%| Não:8.79%| Não sabe:0.15%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:89.14%| Não:10.76%| Não sabe:0.1%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:81.61%| Não:18.32%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:85.72%| Não:14.13%| Não sabe:0.15%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:79.88%| Não:20.07%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:81.45%| Não:18.52%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:64.47%| Não:35.46%| Não sabe:0.07%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:70.2%| Não:29.56%| Não sabe:0.24%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2019: Sim:64.8%| Não:35.04%| Não sabe:0.13%| Não respondeu:0.03%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:88.45%| Não:11.53%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:89.27%| Não:10.73%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:89.91%| Não:10.03%| Não sabe:0.06%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.15%| Não:22.77%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:76.09%| Não:23.83%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.63%| Não:22.18%| Não sabe:0.17%| Não respondeu:0.02%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:85.73%| Não:13.91%| Não sabe:0.36%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:84.18%| Não:15.44%| Não sabe:0.39%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(2611688) 2018(2576220) 2019(2627955) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:92.07%| Não:7.9%| Não sabe:0.02%| Não respondeu:0.01%| Não se aplica:0.0%| 
+                -> 2018: Sim:92.91%| Não:7.07%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:92.87%| Não:7.02%| Não sabe:0.08%| Não respondeu:0.04%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:88.15%| Não:11.81%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:93.29%| Não:6.68%| Não sabe:0.03%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:89.4%| Não:10.5%| Não sabe:0.09%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:89.39%| Não:10.58%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:73.67%| Não:26.2%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:77.97%| Não:21.82%| Não sabe:0.21%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:80.8%| Não:19.2%| Não sabe:0.0%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:94.6%| Não:5.4%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:94.61%| Não:5.38%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:96.2%| Não:3.78%| Não sabe:0.02%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.28%| Não:22.67%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:78.77%| Não:21.12%| Não sabe:0.11%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:82.08%| Não:17.85%| Não sabe:0.06%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:91.33%| Não:8.64%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.5%| Não:9.47%| Não sabe:0.02%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(836676) 2018(1020436) 2019(1023297) 
+        As atividades realizadas na Internet fazem com que sinta mais vontade de aprender coisas novas
+                -> 2017: Sim:93.92%| Não:6.04%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:93.23%| Não:6.75%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:92.8%| Não:7.11%| Não sabe:0.08%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        A atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Sim:88.51%| Não:10.52%| Não sabe:0.96%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:93.66%| Não:6.28%| Não sabe:0.06%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a pensar no que quer trabalhar no futuro
+                -> 2017: Sim:86.91%| Não:13.02%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:85.29%| Não:14.67%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na Internet ajudam a resolver dificuldades ou problemas que enfrenta na escola
+                -> 2017: Sim:71.03%| Não:28.7%| Não sabe:0.0%| Não respondeu:0.27%| Não se aplica:0.0%| 
+                -> 2018: Sim:69.36%| Não:30.26%| Não sabe:0.38%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:77.91%| Não:21.99%| Não sabe:0.09%| Não respondeu:0.01%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a fazer coisas que tinha dificuldade de fazer
+                -> 2017: Sim:94.52%| Não:5.48%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:87.26%| Não:12.72%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Sim:95.0%| Não:4.88%| Não sabe:0.12%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet fazem com que o interesse pela aula aumente
+                -> 2017: Sim:77.95%| Não:21.81%| Não sabe:0.15%| Não respondeu:0.08%| Não se aplica:0.0%| 
+                -> 2018: Sim:71.69%| Não:28.18%| Não sabe:0.05%| Não respondeu:0.08%| Não se aplica:0.0%| 
+                -> 2019: Sim:81.75%| Não:18.07%| Não sabe:0.18%| Não respondeu:0.0%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+        As atividades realizadas na Internet ajudam a aprender coisas que fazem ir melhor na escola
+                -> 2017: Não possui 
+                -> 2018: Sim:86.53%| Não:13.44%| Não sabe:0.03%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        As atividades realizadas na internet ajudam a pensar no que quer fazer ou trabalhar no futuro
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:87.48%| Não:12.25%| Não sabe:0.21%| Não respondeu:0.06%| Não realiza atividades na Internet:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

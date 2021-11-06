@@ -1,0 +1,246 @@
+TOTAL PARA O INDICADOR G8A – PROFESSORES DE ESCOLAS URBANAS, POR FORMA DE UTILIZAÇÃO DE RECURSOS OBTIDOS NA INTERNET
+Em termos de TOTAL:
+    Total: 2017(286861) 2018(309699) 2019(304138) 
+    Utilizou o conteúdo sem realizar nenhuma alteração
+        -> 2017: Sim:17.43%| Não:78.4%| Não sabe:0.24%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:16.82%| Não:79.62%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:17.16%| Não:78.41%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.52%
+    Baixou ou copiou o conteúdo e fez alterações
+        -> 2017: Sim:88.1%| Não:7.94%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:87.71%| Não:8.68%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:89.38%| Não:6.19%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.75%
+    Modificou o conteúdo no próprio site
+        -> 2017: Sim:11.09%| Não:84.69%| Não sabe:0.31%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:13.74%| Não:82.68%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:10.85%| Não:84.55%| Não sabe:0.18%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.52%
+    Criou um conteúdo novo combinando vários materiais
+        -> 2017: Sim:81.81%| Não:14.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:82.86%| Não:13.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:81.34%| Não:14.06%| Não sabe:0.18%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.52%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(226128) 2018(227752) 2019(224797) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:17.32%| Não:78.18%| Não sabe:0.3%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:15.25%| Não:81.99%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:16.66%| Não:78.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 0.66%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:88.29%| Não:7.46%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:89.22%| Não:7.95%| Não sabe:0.09%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:90.85%| Não:4.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 2.86%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:11.36%| Não:84.08%| Não sabe:0.4%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:15.03%| Não:82.19%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:9.28%| Não:86.0%| Não sabe:0.17%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 2.08%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:81.54%| Não:14.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:85.51%| Não:11.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:82.42%| Não:12.79%| Não sabe:0.24%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 1.5%
+   Masculino:
+        Total: 2017(60734) 2018(81946) 2019(79341) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:17.85%| Não:79.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:21.18%| Não:73.01%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:18.58%| Não:77.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 1.86%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:87.38%| Não:9.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:83.49%| Não:10.7%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:85.23%| Não:10.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 2.15%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:10.1%| Não:86.97%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:10.16%| Não:84.03%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:15.3%| Não:80.45%| Não sabe:0.19%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 6.52%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:82.81%| Não:14.27%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:75.48%| Não:18.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:78.28%| Não:17.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 4.53%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(19749) 2018(22934) 2019(25940) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:17.49%| Não:79.24%| Não sabe:0.0%| Não respondeu:0.32%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:17.8%| Não:77.3%| Não sabe:0.0%| Não respondeu:0.12%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:19.06%| Não:77.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 2.12%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:88.22%| Não:8.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:87.39%| Não:7.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:88.87%| Não:7.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 1.53%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:10.66%| Não:86.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:8.28%| Não:86.64%| Não sabe:0.3%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:18.11%| Não:78.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 8.33%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:86.79%| Não:10.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:79.21%| Não:16.0%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:79.49%| Não:16.7%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 7.3%
+   Centro-Oeste:
+        Total: 2017(24678) 2018(26514) 2019(25143) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:23.32%| Não:73.3%| Não sabe:1.09%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:16.04%| Não:80.33%| Não sabe:0.0%| Não respondeu:0.11%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:12.86%| Não:85.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 12.39%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:89.63%| Não:8.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:83.99%| Não:12.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:91.85%| Não:6.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 2.22%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:18.06%| Não:79.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:16.52%| Não:79.81%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:8.62%| Não:89.94%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 10.28%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:78.94%| Não:18.78%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:76.47%| Não:20.0%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:88.79%| Não:9.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 9.85%
+   Nordeste:
+        Total: 2017(80128) 2018(86821) 2019(94678) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:12.15%| Não:82.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:13.32%| Não:82.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:14.59%| Não:78.64%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 3.82%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:86.4%| Não:7.98%| Não sabe:0.22%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:86.7%| Não:9.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:86.54%| Não:6.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.37%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:10.14%| Não:84.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:15.77%| Não:80.45%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:9.7%| Não:83.37%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.37%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:76.75%| Não:17.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:77.84%| Não:18.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:81.3%| Não:11.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 5.93%
+   Sudeste:
+        Total: 2017(125466) 2018(132979) 2019(121293) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:22.51%| Não:73.3%| Não sabe:0.33%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:20.53%| Não:76.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:19.37%| Não:76.37%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 3.14%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:87.29%| Não:8.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:89.19%| Não:8.12%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:90.65%| Não:5.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 3.75%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:10.43%| Não:85.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:14.07%| Não:83.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:11.88%| Não:83.55%| Não sabe:0.32%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 2.16%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:82.88%| Não:13.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:88.35%| Não:9.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:79.1%| Não:16.2%| Não sabe:0.45%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 3.78%
+   Sul:
+        Total: 2017(36840) 2018(40450) 2019(37082) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:7.65%| Não:89.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:12.06%| Não:82.57%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:18.08%| Não:80.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 10.43%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:93.45%| Não:4.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:87.63%| Não:6.7%| Não sabe:0.3%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:91.18%| Não:7.37%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 3.22%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:11.0%| Não:84.16%| Não sabe:2.45%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:9.57%| Não:85.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:6.85%| Não:91.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 7.55%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:88.42%| Não:9.18%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:81.81%| Não:12.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:85.01%| Não:13.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 4.36%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(104785) 2018(113287) 2019(125491) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:15.71%| Não:77.89%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:21.16%| Não:75.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:11.8%| Não:81.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 4.1%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:87.01%| Não:6.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:86.48%| Não:10.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:87.63%| Não:6.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 0.7%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:11.0%| Não:82.0%| Não sabe:0.86%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:19.03%| Não:78.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:12.45%| Não:81.03%| Não sabe:0.31%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 1.45%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:78.97%| Não:14.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:85.11%| Não:12.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:82.1%| Não:11.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 3.2%
+   Pública Estadual:
+        Total: 2017(121401) 2018(126435) 2019(119746) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:18.27%| Não:78.42%| Não sabe:0.34%| Não respondeu:0.05%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:17.72%| Não:77.56%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:20.26%| Não:75.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 2.57%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:88.61%| Não:8.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:85.66%| Não:9.54%| Não sabe:0.09%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:90.1%| Não:6.01%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 2.47%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:11.76%| Não:85.32%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:11.07%| Não:84.14%| Não sabe:0.09%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:10.74%| Não:85.37%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 1.02%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:81.71%| Não:15.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:77.58%| Não:17.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:81.92%| Não:13.74%| Não sabe:0.46%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 1.64%
+   Particular:
+        Total: 2017(60676) 2018(69977) 2019(58903) 
+        Utilizou o conteúdo sem realizar nenhuma alteração
+                -> 2017: Sim:18.74%| Não:79.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:8.17%| Não:89.21%| Não sabe:0.0%| Não respondeu:0.04%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:22.28%| Não:76.01%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 3.54%
+        Baixou ou copiou o conteúdo e fez alterações
+                -> 2017: Sim:88.97%| Não:8.73%| Não sabe:0.3%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:93.38%| Não:3.9%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:91.63%| Não:6.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 2.66%
+        Modificou o conteúdo no próprio site
+                -> 2017: Sim:9.92%| Não:88.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:9.99%| Não:87.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:7.64%| Não:90.38%| Não sabe:0.26%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 2.31%
+        Criou um conteúdo novo combinando vários materiais
+                -> 2017: Sim:86.93%| Não:11.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:88.74%| Não:8.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:78.54%| Não:19.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 8.68%

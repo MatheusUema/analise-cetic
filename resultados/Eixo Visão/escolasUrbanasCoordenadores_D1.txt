@@ -1,0 +1,466 @@
+TOTAL PARA O INDICADOR D1 – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE BARREIRAS PARA O USO DAS TIC NA ESCOLA
+Em termos de TOTAL:
+    Total: 2017(78532) 2018(80503) 2019(77295) 
+    Ausência de suporte técnico e manutenção dos equipamentos
+        -> 2017: Dificulta muito:60.31%| Dificulta um pouco:24.51%| Não dificulta nada:12.09%| Nesta escola isso não acontece:3.06%| Não sabe:0.02%| Não respondeu:0.02%| 
+        -> 2018: Dificulta muito:60.66%| Dificulta um pouco:23.46%| Não dificulta nada:13.05%| Nessa escola isso não acontece:2.54%| Não sabe:0.07%| Não respondeu:0.22%| 
+        -> 2019: Dificulta muito:63.77%| Dificulta um pouco:19.99%| Não dificulta nada:13.02%| Nessa escola isso não acontece:3.09%| Não sabe:0.12%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+    Falta de apoio pedagógico aos professores para o uso da Internet
+        -> 2017: Dificulta muito:35.93%| Dificulta um pouco:36.53%| Não dificulta nada:23.8%| Nesta escola isso não acontece:3.35%| Não sabe:0.11%| Não respondeu:0.28%| 
+        -> 2018: Dificulta muito:36.01%| Dificulta um pouco:32.37%| Não dificulta nada:29.23%| Nessa escola isso não acontece:2.12%| Não sabe:0.05%| Não respondeu:0.22%| 
+        -> 2019: Dificulta muito:37.14%| Dificulta um pouco:32.89%| Não dificulta nada:25.71%| Nessa escola isso não acontece:4.05%| Não sabe:0.02%| Não respondeu:0.18%| 
+        Não foi possível analisar com anos anteriores
+    Número insuficiente de computadores conectados à Internet
+        -> 2017: Dificulta muito:61.67%| Dificulta um pouco:25.03%| Não dificulta nada:9.7%| Nesta escola isso não acontece:3.36%| Não sabe:0.0%| Não respondeu:0.25%| 
+        -> 2018: Dificulta muito:65.53%| Dificulta um pouco:18.17%| Não dificulta nada:14.84%| Nessa escola isso não acontece:1.24%| Não sabe:0.0%| Não respondeu:0.22%| 
+        -> 2019: Dificulta muito:65.16%| Dificulta um pouco:21.15%| Não dificulta nada:11.4%| Nessa escola isso não acontece:2.13%| Não sabe:0.0%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+    Baixa velocidade de conexão à Internet
+        -> 2017: Dificulta muito:61.73%| Dificulta um pouco:23.42%| Não dificulta nada:12.41%| Nesta escola isso não acontece:2.17%| Não sabe:0.27%| Não respondeu:0.0%| 
+        -> 2018: Dificulta muito:61.42%| Dificulta um pouco:22.8%| Não dificulta nada:14.66%| Nessa escola isso não acontece:0.89%| Não sabe:0.0%| Não respondeu:0.23%| 
+        -> 2019: Dificulta muito:62.49%| Dificulta um pouco:22.97%| Não dificulta nada:12.36%| Nessa escola isso não acontece:2.01%| Não sabe:0.0%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+    Número insuficiente de computadores por aluno
+        -> 2017: Dificulta muito:63.58%| Dificulta um pouco:22.26%| Não dificulta nada:8.25%| Nesta escola isso não acontece:5.73%| Não sabe:0.03%| Não respondeu:0.14%| 
+        -> 2018: Dificulta muito:64.11%| Dificulta um pouco:21.3%| Não dificulta nada:11.58%| Nessa escola isso não acontece:2.52%| Não sabe:0.0%| Não respondeu:0.49%| 
+        -> 2019: Dificulta muito:63.54%| Dificulta um pouco:21.8%| Não dificulta nada:11.19%| Nessa escola isso não acontece:3.3%| Não sabe:0.01%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+    Equipamentos obsoletos ou ultrapassados
+        -> 2017: Dificulta muito:58.55%| Dificulta um pouco:24.92%| Não dificulta nada:9.97%| Nesta escola isso não acontece:6.43%| Não sabe:0.04%| Não respondeu:0.09%| 
+        -> 2018: Dificulta muito:62.1%| Dificulta um pouco:17.45%| Não dificulta nada:18.45%| Nessa escola isso não acontece:1.71%| Não sabe:0.07%| Não respondeu:0.22%| 
+        -> 2019: Dificulta muito:64.12%| Dificulta um pouco:18.21%| Não dificulta nada:13.73%| Nessa escola isso não acontece:3.53%| Não sabe:0.25%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+    Pressão ou falta de tempo para cumprir com o conteúdo previsto
+        -> 2017: Dificulta muito:35.12%| Dificulta um pouco:42.87%| Não dificulta nada:20.81%| Nesta escola isso não acontece:0.87%| Não sabe:0.12%| Não respondeu:0.22%| 
+        -> 2018: Dificulta muito:41.04%| Dificulta um pouco:32.2%| Não dificulta nada:25.25%| Nessa escola isso não acontece:1.28%| Não sabe:0.01%| Não respondeu:0.22%| 
+        -> 2019: Dificulta muito:31.55%| Dificulta um pouco:41.39%| Não dificulta nada:26.19%| Nessa escola isso não acontece:0.52%| Não sabe:0.0%| Não respondeu:0.36%| 
+        Não foi possível analisar com anos anteriores
+    Pressão para conseguir boas notas nas avaliações de desempenho
+        -> 2017: Dificulta muito:24.3%| Dificulta um pouco:33.93%| Não dificulta nada:38.76%| Nesta escola isso não acontece:2.54%| Não sabe:0.42%| Não respondeu:0.05%| 
+        -> 2018: Dificulta muito:24.13%| Dificulta um pouco:41.28%| Não dificulta nada:32.19%| Nessa escola isso não acontece:1.98%| Não sabe:0.11%| Não respondeu:0.31%| 
+        -> 2019: Dificulta muito:23.1%| Dificulta um pouco:38.96%| Não dificulta nada:34.85%| Nessa escola isso não acontece:1.3%| Não sabe:1.27%| Não respondeu:0.52%| 
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(69342) 2018(72030) 2019(70755) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:62.27%| Dificulta um pouco:22.27%| Não dificulta nada:12.01%| Nesta escola isso não acontece:3.41%| Não sabe:0.02%| Não respondeu:0.02%| 
+                -> 2018: Dificulta muito:58.46%| Dificulta um pouco:24.49%| Não dificulta nada:14.02%| Nessa escola isso não acontece:2.71%| Não sabe:0.08%| Não respondeu:0.25%| 
+                -> 2019: Dificulta muito:62.58%| Dificulta um pouco:20.57%| Não dificulta nada:13.36%| Nessa escola isso não acontece:3.37%| Não sabe:0.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:37.41%| Dificulta um pouco:36.08%| Não dificulta nada:22.78%| Nesta escola isso não acontece:3.29%| Não sabe:0.13%| Não respondeu:0.32%| 
+                -> 2018: Dificulta muito:36.0%| Dificulta um pouco:31.06%| Não dificulta nada:30.67%| Nessa escola isso não acontece:1.96%| Não sabe:0.06%| Não respondeu:0.25%| 
+                -> 2019: Dificulta muito:36.75%| Dificulta um pouco:32.44%| Não dificulta nada:26.17%| Nessa escola isso não acontece:4.43%| Não sabe:0.02%| Não respondeu:0.2%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:60.07%| Dificulta um pouco:26.58%| Não dificulta nada:9.35%| Nesta escola isso não acontece:3.71%| Não sabe:0.0%| Não respondeu:0.28%| 
+                -> 2018: Dificulta muito:64.35%| Dificulta um pouco:17.77%| Não dificulta nada:16.26%| Nessa escola isso não acontece:1.38%| Não sabe:0.0%| Não respondeu:0.25%| 
+                -> 2019: Dificulta muito:64.4%| Dificulta um pouco:22.02%| Não dificulta nada:11.27%| Nessa escola isso não acontece:2.14%| Não sabe:0.0%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:63.02%| Dificulta um pouco:23.9%| Não dificulta nada:10.68%| Nesta escola isso não acontece:2.1%| Não sabe:0.3%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:60.22%| Dificulta um pouco:22.84%| Não dificulta nada:15.84%| Nessa escola isso não acontece:0.85%| Não sabe:0.0%| Não respondeu:0.26%| 
+                -> 2019: Dificulta muito:62.28%| Dificulta um pouco:22.79%| Não dificulta nada:12.55%| Nessa escola isso não acontece:2.2%| Não sabe:0.0%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:62.58%| Dificulta um pouco:22.93%| Não dificulta nada:7.89%| Nesta escola isso não acontece:6.44%| Não sabe:0.0%| Não respondeu:0.16%| 
+                -> 2018: Dificulta muito:63.08%| Dificulta um pouco:21.04%| Não dificulta nada:12.79%| Nessa escola isso não acontece:2.54%| Não sabe:0.0%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:62.97%| Dificulta um pouco:22.52%| Não dificulta nada:11.1%| Nessa escola isso não acontece:3.22%| Não sabe:0.02%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:59.62%| Dificulta um pouco:23.47%| Não dificulta nada:9.69%| Nesta escola isso não acontece:7.07%| Não sabe:0.04%| Não respondeu:0.11%| 
+                -> 2018: Dificulta muito:60.19%| Dificulta um pouco:17.84%| Não dificulta nada:19.95%| Nessa escola isso não acontece:1.7%| Não sabe:0.08%| Não respondeu:0.25%| 
+                -> 2019: Dificulta muito:64.07%| Dificulta um pouco:17.97%| Não dificulta nada:13.84%| Nessa escola isso não acontece:3.86%| Não sabe:0.09%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:31.31%| Dificulta um pouco:44.98%| Não dificulta nada:22.39%| Nesta escola isso não acontece:0.94%| Não sabe:0.14%| Não respondeu:0.25%| 
+                -> 2018: Dificulta muito:42.46%| Dificulta um pouco:30.16%| Não dificulta nada:25.91%| Nessa escola isso não acontece:1.21%| Não sabe:0.01%| Não respondeu:0.25%| 
+                -> 2019: Dificulta muito:31.71%| Dificulta um pouco:41.1%| Não dificulta nada:26.23%| Nessa escola isso não acontece:0.57%| Não sabe:0.0%| Não respondeu:0.39%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:24.33%| Dificulta um pouco:32.63%| Não dificulta nada:39.8%| Nesta escola isso não acontece:2.72%| Não sabe:0.47%| Não respondeu:0.06%| 
+                -> 2018: Dificulta muito:23.58%| Dificulta um pouco:42.48%| Não dificulta nada:31.6%| Nessa escola isso não acontece:1.86%| Não sabe:0.13%| Não respondeu:0.35%| 
+                -> 2019: Dificulta muito:22.61%| Dificulta um pouco:39.65%| Não dificulta nada:34.74%| Nessa escola isso não acontece:1.23%| Não sabe:1.2%| Não respondeu:0.57%| 
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(9191) 2018(8473) 2019(6542) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:45.5%| Dificulta um pouco:41.43%| Não dificulta nada:12.64%| Nesta escola isso não acontece:0.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:79.41%| Dificulta um pouco:14.69%| Não dificulta nada:4.8%| Nessa escola isso não acontece:1.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:76.73%| Dificulta um pouco:13.79%| Não dificulta nada:9.4%| Nessa escola isso não acontece:0.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:24.8%| Dificulta um pouco:39.9%| Não dificulta nada:31.53%| Nesta escola isso não acontece:3.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:36.04%| Dificulta um pouco:43.49%| Não dificulta nada:17.0%| Nessa escola isso não acontece:3.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:41.32%| Dificulta um pouco:37.83%| Não dificulta nada:20.82%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:73.66%| Dificulta um pouco:13.37%| Não dificulta nada:12.28%| Nesta escola isso não acontece:0.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:75.62%| Dificulta um pouco:21.57%| Não dificulta nada:2.81%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:73.33%| Dificulta um pouco:11.79%| Não dificulta nada:12.84%| Nessa escola isso não acontece:2.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:51.97%| Dificulta um pouco:19.75%| Não dificulta nada:25.45%| Nesta escola isso não acontece:2.76%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:71.58%| Dificulta um pouco:22.52%| Não dificulta nada:4.66%| Nessa escola isso não acontece:1.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:64.7%| Dificulta um pouco:24.98%| Não dificulta nada:10.3%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:71.15%| Dificulta um pouco:17.22%| Não dificulta nada:10.98%| Nesta escola isso não acontece:0.38%| Não sabe:0.27%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:72.93%| Dificulta um pouco:23.49%| Não dificulta nada:1.26%| Nessa escola isso não acontece:2.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:69.7%| Dificulta um pouco:14.02%| Não dificulta nada:12.06%| Nessa escola isso não acontece:4.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:50.45%| Dificulta um pouco:35.81%| Não dificulta nada:12.13%| Nesta escola isso não acontece:1.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:78.37%| Dificulta um pouco:14.16%| Não dificulta nada:5.7%| Nessa escola isso não acontece:1.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:64.63%| Dificulta um pouco:20.83%| Não dificulta nada:12.52%| Nessa escola isso não acontece:0.0%| Não sabe:2.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:63.87%| Dificulta um pouco:26.92%| Não dificulta nada:8.86%| Nesta escola isso não acontece:0.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:28.92%| Dificulta um pouco:49.55%| Não dificulta nada:19.67%| Nessa escola isso não acontece:1.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:29.76%| Dificulta um pouco:44.48%| Não dificulta nada:25.76%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:24.07%| Dificulta um pouco:43.76%| Não dificulta nada:30.92%| Nesta escola isso não acontece:1.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:28.77%| Dificulta um pouco:31.04%| Não dificulta nada:37.2%| Nessa escola isso não acontece:3.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:28.36%| Dificulta um pouco:31.52%| Não dificulta nada:36.04%| Nessa escola isso não acontece:2.02%| Não sabe:2.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(6578) 2018(6891) 2019(6059) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:71.09%| Dificulta um pouco:20.45%| Não dificulta nada:7.77%| Nesta escola isso não acontece:0.46%| Não sabe:0.0%| Não respondeu:0.24%| 
+                -> 2018: Dificulta muito:73.53%| Dificulta um pouco:19.33%| Não dificulta nada:5.92%| Nessa escola isso não acontece:1.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:75.36%| Dificulta um pouco:16.78%| Não dificulta nada:5.48%| Nessa escola isso não acontece:0.86%| Não sabe:1.52%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:40.18%| Dificulta um pouco:38.52%| Não dificulta nada:16.98%| Nesta escola isso não acontece:3.39%| Não sabe:0.0%| Não respondeu:0.9%| 
+                -> 2018: Dificulta muito:48.79%| Dificulta um pouco:38.28%| Não dificulta nada:11.49%| Nessa escola isso não acontece:1.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:51.69%| Dificulta um pouco:35.25%| Não dificulta nada:10.99%| Nessa escola isso não acontece:1.78%| Não sabe:0.0%| Não respondeu:0.3%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:78.23%| Dificulta um pouco:10.78%| Não dificulta nada:9.9%| Nesta escola isso não acontece:1.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:83.66%| Dificulta um pouco:11.45%| Não dificulta nada:3.99%| Nessa escola isso não acontece:0.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:80.41%| Dificulta um pouco:13.14%| Não dificulta nada:4.44%| Nessa escola isso não acontece:2.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:72.45%| Dificulta um pouco:15.96%| Não dificulta nada:10.7%| Nesta escola isso não acontece:0.78%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:80.89%| Dificulta um pouco:15.82%| Não dificulta nada:3.22%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.09%| 
+                -> 2019: Dificulta muito:68.58%| Dificulta um pouco:23.87%| Não dificulta nada:7.08%| Nessa escola isso não acontece:0.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:72.61%| Dificulta um pouco:19.57%| Não dificulta nada:6.05%| Nesta escola isso não acontece:1.52%| Não sabe:0.0%| Não respondeu:0.24%| 
+                -> 2018: Dificulta muito:80.61%| Dificulta um pouco:15.27%| Não dificulta nada:3.25%| Nessa escola isso não acontece:0.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:76.45%| Dificulta um pouco:15.3%| Não dificulta nada:5.89%| Nessa escola isso não acontece:2.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:71.13%| Dificulta um pouco:16.66%| Não dificulta nada:10.12%| Nesta escola isso não acontece:2.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:80.16%| Dificulta um pouco:8.49%| Não dificulta nada:10.04%| Nessa escola isso não acontece:1.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:66.02%| Dificulta um pouco:17.82%| Não dificulta nada:11.09%| Nessa escola isso não acontece:1.83%| Não sabe:3.25%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:53.41%| Dificulta um pouco:32.06%| Não dificulta nada:13.64%| Nesta escola isso não acontece:0.64%| Não sabe:0.0%| Não respondeu:0.24%| 
+                -> 2018: Dificulta muito:38.14%| Dificulta um pouco:40.18%| Não dificulta nada:21.06%| Nessa escola isso não acontece:0.54%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:38.72%| Dificulta um pouco:34.79%| Não dificulta nada:23.32%| Nessa escola isso não acontece:1.67%| Não sabe:0.0%| Não respondeu:1.52%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:31.32%| Dificulta um pouco:36.3%| Não dificulta nada:28.53%| Nesta escola isso não acontece:2.69%| Não sabe:1.12%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:33.86%| Dificulta um pouco:41.63%| Não dificulta nada:22.96%| Nessa escola isso não acontece:1.16%| Não sabe:0.41%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:32.07%| Dificulta um pouco:29.69%| Não dificulta nada:35.02%| Nessa escola isso não acontece:0.79%| Não sabe:0.83%| Não respondeu:1.62%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(6207) 2018(6003) 2019(5728) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:67.5%| Dificulta um pouco:16.14%| Não dificulta nada:11.71%| Nesta escola isso não acontece:4.45%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:62.05%| Dificulta um pouco:22.49%| Não dificulta nada:11.28%| Nessa escola isso não acontece:0.98%| Não sabe:0.23%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:70.27%| Dificulta um pouco:18.7%| Não dificulta nada:9.9%| Nessa escola isso não acontece:1.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:32.54%| Dificulta um pouco:35.2%| Não dificulta nada:28.44%| Nesta escola isso não acontece:3.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:42.2%| Dificulta um pouco:26.07%| Não dificulta nada:27.09%| Nessa escola isso não acontece:1.7%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:40.94%| Dificulta um pouco:38.69%| Não dificulta nada:18.8%| Nessa escola isso não acontece:1.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:66.68%| Dificulta um pouco:22.23%| Não dificulta nada:9.22%| Nesta escola isso não acontece:1.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:68.73%| Dificulta um pouco:18.92%| Não dificulta nada:8.33%| Nessa escola isso não acontece:1.05%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:67.34%| Dificulta um pouco:24.58%| Não dificulta nada:7.68%| Nessa escola isso não acontece:0.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:68.34%| Dificulta um pouco:19.27%| Não dificulta nada:11.12%| Nesta escola isso não acontece:1.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:71.81%| Dificulta um pouco:16.41%| Não dificulta nada:7.78%| Nessa escola isso não acontece:1.07%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:76.31%| Dificulta um pouco:13.72%| Não dificulta nada:9.99%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:67.39%| Dificulta um pouco:22.56%| Não dificulta nada:9.36%| Nesta escola isso não acontece:0.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:71.35%| Dificulta um pouco:14.13%| Não dificulta nada:10.31%| Nessa escola isso não acontece:1.27%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:71.19%| Dificulta um pouco:20.55%| Não dificulta nada:7.7%| Nessa escola isso não acontece:0.37%| Não sabe:0.19%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:55.47%| Dificulta um pouco:19.95%| Não dificulta nada:17.48%| Nesta escola isso não acontece:5.43%| Não sabe:0.48%| Não respondeu:1.19%| 
+                -> 2018: Dificulta muito:70.48%| Dificulta um pouco:13.94%| Não dificulta nada:9.38%| Nessa escola isso não acontece:2.98%| Não sabe:0.25%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:70.29%| Dificulta um pouco:18.61%| Não dificulta nada:10.27%| Nessa escola isso não acontece:0.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:37.86%| Dificulta um pouco:39.68%| Não dificulta nada:20.67%| Nesta escola isso não acontece:1.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:42.58%| Dificulta um pouco:31.77%| Não dificulta nada:22.52%| Nessa escola isso não acontece:0.17%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:36.14%| Dificulta um pouco:36.45%| Não dificulta nada:26.47%| Nessa escola isso não acontece:0.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:25.75%| Dificulta um pouco:34.77%| Não dificulta nada:36.83%| Nesta escola isso não acontece:2.42%| Não sabe:0.23%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:34.03%| Dificulta um pouco:28.99%| Não dificulta nada:33.62%| Nessa escola isso não acontece:0.42%| Não sabe:0.0%| Não respondeu:2.97%| 
+                -> 2019: Dificulta muito:29.43%| Dificulta um pouco:34.88%| Não dificulta nada:34.65%| Nessa escola isso não acontece:0.19%| Não sabe:0.0%| Não respondeu:0.84%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(23992) 2018(24469) 2019(23941) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:57.39%| Dificulta um pouco:29.72%| Não dificulta nada:12.04%| Nesta escola isso não acontece:0.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:63.98%| Dificulta um pouco:22.64%| Não dificulta nada:13.38%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:68.84%| Dificulta um pouco:22.74%| Não dificulta nada:7.66%| Nessa escola isso não acontece:0.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:37.51%| Dificulta um pouco:43.14%| Não dificulta nada:19.29%| Nesta escola isso não acontece:0.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:39.84%| Dificulta um pouco:34.99%| Não dificulta nada:24.1%| Nessa escola isso não acontece:1.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:41.52%| Dificulta um pouco:33.14%| Não dificulta nada:24.44%| Nessa escola isso não acontece:0.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:59.69%| Dificulta um pouco:32.36%| Não dificulta nada:6.59%| Nesta escola isso não acontece:1.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:71.53%| Dificulta um pouco:16.29%| Não dificulta nada:12.18%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:71.92%| Dificulta um pouco:19.56%| Não dificulta nada:7.31%| Nessa escola isso não acontece:1.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:56.19%| Dificulta um pouco:36.72%| Não dificulta nada:6.59%| Nesta escola isso não acontece:0.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:65.01%| Dificulta um pouco:22.87%| Não dificulta nada:10.3%| Nessa escola isso não acontece:1.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:67.18%| Dificulta um pouco:21.44%| Não dificulta nada:11.37%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:61.47%| Dificulta um pouco:27.23%| Não dificulta nada:7.58%| Nesta escola isso não acontece:3.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:71.47%| Dificulta um pouco:17.79%| Não dificulta nada:7.74%| Nessa escola isso não acontece:2.11%| Não sabe:0.0%| Não respondeu:0.89%| 
+                -> 2019: Dificulta muito:66.24%| Dificulta um pouco:18.38%| Não dificulta nada:12.48%| Nessa escola isso não acontece:2.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:52.86%| Dificulta um pouco:32.97%| Não dificulta nada:9.19%| Nesta escola isso não acontece:4.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:70.75%| Dificulta um pouco:10.09%| Não dificulta nada:17.29%| Nessa escola isso não acontece:1.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:71.05%| Dificulta um pouco:14.49%| Não dificulta nada:12.63%| Nessa escola isso não acontece:1.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:33.69%| Dificulta um pouco:46.71%| Não dificulta nada:19.28%| Nesta escola isso não acontece:0.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:45.29%| Dificulta um pouco:25.99%| Não dificulta nada:28.06%| Nessa escola isso não acontece:0.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:32.81%| Dificulta um pouco:51.89%| Não dificulta nada:15.3%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:29.56%| Dificulta um pouco:37.75%| Não dificulta nada:29.39%| Nesta escola isso não acontece:3.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:26.25%| Dificulta um pouco:35.41%| Não dificulta nada:34.15%| Nessa escola isso não acontece:4.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:24.77%| Dificulta um pouco:44.95%| Não dificulta nada:26.31%| Nessa escola isso não acontece:1.45%| Não sabe:2.35%| Não respondeu:0.16%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(29938) 2018(30854) 2019(30032) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:56.17%| Dificulta um pouco:24.63%| Não dificulta nada:13.71%| Nesta escola isso não acontece:5.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:55.01%| Dificulta um pouco:26.51%| Não dificulta nada:13.66%| Nessa escola isso não acontece:4.68%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:55.54%| Dificulta um pouco:15.76%| Não dificulta nada:22.1%| Nessa escola isso não acontece:6.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:29.77%| Dificulta um pouco:35.5%| Não dificulta nada:28.98%| Nesta escola isso não acontece:5.62%| Não sabe:0.0%| Não respondeu:0.13%| 
+                -> 2018: Dificulta muito:30.04%| Dificulta um pouco:33.42%| Não dificulta nada:32.82%| Nessa escola isso não acontece:3.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:28.18%| Dificulta um pouco:28.97%| Não dificulta nada:34.18%| Nessa escola isso não acontece:8.25%| Não sabe:0.0%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:59.22%| Dificulta um pouco:24.11%| Não dificulta nada:12.43%| Nesta escola isso não acontece:3.99%| Não sabe:0.0%| Não respondeu:0.24%| 
+                -> 2018: Dificulta muito:58.59%| Dificulta um pouco:18.48%| Não dificulta nada:20.34%| Nessa escola isso não acontece:2.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:56.84%| Dificulta um pouco:22.0%| Não dificulta nada:17.1%| Nessa escola isso não acontece:3.65%| Não sabe:0.0%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:55.42%| Dificulta um pouco:20.69%| Não dificulta nada:19.64%| Nesta escola isso não acontece:3.56%| Não sabe:0.69%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:54.58%| Dificulta um pouco:23.25%| Não dificulta nada:21.51%| Nessa escola isso não acontece:0.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:51.3%| Dificulta um pouco:26.62%| Não dificulta nada:16.62%| Nessa escola isso não acontece:5.06%| Não sabe:0.0%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:61.59%| Dificulta um pouco:20.08%| Não dificulta nada:9.7%| Nesta escola isso não acontece:8.54%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:53.85%| Dificulta um pouco:27.84%| Não dificulta nada:13.96%| Nessa escola isso não acontece:4.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:57.36%| Dificulta um pouco:23.2%| Não dificulta nada:13.84%| Nessa escola isso não acontece:5.19%| Não sabe:0.0%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:56.35%| Dificulta um pouco:24.04%| Não dificulta nada:9.62%| Nesta escola isso não acontece:10.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:51.28%| Dificulta um pouco:25.37%| Não dificulta nada:21.53%| Nessa escola isso não acontece:1.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:55.68%| Dificulta um pouco:21.79%| Não dificulta nada:15.68%| Nessa escola isso não acontece:6.44%| Não sabe:0.0%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:35.01%| Dificulta um pouco:44.96%| Não dificulta nada:18.85%| Nesta escola isso não acontece:1.05%| Não sabe:0.0%| Não respondeu:0.13%| 
+                -> 2018: Dificulta muito:42.29%| Dificulta um pouco:31.68%| Não dificulta nada:24.48%| Nessa escola isso não acontece:1.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:26.62%| Dificulta um pouco:35.11%| Não dificulta nada:36.88%| Nessa escola isso não acontece:0.78%| Não sabe:0.0%| Não respondeu:0.61%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:19.34%| Dificulta um pouco:29.67%| Não dificulta nada:48.76%| Nesta escola isso não acontece:1.73%| Não sabe:0.37%| Não respondeu:0.13%| 
+                -> 2018: Dificulta muito:19.21%| Dificulta um pouco:51.74%| Não dificulta nada:27.96%| Nessa escola isso não acontece:1.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:22.47%| Dificulta um pouco:32.17%| Não dificulta nada:41.86%| Nessa escola isso não acontece:1.98%| Não sabe:0.79%| Não respondeu:0.73%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(11819) 2018(12285) 2019(11535) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:66.91%| Dificulta um pouco:20.31%| Não dificulta nada:10.66%| Nesta escola isso não acontece:2.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:60.37%| Dificulta um pouco:20.2%| Não dificulta nada:15.71%| Nessa escola isso não acontece:3.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:65.41%| Dificulta um pouco:27.65%| Não dificulta nada:6.02%| Nessa escola isso não acontece:0.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:47.73%| Dificulta um pouco:25.31%| Não dificulta nada:21.23%| Nesta escola isso não acontece:3.98%| Não sabe:0.74%| Não respondeu:1.02%| 
+                -> 2018: Dificulta muito:33.15%| Dificulta um pouco:24.27%| Não dificulta nada:41.47%| Nessa escola isso não acontece:0.77%| Não sabe:0.33%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:41.83%| Dificulta um pouco:38.48%| Não dificulta nada:17.49%| Nessa escola isso não acontece:2.06%| Não sabe:0.15%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:59.98%| Dificulta um pouco:21.89%| Não dificulta nada:9.21%| Nesta escola isso não acontece:7.89%| Não sabe:0.0%| Não respondeu:1.02%| 
+                -> 2018: Dificulta muito:59.32%| Dificulta um pouco:24.51%| Não dificulta nada:15.6%| Nessa escola isso não acontece:0.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:63.67%| Dificulta um pouco:24.76%| Não dificulta nada:10.6%| Nessa escola isso não acontece:0.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:79.48%| Dificulta um pouco:9.65%| Não dificulta nada:7.51%| Nesta escola isso não acontece:3.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:55.43%| Dificulta um pouco:28.61%| Não dificulta nada:15.91%| Nessa escola isso não acontece:0.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:71.84%| Dificulta um pouco:20.8%| Não dificulta nada:7.31%| Nessa escola isso não acontece:0.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:65.88%| Dificulta um pouco:19.03%| Não dificulta nada:6.61%| Nesta escola isso não acontece:7.68%| Não sabe:0.0%| Não respondeu:0.8%| 
+                -> 2018: Dificulta muito:62.47%| Dificulta um pouco:18.73%| Não dificulta nada:18.54%| Nessa escola isso não acontece:0.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:63.45%| Dificulta um pouco:29.28%| Não dificulta nada:6.11%| Nessa escola isso não acontece:1.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:70.3%| Dificulta um pouco:17.98%| Não dificulta nada:8.42%| Nesta escola isso não acontece:3.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:57.81%| Dificulta um pouco:18.95%| Não dificulta nada:22.18%| Nessa escola isso não acontece:0.73%| Não sabe:0.33%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:67.69%| Dificulta um pouco:16.59%| Não dificulta nada:14.03%| Nessa escola isso não acontece:1.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:26.68%| Dificulta um pouco:37.44%| Não dificulta nada:32.9%| Nesta escola isso não acontece:1.15%| Não sabe:0.8%| Não respondeu:1.02%| 
+                -> 2018: Dificulta muito:30.26%| Dificulta um pouco:41.58%| Não dificulta nada:25.31%| Nessa escola isso não acontece:2.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:35.73%| Dificulta um pouco:41.82%| Não dificulta nada:22.35%| Nessa escola isso não acontece:0.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:21.52%| Dificulta um pouco:35.22%| Não dificulta nada:39.13%| Nesta escola isso não acontece:3.02%| Não sabe:1.1%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:21.95%| Dificulta um pouco:32.52%| Não dificulta nada:43.35%| Nessa escola isso não acontece:1.04%| Não sabe:0.53%| Não respondeu:0.62%| 
+                -> 2019: Dificulta muito:13.39%| Dificulta um pouco:51.13%| Não dificulta nada:34.32%| Nessa escola isso não acontece:0.0%| Não sabe:1.16%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(31574) 2018(32486) 2019(30986) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:66.46%| Dificulta um pouco:29.24%| Não dificulta nada:3.28%| Nesta escola isso não acontece:0.94%| Não sabe:0.04%| Não respondeu:0.05%| 
+                -> 2018: Dificulta muito:74.8%| Dificulta um pouco:18.64%| Não dificulta nada:5.31%| Nessa escola isso não acontece:0.58%| Não sabe:0.13%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:73.42%| Dificulta um pouco:20.78%| Não dificulta nada:4.46%| Nessa escola isso não acontece:1.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:51.18%| Dificulta um pouco:27.67%| Não dificulta nada:19.56%| Nesta escola isso não acontece:1.47%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Dificulta muito:47.93%| Dificulta um pouco:30.17%| Não dificulta nada:20.14%| Nessa escola isso não acontece:1.21%| Não sabe:0.0%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:41.54%| Dificulta um pouco:35.04%| Não dificulta nada:21.77%| Nessa escola isso não acontece:1.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:74.18%| Dificulta um pouco:19.61%| Não dificulta nada:3.33%| Nesta escola isso não acontece:2.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:73.99%| Dificulta um pouco:18.78%| Não dificulta nada:6.1%| Nessa escola isso não acontece:0.58%| Não sabe:0.0%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:74.58%| Dificulta um pouco:19.16%| Não dificulta nada:4.41%| Nessa escola isso não acontece:1.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:69.65%| Dificulta um pouco:20.68%| Não dificulta nada:7.34%| Nesta escola isso não acontece:1.68%| Não sabe:0.66%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:72.43%| Dificulta um pouco:17.72%| Não dificulta nada:7.67%| Nessa escola isso não acontece:1.63%| Não sabe:0.0%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:69.31%| Dificulta um pouco:19.75%| Não dificulta nada:10.58%| Nessa escola isso não acontece:0.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:71.99%| Dificulta um pouco:19.24%| Não dificulta nada:3.42%| Nesta escola isso não acontece:5.3%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2018: Dificulta muito:71.27%| Dificulta um pouco:21.51%| Não dificulta nada:3.84%| Nessa escola isso não acontece:2.16%| Não sabe:0.0%| Não respondeu:1.22%| 
+                -> 2019: Dificulta muito:75.03%| Dificulta um pouco:14.33%| Não dificulta nada:7.76%| Nessa escola isso não acontece:2.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:64.74%| Dificulta um pouco:29.13%| Não dificulta nada:3.15%| Nesta escola isso não acontece:2.89%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:69.67%| Dificulta um pouco:19.97%| Não dificulta nada:7.96%| Nessa escola isso não acontece:1.72%| Não sabe:0.12%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:73.29%| Dificulta um pouco:13.81%| Não dificulta nada:10.04%| Nessa escola isso não acontece:2.64%| Não sabe:0.22%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:39.36%| Dificulta um pouco:42.29%| Não dificulta nada:18.07%| Nesta escola isso não acontece:0.1%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2018: Dificulta muito:44.83%| Dificulta um pouco:31.53%| Não dificulta nada:21.94%| Nessa escola isso não acontece:1.15%| Não sabe:0.0%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:34.76%| Dificulta um pouco:40.68%| Não dificulta nada:23.26%| Nessa escola isso não acontece:0.71%| Não sabe:0.0%| Não respondeu:0.59%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:29.53%| Dificulta um pouco:32.79%| Não dificulta nada:34.1%| Nesta escola isso não acontece:3.11%| Não sabe:0.35%| Não respondeu:0.12%| 
+                -> 2018: Dificulta muito:25.8%| Dificulta um pouco:49.98%| Não dificulta nada:22.26%| Nessa escola isso não acontece:1.13%| Não sabe:0.28%| Não respondeu:0.55%| 
+                -> 2019: Dificulta muito:26.64%| Dificulta um pouco:41.37%| Não dificulta nada:28.67%| Nessa escola isso não acontece:1.42%| Não sabe:1.9%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(25973) 2018(26641) 2019(24489) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:76.35%| Dificulta um pouco:16.23%| Não dificulta nada:5.93%| Nesta escola isso não acontece:1.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:73.47%| Dificulta um pouco:21.61%| Não dificulta nada:4.37%| Nessa escola isso não acontece:0.5%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:73.8%| Dificulta um pouco:18.15%| Não dificulta nada:7.62%| Nessa escola isso não acontece:0.05%| Não sabe:0.38%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:36.44%| Dificulta um pouco:43.76%| Não dificulta nada:15.9%| Nesta escola isso não acontece:2.98%| Não sabe:0.33%| Não respondeu:0.59%| 
+                -> 2018: Dificulta muito:36.81%| Dificulta um pouco:38.38%| Não dificulta nada:22.49%| Nessa escola isso não acontece:2.17%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:43.31%| Dificulta um pouco:36.8%| Não dificulta nada:16.44%| Nessa escola isso não acontece:3.32%| Não sabe:0.07%| Não respondeu:0.07%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:76.03%| Dificulta um pouco:19.31%| Não dificulta nada:2.78%| Nesta escola isso não acontece:1.14%| Não sabe:0.0%| Não respondeu:0.75%| 
+                -> 2018: Dificulta muito:82.74%| Dificulta um pouco:13.13%| Não dificulta nada:4.13%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:79.54%| Dificulta um pouco:13.46%| Não dificulta nada:6.42%| Nessa escola isso não acontece:0.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:79.94%| Dificulta um pouco:11.23%| Não dificulta nada:8.78%| Nesta escola isso não acontece:0.02%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:73.05%| Dificulta um pouco:20.28%| Não dificulta nada:6.68%| Nessa escola isso não acontece:0.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:77.07%| Dificulta um pouco:15.52%| Não dificulta nada:7.14%| Nessa escola isso não acontece:0.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:77.52%| Dificulta um pouco:18.32%| Não dificulta nada:2.73%| Nesta escola isso não acontece:1.07%| Não sabe:0.0%| Não respondeu:0.36%| 
+                -> 2018: Dificulta muito:81.77%| Dificulta um pouco:13.98%| Não dificulta nada:4.23%| Nessa escola isso não acontece:0.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:79.02%| Dificulta um pouco:17.23%| Não dificulta nada:2.63%| Nessa escola isso não acontece:1.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:66.13%| Dificulta um pouco:18.58%| Não dificulta nada:11.33%| Nesta escola isso não acontece:3.95%| Não sabe:0.0%| Não respondeu:0.01%| 
+                -> 2018: Dificulta muito:71.9%| Dificulta um pouco:15.83%| Não dificulta nada:11.91%| Nessa escola isso não acontece:0.3%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:72.63%| Dificulta um pouco:18.01%| Não dificulta nada:8.33%| Nessa escola isso não acontece:0.5%| Não sabe:0.53%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:33.27%| Dificulta um pouco:49.49%| Não dificulta nada:16.07%| Nesta escola isso não acontece:0.33%| Não sabe:0.36%| Não respondeu:0.47%| 
+                -> 2018: Dificulta muito:39.93%| Dificulta um pouco:44.14%| Não dificulta nada:14.34%| Nessa escola isso não acontece:1.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:43.56%| Dificulta um pouco:38.9%| Não dificulta nada:17.0%| Nessa escola isso não acontece:0.18%| Não sabe:0.0%| Não respondeu:0.38%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:26.2%| Dificulta um pouco:41.68%| Não dificulta nada:29.58%| Nesta escola isso não acontece:1.69%| Não sabe:0.84%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:33.27%| Dificulta um pouco:33.07%| Não dificulta nada:32.41%| Nessa escola isso não acontece:0.98%| Não sabe:0.0%| Não respondeu:0.29%| 
+                -> 2019: Dificulta muito:26.98%| Dificulta um pouco:40.6%| Não dificulta nada:29.29%| Nessa escola isso não acontece:0.49%| Não sabe:1.51%| Não respondeu:1.14%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(20984) 2018(21377) 2019(21820) 
+        Ausência de suporte técnico e manutenção dos equipamentos
+                -> 2017: Dificulta muito:31.19%| Dificulta um pouco:27.66%| Não dificulta nada:32.95%| Nesta escola isso não acontece:8.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:23.23%| Dificulta um pouco:33.08%| Não dificulta nada:35.64%| Nessa escola isso não acontece:8.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:38.82%| Dificulta um pouco:20.95%| Não dificulta nada:31.24%| Nessa escola isso não acontece:9.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Falta de apoio pedagógico aos professores para o uso da Internet
+                -> 2017: Dificulta muito:12.36%| Dificulta um pouco:40.92%| Não dificulta nada:39.96%| Nesta escola isso não acontece:6.63%| Não sabe:0.0%| Não respondeu:0.13%| 
+                -> 2018: Dificulta muito:16.88%| Dificulta um pouco:28.19%| Não dificulta nada:51.47%| Nessa escola isso não acontece:3.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:23.95%| Dificulta um pouco:25.47%| Não dificulta nada:41.73%| Nessa escola isso não acontece:8.29%| Não sabe:0.0%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores conectados à Internet
+                -> 2017: Dificulta muito:25.06%| Dificulta um pouco:40.29%| Não dificulta nada:27.84%| Nesta escola isso não acontece:6.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:31.24%| Dificulta um pouco:23.51%| Não dificulta nada:41.47%| Nessa escola isso não acontece:3.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:35.63%| Dificulta um pouco:32.62%| Não dificulta nada:26.94%| Nessa escola isso não acontece:4.23%| Não sabe:0.0%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+        Baixa velocidade de conexão à Internet
+                -> 2017: Dificulta muito:27.26%| Dificulta um pouco:42.63%| Não dificulta nada:24.53%| Nesta escola isso não acontece:5.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:30.18%| Dificulta um pouco:33.67%| Não dificulta nada:35.23%| Nessa escola isso não acontece:0.88%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Dificulta muito:36.44%| Dificulta um pouco:35.92%| Não dificulta nada:20.76%| Nessa escola isso não acontece:6.32%| Não sabe:0.0%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+        Número insuficiente de computadores por aluno
+                -> 2017: Dificulta muito:33.69%| Dificulta um pouco:31.67%| Não dificulta nada:22.36%| Nesta escola isso não acontece:12.16%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:31.23%| Dificulta um pouco:30.09%| Não dificulta nada:32.5%| Nessa escola isso não acontece:6.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:29.85%| Dificulta um pouco:37.53%| Não dificulta nada:25.66%| Nessa escola isso não acontece:6.34%| Não sabe:0.05%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+        Equipamentos obsoletos ou ultrapassados
+                -> 2017: Dificulta muito:39.86%| Dificulta um pouco:26.43%| Não dificulta nada:18.56%| Nesta escola isso não acontece:14.82%| Não sabe:0.0%| Não respondeu:0.34%| 
+                -> 2018: Dificulta muito:38.37%| Dificulta um pouco:15.64%| Não dificulta nada:42.55%| Nessa escola isso não acontece:3.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:41.55%| Dificulta um pouco:24.68%| Não dificulta nada:25.01%| Nessa escola isso não acontece:8.19%| Não sabe:0.0%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+        Pressão ou falta de tempo para cumprir com o conteúdo previsto
+                -> 2017: Dificulta muito:31.02%| Dificulta um pouco:35.53%| Não dificulta nada:30.78%| Nesta escola isso não acontece:2.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:36.64%| Dificulta um pouco:18.34%| Não dificulta nada:43.89%| Nessa escola isso não acontece:1.09%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:13.51%| Dificulta um pouco:45.18%| Não dificulta nada:40.67%| Nessa escola isso não acontece:0.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+        Pressão para conseguir boas notas nas avaliações de desempenho
+                -> 2017: Dificulta muito:14.06%| Dificulta um pouco:26.06%| Não dificulta nada:57.13%| Nesta escola isso não acontece:2.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Dificulta muito:10.19%| Dificulta um pouco:38.3%| Não dificulta nada:46.99%| Nessa escola isso não acontece:4.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Dificulta muito:13.72%| Dificulta um pouco:33.71%| Não dificulta nada:49.87%| Nessa escola isso não acontece:2.02%| Não sabe:0.11%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores

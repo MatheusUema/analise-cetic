@@ -1,0 +1,851 @@
+TOTAL PARA O INDICADOR C4A – PROFESSORES DE ESCOLAS URBANAS, POR ATIVIDADES REALIZADAS NA INTERNET
+Em termos de TOTAL:
+    Total: 2017(286862) 2018(309700) 2019(304139) 
+    Enviou e recebeu e-mails
+        -> 2017: Sim:97.05%| Não:2.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:96.63%| Não:3.36%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:97.02%| Não:2.86%| Não sabe:0.11%| Não respondeu:0.0%| 
+        A principal variação foi de Não sabe que foi de 0.11%
+    Mandou mensagens por meio de aplicativos
+        -> 2017: Sim:98.02%| Não:1.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:98.2%| Não:1.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:98.64%| Não:1.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.62%
+    Usou redes sociais
+        -> 2017: Sim:89.0%| Não:11.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:88.74%| Não:11.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:88.14%| Não:11.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.86%
+    Procurou emprego ou enviou currículos pela Internet
+        -> 2017: Sim:13.73%| Não:86.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:13.14%| Não:86.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:14.88%| Não:85.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 1.15%
+    Assistiu vídeos, programas, filmes ou séries na Internet
+        -> 2017: Sim:91.18%| Não:8.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Não possui 
+        -> 2019: Sim:94.87%| Não:5.09%| Não sabe:0.04%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 3.73%
+    Leu jornais, revistas ou notícias na Internet
+        -> 2017: Sim:94.47%| Não:5.5%| Não sabe:0.04%| Não respondeu:0.0%| 
+        -> 2018: Sim:94.88%| Não:5.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:96.56%| Não:3.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 2.09%
+    Fez cursos a distância, pela Internet
+        -> 2017: Sim:38.69%| Não:61.31%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2018: Sim:43.41%| Não:56.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:50.82%| Não:49.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 12.13%
+    Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+        -> 2017: Sim:66.78%| Não:33.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:71.52%| Não:28.48%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:72.26%| Não:27.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.48%
+    Compartilhou conteúdo, como textos, imagens ou vídeos
+        -> 2017: Sim:91.4%| Não:8.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:89.82%| Não:10.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:91.48%| Não:8.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 0.08%
+    Baixou ou fez download de softwares, programas de computador ou aplicativos
+        -> 2017: Sim:78.14%| Não:21.77%| Não sabe:0.08%| Não respondeu:0.0%| 
+        -> 2018: Não possui 
+        -> 2019: Sim:80.24%| Não:19.67%| Não sabe:0.09%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 2.1%
+    Jogou na Internet 
+        -> 2017: Sim:29.96%| Não:70.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:24.19%| Não:75.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:27.61%| Não:72.32%| Não sabe:0.0%| Não respondeu:0.07%| 
+        A principal variação foi de Sim que foi de 2.35%
+    Leu um livro, um resumo ou um e-book na Internet
+        -> 2017: Sim:63.56%| Não:36.4%| Não sabe:0.04%| Não respondeu:0.0%| 
+        -> 2018: Sim:71.19%| Não:28.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:73.16%| Não:26.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 9.6%
+    Participou de fóruns ou grupos de discussão na Internet
+        -> 2017: Sim:41.07%| Não:58.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:44.45%| Não:55.54%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:44.22%| Não:55.67%| Não sabe:0.11%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 3.26%
+    Assistiu a vídeos, programas, filmes ou séries na Internet
+        -> 2017: Não possui 
+        -> 2018: Sim:93.12%| Não:6.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Baixou ou fez download de software, programas de computador ou aplicativos
+        -> 2017: Não possui 
+        -> 2018: Sim:75.95%| Não:24.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(226128) 2018(227753) 2019(224798) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:96.86%| Não:3.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.81%| Não:3.17%| Não sabe:0.0%| Não respondeu:0.01%| 
+                -> 2019: Sim:96.94%| Não:2.91%| Não sabe:0.15%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.23%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:98.17%| Não:1.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:99.0%| Não:1.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.16%| Não:0.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.99%
+        Usou redes sociais
+                -> 2017: Sim:91.59%| Não:8.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.52%| Não:9.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.75%| Não:10.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.84%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:12.98%| Não:87.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:13.65%| Não:86.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:14.22%| Não:85.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.24%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:90.25%| Não:9.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:94.63%| Não:5.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.38%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:94.01%| Não:5.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.05%| Não:5.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.64%| Não:3.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.64%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:39.69%| Não:60.3%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:45.24%| Não:54.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.79%| Não:49.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.1%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:65.0%| Não:35.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.39%| Não:28.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:70.71%| Não:29.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.71%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:92.17%| Não:7.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.11%| Não:9.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.69%| Não:8.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.48%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:77.2%| Não:22.69%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:78.59%| Não:21.28%| Não sabe:0.12%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.41%
+        Jogou na Internet 
+                -> 2017: Sim:29.05%| Não:70.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:22.64%| Não:77.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.1%| Não:73.81%| Não sabe:0.0%| Não respondeu:0.09%| 
+                A principal variação foi de Sim que foi de 2.95%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:63.59%| Não:36.37%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.44%| Não:28.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:73.54%| Não:26.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.95%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:40.26%| Não:59.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.38%| Não:57.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:42.81%| Não:57.04%| Não sabe:0.15%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.7%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:92.48%| Não:7.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:74.58%| Não:25.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Masculino:
+        Total: 2017(60733) 2018(81947) 2019(79341) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:97.77%| Não:2.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.12%| Não:3.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.27%| Não:2.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.5%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:97.45%| Não:2.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.96%| Não:4.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.19%| Não:2.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.26%
+        Usou redes sociais
+                -> 2017: Sim:79.38%| Não:20.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.8%| Não:16.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.57%| Não:16.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.2%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:16.53%| Não:83.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:11.74%| Não:88.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:16.76%| Não:83.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.23%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:94.67%| Não:5.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:95.56%| Não:4.3%| Não sabe:0.14%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.03%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:96.18%| Não:3.65%| Não sabe:0.17%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.19%| Não:2.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.31%| Não:3.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 0.17%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:34.95%| Não:65.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:38.32%| Não:61.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.92%| Não:49.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 15.98%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:73.41%| Não:26.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.88%| Não:28.1%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.65%| Não:23.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.25%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:88.51%| Não:11.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.01%| Não:10.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.88%| Não:9.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.37%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:81.65%| Não:18.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:84.91%| Não:15.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.26%
+        Jogou na Internet 
+                -> 2017: Sim:33.36%| Não:66.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:28.52%| Não:71.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:31.89%| Não:68.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.47%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:63.48%| Não:36.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:70.51%| Não:29.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:72.1%| Não:27.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.62%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:44.08%| Não:55.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:50.21%| Não:49.73%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.21%| Não:51.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.13%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:94.9%| Não:5.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:79.77%| Não:20.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(19749) 2018(22935) 2019(25940) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:90.91%| Não:9.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.84%| Não:8.02%| Não sabe:0.0%| Não respondeu:0.14%| 
+                -> 2019: Sim:93.86%| Não:5.21%| Não sabe:0.93%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.88%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:97.14%| Não:2.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.98%| Não:2.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.75%| Não:1.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.61%
+        Usou redes sociais
+                -> 2017: Sim:83.71%| Não:16.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.66%| Não:13.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.72%| Não:11.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.01%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:12.89%| Não:87.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:15.19%| Não:84.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:13.92%| Não:86.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.03%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:85.6%| Não:14.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:90.96%| Não:8.6%| Não sabe:0.44%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.8%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:96.25%| Não:3.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.81%| Não:6.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.6%| Não:2.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.35%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:32.26%| Não:67.65%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.92%| Não:62.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:32.77%| Não:67.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.51%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:72.52%| Não:27.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.19%| Não:24.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:75.39%| Não:24.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.87%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:84.03%| Não:15.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.29%| Não:12.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.12%| Não:15.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.1%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:73.01%| Não:26.14%| Não sabe:0.86%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:76.76%| Não:23.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.75%
+        Jogou na Internet 
+                -> 2017: Sim:23.48%| Não:76.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:19.76%| Não:80.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:21.43%| Não:78.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.05%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:69.32%| Não:30.15%| Não sabe:0.53%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.83%| Não:24.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:68.92%| Não:31.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.93%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:30.56%| Não:69.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.15%| Não:62.66%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.57%| Não:64.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.01%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:91.19%| Não:8.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:72.08%| Não:27.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Centro-Oeste:
+        Total: 2017(24679) 2018(26513) 2019(25144) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:99.31%| Não:0.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.65%| Não:4.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.83%| Não:2.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.48%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:98.24%| Não:1.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.77%| Não:2.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.7%| Não:0.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.46%
+        Usou redes sociais
+                -> 2017: Sim:93.02%| Não:6.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.15%| Não:14.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.92%| Não:10.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.1%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:12.16%| Não:87.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:26.58%| Não:73.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:11.25%| Não:88.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.91%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:96.38%| Não:3.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:96.36%| Não:3.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.02%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:92.93%| Não:7.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.96%| Não:4.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.19%| Não:3.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.26%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:42.89%| Não:57.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.73%| Não:52.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.77%| Não:51.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.88%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:75.29%| Não:24.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:70.7%| Não:29.22%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.79%| Não:22.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.5%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:92.45%| Não:7.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.86%| Não:18.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.05%| Não:8.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.4%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:76.45%| Não:23.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:84.78%| Não:15.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.33%
+        Jogou na Internet 
+                -> 2017: Sim:32.21%| Não:67.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.17%| Não:65.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.12%| Não:73.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.09%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:71.89%| Não:28.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.71%| Não:25.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.84%| Não:19.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.95%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:44.33%| Não:55.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:52.34%| Não:47.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:42.4%| Não:57.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.93%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:92.25%| Não:7.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:74.98%| Não:25.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Nordeste:
+        Total: 2017(80128) 2018(86821) 2019(94679) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:94.79%| Não:5.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.44%| Não:5.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.92%| Não:2.97%| Não sabe:0.11%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.24%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:96.76%| Não:3.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.82%| Não:2.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.2%| Não:1.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.44%
+        Usou redes sociais
+                -> 2017: Sim:86.35%| Não:13.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.75%| Não:10.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.49%| Não:11.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.14%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:12.62%| Não:87.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:9.26%| Não:90.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.81%| Não:80.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.19%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:90.66%| Não:9.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:94.09%| Não:5.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.43%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:92.27%| Não:7.6%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.97%| Não:8.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.43%| Não:4.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.16%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:34.26%| Não:65.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:32.15%| Não:67.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.27%| Não:58.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.01%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:69.66%| Não:30.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:69.05%| Não:30.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:71.83%| Não:28.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.17%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:90.43%| Não:9.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.12%| Não:10.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.9%| Não:9.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.47%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:79.1%| Não:20.82%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:80.39%| Não:19.32%| Não sabe:0.29%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.5%
+        Jogou na Internet 
+                -> 2017: Sim:30.54%| Não:69.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:20.5%| Não:79.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:25.1%| Não:74.69%| Não sabe:0.0%| Não respondeu:0.21%| 
+                A principal variação foi de Sim que foi de 5.44%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:63.88%| Não:36.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:65.05%| Não:34.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:72.69%| Não:27.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.81%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:34.53%| Não:65.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.14%| Não:62.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.98%| Não:60.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.45%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:93.63%| Não:6.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:69.55%| Não:30.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Sudeste:
+        Total: 2017(125467) 2018(132979) 2019(121294) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:98.63%| Não:1.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.29%| Não:1.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.18%| Não:2.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.45%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:98.97%| Não:1.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.51%| Não:1.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.16%| Não:0.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.19%
+        Usou redes sociais
+                -> 2017: Sim:88.36%| Não:11.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.12%| Não:11.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:86.49%| Não:13.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.87%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:15.58%| Não:84.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:13.96%| Não:86.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:12.44%| Não:87.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.14%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:92.6%| Não:7.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:96.12%| Não:3.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.52%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:96.74%| Não:3.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.2%| Não:1.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.85%| Não:3.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.11%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:42.15%| Não:57.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.14%| Não:50.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:61.51%| Não:38.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 19.36%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:63.81%| Não:36.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:73.3%| Não:26.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:69.6%| Não:30.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.79%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:92.57%| Não:7.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.1%| Não:7.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.45%| Não:5.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.88%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:77.88%| Não:22.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:79.62%| Não:20.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.74%
+        Jogou na Internet 
+                -> 2017: Sim:31.73%| Não:68.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:24.2%| Não:75.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.21%| Não:70.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.52%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:60.11%| Não:39.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:77.8%| Não:22.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:72.41%| Não:27.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 12.3%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:45.38%| Não:54.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.52%| Não:50.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.9%| Não:48.83%| Não sabe:0.27%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.79%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:94.53%| Não:5.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:83.77%| Não:16.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Sul:
+        Total: 2017(36840) 2018(40450) 2019(37082) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:98.39%| Não:1.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:99.22%| Não:0.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.43%| Não:1.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.04%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:97.84%| Não:2.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.39%| Não:1.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.29%| Não:2.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.55%
+        Usou redes sociais
+                -> 2017: Sim:97.12%| Não:2.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.12%| Não:7.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.0%| Não:9.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.12%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:11.4%| Não:88.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:8.85%| Não:91.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:13.44%| Não:86.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.04%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:87.02%| Não:12.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:94.49%| Não:5.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.47%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:91.58%| Não:8.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.14%| Não:9.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.99%| Não:2.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.41%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:37.14%| Não:62.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.02%| Não:50.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:54.29%| Não:45.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 17.15%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:61.81%| Não:38.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:69.4%| Não:30.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.11%| Não:23.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 14.3%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:92.76%| Não:7.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.47%| Não:9.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.65%| Não:11.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.11%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:80.87%| Não:19.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:81.26%| Não:18.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.39%
+        Jogou na Internet 
+                -> 2017: Sim:24.65%| Não:75.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:28.08%| Não:71.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:34.13%| Não:65.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.48%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:65.96%| Não:34.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:57.72%| Não:42.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:74.59%| Não:25.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.63%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:44.06%| Não:55.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.46%| Não:57.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.47%| Não:59.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.59%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:89.02%| Não:10.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:66.83%| Não:33.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(104786) 2018(113288) 2019(125491) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:95.08%| Não:4.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.59%| Não:4.38%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:97.07%| Não:2.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.99%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:97.18%| Não:2.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.94%| Não:1.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.06%| Não:0.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.88%
+        Usou redes sociais
+                -> 2017: Sim:89.88%| Não:10.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.33%| Não:8.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.7%| Não:10.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.18%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:7.67%| Não:92.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:10.19%| Não:89.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:10.36%| Não:89.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.69%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:90.01%| Não:9.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:93.92%| Não:6.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.91%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:93.22%| Não:6.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.33%| Não:5.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.89%| Não:4.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.67%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:37.61%| Não:62.37%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.34%| Não:59.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.53%| Não:52.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.92%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:61.04%| Não:38.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:70.24%| Não:29.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.92%| Não:34.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.88%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:92.41%| Não:7.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.23%| Não:10.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.08%| Não:6.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.67%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:70.31%| Não:29.52%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:76.89%| Não:22.89%| Não sabe:0.22%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.63%
+        Jogou na Internet 
+                -> 2017: Sim:29.4%| Não:70.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:25.34%| Não:74.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:27.68%| Não:72.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.72%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:60.6%| Não:39.3%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Sim:65.08%| Não:34.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:68.51%| Não:31.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.91%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:30.06%| Não:69.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.84%| Não:56.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.04%| Não:59.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.98%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:93.2%| Não:6.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:74.68%| Não:25.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Pública Estadual:
+        Total: 2017(121401) 2018(126435) 2019(119745) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:98.61%| Não:1.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.58%| Não:3.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.64%| Não:3.07%| Não sabe:0.29%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.97%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:98.13%| Não:1.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.21%| Não:2.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.58%| Não:2.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.55%
+        Usou redes sociais
+                -> 2017: Sim:87.27%| Não:12.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.17%| Não:14.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.22%| Não:14.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.05%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:10.82%| Não:89.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:14.16%| Não:85.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:15.84%| Não:84.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.02%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:91.3%| Não:8.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:95.27%| Não:4.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.97%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:93.87%| Não:6.05%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.68%| Não:5.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.17%| Não:3.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.3%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:40.06%| Não:59.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.1%| Não:57.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.85%| Não:46.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 13.79%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:67.03%| Não:32.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:68.67%| Não:31.31%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:71.92%| Não:28.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.89%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:89.63%| Não:10.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.91%| Não:11.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.94%| Não:12.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.69%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:79.84%| Não:20.11%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:82.32%| Não:17.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.48%
+        Jogou na Internet 
+                -> 2017: Sim:29.94%| Não:70.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:21.4%| Não:78.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:28.18%| Não:71.65%| Não sabe:0.0%| Não respondeu:0.17%| 
+                A principal variação foi de Sim que foi de 1.76%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:64.86%| Não:35.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.09%| Não:28.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:74.21%| Não:25.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.35%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:43.36%| Não:56.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:41.6%| Não:58.37%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.24%| Não:54.49%| Não sabe:0.28%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.15%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:91.76%| Não:8.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:70.74%| Não:29.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+   Particular:
+        Total: 2017(60675) 2018(69977) 2019(58902) 
+        Enviou e recebeu e-mails
+                -> 2017: Sim:97.35%| Não:2.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.39%| Não:1.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.71%| Não:2.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.36%
+        Mandou mensagens por meio de aplicativos
+                -> 2017: Sim:99.25%| Não:0.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.77%| Não:1.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.91%| Não:0.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.66%
+        Usou redes sociais
+                -> 2017: Sim:90.95%| Não:9.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.99%| Não:9.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.73%| Não:9.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.22%
+        Procurou emprego ou enviou currículos pela Internet
+                -> 2017: Sim:30.04%| Não:69.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:16.1%| Não:83.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:22.58%| Não:77.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 7.46%
+        Assistiu vídeos, programas, filmes ou séries na Internet
+                -> 2017: Sim:92.99%| Não:7.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:96.09%| Não:3.71%| Não sabe:0.2%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.3%
+        Leu jornais, revistas ou notícias na Internet
+                -> 2017: Sim:97.81%| Não:2.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.14%| Não:3.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.78%| Não:1.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.97%
+        Fez cursos a distância, pela Internet
+                -> 2017: Sim:37.78%| Não:62.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:50.73%| Não:49.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:51.69%| Não:48.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 13.91%
+        Buscou informações sobre cursos de graduação, pós-graduação e de extensão 
+                -> 2017: Sim:76.18%| Não:23.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:78.72%| Não:21.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:86.46%| Não:13.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.28%
+        Compartilhou conteúdo, como textos, imagens ou vídeos
+                -> 2017: Sim:93.18%| Não:6.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.39%| Não:7.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.27%| Não:4.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.09%
+        Baixou ou fez download de softwares, programas de computador ou aplicativos
+                -> 2017: Sim:88.28%| Não:11.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Sim:83.15%| Não:16.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.13%
+        Jogou na Internet 
+                -> 2017: Sim:30.98%| Não:69.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:27.38%| Não:72.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.31%| Não:73.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.67%
+        Leu um livro, um resumo ou um e-book na Internet
+                -> 2017: Sim:66.08%| Não:33.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.28%| Não:18.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.94%| Não:19.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 14.86%
+        Participou de fóruns ou grupos de discussão na Internet
+                -> 2017: Sim:55.51%| Não:44.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:50.6%| Não:49.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:51.05%| Não:48.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.46%
+        Assistiu a vídeos, programas, filmes ou séries na Internet
+                -> 2017: Não possui 
+                -> 2018: Sim:95.43%| Não:4.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Baixou ou fez download de software, programas de computador ou aplicativos
+                -> 2017: Não possui 
+                -> 2018: Sim:87.42%| Não:12.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%

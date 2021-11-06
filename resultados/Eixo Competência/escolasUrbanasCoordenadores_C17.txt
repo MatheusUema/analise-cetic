@@ -1,0 +1,752 @@
+TOTAL PARA O INDICADOR C17 – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR OFERTA DE CURSOS, DEBATES E PALESTRAS SOBRE TECNOLOGIAS E EDUCAÇÃO
+Em termos de TOTAL:
+    Total: 2018(80502) 2019(77295) 
+    Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+        -> 2018: Sim:30.48%| Não:67.32%| Não sabe:1.93%| Não respondeu:0.27%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+        -> 2018: Sim:28.21%| Não:70.01%| Não sabe:1.51%| Não respondeu:0.27%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Sobre uso de tecnologias na avaliação dos alunos
+        -> 2018: Sim:44.31%| Não:54.42%| Não sabe:1.17%| Não respondeu:0.1%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Sobre licenças de uso de recursos educacionais obtidos na Internet
+        -> 2018: Sim:23.58%| Não:73.74%| Não sabe:2.45%| Não respondeu:0.23%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Sobre uso de tecnologias em novas práticas de ensino
+        -> 2018: Sim:51.51%| Não:46.92%| Não sabe:1.47%| Não respondeu:0.1%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Sobre divulgação de dados dos alunos e da escola na Internet
+        -> 2018: Sim:55.57%| Não:43.29%| Não sabe:1.04%| Não respondeu:0.1%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+        -> 2018: Não possui 
+        -> 2019: Sim:36.51%| Não:61.97%| Não sabe:1.36%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Programas de computador e aplicativos de criação de conteúdos educacionais
+        -> 2018: Não possui 
+        -> 2019: Sim:31.47%| Não:66.23%| Não sabe:1.88%| Não respondeu:0.42%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Uso de tecnologias na avaliação dos alunos
+        -> 2018: Não possui 
+        -> 2019: Sim:46.11%| Não:52.59%| Não sabe:1.14%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Licenças de uso de recursos educacionais obtidos na Internet
+        -> 2018: Não possui 
+        -> 2019: Sim:23.35%| Não:72.82%| Não sabe:3.31%| Não respondeu:0.53%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Uso de tecnologias em novas práticas de ensino
+        -> 2018: Não possui 
+        -> 2019: Sim:53.8%| Não:44.49%| Não sabe:1.54%| Não respondeu:0.17%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Divulgação de dados dos alunos e da escola na internet
+        -> 2018: Não possui 
+        -> 2019: Sim:56.58%| Não:41.49%| Não sabe:1.77%| Não respondeu:0.16%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2018(72030) 2019(70755) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:28.86%| Não:68.79%| Não sabe:2.04%| Não respondeu:0.3%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:27.4%| Não:70.72%| Não sabe:1.57%| Não respondeu:0.3%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:43.59%| Não:55.06%| Não sabe:1.23%| Não respondeu:0.12%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:24.71%| Não:72.48%| Não sabe:2.59%| Não respondeu:0.21%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:49.67%| Não:48.72%| Não sabe:1.49%| Não respondeu:0.12%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:54.63%| Não:44.18%| Não sabe:1.07%| Não respondeu:0.12%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:36.14%| Não:62.44%| Não sabe:1.25%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:32.15%| Não:65.66%| Não sabe:1.73%| Não respondeu:0.46%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:45.96%| Não:52.96%| Não sabe:0.91%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:24.42%| Não:71.7%| Não sabe:3.31%| Não respondeu:0.58%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:54.73%| Não:43.83%| Não sabe:1.25%| Não respondeu:0.19%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:57.31%| Não:40.82%| Não sabe:1.69%| Não respondeu:0.17%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2018(8474) 2019(6541) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:44.24%| Não:54.77%| Não sabe:0.99%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:35.1%| Não:63.91%| Não sabe:0.99%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:50.35%| Não:48.94%| Não sabe:0.71%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:13.9%| Não:84.42%| Não sabe:1.29%| Não respondeu:0.39%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:67.1%| Não:31.59%| Não sabe:1.3%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:63.59%| Não:35.7%| Não sabe:0.71%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:40.47%| Não:56.89%| Não sabe:2.64%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:24.03%| Não:72.37%| Não sabe:3.58%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:47.81%| Não:48.6%| Não sabe:3.58%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:11.7%| Não:84.99%| Não sabe:3.32%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:43.72%| Não:51.58%| Não sabe:4.69%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:48.68%| Não:48.68%| Não sabe:2.64%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(6891) 2019(6059) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:35.97%| Não:62.76%| Não sabe:1.26%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:31.04%| Não:68.06%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:45.77%| Não:53.34%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:31.42%| Não:67.38%| Não sabe:1.2%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:52.52%| Não:46.6%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:55.68%| Não:43.43%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:30.29%| Não:69.0%| Não sabe:0.71%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:20.4%| Não:79.24%| Não sabe:0.38%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:31.37%| Não:68.46%| Não sabe:0.17%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:19.13%| Não:79.93%| Não sabe:0.96%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:36.31%| Não:63.54%| Não sabe:0.17%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:43.74%| Não:55.98%| Não sabe:0.3%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2018(6003) 2019(5729) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:46.74%| Não:51.69%| Não sabe:1.57%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:30.03%| Não:68.38%| Não sabe:1.58%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:58.69%| Não:39.96%| Não sabe:1.37%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:27.99%| Não:67.7%| Não sabe:4.33%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:61.92%| Não:36.9%| Não sabe:1.2%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:58.64%| Não:39.91%| Não sabe:1.45%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:44.67%| Não:55.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:28.47%| Não:71.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:48.7%| Não:51.11%| Não sabe:0.19%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:24.93%| Não:74.59%| Não sabe:0.47%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:62.17%| Não:37.69%| Não sabe:0.0%| Não respondeu:0.14%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:57.29%| Não:41.53%| Não sabe:1.17%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2018(24469) 2019(23941) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:33.25%| Não:64.55%| Não sabe:2.19%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:27.23%| Não:70.21%| Não sabe:2.55%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:42.56%| Não:55.34%| Não sabe:1.76%| Não respondeu:0.34%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:27.91%| Não:69.44%| Não sabe:2.3%| Não respondeu:0.34%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:46.54%| Não:50.37%| Não sabe:2.74%| Não respondeu:0.34%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:58.37%| Não:39.58%| Não sabe:1.7%| Não respondeu:0.34%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:29.05%| Não:69.84%| Não sabe:1.1%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:24.65%| Não:73.22%| Não sabe:2.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:44.86%| Não:54.34%| Não sabe:0.81%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:16.97%| Não:81.84%| Não sabe:1.19%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:47.51%| Não:51.17%| Não sabe:1.32%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:58.7%| Não:40.63%| Não sabe:0.66%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2018(30855) 2019(30031) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:24.34%| Não:72.94%| Não sabe:2.72%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:25.31%| Não:73.27%| Não sabe:1.42%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:41.24%| Não:57.56%| Não sabe:1.21%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:20.26%| Não:77.34%| Não sabe:2.29%| Não respondeu:0.11%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:50.5%| Não:48.43%| Não sabe:1.07%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:54.64%| Não:44.49%| Não sabe:0.87%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:42.3%| Não:55.64%| Não sabe:1.65%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:40.83%| Não:56.03%| Não sabe:2.05%| Não respondeu:1.09%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:48.31%| Não:49.62%| Não sabe:1.65%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:28.73%| Não:63.53%| Não sabe:6.39%| Não respondeu:1.36%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:61.96%| Não:35.98%| Não sabe:1.65%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:61.97%| Não:34.66%| Não sabe:2.96%| Não respondeu:0.41%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2018(12285) 2019(11536) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:29.34%| Não:68.88%| Não sabe:0.0%| Não respondeu:1.78%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:34.95%| Não:63.27%| Não sabe:0.0%| Não respondeu:1.78%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:47.63%| Não:52.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:16.73%| Não:79.78%| Não sabe:2.93%| Não respondeu:0.56%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:58.27%| Não:41.33%| Não sabe:0.41%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:50.79%| Não:49.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:36.14%| Não:61.7%| Não sabe:2.16%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:28.54%| Não:68.79%| Não sabe:2.67%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:49.45%| Não:49.11%| Não sabe:1.45%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:24.0%| Não:73.67%| Não sabe:2.31%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:50.64%| Não:46.13%| Não sabe:3.22%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:44.54%| Não:53.4%| Não sabe:2.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(32485) 2019(30986) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:26.89%| Não:71.03%| Não sabe:2.08%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:18.84%| Não:78.61%| Não sabe:2.56%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:39.26%| Não:59.27%| Não sabe:1.47%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:16.44%| Não:80.16%| Não sabe:3.4%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:44.86%| Não:53.03%| Não sabe:2.12%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:56.39%| Não:42.23%| Não sabe:1.38%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:25.76%| Não:73.82%| Não sabe:0.43%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:20.11%| Não:79.27%| Não sabe:0.62%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:32.19%| Não:67.62%| Não sabe:0.2%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:16.97%| Não:82.31%| Não sabe:0.72%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:38.9%| Não:60.22%| Não sabe:0.88%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:50.79%| Não:48.79%| Não sabe:0.43%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2018(26642) 2019(24490) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:24.87%| Não:71.42%| Não sabe:2.89%| Não respondeu:0.82%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:24.14%| Não:73.58%| Não sabe:1.45%| Não respondeu:0.82%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:42.13%| Não:56.13%| Não sabe:1.75%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:16.78%| Não:79.87%| Não sabe:2.97%| Não respondeu:0.38%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:49.06%| Não:49.08%| Não sabe:1.86%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:51.45%| Não:47.11%| Não sabe:1.45%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:37.39%| Não:59.33%| Não sabe:3.27%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:30.98%| Não:65.65%| Não sabe:3.37%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:47.41%| Não:49.73%| Não sabe:2.87%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:24.1%| Não:71.81%| Não sabe:3.76%| Não respondeu:0.33%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:52.16%| Não:44.56%| Não sabe:3.28%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:50.26%| Não:45.94%| Não sabe:3.8%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2018(21376) 2019(21819) 
+        Sobre diretrizes curriculares para o uso de tecnologias em atividades de ensino e aprendizagem
+                -> 2018: Sim:42.93%| Não:56.57%| Não sabe:0.51%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Sim:47.52%| Não:52.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias na avaliação dos alunos
+                -> 2018: Sim:54.69%| Não:44.91%| Não sabe:0.0%| Não respondeu:0.39%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Sim:42.9%| Não:56.34%| Não sabe:0.36%| Não respondeu:0.39%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre uso de tecnologias em novas práticas de ensino
+                -> 2018: Sim:64.67%| Não:34.94%| Não sabe:0.0%| Não respondeu:0.39%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Sobre divulgação de dados dos alunos e da escola na Internet
+                -> 2018: Sim:59.47%| Não:40.14%| Não sabe:0.0%| Não respondeu:0.39%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Diretrizes curriculares para o uso de tecnologias em atividades de ensino e de aprendizagem
+                -> 2018: Não possui 
+                -> 2019: Sim:50.78%| Não:48.1%| Não sabe:0.55%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Programas de computador e aplicativos de criação de conteúdos educacionais
+                -> 2018: Não possui 
+                -> 2019: Sim:48.15%| Não:48.36%| Não sabe:2.0%| Não respondeu:1.5%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias na avaliação dos alunos
+                -> 2018: Não possui 
+                -> 2019: Sim:64.43%| Não:34.47%| Não sabe:0.53%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Licenças de uso de recursos educacionais obtidos na Internet
+                -> 2018: Não possui 
+                -> 2019: Sim:31.55%| Não:60.49%| Não sabe:6.47%| Não respondeu:1.5%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Uso de tecnologias em novas práticas de ensino
+                -> 2018: Não possui 
+                -> 2019: Sim:76.81%| Não:22.06%| Não sabe:0.53%| Não respondeu:0.6%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Divulgação de dados dos alunos e da escola na internet
+                -> 2018: Não possui 
+                -> 2019: Sim:71.9%| Não:26.13%| Não sabe:1.41%| Não respondeu:0.56%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

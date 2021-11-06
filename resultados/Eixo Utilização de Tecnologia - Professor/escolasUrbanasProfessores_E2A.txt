@@ -1,0 +1,664 @@
+TOTAL PARA O INDICADOR E2A – PROFESSORES DE ESCOLAS URBANAS, POR ATIVIDADES REALIZADAS COM OS ALUNOS
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310632) 2019(305596) 
+    Solicitou a realização de trabalhos sobre temas específicos
+        -> 2017: Sim:90.74%| Não:9.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:87.46%| Não:12.47%| Não sabe:0.06%| Não respondeu:0.0%| 
+        -> 2019: Sim:88.72%| Não:11.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 2.02%
+    Solicitou que os alunos produzissem textos, desenhos ou maquetes
+        -> 2017: Sim:76.93%| Não:23.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:77.04%| Não:22.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:78.31%| Não:21.68%| Não sabe:0.0%| Não respondeu:0.01%| 
+        A principal variação foi de Não que foi de 1.39%
+    Deu aulas expositivas
+        -> 2017: Sim:91.46%| Não:8.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:92.93%| Não:7.03%| Não sabe:0.04%| Não respondeu:0.0%| 
+        -> 2019: Sim:94.23%| Não:5.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 2.77%
+    Solicitou a realização de exercícios
+        -> 2017: Sim:95.18%| Não:4.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:94.68%| Não:5.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:96.46%| Não:3.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 1.28%
+    Fez pesquisas em livros e revistas com os alunos
+        -> 2017: Sim:80.17%| Não:19.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:76.09%| Não:23.88%| Não sabe:0.03%| Não respondeu:0.0%| 
+        -> 2019: Sim:74.62%| Não:25.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 5.55%
+    Realizou interpretação de textos com os alunos
+        -> 2017: Sim:81.33%| Não:18.59%| Não sabe:0.08%| Não respondeu:0.0%| 
+        -> 2018: Sim:84.95%| Não:14.94%| Não sabe:0.11%| Não respondeu:0.0%| 
+        -> 2019: Sim:85.0%| Não:15.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 3.67%
+    Elaborou planilhas e gráficos com os alunos
+        -> 2017: Sim:44.55%| Não:55.43%| Não sabe:0.02%| Não respondeu:0.0%| 
+        -> 2018: Sim:42.94%| Não:57.05%| Não sabe:0.02%| Não respondeu:0.0%| 
+        -> 2019: Sim:44.06%| Não:55.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 0.51%
+    Promoveu debates ou apresentações com os alunos
+        -> 2017: Sim:80.48%| Não:19.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:78.54%| Não:21.41%| Não sabe:0.05%| Não respondeu:0.0%| 
+        -> 2019: Sim:79.27%| Não:20.43%| Não sabe:0.3%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 1.21%
+    Solicitou trabalhos em grupo
+        -> 2017: Sim:90.75%| Não:9.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:90.78%| Não:9.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:91.17%| Não:8.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 0.42%
+    Trabalhou com jogos educativos com os alunos
+        -> 2017: Sim:45.17%| Não:54.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Trabalhou com jogos educativos e aplicativos com os alunos
+        -> 2017: Não possui 
+        -> 2018: Sim:46.85%| Não:53.02%| Não sabe:0.1%| Não respondeu:0.04%| 
+        -> 2019: Sim:47.58%| Não:52.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228486) 2019(225702) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:93.07%| Não:6.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.25%| Não:11.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.0%| Não:7.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.07%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:82.85%| Não:17.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.89%| Não:18.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.63%| Não:15.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.78%
+        Deu aulas expositivas
+                -> 2017: Sim:90.97%| Não:9.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.02%| Não:5.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.73%| Não:6.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.76%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:95.59%| Não:4.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.54%| Não:5.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.36%| Não:3.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.77%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:84.77%| Não:15.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.14%| Não:17.83%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.65%| Não:21.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.12%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:86.03%| Não:13.86%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.01%| Não:8.83%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.21%| Não:9.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.18%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:44.56%| Não:55.41%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.62%| Não:59.35%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:42.46%| Não:57.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.13%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:84.9%| Não:15.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.05%| Não:16.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.74%| Não:15.86%| Não sabe:0.4%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.16%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:92.1%| Não:7.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.01%| Não:7.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.08%| Não:7.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.02%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:47.68%| Não:52.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:45.82%| Não:54.04%| Não sabe:0.09%| Não respondeu:0.04%| 
+                -> 2019: Sim:46.95%| Não:53.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(62067) 2018(82146) 2019(79894) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:82.23%| Não:17.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.28%| Não:14.48%| Não sabe:0.24%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.63%| Não:23.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.6%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:55.24%| Não:44.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:63.55%| Não:36.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.44%| Não:39.51%| Não sabe:0.0%| Não respondeu:0.04%| 
+                A principal variação foi de Não que foi de 5.25%
+        Deu aulas expositivas
+                -> 2017: Sim:93.27%| Não:6.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.9%| Não:9.96%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.64%| Não:4.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.37%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:93.7%| Não:6.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.08%| Não:4.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.75%| Não:3.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.05%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:63.32%| Não:36.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:59.28%| Não:40.7%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:63.24%| Não:36.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.08%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:64.1%| Não:35.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:68.07%| Não:31.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:70.27%| Não:29.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.17%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:44.5%| Não:55.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:49.37%| Não:50.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.6%| Não:51.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.1%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:64.3%| Não:35.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:66.02%| Não:33.82%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2019: Sim:66.67%| Não:33.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.37%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:85.77%| Não:14.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.37%| Não:12.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.6%| Não:11.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.83%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:35.97%| Não:64.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:49.69%| Não:50.16%| Não sabe:0.12%| Não respondeu:0.03%| 
+                -> 2019: Sim:49.37%| Não:50.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20208) 2018(23100) 2019(26016) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:83.81%| Não:16.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.23%| Não:16.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.36%| Não:14.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.55%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:72.41%| Não:27.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.58%| Não:28.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:75.01%| Não:24.86%| Não sabe:0.0%| Não respondeu:0.13%| 
+                A principal variação foi de Não que foi de 2.74%
+        Deu aulas expositivas
+                -> 2017: Sim:93.46%| Não:6.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.11%| Não:9.74%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.27%| Não:7.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.19%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:94.09%| Não:5.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.4%| Não:6.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.91%| Não:4.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.83%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:77.85%| Não:22.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.97%| Não:23.74%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:73.49%| Não:26.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.37%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:81.14%| Não:18.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.2%| Não:16.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.26%| Não:16.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.12%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:41.66%| Não:58.06%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2018: Sim:41.64%| Não:58.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:38.48%| Não:61.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.46%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:77.21%| Não:22.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.78%| Não:24.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:72.95%| Não:27.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.26%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:88.97%| Não:11.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.38%| Não:12.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.64%| Não:8.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.67%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:35.08%| Não:64.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:47.96%| Não:51.95%| Não sabe:0.0%| Não respondeu:0.1%| 
+                -> 2019: Sim:51.38%| Não:48.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26989) 2019(25514) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:88.3%| Não:11.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.12%| Não:17.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.9%| Não:7.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.6%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:77.93%| Não:22.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:73.54%| Não:26.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.26%| Não:23.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.67%
+        Deu aulas expositivas
+                -> 2017: Sim:93.74%| Não:6.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.68%| Não:6.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.81%| Não:5.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.07%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:92.97%| Não:7.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.16%| Não:9.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.09%| Não:4.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.12%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:83.1%| Não:16.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:73.68%| Não:26.28%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.23%| Não:21.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.87%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:83.7%| Não:16.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.03%| Não:17.07%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.2%| Não:16.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.5%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:44.06%| Não:55.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:48.99%| Não:50.8%| Não sabe:0.21%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.23%| Não:53.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.17%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:81.77%| Não:18.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:80.68%| Não:18.78%| Não sabe:0.54%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.08%| Não:19.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.69%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:84.74%| Não:15.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.08%| Não:15.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.53%| Não:10.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.79%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:46.12%| Não:53.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:52.44%| Não:47.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.1%| Não:54.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(81270) 2018(87048) 2019(94785) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:91.6%| Não:8.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.72%| Não:11.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:87.39%| Não:12.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.21%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:76.51%| Não:23.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.43%| Não:24.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.99%| Não:22.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.48%
+        Deu aulas expositivas
+                -> 2017: Sim:96.36%| Não:3.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.91%| Não:9.0%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.43%| Não:7.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.93%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:94.88%| Não:5.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.27%| Não:3.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.98%| Não:4.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.1%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:82.3%| Não:17.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.78%| Não:24.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:71.5%| Não:28.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.8%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:79.35%| Não:20.36%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.46%| Não:16.42%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.54%| Não:18.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.19%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:42.74%| Não:57.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.91%| Não:59.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:36.84%| Não:63.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.91%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:80.33%| Não:19.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:76.22%| Não:23.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.73%| Não:17.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.4%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:91.58%| Não:8.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.03%| Não:6.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.83%| Não:7.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.25%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:44.05%| Não:55.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:46.63%| Não:53.03%| Não sabe:0.23%| Não respondeu:0.11%| 
+                -> 2019: Sim:48.97%| Não:51.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(126143) 2018(133030) 2019(122198) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:91.41%| Não:8.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.03%| Não:11.82%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.77%| Não:11.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.64%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:78.7%| Não:21.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:80.74%| Não:19.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:79.68%| Não:20.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.98%
+        Deu aulas expositivas
+                -> 2017: Sim:87.25%| Não:12.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.87%| Não:6.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.4%| Não:4.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.15%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:95.49%| Não:4.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.19%| Não:4.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.5%| Não:2.5%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.01%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:78.94%| Não:21.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:76.53%| Não:23.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:74.4%| Não:25.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.54%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:81.22%| Não:18.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.44%| Não:11.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.12%| Não:11.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.9%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:48.03%| Não:51.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.16%| Não:56.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.96%| Não:51.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.93%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:81.26%| Não:18.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.39%| Não:18.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.69%| Não:20.57%| Não sabe:0.74%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.57%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:92.09%| Não:7.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.02%| Não:8.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.58%| Não:9.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.51%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:47.63%| Não:52.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:45.19%| Não:54.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.98%| Não:52.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(36840) 2018(40465) 2019(37081) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:92.02%| Não:7.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.87%| Não:11.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.43%| Não:8.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.59%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:73.57%| Não:26.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:73.81%| Não:26.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.32%| Não:21.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.75%
+        Deu aulas expositivas
+                -> 2017: Sim:92.43%| Não:7.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.29%| Não:4.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.94%| Não:4.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.51%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:96.91%| Não:3.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.34%| Não:6.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.62%| Não:4.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.29%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:78.95%| Não:21.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:77.03%| Não:22.92%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.62%| Não:18.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.67%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:84.55%| Não:15.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:79.62%| Não:20.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:86.02%| Não:13.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.47%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:38.52%| Não:61.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:43.25%| Não:56.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.83%| Não:51.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.31%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:79.06%| Não:20.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.36%| Não:25.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:76.24%| Não:23.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.82%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:89.35%| Não:10.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.58%| Não:8.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.7%| Não:10.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.35%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:44.12%| Não:55.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:48.39%| Não:51.34%| Não sabe:0.26%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.76%| Não:58.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106124) 2018(113616) 2019(126404) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:93.41%| Não:6.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.42%| Não:13.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.33%| Não:11.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.08%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:84.15%| Não:15.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.87%| Não:15.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.03%| Não:14.95%| Não sabe:0.0%| Não respondeu:0.03%| 
+                A principal variação foi de Não que foi de 0.9%
+        Deu aulas expositivas
+                -> 2017: Sim:89.12%| Não:10.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.96%| Não:6.01%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.84%| Não:6.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.72%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:96.18%| Não:3.82%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.52%| Não:7.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.38%| Não:4.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.8%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:88.08%| Não:11.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.63%| Não:15.31%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Sim:71.79%| Não:28.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 16.29%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:85.14%| Não:14.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.5%| Não:9.3%| Não sabe:0.21%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.49%| Não:10.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.35%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:54.16%| Não:45.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:56.05%| Não:43.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:47.57%| Não:52.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.59%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:81.54%| Não:18.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.63%| Não:16.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:79.6%| Não:19.68%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.94%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:90.45%| Não:9.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.69%| Não:7.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.38%| Não:7.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.93%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:48.23%| Não:51.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:55.44%| Não:44.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.48%| Não:53.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(122457) 2018(127038) 2019(120289) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:86.74%| Não:13.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.51%| Não:12.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.0%| Não:11.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.26%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:67.76%| Não:32.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:69.26%| Não:30.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:69.52%| Não:30.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.76%
+        Deu aulas expositivas
+                -> 2017: Sim:91.1%| Não:8.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.71%| Não:8.22%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.65%| Não:6.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.55%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:93.87%| Não:6.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.54%| Não:4.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.0%| Não:3.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.13%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:72.53%| Não:27.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.15%| Não:28.85%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:73.41%| Não:26.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.88%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:79.81%| Não:20.0%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2018: Sim:80.17%| Não:19.74%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.94%| Não:22.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.06%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:32.56%| Não:67.4%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2018: Sim:32.81%| Não:67.14%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.7%| Não:60.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.14%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:75.76%| Não:24.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:72.59%| Não:27.4%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.33%| Não:22.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.57%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:90.86%| Não:9.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.7%| Não:10.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.76%| Não:5.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.9%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:35.93%| Não:64.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:34.86%| Não:64.89%| Não sabe:0.17%| Não respondeu:0.09%| 
+                -> 2019: Sim:41.9%| Não:58.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(60815) 2018(69977) 2019(58903) 
+        Solicitou a realização de trabalhos sobre temas específicos
+                -> 2017: Sim:94.14%| Não:5.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.08%| Não:10.63%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2019: Sim:88.97%| Não:11.03%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.17%
+        Solicitou que os alunos produzissem textos, desenhos ou maquetes
+                -> 2017: Sim:82.77%| Não:17.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:78.46%| Não:21.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.83%| Não:18.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.94%
+        Deu aulas expositivas
+                -> 2017: Sim:96.27%| Não:3.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.46%| Não:6.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.23%| Não:3.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.04%
+        Solicitou a realização de exercícios
+                -> 2017: Sim:96.1%| Não:3.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.63%| Não:3.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.7%| Não:2.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.6%
+        Fez pesquisas em livros e revistas com os alunos
+                -> 2017: Sim:81.74%| Não:18.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:71.21%| Não:28.76%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:83.15%| Não:16.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.41%
+        Realizou interpretação de textos com os alunos
+                -> 2017: Sim:77.75%| Não:22.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.61%| Não:15.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.78%| Não:10.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 12.03%
+        Elaborou planilhas e gráficos com os alunos
+                -> 2017: Sim:51.91%| Não:48.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:40.03%| Não:59.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.46%| Não:54.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.45%
+        Promoveu debates ou apresentações com os alunos
+                -> 2017: Sim:88.15%| Não:11.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:81.1%| Não:18.71%| Não sabe:0.19%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.55%| Não:17.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.6%
+        Solicitou trabalhos em grupo
+                -> 2017: Sim:91.05%| Não:8.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.65%| Não:10.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.25%| Não:18.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.8%
+        Trabalhou com jogos educativos com os alunos
+                -> 2017: Sim:58.44%| Não:41.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Trabalhou com jogos educativos e aplicativos com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:54.66%| Não:45.21%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:61.56%| Não:38.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

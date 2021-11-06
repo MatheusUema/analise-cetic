@@ -1,0 +1,70 @@
+TOTAL PARA O INDICADOR C7A – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR PREFERÊNCIA NA ESCOLHA DE MATERIAL DIDÁTICO ACOMPANHADO DE MATERIAL DIGITAL
+Em termos de TOTAL:
+    Total: 2017(78532) 2018(80504) 2019(77297) 
+    -> 2017: Sim:63.85%| Não:30.37%| Não sabe:0.44%| Não respondeu:0.11%| Não se aplica:5.22%| 
+    -> 2018: Sim:68.78%| Não:28.63%| Não sabe:0.6%| Não respondeu:0.01%| Não se aplica:1.97%| 
+    -> 2019: Sim:74.15%| Não:21.97%| Não sabe:0.79%| Não respondeu:0.49%| Nesta escola isso não acontece:2.59%| 
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(69342) 2018(72029) 2019(70755) 
+        -> 2017: Sim:64.96%| Não:28.75%| Não sabe:0.49%| Não respondeu:0.02%| Não se aplica:5.78%| 
+        -> 2018: Sim:69.24%| Não:28.02%| Não sabe:0.67%| Não respondeu:0.01%| Não se aplica:2.07%| 
+        -> 2019: Sim:74.08%| Não:22.08%| Não sabe:0.86%| Não respondeu:0.36%| Nesta escola isso não acontece:2.63%| 
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(9190) 2018(8473) 2019(6541) 
+        -> 2017: Sim:55.47%| Não:42.66%| Não sabe:0.05%| Não respondeu:0.76%| Não se aplica:1.06%| 
+        -> 2018: Sim:64.92%| Não:33.91%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:1.17%| 
+        -> 2019: Sim:74.93%| Não:20.88%| Não sabe:0.05%| Não respondeu:1.94%| Nesta escola isso não acontece:2.2%| 
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(6577) 2018(6892) 2019(6060) 
+        -> 2017: Sim:66.12%| Não:28.22%| Não sabe:2.39%| Não respondeu:0.24%| Não se aplica:3.03%| 
+        -> 2018: Sim:77.76%| Não:17.38%| Não sabe:0.0%| Não respondeu:0.09%| Não se aplica:4.77%| 
+        -> 2019: Sim:65.21%| Não:30.08%| Não sabe:0.79%| Não respondeu:1.16%| Nesta escola isso não acontece:2.76%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(6206) 2018(6003) 2019(5729) 
+        -> 2017: Sim:74.36%| Não:22.28%| Não sabe:0.44%| Não respondeu:0.0%| Não se aplica:2.92%| 
+        -> 2018: Sim:76.13%| Não:21.12%| Não sabe:0.08%| Não respondeu:0.0%| Não se aplica:2.67%| 
+        -> 2019: Sim:70.01%| Não:27.53%| Não sabe:0.52%| Não respondeu:0.0%| Nesta escola isso não acontece:1.94%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(23994) 2018(24468) 2019(23942) 
+        -> 2017: Sim:71.57%| Não:24.14%| Não sabe:0.43%| Não respondeu:0.0%| Não se aplica:3.86%| 
+        -> 2018: Sim:75.63%| Não:23.7%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.67%| 
+        -> 2019: Sim:71.89%| Não:26.1%| Não sabe:0.08%| Não respondeu:0.15%| Nesta escola isso não acontece:1.78%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(29938) 2018(30855) 2019(30032) 
+        -> 2017: Sim:58.83%| Não:33.36%| Não sabe:0.2%| Não respondeu:0.23%| Não se aplica:7.38%| 
+        -> 2018: Sim:61.58%| Não:36.1%| Não sabe:0.85%| Não respondeu:0.0%| Não se aplica:1.47%| 
+        -> 2019: Sim:78.73%| Não:16.79%| Não sabe:0.38%| Não respondeu:0.83%| Nesta escola isso não acontece:3.28%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(11818) 2018(12285) 2019(11536) 
+        -> 2017: Sim:54.12%| Não:40.9%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:4.98%| 
+        -> 2018: Sim:64.62%| Não:29.69%| Não sabe:1.77%| Não respondeu:0.0%| Não se aplica:3.92%| 
+        -> 2019: Sim:73.65%| Não:19.92%| Não sabe:3.47%| Não respondeu:0.23%| Nesta escola isso não acontece:2.74%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(31575) 2018(32485) 2019(30987) 
+        -> 2017: Sim:51.31%| Não:40.32%| Não sabe:0.46%| Não respondeu:0.05%| Não se aplica:7.86%| 
+        -> 2018: Sim:56.07%| Não:40.22%| Não sabe:0.67%| Não respondeu:0.0%| Não se aplica:3.04%| 
+        -> 2019: Sim:76.78%| Não:20.63%| Não sabe:0.83%| Não respondeu:0.41%| Nesta escola isso não acontece:1.35%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(25973) 2018(26642) 2019(24491) 
+        -> 2017: Sim:65.95%| Não:28.36%| Não sabe:0.5%| Não respondeu:0.27%| Não se aplica:4.91%| 
+        -> 2018: Sim:78.04%| Não:18.69%| Não sabe:1.01%| Não respondeu:0.0%| Não se aplica:2.26%| 
+        -> 2019: Sim:67.8%| Não:24.21%| Não sabe:0.98%| Não respondeu:0.53%| Nesta escola isso não acontece:6.48%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(20984) 2018(21375) 2019(21820) 
+        -> 2017: Sim:80.13%| Não:17.89%| Não sabe:0.34%| Não respondeu:0.0%| Não se aplica:1.64%| 
+        -> 2018: Sim:76.56%| Não:23.42%| Não sabe:0.0%| Não respondeu:0.03%| Não se aplica:0.0%| 
+        -> 2019: Sim:77.54%| Não:21.38%| Não sabe:0.52%| Não respondeu:0.56%| Nesta escola isso não acontece:0.0%| 
+                Não foi possível analisar com anos anteriores

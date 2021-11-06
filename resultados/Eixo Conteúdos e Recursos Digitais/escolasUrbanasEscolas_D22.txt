@@ -1,0 +1,246 @@
+TOTAL PARA O INDICADOR D22 – ESCOLAS URBANAS, POR RECURSOS DISPONÍVEIS
+Em termos de TOTAL:
+    Total: 2017(74772) 2018(74905) 2019(75115) 
+    Website
+        -> 2017: Sim:22.13%| Não:72.79%| Não sabe:5.08%| Não respondeu:0.0%| 
+        -> 2018: Sim:26.61%| Não:69.74%| Não sabe:3.28%| Não respondeu:0.37%| 
+        -> 2019: Sim:30.21%| Não:66.2%| Não sabe:3.59%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 8.08%
+    E-mail institucional
+        -> 2017: Sim:91.22%| Não:8.13%| Não sabe:0.11%| Não respondeu:0.55%| 
+        -> 2018: Sim:92.5%| Não:7.5%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:96.27%| Não:3.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.05%
+    Blog
+        -> 2017: Sim:21.0%| Não:76.98%| Não sabe:2.01%| Não respondeu:0.0%| 
+        -> 2018: Sim:21.95%| Não:77.6%| Não sabe:0.46%| Não respondeu:0.0%| 
+        -> 2019: Sim:19.51%| Não:80.04%| Não sabe:0.45%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 3.06%
+    Perfil ou página em redes sociais
+        -> 2017: Sim:73.33%| Não:25.89%| Não sabe:0.78%| Não respondeu:0.0%| 
+        -> 2018: Sim:69.31%| Não:30.68%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2019: Sim:78.91%| Não:21.01%| Não sabe:0.09%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.58%
+    Ambiente ou plataforma virtual de aprendizagem
+        -> 2017: Sim:21.88%| Não:76.89%| Não sabe:1.23%| Não respondeu:0.0%| 
+        -> 2018: Sim:25.63%| Não:73.81%| Não sabe:0.56%| Não respondeu:0.0%| 
+        -> 2019: Sim:28.17%| Não:71.52%| Não sabe:0.31%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 6.29%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(5817) 2018(5876) 2019(5909) 
+        Website
+                -> 2017: Sim:23.02%| Não:72.63%| Não sabe:4.35%| Não respondeu:0.0%| 
+                -> 2018: Sim:21.77%| Não:74.63%| Não sabe:3.61%| Não respondeu:0.0%| 
+                -> 2019: Sim:14.38%| Não:79.56%| Não sabe:6.06%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.64%
+        E-mail institucional
+                -> 2017: Sim:86.51%| Não:12.09%| Não sabe:1.43%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.97%| Não:15.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.01%| Não:6.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.5%
+        Blog
+                -> 2017: Sim:24.63%| Não:73.68%| Não sabe:1.68%| Não respondeu:0.0%| 
+                -> 2018: Sim:25.19%| Não:74.37%| Não sabe:0.46%| Não respondeu:0.0%| 
+                -> 2019: Sim:12.74%| Não:86.61%| Não sabe:0.63%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 12.93%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:61.37%| Não:38.15%| Não sabe:0.5%| Não respondeu:0.0%| 
+                -> 2018: Sim:62.93%| Não:36.95%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:62.46%| Não:37.15%| Não sabe:0.36%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.09%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:16.69%| Não:82.41%| Não sabe:0.89%| Não respondeu:0.0%| 
+                -> 2018: Sim:18.53%| Não:80.77%| Não sabe:0.7%| Não respondeu:0.0%| 
+                -> 2019: Sim:20.39%| Não:79.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.7%
+   Centro-Oeste:
+        Total: 2017(5583) 2018(5596) 2019(5592) 
+        Website
+                -> 2017: Sim:30.43%| Não:59.91%| Não sabe:9.65%| Não respondeu:0.0%| 
+                -> 2018: Sim:29.13%| Não:66.46%| Não sabe:4.41%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.03%| Não:62.68%| Não sabe:2.29%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 7.36%
+        E-mail institucional
+                -> 2017: Sim:97.08%| Não:2.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:95.66%| Não:4.18%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.73%| Não:1.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.65%
+        Blog
+                -> 2017: Sim:40.14%| Não:59.72%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2018: Sim:20.03%| Não:79.7%| Não sabe:0.25%| Não respondeu:0.0%| 
+                -> 2019: Sim:15.04%| Não:83.28%| Não sabe:1.66%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 25.1%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:75.03%| Não:24.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.68%| Não:25.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:75.63%| Não:23.61%| Não sabe:0.77%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.36%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:20.49%| Não:78.17%| Não sabe:1.33%| Não respondeu:0.0%| 
+                -> 2018: Sim:25.75%| Não:74.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:19.31%| Não:80.06%| Não sabe:0.63%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.89%
+   Nordeste:
+        Total: 2017(23391) 2018(23304) 2019(23406) 
+        Website
+                -> 2017: Sim:12.47%| Não:80.05%| Não sabe:7.49%| Não respondeu:0.0%| 
+                -> 2018: Sim:11.97%| Não:80.08%| Não sabe:6.76%| Não respondeu:1.19%| 
+                -> 2019: Sim:19.35%| Não:78.32%| Não sabe:2.33%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.88%
+        E-mail institucional
+                -> 2017: Sim:88.73%| Não:9.52%| Não sabe:0.0%| Não respondeu:1.74%| 
+                -> 2018: Sim:85.65%| Não:14.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.85%| Não:8.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.12%
+        Blog
+                -> 2017: Sim:15.38%| Não:82.93%| Não sabe:1.69%| Não respondeu:0.0%| 
+                -> 2018: Sim:18.37%| Não:80.33%| Não sabe:1.31%| Não respondeu:0.0%| 
+                -> 2019: Sim:13.95%| Não:85.82%| Não sabe:0.23%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.89%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:69.24%| Não:30.26%| Não sabe:0.5%| Não respondeu:0.0%| 
+                -> 2018: Sim:60.31%| Não:39.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:78.69%| Não:21.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.45%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:16.53%| Não:82.55%| Não sabe:0.92%| Não respondeu:0.0%| 
+                -> 2018: Sim:19.06%| Não:79.78%| Não sabe:1.17%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.59%| Não:75.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.06%
+   Sudeste:
+        Total: 2017(28998) 2018(29109) 2019(29187) 
+        Website
+                -> 2017: Sim:27.19%| Não:69.51%| Não sabe:3.3%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.22%| Não:61.88%| Não sabe:0.9%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.91%| Não:53.11%| Não sabe:4.99%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 16.4%
+        E-mail institucional
+                -> 2017: Sim:91.23%| Não:8.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:96.15%| Não:3.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:98.68%| Não:1.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.45%
+        Blog
+                -> 2017: Sim:20.56%| Não:76.83%| Não sabe:2.62%| Não respondeu:0.0%| 
+                -> 2018: Sim:22.6%| Não:77.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:25.5%| Não:74.16%| Não sabe:0.34%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.94%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:78.6%| Não:19.93%| Não sabe:1.48%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.49%| Não:24.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.99%| Não:19.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.39%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:27.03%| Não:71.04%| Não sabe:1.92%| Não respondeu:0.0%| 
+                -> 2018: Sim:30.67%| Não:69.11%| Não sabe:0.22%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.75%| Não:63.57%| Não sabe:0.67%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.72%
+   Sul:
+        Total: 2017(10984) 2018(11020) 2019(11024) 
+        Website
+                -> 2017: Sim:24.65%| Não:72.59%| Não sabe:2.76%| Não respondeu:0.0%| 
+                -> 2018: Sim:30.85%| Não:67.66%| Não sabe:1.49%| Não respondeu:0.0%| 
+                -> 2019: Sim:28.37%| Não:69.75%| Não sabe:1.89%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.72%
+        E-mail institucional
+                -> 2017: Sim:95.99%| Não:4.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:99.7%| Não:0.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:99.75%| Não:0.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.76%
+        Blog
+                -> 2017: Sim:22.51%| Não:75.25%| Não sabe:2.24%| Não respondeu:0.0%| 
+                -> 2018: Sim:27.01%| Não:72.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:21.34%| Não:78.14%| Não sabe:0.51%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.89%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:73.61%| Não:26.29%| Não sabe:0.1%| Não respondeu:0.0%| 
+                -> 2018: Sim:72.69%| Não:27.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.32%| Não:15.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.71%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:23.12%| Não:76.67%| Não sabe:0.21%| Não respondeu:0.0%| 
+                -> 2018: Sim:29.96%| Não:69.68%| Não sabe:0.35%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.34%| Não:75.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.22%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(30421) 2018(30533) 2019(30468) 
+        Website
+                -> 2017: Sim:5.24%| Não:89.63%| Não sabe:5.13%| Não respondeu:0.0%| 
+                -> 2018: Sim:14.51%| Não:80.3%| Não sabe:4.35%| Não respondeu:0.84%| 
+                -> 2019: Sim:12.64%| Não:82.78%| Não sabe:4.59%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.4%
+        E-mail institucional
+                -> 2017: Sim:88.81%| Não:9.58%| Não sabe:0.27%| Não respondeu:1.34%| 
+                -> 2018: Sim:88.98%| Não:11.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:96.75%| Não:3.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.94%
+        Blog
+                -> 2017: Sim:13.2%| Não:85.37%| Não sabe:1.44%| Não respondeu:0.0%| 
+                -> 2018: Sim:20.76%| Não:79.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:12.77%| Não:86.47%| Não sabe:0.75%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.1%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:63.2%| Não:36.33%| Não sabe:0.48%| Não respondeu:0.0%| 
+                -> 2018: Sim:61.13%| Não:38.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:69.76%| Não:30.17%| Não sabe:0.07%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.56%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:5.89%| Não:92.02%| Não sabe:2.09%| Não respondeu:0.0%| 
+                -> 2018: Sim:15.41%| Não:83.91%| Não sabe:0.68%| Não respondeu:0.0%| 
+                -> 2019: Sim:10.42%| Não:89.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.53%
+   Pública Estadual:
+        Total: 2017(23634) 2018(23584) 2019(23448) 
+        Website
+                -> 2017: Sim:19.79%| Não:74.67%| Não sabe:5.54%| Não respondeu:0.0%| 
+                -> 2018: Sim:18.69%| Não:79.61%| Não sabe:1.61%| Não respondeu:0.09%| 
+                -> 2019: Sim:26.6%| Não:70.61%| Não sabe:2.8%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.81%
+        E-mail institucional
+                -> 2017: Sim:97.15%| Não:2.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:98.11%| Não:1.85%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.76%| Não:2.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.61%
+        Blog
+                -> 2017: Sim:28.8%| Não:68.72%| Não sabe:2.48%| Não respondeu:0.0%| 
+                -> 2018: Sim:27.02%| Não:72.83%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:21.0%| Não:78.86%| Não sabe:0.15%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 10.14%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:72.91%| Não:25.23%| Não sabe:1.86%| Não respondeu:0.0%| 
+                -> 2018: Sim:74.15%| Não:25.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:77.55%| Não:22.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.64%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:22.65%| Não:76.56%| Não sabe:0.79%| Não respondeu:0.0%| 
+                -> 2018: Sim:19.82%| Não:79.28%| Não sabe:0.89%| Não respondeu:0.0%| 
+                -> 2019: Sim:18.6%| Não:80.56%| Não sabe:0.84%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.05%
+   Particular:
+        Total: 2017(20717) 2018(20790) 2019(21200) 
+        Website
+                -> 2017: Sim:49.6%| Não:45.91%| Não sabe:4.49%| Não respondeu:0.0%| 
+                -> 2018: Sim:53.38%| Não:43.02%| Não sabe:3.61%| Não respondeu:0.0%| 
+                -> 2019: Sim:59.48%| Não:37.5%| Não sabe:3.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.88%
+        E-mail institucional
+                -> 2017: Sim:87.99%| Não:12.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.28%| Não:8.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.92%| Não:6.08%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.93%
+        Blog
+                -> 2017: Sim:23.57%| Não:74.1%| Não sabe:2.34%| Não respondeu:0.0%| 
+                -> 2018: Sim:17.92%| Não:80.58%| Não sabe:1.51%| Não respondeu:0.0%| 
+                -> 2019: Sim:27.55%| Não:72.1%| Não sabe:0.35%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.98%
+        Perfil ou página em redes sociais
+                -> 2017: Sim:88.7%| Não:11.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.82%| Não:24.15%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.57%| Não:6.23%| Não sabe:0.2%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.07%
+        Ambiente ou plataforma virtual de aprendizagem
+                -> 2017: Sim:44.48%| Não:55.04%| Não sabe:0.48%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.23%| Não:52.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:64.25%| Não:35.58%| Não sabe:0.17%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 19.77%

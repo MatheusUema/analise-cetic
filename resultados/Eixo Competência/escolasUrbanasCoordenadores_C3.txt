@@ -1,0 +1,301 @@
+TOTAL PARA O INDICADOR C3 – COORDENADORES PEDAGÓGICOS DE ESCOLAS URBANAS, POR INICIATIVAS REALIZADAS NO ÚLTIMO ANO EM DECORRÊNCIA DA INTRODUÇÃO DAS TIC NA ESCOLA
+Em termos de TOTAL:
+    Total: 2017(78533) 2018(80504) 2019(77296) 
+    Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+        -> 2017: Sim:78.5%| Não:19.35%| Não sabe:0.23%| Não respondeu:0.02%| A escola não possui Internet:1.9%| 
+        -> 2018: Sim:76.79%| Não:21.25%| Não sabe:0.32%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Sim:77.58%| Não:20.21%| Não sabe:0.21%| Não respondeu:0.59%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Sim que foi de 0.92%
+    Consulta aos professores sobre suas expectativas de mudanças na escola
+        -> 2017: Sim:73.1%| Não:24.06%| Não sabe:0.86%| Não respondeu:0.09%| A escola não possui Internet:1.9%| 
+        -> 2018: Sim:69.85%| Não:27.73%| Não sabe:0.56%| Não respondeu:0.23%| A escola não possui Internet:1.63%| 
+        -> 2019: Sim:75.21%| Não:22.66%| Não sabe:0.56%| Não respondeu:0.16%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Sim que foi de 2.11%
+    Debate com os alunos sobre as mudanças nas atividades em classe
+        -> 2017: Sim:64.29%| Não:32.85%| Não sabe:0.57%| Não respondeu:0.4%| A escola não possui Internet:1.9%| 
+        -> 2018: Sim:61.75%| Não:35.9%| Não sabe:0.66%| Não respondeu:0.06%| A escola não possui Internet:1.63%| 
+        -> 2019: Sim:64.34%| Não:33.18%| Não sabe:0.39%| Não respondeu:0.68%| A escola não possui Internet:1.41%| 
+        A principal variação foi de A escola não possui Internet que foi de 0.49%
+    Debate com os pais sobre as mudanças nas atividades em classe
+        -> 2017: Sim:52.76%| Não:44.52%| Não sabe:0.75%| Não respondeu:0.07%| A escola não possui Internet:1.9%| 
+        -> 2018: Sim:44.67%| Não:53.42%| Não sabe:0.14%| Não respondeu:0.14%| A escola não possui Internet:1.63%| 
+        -> 2019: Sim:51.93%| Não:45.08%| Não sabe:1.0%| Não respondeu:0.58%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Sim que foi de 0.83%
+    Orientação aos pais sobre como utilizar a Internet com segurança
+        -> 2017: Sim:52.62%| Não:44.88%| Não sabe:0.58%| Não respondeu:0.02%| A escola não possui Internet:1.9%| 
+        -> 2018: Sim:44.47%| Não:52.94%| Não sabe:0.95%| Não respondeu:0.0%| A escola não possui Internet:1.63%| 
+        -> 2019: Sim:49.07%| Não:48.68%| Não sabe:0.26%| Não respondeu:0.58%| A escola não possui Internet:1.41%| 
+        A principal variação foi de Não que foi de 3.8%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(69342) 2018(72030) 2019(70755) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:78.06%| Não:19.62%| Não sabe:0.26%| Não respondeu:0.02%| A escola não possui Internet:2.04%| 
+                -> 2018: Sim:77.56%| Não:20.75%| Não sabe:0.36%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Sim:78.2%| Não:19.58%| Não sabe:0.23%| Não respondeu:0.65%| A escola não possui Internet:1.34%| 
+                A principal variação foi de A escola não possui Internet que foi de 0.7%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:72.83%| Não:24.06%| Não sabe:0.97%| Não respondeu:0.1%| A escola não possui Internet:2.04%| 
+                -> 2018: Sim:70.86%| Não:27.14%| Não sabe:0.42%| Não respondeu:0.25%| A escola não possui Internet:1.32%| 
+                -> 2019: Sim:75.52%| Não:22.35%| Não sabe:0.61%| Não respondeu:0.17%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Sim que foi de 2.69%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:64.05%| Não:32.92%| Não sabe:0.63%| Não respondeu:0.36%| A escola não possui Internet:2.04%| 
+                -> 2018: Sim:62.38%| Não:35.64%| Não sabe:0.59%| Não respondeu:0.07%| A escola não possui Internet:1.32%| 
+                -> 2019: Sim:64.88%| Não:32.61%| Não sabe:0.43%| Não respondeu:0.74%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Sim que foi de 0.83%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:52.61%| Não:44.44%| Não sabe:0.83%| Não respondeu:0.08%| A escola não possui Internet:2.04%| 
+                -> 2018: Sim:46.49%| Não:51.96%| Não sabe:0.07%| Não respondeu:0.16%| A escola não possui Internet:1.32%| 
+                -> 2019: Sim:52.57%| Não:44.36%| Não sabe:1.1%| Não respondeu:0.63%| A escola não possui Internet:1.34%| 
+                A principal variação foi de A escola não possui Internet que foi de 0.7%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:53.42%| Não:43.87%| Não sabe:0.64%| Não respondeu:0.02%| A escola não possui Internet:2.04%| 
+                -> 2018: Sim:44.9%| Não:52.94%| Não sabe:0.84%| Não respondeu:0.0%| A escola não possui Internet:1.32%| 
+                -> 2019: Sim:49.36%| Não:48.47%| Não sabe:0.2%| Não respondeu:0.63%| A escola não possui Internet:1.34%| 
+                A principal variação foi de Não que foi de 4.6%
+   Masculino:
+        Total: 2017(9191) 2018(8473) 2019(6541) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:81.85%| Não:17.33%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Sim:70.22%| Não:25.5%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Sim:70.86%| Não:27.01%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Sim que foi de 10.99%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:75.1%| Não:24.09%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Sim:61.27%| Não:32.69%| Não sabe:1.77%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Sim:71.84%| Não:26.02%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Sim que foi de 3.26%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:66.09%| Não:32.31%| Não sabe:0.09%| Não respondeu:0.69%| A escola não possui Internet:0.82%| 
+                -> 2018: Sim:56.44%| Não:38.11%| Não sabe:1.18%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Sim:58.48%| Não:39.4%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Sim que foi de 7.61%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:53.89%| Não:45.16%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Sim:29.19%| Não:65.83%| Não sabe:0.72%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Sim:44.98%| Não:52.88%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Sim que foi de 8.91%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:46.6%| Não:52.49%| Não sabe:0.09%| Não respondeu:0.0%| A escola não possui Internet:0.82%| 
+                -> 2018: Sim:40.87%| Não:52.97%| Não sabe:1.9%| Não respondeu:0.0%| A escola não possui Internet:4.27%| 
+                -> 2019: Sim:45.96%| Não:50.97%| Não sabe:0.93%| Não respondeu:0.0%| A escola não possui Internet:2.13%| 
+                A principal variação foi de Não que foi de 1.52%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(6576) 2018(6892) 2019(6060) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:63.55%| Não:25.32%| Não sabe:1.13%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Sim:79.28%| Não:16.47%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Sim:71.2%| Não:24.59%| Não sabe:0.56%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Sim que foi de 7.65%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:64.37%| Não:24.42%| Não sabe:1.44%| Não respondeu:0.0%| A escola não possui Internet:9.76%| 
+                -> 2018: Sim:69.41%| Não:25.52%| Não sabe:0.94%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Sim:72.62%| Não:23.73%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Sim que foi de 8.25%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:46.76%| Não:42.11%| Não sabe:1.13%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Sim:53.69%| Não:42.05%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Sim:55.31%| Não:39.55%| Não sabe:1.12%| Não respondeu:0.36%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Sim que foi de 8.55%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:29.17%| Não:58.84%| Não sabe:1.99%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Sim:47.32%| Não:48.42%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Sim:52.64%| Não:43.71%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Sim que foi de 23.47%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:33.45%| Não:54.61%| Não sabe:1.95%| Não respondeu:0.24%| A escola não possui Internet:9.76%| 
+                -> 2018: Sim:41.0%| Não:54.27%| Não sabe:0.59%| Não respondeu:0.0%| A escola não possui Internet:4.12%| 
+                -> 2019: Sim:43.1%| Não:53.23%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.65%| 
+                A principal variação foi de Sim que foi de 9.65%
+   Centro-Oeste:
+        Total: 2017(6207) 2018(6003) 2019(5728) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:86.48%| Não:13.07%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Sim:89.92%| Não:10.08%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:83.05%| Não:16.52%| Não sabe:0.24%| Não respondeu:0.19%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 3.45%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:79.57%| Não:17.64%| Não sabe:1.85%| Não respondeu:0.48%| A escola não possui Internet:0.45%| 
+                -> 2018: Sim:75.78%| Não:24.05%| Não sabe:0.18%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:77.01%| Não:22.99%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 5.35%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:76.38%| Não:20.93%| Não sabe:2.22%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Sim:71.01%| Não:27.85%| Não sabe:0.33%| Não respondeu:0.8%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:60.02%| Não:39.05%| Não sabe:0.0%| Não respondeu:0.94%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 18.12%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:56.34%| Não:40.63%| Não sabe:2.58%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Sim:53.84%| Não:45.69%| Não sabe:0.48%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:45.23%| Não:54.77%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 14.14%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:59.71%| Não:39.71%| Não sabe:0.13%| Não respondeu:0.0%| A escola não possui Internet:0.45%| 
+                -> 2018: Sim:44.51%| Não:55.29%| Não sabe:0.2%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:42.65%| Não:57.12%| Não sabe:0.23%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 17.41%
+   Nordeste:
+        Total: 2017(23993) 2018(24468) 2019(23941) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:76.64%| Não:19.94%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Sim:71.73%| Não:24.0%| Não sabe:0.07%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Sim:67.31%| Não:29.52%| Não sabe:0.3%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não que foi de 9.58%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:75.45%| Não:20.52%| Não sabe:0.61%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Sim:71.19%| Não:23.97%| Não sabe:0.07%| Não respondeu:0.57%| A escola não possui Internet:4.21%| 
+                -> 2019: Sim:74.56%| Não:22.21%| Não sabe:0.36%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não que foi de 1.69%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:62.44%| Não:33.62%| Não sabe:0.2%| Não respondeu:0.31%| A escola não possui Internet:3.42%| 
+                -> 2018: Sim:63.13%| Não:32.66%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Sim:59.22%| Não:37.61%| Não sabe:0.3%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não que foi de 3.99%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:60.13%| Não:36.45%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Sim:46.0%| Não:49.79%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Sim:50.11%| Não:46.92%| Não sabe:0.08%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não que foi de 10.47%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:49.03%| Não:47.14%| Não sabe:0.41%| Não respondeu:0.0%| A escola não possui Internet:3.42%| 
+                -> 2018: Sim:41.65%| Não:52.69%| Não sabe:1.45%| Não respondeu:0.0%| A escola não possui Internet:4.21%| 
+                -> 2019: Sim:44.46%| Não:52.58%| Não sabe:0.08%| Não respondeu:0.0%| A escola não possui Internet:2.87%| 
+                A principal variação foi de Não que foi de 5.44%
+   Sudeste:
+        Total: 2017(29938) 2018(30854) 2019(30031) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:80.14%| Não:19.63%| Não sabe:0.23%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:78.32%| Não:21.04%| Não sabe:0.64%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:83.69%| Não:14.06%| Não sabe:0.16%| Não respondeu:1.49%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Não que foi de 5.57%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:73.02%| Não:25.96%| Não sabe:0.89%| Não respondeu:0.13%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:67.88%| Não:31.35%| Não sabe:0.78%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:76.22%| Não:21.61%| Não sabe:1.16%| Não respondeu:0.41%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Não que foi de 4.35%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:70.94%| Não:27.89%| Não sabe:0.43%| Não respondeu:0.74%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:62.8%| Não:36.57%| Não sabe:0.64%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:69.61%| Não:28.3%| Não sabe:0.0%| Não respondeu:1.49%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Sim que foi de 1.33%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:53.79%| Não:45.5%| Não sabe:0.57%| Não respondeu:0.13%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:44.52%| Não:55.12%| Não sabe:0.0%| Não respondeu:0.36%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:57.94%| Não:38.61%| Não sabe:1.36%| Não respondeu:1.49%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Não que foi de 6.89%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:56.53%| Não:42.9%| Não sabe:0.57%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:45.5%| Não:53.86%| Não sabe:0.64%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:53.74%| Não:43.81%| Não sabe:0.35%| Não respondeu:1.49%| A escola não possui Internet:0.6%| 
+                A principal variação foi de Sim que foi de 2.79%
+   Sul:
+        Total: 2017(11819) 2018(12286) 2019(11536) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:82.25%| Não:17.41%| Não sabe:0.34%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:75.23%| Não:24.46%| Não sabe:0.31%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:83.61%| Não:16.39%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 1.36%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:69.97%| Não:29.6%| Não sabe:0.42%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:69.51%| Não:29.15%| Não sabe:0.98%| Não respondeu:0.35%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:74.37%| Não:25.62%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 4.4%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:54.61%| Não:44.91%| Não sabe:0.48%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:56.36%| Não:41.17%| Não sabe:2.46%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:68.12%| Não:30.45%| Não sabe:1.43%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Não que foi de 14.46%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:46.42%| Não:52.51%| Não sabe:1.07%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:36.42%| Não:62.99%| Não sabe:0.58%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:42.98%| Não:54.0%| Não sabe:3.02%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 3.44%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:56.98%| Não:42.6%| Não sabe:0.41%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:49.43%| Não:49.25%| Não sabe:1.31%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:52.83%| Não:46.64%| Não sabe:0.53%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 4.15%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(31575) 2018(32485) 2019(30986) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:74.64%| Não:21.11%| Não sabe:0.0%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Sim:71.17%| Não:24.32%| Não sabe:0.75%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Sim:75.61%| Não:21.41%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de A escola não possui Internet que foi de 1.22%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:69.45%| Não:26.08%| Não sabe:0.05%| Não respondeu:0.22%| A escola não possui Internet:4.2%| 
+                -> 2018: Sim:63.35%| Não:32.45%| Não sabe:0.45%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Sim:71.25%| Não:25.78%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Sim que foi de 1.8%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:61.32%| Não:33.39%| Não sabe:0.3%| Não respondeu:0.79%| A escola não possui Internet:4.2%| 
+                -> 2018: Sim:53.72%| Não:40.89%| Não sabe:1.54%| Não respondeu:0.1%| A escola não possui Internet:3.75%| 
+                -> 2019: Sim:52.52%| Não:43.86%| Não sabe:0.65%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Não que foi de 10.47%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:54.29%| Não:41.22%| Não sabe:0.12%| Não respondeu:0.17%| A escola não possui Internet:4.2%| 
+                -> 2018: Sim:36.1%| Não:59.78%| Não sabe:0.03%| Não respondeu:0.34%| A escola não possui Internet:3.75%| 
+                -> 2019: Sim:46.09%| Não:49.92%| Não sabe:1.02%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Não que foi de 8.7%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:47.76%| Não:47.97%| Não sabe:0.03%| Não respondeu:0.05%| A escola não possui Internet:4.2%| 
+                -> 2018: Sim:42.12%| Não:52.16%| Não sabe:1.96%| Não respondeu:0.0%| A escola não possui Internet:3.75%| 
+                -> 2019: Sim:38.91%| Não:57.92%| Não sabe:0.2%| Não respondeu:0.0%| A escola não possui Internet:2.98%| 
+                A principal variação foi de Não que foi de 9.95%
+   Pública Estadual:
+        Total: 2017(25973) 2018(26642) 2019(24490) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:79.39%| Não:19.54%| Não sabe:0.44%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Sim:77.45%| Não:22.14%| Não sabe:0.06%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Sim:75.07%| Não:22.39%| Não sabe:0.63%| Não respondeu:1.37%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Sim que foi de 4.32%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:71.89%| Não:25.94%| Não sabe:1.53%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Sim:67.9%| Não:30.08%| Não sabe:1.14%| Não respondeu:0.52%| A escola não possui Internet:0.35%| 
+                -> 2019: Sim:77.61%| Não:21.58%| Não sabe:0.27%| Não respondeu:0.0%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Sim que foi de 5.72%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:57.07%| Não:41.46%| Não sabe:0.59%| Não respondeu:0.24%| A escola não possui Internet:0.64%| 
+                -> 2018: Sim:61.02%| Não:38.46%| Não sabe:0.11%| Não respondeu:0.06%| A escola não possui Internet:0.35%| 
+                -> 2019: Sim:67.65%| Não:29.97%| Não sabe:0.22%| Não respondeu:1.63%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Não que foi de 11.49%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:42.51%| Não:55.0%| Não sabe:1.86%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Sim:38.79%| Não:60.59%| Não sabe:0.27%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Sim:48.15%| Não:49.34%| Não sabe:0.65%| Não respondeu:1.32%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Não que foi de 5.66%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:46.86%| Não:51.06%| Não sabe:1.45%| Não respondeu:0.0%| A escola não possui Internet:0.64%| 
+                -> 2018: Sim:37.76%| Não:61.4%| Não sabe:0.49%| Não respondeu:0.0%| A escola não possui Internet:0.35%| 
+                -> 2019: Sim:45.03%| Não:52.55%| Não sabe:0.57%| Não respondeu:1.32%| A escola não possui Internet:0.53%| 
+                A principal variação foi de Sim que foi de 1.83%
+   Particular:
+        Total: 2017(20984) 2018(21376) 2019(21819) 
+        Discussão com os professores sobre o uso do computador e da Internet em novas práticas de ensino
+                -> 2017: Sim:83.22%| Não:16.46%| Não sabe:0.33%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:84.51%| Não:15.49%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:83.18%| Não:16.04%| Não sabe:0.05%| Não respondeu:0.56%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não respondeu que foi de 0.56%
+        Consulta aos professores sobre suas expectativas de mudanças na escola
+                -> 2017: Sim:80.07%| Não:18.7%| Não sabe:1.23%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:82.18%| Não:17.62%| Não sabe:0.0%| Não respondeu:0.2%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:78.13%| Não:19.46%| Não sabe:1.68%| Não respondeu:0.56%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Sim que foi de 1.94%
+        Debate com os alunos sobre as mudanças nas atividades em classe
+                -> 2017: Sim:77.69%| Não:21.37%| Não sabe:0.95%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:74.86%| Não:25.14%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:77.4%| Não:21.64%| Não sabe:0.23%| Não respondeu:0.56%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não sabe que foi de 0.72%
+        Debate com os pais sobre as mudanças nas atividades em classe
+                -> 2017: Sim:63.14%| Não:36.53%| Não sabe:0.33%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:65.03%| Não:34.84%| Não sabe:0.14%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:64.46%| Não:33.43%| Não sabe:1.38%| Não respondeu:0.56%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não que foi de 3.1%
+        Orientação aos pais sobre como utilizar a Internet com segurança
+                -> 2017: Sim:67.08%| Não:32.59%| Não sabe:0.33%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2018: Sim:56.41%| Não:43.59%| Não sabe:0.0%| Não respondeu:0.0%| A escola não possui Internet:0.0%| 
+                -> 2019: Sim:68.06%| Não:31.21%| Não sabe:0.0%| Não respondeu:0.56%| A escola não possui Internet:0.17%| 
+                A principal variação foi de Não que foi de 1.38%

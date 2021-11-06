@@ -1,0 +1,554 @@
+TOTAL PARA O INDICADOR B10 – ALUNOS DE ESCOLAS URBANAS, POR LOCAL DE ACESSO À INTERNET
+Em termos de TOTAL:
+    Total: 2017(5076682) 2018(5564933) 2019(5790856) 
+    Quarto
+        -> 2017: Sim:79.42%| Não:20.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:80.37%| Não:19.61%| Não sabe:0.02%| Não respondeu:0.0%| 
+        -> 2019: Sim:82.84%| Não:17.04%| Não sabe:0.12%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 3.54%
+    Sala de casa ou outro lugar que não seja o quarto
+        -> 2017: Sim:91.8%| Não:8.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:93.01%| Não:6.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2019: Sim:93.98%| Não:6.01%| Não sabe:0.01%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 2.19%
+    Escola
+        -> 2017: Sim:38.84%| Não:61.14%| Não sabe:0.01%| Não respondeu:0.0%| 
+        -> 2018: Sim:37.0%| Não:62.98%| Não sabe:0.01%| Não respondeu:0.01%| 
+        -> 2019: Sim:39.39%| Não:60.54%| Não sabe:0.06%| Não respondeu:0.01%| 
+        A principal variação foi de Não que foi de 0.6%
+    Casa de outra pessoa
+        -> 2017: Sim:89.39%| Não:10.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:90.48%| Não:9.51%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:90.2%| Não:9.79%| Não sabe:0.01%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 0.82%
+    Lanhouse ou cybercafé
+        -> 2017: Sim:28.33%| Não:71.01%| Não sabe:0.66%| Não respondeu:0.0%| 
+        -> 2018: Sim:27.14%| Não:72.26%| Não sabe:0.58%| Não respondeu:0.02%| 
+        -> 2019: Sim:25.82%| Não:73.62%| Não sabe:0.55%| Não respondeu:0.01%| 
+        A principal variação foi de Não que foi de 2.61%
+    Telecentro
+        -> 2017: Sim:37.3%| Não:62.65%| Não sabe:0.06%| Não respondeu:0.0%| 
+        -> 2018: Sim:34.03%| Não:65.82%| Não sabe:0.15%| Não respondeu:0.0%| 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Em deslocamento
+        -> 2017: Sim:50.23%| Não:49.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Sim:52.08%| Não:47.91%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:53.82%| Não:46.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 3.59%
+    Outro local, como shopping, igreja ou lanchonete
+        -> 2017: Sim:60.15%| Não:39.83%| Não sabe:0.02%| Não respondeu:0.0%| 
+        -> 2018: Sim:57.18%| Não:42.76%| Não sabe:0.06%| Não respondeu:0.0%| 
+        -> 2019: Sim:63.18%| Não:36.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 3.03%
+    Centro público de acesso gratuito
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:36.81%| Não:63.06%| Não sabe:0.11%| Não respondeu:0.02%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(2599458) 2018(2967259) 2019(3022751) 
+        Quarto
+                -> 2017: Sim:79.72%| Não:20.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:83.37%| Não:16.6%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.88%| Não:15.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.16%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:92.84%| Não:7.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.54%| Não:6.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.28%| Não:5.69%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.47%
+        Escola
+                -> 2017: Sim:40.45%| Não:59.52%| Não sabe:0.02%| Não respondeu:0.01%| 
+                -> 2018: Sim:38.32%| Não:61.68%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.62%| Não:58.27%| Não sabe:0.09%| Não respondeu:0.01%| 
+                A principal variação foi de Não que foi de 1.25%
+        Casa de outra pessoa
+                -> 2017: Sim:90.63%| Não:9.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.54%| Não:7.45%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:91.46%| Não:8.52%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.84%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:24.12%| Não:74.72%| Não sabe:1.15%| Não respondeu:0.0%| 
+                -> 2018: Sim:26.5%| Não:72.95%| Não sabe:0.52%| Não respondeu:0.03%| 
+                -> 2019: Sim:19.95%| Não:79.66%| Não sabe:0.39%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.94%
+        Telecentro
+                -> 2017: Sim:37.55%| Não:62.4%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.55%| Não:65.23%| Não sabe:0.22%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:53.13%| Não:46.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:55.71%| Não:44.27%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:57.56%| Não:42.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.43%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:60.98%| Não:39.01%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:57.84%| Não:42.05%| Não sabe:0.11%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.65%| Não:34.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.67%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:35.45%| Não:64.42%| Não sabe:0.13%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(2477225) 2018(2597673) 2019(2768105) 
+        Quarto
+                -> 2017: Sim:79.11%| Não:20.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:76.95%| Não:23.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.61%| Não:19.14%| Não sabe:0.25%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.75%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:90.71%| Não:9.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.41%| Não:7.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.65%| Não:6.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.94%
+        Escola
+                -> 2017: Sim:37.15%| Não:62.84%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:35.5%| Não:64.47%| Não sabe:0.01%| Não respondeu:0.01%| 
+                -> 2019: Sim:36.95%| Não:63.02%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.2%
+        Casa de outra pessoa
+                -> 2017: Sim:88.08%| Não:11.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.13%| Não:11.86%| Não sabe:0.01%| Não respondeu:0.01%| 
+                -> 2019: Sim:88.82%| Não:11.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.74%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:32.75%| Não:67.11%| Não sabe:0.14%| Não respondeu:0.01%| 
+                -> 2018: Sim:27.87%| Não:71.48%| Não sabe:0.64%| Não respondeu:0.01%| 
+                -> 2019: Sim:32.24%| Não:67.02%| Não sabe:0.72%| Não respondeu:0.02%| 
+                A principal variação foi de Não sabe que foi de 0.58%
+        Telecentro
+                -> 2017: Sim:37.03%| Não:62.9%| Não sabe:0.07%| Não respondeu:0.0%| 
+                -> 2018: Sim:33.43%| Não:66.51%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:47.17%| Não:52.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:47.93%| Não:52.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.73%| Não:50.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.56%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:59.28%| Não:40.69%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2018: Sim:56.43%| Não:43.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:60.48%| Não:39.51%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.2%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:38.3%| Não:61.58%| Não sabe:0.08%| Não respondeu:0.03%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(345740) 2018(426832) 2019(502048) 
+        Quarto
+                -> 2017: Sim:77.29%| Não:22.68%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:76.48%| Não:23.39%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2019: Sim:80.14%| Não:19.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.85%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:88.01%| Não:11.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:88.8%| Não:11.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.58%| Não:8.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.57%
+        Escola
+                -> 2017: Sim:36.23%| Não:63.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:36.55%| Não:63.38%| Não sabe:0.0%| Não respondeu:0.08%| 
+                -> 2019: Sim:37.8%| Não:62.15%| Não sabe:0.06%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.62%
+        Casa de outra pessoa
+                -> 2017: Sim:86.64%| Não:13.33%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.36%| Não:13.51%| Não sabe:0.02%| Não respondeu:0.11%| 
+                -> 2019: Sim:84.19%| Não:15.74%| Não sabe:0.07%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.45%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:29.95%| Não:69.6%| Não sabe:0.44%| Não respondeu:0.01%| 
+                -> 2018: Sim:31.64%| Não:67.12%| Não sabe:1.21%| Não respondeu:0.03%| 
+                -> 2019: Sim:27.38%| Não:72.13%| Não sabe:0.47%| Não respondeu:0.03%| 
+                A principal variação foi de Sim que foi de 2.57%
+        Telecentro
+                -> 2017: Sim:34.93%| Não:65.03%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.97%| Não:64.87%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:42.33%| Não:57.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.0%| Não:55.87%| Não sabe:0.0%| Não respondeu:0.13%| 
+                -> 2019: Sim:44.27%| Não:55.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.94%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:60.3%| Não:39.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:54.68%| Não:45.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:61.27%| Não:38.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.97%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:38.13%| Não:61.81%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(494295) 2018(470136) 2019(470752) 
+        Quarto
+                -> 2017: Sim:80.71%| Não:19.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:77.41%| Não:22.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.73%| Não:18.25%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.04%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:92.66%| Não:7.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.67%| Não:5.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.57%| Não:4.28%| Não sabe:0.15%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.06%
+        Escola
+                -> 2017: Sim:42.22%| Não:57.76%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Sim:39.22%| Não:60.7%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2019: Sim:44.77%| Não:55.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.55%
+        Casa de outra pessoa
+                -> 2017: Sim:88.21%| Não:11.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:87.21%| Não:12.78%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:92.02%| Não:7.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.81%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:29.87%| Não:69.94%| Não sabe:0.17%| Não respondeu:0.01%| 
+                -> 2018: Sim:26.96%| Não:72.56%| Não sabe:0.48%| Não respondeu:0.0%| 
+                -> 2019: Sim:32.33%| Não:67.22%| Não sabe:0.45%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.72%
+        Telecentro
+                -> 2017: Sim:34.79%| Não:65.06%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2018: Sim:31.89%| Não:67.88%| Não sabe:0.23%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:54.76%| Não:45.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:55.56%| Não:44.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:57.45%| Não:42.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.69%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:65.24%| Não:34.71%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2018: Sim:61.32%| Não:38.68%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:64.21%| Não:35.76%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.05%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:40.1%| Não:59.67%| Não sabe:0.23%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(1257082) 2018(1263792) 2019(1572802) 
+        Quarto
+                -> 2017: Sim:74.15%| Não:25.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:75.68%| Não:24.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:81.43%| Não:18.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.28%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:90.05%| Não:9.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.94%| Não:10.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.68%| Não:8.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.63%
+        Escola
+                -> 2017: Sim:31.67%| Não:68.29%| Não sabe:0.02%| Não respondeu:0.02%| 
+                -> 2018: Sim:32.12%| Não:67.87%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2019: Sim:29.08%| Não:70.83%| Não sabe:0.07%| Não respondeu:0.03%| 
+                A principal variação foi de Sim que foi de 2.59%
+        Casa de outra pessoa
+                -> 2017: Sim:88.58%| Não:11.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:89.58%| Não:10.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.82%| Não:9.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.24%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:27.89%| Não:71.95%| Não sabe:0.15%| Não respondeu:0.0%| 
+                -> 2018: Sim:26.29%| Não:73.23%| Não sabe:0.44%| Não respondeu:0.04%| 
+                -> 2019: Sim:25.7%| Não:73.82%| Não sabe:0.45%| Não respondeu:0.03%| 
+                A principal variação foi de Sim que foi de 2.19%
+        Telecentro
+                -> 2017: Sim:32.61%| Não:67.26%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2018: Sim:30.35%| Não:69.49%| Não sabe:0.16%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:38.06%| Não:61.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.49%| Não:57.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.98%| Não:53.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.92%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:52.08%| Não:47.88%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:53.55%| Não:46.45%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:58.2%| Não:41.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.12%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:32.16%| Não:67.61%| Não sabe:0.17%| Não respondeu:0.06%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(2337489) 2018(2697957) 2019(2555466) 
+        Quarto
+                -> 2017: Sim:81.52%| Não:18.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:82.44%| Não:17.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:84.6%| Não:15.12%| Não sabe:0.28%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.36%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:93.03%| Não:6.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:94.91%| Não:5.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.2%| Não:4.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.17%
+        Escola
+                -> 2017: Sim:40.31%| Não:59.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.58%| Não:62.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.01%| Não:56.97%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.72%
+        Casa de outra pessoa
+                -> 2017: Sim:90.56%| Não:9.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:91.58%| Não:8.42%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:90.52%| Não:9.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.04%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:28.61%| Não:70.27%| Não sabe:1.13%| Não respondeu:0.0%| 
+                -> 2018: Sim:26.87%| Não:72.6%| Não sabe:0.51%| Não respondeu:0.02%| 
+                -> 2019: Sim:24.96%| Não:74.6%| Não sabe:0.44%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.33%
+        Telecentro
+                -> 2017: Sim:39.88%| Não:60.11%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:34.95%| Não:64.91%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:56.22%| Não:43.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:56.83%| Não:43.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:58.68%| Não:41.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.46%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:61.74%| Não:38.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:57.11%| Não:42.77%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2019: Sim:66.4%| Não:33.6%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.66%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:37.4%| Não:62.53%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(642077) 2018(706215) 2019(689789) 
+        Quarto
+                -> 2017: Sim:82.26%| Não:17.74%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.2%| Não:14.75%| Não sabe:0.05%| Não respondeu:0.0%| 
+                -> 2019: Sim:82.21%| Não:17.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.05%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:92.13%| Não:7.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.7%| Não:7.29%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:95.37%| Não:4.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.24%
+        Escola
+                -> 2017: Sim:46.35%| Não:53.59%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2018: Sim:42.36%| Não:57.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.98%| Não:52.81%| Não sabe:0.21%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.78%
+        Casa de outra pessoa
+                -> 2017: Sim:89.09%| Não:10.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.54%| Não:7.43%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:90.72%| Não:9.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.63%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:26.13%| Não:73.43%| Não sabe:0.42%| Não respondeu:0.02%| 
+                -> 2018: Sim:27.07%| Não:72.17%| Não sabe:0.75%| Não respondeu:0.0%| 
+                -> 2019: Sim:23.74%| Não:74.98%| Não sabe:1.28%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.39%
+        Telecentro
+                -> 2017: Sim:40.27%| Não:59.71%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:37.97%| Não:61.97%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:52.98%| Não:47.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:53.68%| Não:46.3%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:55.91%| Não:44.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.93%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:66.14%| Não:33.78%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Sim:62.7%| Não:37.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:63.33%| Não:36.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.89%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:42.02%| Não:57.92%| Não sabe:0.04%| Não respondeu:0.02%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(1628320) 2018(1968277) 2019(2142208) 
+        Quarto
+                -> 2017: Sim:68.53%| Não:31.47%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:70.98%| Não:29.0%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:73.7%| Não:25.97%| Não sabe:0.33%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.5%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:89.52%| Não:10.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.65%| Não:9.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:91.61%| Não:8.35%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.13%
+        Escola
+                -> 2017: Sim:18.79%| Não:81.19%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Sim:20.67%| Não:79.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:20.55%| Não:79.36%| Não sabe:0.07%| Não respondeu:0.02%| 
+                A principal variação foi de Não que foi de 1.83%
+        Casa de outra pessoa
+                -> 2017: Sim:85.93%| Não:14.06%| Não sabe:0.01%| Não respondeu:0.0%| 
+                -> 2018: Sim:86.83%| Não:13.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.49%| Não:14.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.45%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:27.06%| Não:71.58%| Não sabe:1.34%| Não respondeu:0.01%| 
+                -> 2018: Sim:24.24%| Não:74.94%| Não sabe:0.78%| Não respondeu:0.03%| 
+                -> 2019: Sim:20.25%| Não:79.01%| Não sabe:0.71%| Não respondeu:0.03%| 
+                A principal variação foi de Não que foi de 7.43%
+        Telecentro
+                -> 2017: Sim:30.73%| Não:69.16%| Não sabe:0.11%| Não respondeu:0.0%| 
+                -> 2018: Sim:24.69%| Não:75.11%| Não sabe:0.2%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:41.86%| Não:58.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:41.43%| Não:58.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.24%| Não:56.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.38%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:48.16%| Não:51.78%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2018: Sim:44.16%| Não:55.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:49.02%| Não:50.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.86%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:26.8%| Não:72.97%| Não sabe:0.23%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(2611687) 2018(2576219) 2019(2625350) 
+        Quarto
+                -> 2017: Sim:84.99%| Não:15.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:85.85%| Não:14.13%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2019: Sim:89.39%| Não:10.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 4.4%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:92.37%| Não:7.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:92.91%| Não:7.09%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:94.65%| Não:5.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.28%
+        Escola
+                -> 2017: Sim:47.65%| Não:52.32%| Não sabe:0.02%| Não respondeu:0.01%| 
+                -> 2018: Sim:47.57%| Não:52.4%| Não sabe:0.02%| Não respondeu:0.01%| 
+                -> 2019: Sim:51.28%| Não:48.69%| Não sabe:0.04%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.63%
+        Casa de outra pessoa
+                -> 2017: Sim:91.44%| Não:8.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:93.14%| Não:6.83%| Não sabe:0.01%| Não respondeu:0.03%| 
+                -> 2019: Sim:92.57%| Não:7.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.13%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:29.57%| Não:70.17%| Não sabe:0.26%| Não respondeu:0.0%| 
+                -> 2018: Sim:29.94%| Não:69.88%| Não sabe:0.16%| Não respondeu:0.02%| 
+                -> 2019: Sim:30.11%| Não:69.68%| Não sabe:0.21%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.54%
+        Telecentro
+                -> 2017: Sim:42.5%| Não:57.47%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2018: Sim:41.9%| Não:58.07%| Não sabe:0.03%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:54.0%| Não:46.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:58.67%| Não:41.31%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:61.94%| Não:38.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.94%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:64.99%| Não:35.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:65.87%| Não:34.01%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2019: Sim:72.05%| Não:27.95%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.06%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:45.71%| Não:54.23%| Não sabe:0.02%| Não respondeu:0.04%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(836676) 2018(1020436) 2019(1023298) 
+        Quarto
+                -> 2017: Sim:83.25%| Não:16.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:84.65%| Não:15.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:85.15%| Não:14.85%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.9%
+        Sala de casa ou outro lugar que não seja o quarto
+                -> 2017: Sim:94.45%| Não:5.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:97.84%| Não:2.16%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:97.21%| Não:2.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.76%
+        Escola
+                -> 2017: Sim:50.37%| Não:49.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:41.83%| Não:58.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:48.33%| Não:51.57%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.04%
+        Casa de outra pessoa
+                -> 2017: Sim:89.69%| Não:10.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:90.79%| Não:9.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:93.97%| Não:5.99%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.32%
+        Lanhouse ou cybercafé
+                -> 2017: Sim:26.94%| Não:72.51%| Não sabe:0.55%| Não respondeu:0.0%| 
+                -> 2018: Sim:25.67%| Não:73.1%| Não sabe:1.23%| Não respondeu:0.0%| 
+                -> 2019: Sim:26.51%| Não:72.42%| Não sabe:1.08%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 0.53%
+        Telecentro
+                -> 2017: Sim:33.82%| Não:66.15%| Não sabe:0.04%| Não respondeu:0.0%| 
+                -> 2018: Sim:32.17%| Não:67.48%| Não sabe:0.34%| Não respondeu:0.0%| 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Em deslocamento
+                -> 2017: Sim:54.73%| Não:45.27%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Sim:55.98%| Não:44.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:55.15%| Não:44.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.42%
+        Outro local, como shopping, igreja ou lanchonete
+                -> 2017: Sim:68.38%| Não:31.6%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Sim:60.36%| Não:39.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:70.09%| Não:29.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.71%
+        Centro público de acesso gratuito
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:34.94%| Não:65.0%| Não sabe:0.06%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

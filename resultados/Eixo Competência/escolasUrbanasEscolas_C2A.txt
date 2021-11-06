@@ -1,0 +1,48 @@
+TOTAL PARA O INDICADOR C2A – ESCOLAS URBANAS, POR PROJETO DE FORMAÇÃO PARA PROFESSORES
+Em termos de TOTAL:
+    Total: 2018(74906) 2019(75116) 
+    -> 2018: Atualmente, sim:23.29%| Atualmente, não, ou ainda não:75.51%| Não sabe:1.2%| Não respondeu:0.0%| 
+    -> 2019: Atualmente, sim:25.2%| Atualmente, não, ou ainda não:72.2%| Não sabe:2.6%| Não respondeu:0.0%| 
+        A principal variação foi de Atualmente, não, ou ainda não que foi de 3.31%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(5877) 2019(5908) 
+        -> 2018: Atualmente, sim:24.2%| Atualmente, não, ou ainda não:75.11%| Não sabe:0.7%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:20.38%| Atualmente, não, ou ainda não:78.98%| Não sabe:0.64%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, não, ou ainda não que foi de 3.87%
+   Centro-Oeste:
+        Total: 2018(5595) 2019(5592) 
+        -> 2018: Atualmente, sim:21.25%| Atualmente, não, ou ainda não:77.23%| Não sabe:1.52%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:25.18%| Atualmente, não, ou ainda não:73.32%| Não sabe:1.5%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, sim que foi de 3.93%
+   Nordeste:
+        Total: 2018(23305) 2019(23406) 
+        -> 2018: Atualmente, sim:26.32%| Atualmente, não, ou ainda não:73.62%| Não sabe:0.06%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:18.53%| Atualmente, não, ou ainda não:78.45%| Não sabe:3.01%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, sim que foi de 7.79%
+   Sudeste:
+        Total: 2018(29109) 2019(29187) 
+        -> 2018: Atualmente, sim:18.87%| Atualmente, não, ou ainda não:80.73%| Não sabe:0.4%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:28.36%| Atualmente, não, ou ainda não:68.04%| Não sabe:3.6%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, não, ou ainda não que foi de 12.69%
+   Sul:
+        Total: 2018(11021) 2019(11023) 
+        -> 2018: Atualmente, sim:29.07%| Atualmente, não, ou ainda não:65.07%| Não sabe:5.86%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:33.6%| Atualmente, não, ou ainda não:65.74%| Não sabe:0.65%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 5.21%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(30533) 2019(30469) 
+        -> 2018: Atualmente, sim:19.02%| Atualmente, não, ou ainda não:80.7%| Não sabe:0.28%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:23.63%| Atualmente, não, ou ainda não:74.96%| Não sabe:1.41%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, não, ou ainda não que foi de 5.74%
+   Pública Estadual:
+        Total: 2018(23583) 2019(23447) 
+        -> 2018: Atualmente, sim:23.26%| Atualmente, não, ou ainda não:73.37%| Não sabe:3.36%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:23.08%| Atualmente, não, ou ainda não:72.48%| Não sabe:4.44%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 1.08%
+   Particular:
+        Total: 2018(20789) 2019(21200) 
+        -> 2018: Atualmente, sim:29.58%| Atualmente, não, ou ainda não:70.31%| Não sabe:0.12%| Não respondeu:0.0%| 
+        -> 2019: Atualmente, sim:29.81%| Atualmente, não, ou ainda não:67.93%| Não sabe:2.26%| Não respondeu:0.0%| 
+                A principal variação foi de Atualmente, não, ou ainda não que foi de 2.38%

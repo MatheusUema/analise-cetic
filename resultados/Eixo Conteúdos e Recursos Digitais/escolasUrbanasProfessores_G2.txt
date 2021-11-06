@@ -1,0 +1,686 @@
+TOTAL PARA O INDICADOR G2 – PROFESSORES DE ESCOLAS URBANAS, POR USO DE RECURSOS OBTIDOS NA INTERNET PARA A PREPARAÇÃO DE AULAS OU ATIVIDADES COM ALUNOS
+Em termos de TOTAL:
+    Total: 2017(286862) 2018(309698) 2019(304138) 
+    Filmes ou animações
+        -> 2017: Sim:60.93%| Não:35.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:60.62%| Não:35.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:63.97%| Não:31.61%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 3.55%
+    Videoaulas
+        -> 2017: Sim:60.86%| Não:35.24%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:57.71%| Não:38.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:61.97%| Não:33.55%| Não sabe:0.0%| Não respondeu:0.05%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.69%
+    Imagens, figuras, ilustrações ou fotos
+        -> 2017: Sim:85.98%| Não:10.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:83.7%| Não:12.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:86.9%| Não:8.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.44%
+    Listas com indicações de leitura
+        -> 2017: Sim:57.36%| Não:38.64%| Não sabe:0.01%| Não respondeu:0.08%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:56.6%| Não:39.8%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:58.55%| Não:37.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.62%
+    Podcasts
+        -> 2017: Sim:11.68%| Não:78.1%| Não sabe:6.31%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:10.82%| Não:81.05%| Não sabe:4.57%| Não respondeu:0.01%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:17.07%| Não:74.64%| Não sabe:3.78%| Não respondeu:0.08%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Sim que foi de 5.39%
+    Questões de prova ou avaliações
+        -> 2017: Sim:87.06%| Não:9.01%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:80.84%| Não:15.62%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:83.25%| Não:12.24%| Não sabe:0.09%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Sim que foi de 3.81%
+    Apresentações prontas
+        -> 2017: Sim:37.44%| Não:58.64%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:30.86%| Não:65.58%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:33.67%| Não:61.75%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Sim que foi de 3.77%
+    Jogos
+        -> 2017: Sim:33.71%| Não:62.25%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:35.9%| Não:60.55%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:34.7%| Não:60.85%| Não sabe:0.0%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.4%
+    Programas educacionais de computador ou software
+        -> 2017: Sim:39.36%| Não:56.68%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:40.85%| Não:55.05%| Não sabe:0.55%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:46.38%| Não:48.96%| Não sabe:0.14%| Não respondeu:0.09%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 7.72%
+    Textos variados
+        -> 2017: Sim:82.33%| Não:13.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:81.13%| Não:15.3%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:82.41%| Não:13.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 0.6%
+    Notícias
+        -> 2017: Sim:77.6%| Não:18.5%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:79.27%| Não:17.09%| Não sabe:0.09%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:80.97%| Não:14.61%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 3.89%
+    Planos de aula
+        -> 2017: Sim:57.42%| Não:38.66%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:3.9%| 
+        -> 2018: Sim:52.57%| Não:43.83%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.55%| 
+        -> 2019: Sim:59.47%| Não:36.1%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 2.56%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(226128) 2018(227753) 2019(224797) 
+        Filmes ou animações
+                -> 2017: Sim:65.43%| Não:30.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:64.31%| Não:32.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:66.9%| Não:28.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 1.86%
+        Videoaulas
+                -> 2017: Sim:61.48%| Não:34.35%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:58.11%| Não:39.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:60.54%| Não:34.83%| Não sabe:0.0%| Não respondeu:0.07%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 0.94%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:86.66%| Não:9.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:85.74%| Não:11.53%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:88.24%| Não:7.21%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 1.96%
+        Listas com indicações de leitura
+                -> 2017: Sim:59.82%| Não:35.9%| Não sabe:0.01%| Não respondeu:0.11%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:57.16%| Não:40.04%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:58.82%| Não:36.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 1.0%
+        Podcasts
+                -> 2017: Sim:11.52%| Não:77.1%| Não sabe:7.22%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:11.45%| Não:81.07%| Não sabe:4.74%| Não respondeu:0.01%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:15.36%| Não:75.74%| Não sabe:4.25%| Não respondeu:0.1%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 3.84%
+        Questões de prova ou avaliações
+                -> 2017: Sim:87.46%| Não:8.33%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:79.41%| Não:17.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:82.03%| Não:13.3%| Não sabe:0.12%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 5.43%
+        Apresentações prontas
+                -> 2017: Sim:37.95%| Não:57.87%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:31.19%| Não:66.07%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:31.71%| Não:63.54%| Não sabe:0.19%| Não respondeu:0.01%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 6.24%
+        Jogos
+                -> 2017: Sim:36.58%| Não:59.09%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:37.02%| Não:60.25%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:35.32%| Não:60.1%| Não sabe:0.0%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 1.26%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:41.5%| Não:54.27%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:39.55%| Não:56.97%| Não sabe:0.75%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:45.01%| Não:50.13%| Não sabe:0.19%| Não respondeu:0.12%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 4.14%
+        Textos variados
+                -> 2017: Sim:86.05%| Não:9.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:85.42%| Não:11.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:86.74%| Não:8.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 1.08%
+        Notícias
+                -> 2017: Sim:79.73%| Não:16.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:83.6%| Não:13.54%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:84.26%| Não:11.19%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 4.91%
+        Planos de aula
+                -> 2017: Sim:60.06%| Não:35.75%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:4.17%| 
+                -> 2018: Sim:53.72%| Não:43.47%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.73%| 
+                -> 2019: Sim:59.01%| Não:36.43%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 1.05%
+   Masculino:
+        Total: 2017(60734) 2018(81946) 2019(79341) 
+        Filmes ou animações
+                -> 2017: Sim:44.19%| Não:52.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:50.35%| Não:43.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:55.66%| Não:40.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 12.61%
+        Videoaulas
+                -> 2017: Sim:58.56%| Não:38.51%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:56.59%| Não:37.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:66.03%| Não:29.9%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 8.61%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:83.45%| Não:13.62%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:78.04%| Não:16.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:83.1%| Não:12.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.14%
+        Listas com indicações de leitura
+                -> 2017: Sim:48.21%| Não:48.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:55.04%| Não:39.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:57.8%| Não:38.14%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 10.72%
+        Podcasts
+                -> 2017: Sim:12.31%| Não:81.83%| Não sabe:2.93%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:9.09%| Não:81.01%| Não sabe:4.09%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:21.94%| Não:71.53%| Não sabe:2.47%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 10.3%
+        Questões de prova ou avaliações
+                -> 2017: Sim:85.56%| Não:11.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:84.81%| Não:9.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:86.72%| Não:9.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 2.3%
+        Apresentações prontas
+                -> 2017: Sim:35.55%| Não:61.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:29.96%| Não:64.23%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:39.24%| Não:56.7%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 4.82%
+        Jogos
+                -> 2017: Sim:23.02%| Não:74.0%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:32.79%| Não:61.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:32.95%| Não:62.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 11.01%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:31.4%| Não:65.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:44.47%| Não:49.71%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:50.29%| Não:45.65%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 20.02%
+        Textos variados
+                -> 2017: Sim:68.5%| Não:28.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:69.21%| Não:24.92%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:70.12%| Não:25.82%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 2.76%
+        Notícias
+                -> 2017: Sim:69.65%| Não:27.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:67.22%| Não:26.97%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:71.65%| Não:24.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 3.13%
+        Planos de aula
+                -> 2017: Sim:47.59%| Não:49.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:49.35%| Não:44.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.81%| 
+                -> 2019: Sim:60.77%| Não:35.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 14.31%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(19750) 2018(22935) 2019(25941) 
+        Filmes ou animações
+                -> 2017: Sim:56.58%| Não:40.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:61.27%| Não:33.94%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:63.14%| Não:33.04%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 7.44%
+        Videoaulas
+                -> 2017: Sim:61.44%| Não:35.61%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:53.81%| Não:41.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:64.46%| Não:31.72%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 3.89%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:89.9%| Não:7.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:85.33%| Não:9.88%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:86.6%| Não:9.57%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 3.3%
+        Listas com indicações de leitura
+                -> 2017: Sim:50.38%| Não:46.52%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:58.1%| Não:37.11%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:52.98%| Não:43.2%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 3.32%
+        Podcasts
+                -> 2017: Sim:12.75%| Não:77.14%| Não sabe:7.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:11.7%| Não:75.54%| Não sabe:7.97%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:15.56%| Não:74.76%| Não sabe:5.81%| Não respondeu:0.04%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 2.81%
+        Questões de prova ou avaliações
+                -> 2017: Sim:81.9%| Não:15.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:77.49%| Não:17.72%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:80.46%| Não:14.72%| Não sabe:1.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 1.44%
+        Apresentações prontas
+                -> 2017: Sim:39.63%| Não:57.25%| Não sabe:0.17%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:38.21%| Não:57.0%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:42.8%| Não:53.33%| Não sabe:0.0%| Não respondeu:0.05%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 3.92%
+        Jogos
+                -> 2017: Sim:28.17%| Não:68.88%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:32.97%| Não:62.24%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:35.9%| Não:60.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 8.6%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:34.46%| Não:62.53%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:40.92%| Não:54.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:36.84%| Não:59.34%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 3.19%
+        Textos variados
+                -> 2017: Sim:80.36%| Não:16.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:79.21%| Não:16.0%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:84.57%| Não:11.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 5.09%
+        Notícias
+                -> 2017: Sim:80.26%| Não:16.78%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:74.05%| Não:21.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:75.73%| Não:20.44%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 4.53%
+        Planos de aula
+                -> 2017: Sim:61.52%| Não:35.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.95%| 
+                -> 2018: Sim:54.17%| Não:41.04%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.79%| 
+                -> 2019: Sim:60.22%| Não:35.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 1.3%
+   Centro-Oeste:
+        Total: 2017(24679) 2018(26513) 2019(25143) 
+        Filmes ou animações
+                -> 2017: Sim:65.57%| Não:32.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:62.08%| Não:34.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:63.47%| Não:35.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 2.92%
+        Videoaulas
+                -> 2017: Sim:71.61%| Não:26.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:57.55%| Não:38.92%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:58.9%| Não:39.63%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 13.51%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:88.73%| Não:8.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:81.59%| Não:14.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:88.12%| Não:10.44%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 1.45%
+        Listas com indicações de leitura
+                -> 2017: Sim:65.62%| Não:32.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:57.38%| Não:39.1%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:59.23%| Não:39.34%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 7.24%
+        Podcasts
+                -> 2017: Sim:18.7%| Não:69.81%| Não sabe:9.21%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:19.33%| Não:71.87%| Não sabe:5.27%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:10.19%| Não:82.25%| Não sabe:6.12%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 12.44%
+        Questões de prova ou avaliações
+                -> 2017: Sim:85.31%| Não:12.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:78.81%| Não:17.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:82.7%| Não:15.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 3.43%
+        Apresentações prontas
+                -> 2017: Sim:51.97%| Não:45.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:34.68%| Não:61.8%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:38.89%| Não:59.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 13.91%
+        Jogos
+                -> 2017: Sim:31.38%| Não:66.21%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:31.72%| Não:64.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:29.32%| Não:69.24%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 3.03%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:37.45%| Não:60.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:40.17%| Não:56.25%| Não sabe:0.0%| Não respondeu:0.06%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:40.92%| Não:55.9%| Não sabe:1.74%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 4.38%
+        Textos variados
+                -> 2017: Sim:85.56%| Não:12.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:80.72%| Não:15.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:86.77%| Não:11.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 1.21%
+        Notícias
+                -> 2017: Sim:82.14%| Não:15.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:79.16%| Não:17.32%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:82.39%| Não:16.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.84%
+        Planos de aula
+                -> 2017: Sim:57.32%| Não:40.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.28%| 
+                -> 2018: Sim:46.99%| Não:49.49%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.52%| 
+                -> 2019: Sim:50.57%| Não:47.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 7.59%
+   Nordeste:
+        Total: 2017(80127) 2018(86821) 2019(94678) 
+        Filmes ou animações
+                -> 2017: Sim:59.82%| Não:34.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:60.54%| Não:35.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:58.95%| Não:34.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.37%
+        Videoaulas
+                -> 2017: Sim:61.3%| Não:33.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:59.46%| Não:36.76%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:66.16%| Não:27.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 6.24%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:83.53%| Não:11.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:84.37%| Não:11.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:83.07%| Não:10.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.37%
+        Listas com indicações de leitura
+                -> 2017: Sim:52.14%| Não:42.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:58.84%| Não:37.18%| Não sabe:0.19%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:57.17%| Não:36.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 6.4%
+        Podcasts
+                -> 2017: Sim:12.94%| Não:75.85%| Não sabe:5.81%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:12.71%| Não:77.67%| Não sabe:5.83%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:13.7%| Não:76.92%| Não sabe:2.37%| Não respondeu:0.23%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não sabe que foi de 3.44%
+        Questões de prova ou avaliações
+                -> 2017: Sim:89.7%| Não:4.77%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:80.76%| Não:15.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:82.96%| Não:10.27%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 6.74%
+        Apresentações prontas
+                -> 2017: Sim:39.02%| Não:55.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:32.14%| Não:64.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:37.41%| Não:55.5%| Não sabe:0.31%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 1.61%
+        Jogos
+                -> 2017: Sim:29.69%| Não:64.9%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:35.12%| Não:61.09%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:38.25%| Não:54.89%| Não sabe:0.0%| Não respondeu:0.08%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 10.01%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:36.46%| Não:58.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:36.76%| Não:59.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:48.57%| Não:44.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 13.49%
+        Textos variados
+                -> 2017: Sim:82.31%| Não:12.3%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:77.44%| Não:18.72%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:82.35%| Não:10.88%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 1.42%
+        Notícias
+                -> 2017: Sim:72.29%| Não:22.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:76.97%| Não:19.24%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:75.87%| Não:17.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 4.95%
+        Planos de aula
+                -> 2017: Sim:58.71%| Não:35.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.4%| 
+                -> 2018: Sim:50.16%| Não:46.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:3.78%| 
+                -> 2019: Sim:55.23%| Não:37.97%| Não sabe:0.03%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 3.48%
+   Sudeste:
+        Total: 2017(125467) 2018(132980) 2019(121294) 
+        Filmes ou animações
+                -> 2017: Sim:60.72%| Não:35.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:62.81%| Não:34.56%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:66.83%| Não:28.92%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 6.5%
+        Videoaulas
+                -> 2017: Sim:58.46%| Não:37.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:59.1%| Não:38.27%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:59.79%| Não:35.96%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 1.72%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:86.25%| Não:9.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:83.38%| Não:13.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:88.09%| Não:7.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 2.23%
+        Listas com indicações de leitura
+                -> 2017: Sim:59.69%| Não:36.26%| Não sabe:0.0%| Não respondeu:0.19%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:56.36%| Não:41.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:59.28%| Não:36.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 0.41%
+        Podcasts
+                -> 2017: Sim:9.69%| Não:81.11%| Não sabe:5.34%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:7.35%| Não:86.11%| Não sabe:3.91%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:22.15%| Não:70.8%| Não sabe:2.8%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 12.46%
+        Questões de prova ou avaliações
+                -> 2017: Sim:87.15%| Não:8.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:84.33%| Não:13.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:84.94%| Não:10.8%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 2.21%
+        Apresentações prontas
+                -> 2017: Sim:34.2%| Não:61.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:31.11%| Não:66.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:29.56%| Não:66.19%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 4.64%
+        Jogos
+                -> 2017: Sim:37.7%| Não:58.15%| Não sabe:0.28%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:38.84%| Não:58.53%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:31.91%| Não:63.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 5.79%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:41.62%| Não:54.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:45.09%| Não:52.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:46.69%| Não:48.83%| Não sabe:0.0%| Não respondeu:0.22%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 5.69%
+        Textos variados
+                -> 2017: Sim:81.34%| Não:14.8%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:84.92%| Não:12.45%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:79.96%| Não:15.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 1.38%
+        Notícias
+                -> 2017: Sim:80.69%| Não:15.45%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:82.16%| Não:15.02%| Não sabe:0.19%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:84.49%| Não:11.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 4.19%
+        Planos de aula
+                -> 2017: Sim:55.94%| Não:40.16%| Não sabe:0.0%| Não respondeu:0.04%| Não utilizou recursos obtidos da Internet:3.86%| 
+                -> 2018: Sim:53.87%| Não:43.37%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.63%| 
+                -> 2019: Sim:67.32%| Não:28.43%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 11.73%
+   Sul:
+        Total: 2017(36839) 2018(40450) 2019(37082) 
+        Filmes ou animações
+                -> 2017: Sim:63.33%| Não:34.27%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:52.26%| Não:42.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:68.35%| Não:30.21%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 5.02%
+        Videoaulas
+                -> 2017: Sim:60.58%| Não:37.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:51.69%| Não:42.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:58.76%| Não:39.37%| Não sabe:0.0%| Não respondeu:0.43%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 2.35%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:86.48%| Não:11.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:83.81%| Não:10.82%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:92.16%| Não:6.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 5.68%
+        Listas com indicações de leitura
+                -> 2017: Sim:58.98%| Não:38.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:51.21%| Não:43.43%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:63.15%| Não:35.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.17%
+        Podcasts
+                -> 2017: Sim:10.46%| Não:78.84%| Não sabe:8.3%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:12.11%| Não:80.84%| Não sabe:1.61%| Não respondeu:0.08%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:14.81%| Não:76.12%| Não sabe:7.63%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.35%
+        Questões de prova ou avaliações
+                -> 2017: Sim:84.93%| Não:12.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:72.77%| Não:21.87%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:80.79%| Não:17.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 5.1%
+        Apresentações prontas
+                -> 2017: Sim:34.14%| Não:63.47%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:20.63%| Não:73.94%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:27.66%| Não:70.52%| Não sabe:0.37%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 7.05%
+        Jogos
+                -> 2017: Sim:33.42%| Não:64.18%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:32.31%| Não:62.32%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:37.54%| Não:61.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.12%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:41.88%| Não:55.34%| Não sabe:0.39%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:36.08%| Não:54.31%| Não sabe:4.25%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:50.16%| Não:48.4%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 8.28%
+        Textos variados
+                -> 2017: Sim:84.66%| Não:12.95%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:77.97%| Não:16.67%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:86.06%| Não:12.49%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 1.4%
+        Notícias
+                -> 2017: Sim:74.12%| Não:23.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:77.71%| Não:16.86%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:85.16%| Não:13.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 11.04%
+        Planos de aula
+                -> 2017: Sim:57.53%| Não:40.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.4%| 
+                -> 2018: Sim:56.18%| Não:38.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:5.36%| 
+                -> 2019: Sim:50.11%| Não:48.44%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 8.37%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(104785) 2018(113287) 2019(125491) 
+        Filmes ou animações
+                -> 2017: Sim:62.61%| Não:31.25%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:64.24%| Não:32.91%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:67.49%| Não:26.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 4.96%
+        Videoaulas
+                -> 2017: Sim:59.48%| Não:34.37%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:52.49%| Não:44.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:57.87%| Não:35.91%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 1.61%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:86.33%| Não:7.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:85.93%| Não:11.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:86.57%| Não:7.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 0.3%
+        Listas com indicações de leitura
+                -> 2017: Sim:54.84%| Não:39.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:52.83%| Não:44.18%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:50.74%| Não:43.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 4.1%
+        Podcasts
+                -> 2017: Sim:11.79%| Não:75.95%| Não sabe:6.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:10.85%| Não:82.66%| Não sabe:3.65%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:16.72%| Não:73.63%| Não sabe:3.44%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 4.93%
+        Questões de prova ou avaliações
+                -> 2017: Sim:84.57%| Não:9.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:80.61%| Não:16.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:84.73%| Não:9.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 0.24%
+        Apresentações prontas
+                -> 2017: Sim:32.18%| Não:61.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:30.79%| Não:66.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:32.0%| Não:61.53%| Não sabe:0.24%| Não respondeu:0.01%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não sabe que foi de 0.24%
+        Jogos
+                -> 2017: Sim:36.23%| Não:57.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:40.93%| Não:56.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:39.11%| Não:54.61%| Não sabe:0.0%| Não respondeu:0.06%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 3.02%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:38.28%| Não:55.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:41.84%| Não:55.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:46.4%| Não:47.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 8.2%
+        Textos variados
+                -> 2017: Sim:82.27%| Não:11.59%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:82.68%| Não:14.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:85.66%| Não:8.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 3.47%
+        Notícias
+                -> 2017: Sim:74.38%| Não:19.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:84.49%| Não:12.49%| Não sabe:0.17%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:81.95%| Não:11.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 7.65%
+        Planos de aula
+                -> 2017: Sim:59.11%| Não:34.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.14%| 
+                -> 2018: Sim:51.15%| Não:46.0%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.85%| 
+                -> 2019: Sim:66.57%| Não:27.21%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 7.54%
+   Pública Estadual:
+        Total: 2017(121401) 2018(126435) 2019(119746) 
+        Filmes ou animações
+                -> 2017: Sim:53.89%| Não:43.19%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:53.49%| Não:41.81%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:56.19%| Não:39.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 3.26%
+        Videoaulas
+                -> 2017: Sim:57.95%| Não:39.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:57.38%| Não:37.91%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:63.15%| Não:32.84%| Não sabe:0.0%| Não respondeu:0.13%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 6.29%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:80.8%| Não:16.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:78.65%| Não:16.65%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:83.39%| Não:12.73%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 3.55%
+        Listas com indicações de leitura
+                -> 2017: Sim:53.24%| Não:43.62%| Não sabe:0.03%| Não respondeu:0.2%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:58.7%| Não:36.59%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:61.1%| Não:35.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 8.6%
+        Podcasts
+                -> 2017: Sim:8.69%| Não:81.01%| Não sabe:7.38%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:9.88%| Não:79.68%| Não sabe:5.7%| Não respondeu:0.02%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:16.71%| Não:73.69%| Não sabe:5.54%| Não respondeu:0.18%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 8.02%
+        Questões de prova ou avaliações
+                -> 2017: Sim:89.97%| Não:7.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:83.09%| Não:12.2%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:87.94%| Não:7.96%| Não sabe:0.22%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 2.03%
+        Apresentações prontas
+                -> 2017: Sim:40.04%| Não:57.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:32.5%| Não:62.78%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:36.28%| Não:59.84%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 3.76%
+        Jogos
+                -> 2017: Sim:25.82%| Não:70.95%| Não sabe:0.32%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:24.96%| Não:70.34%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:30.7%| Não:65.41%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 5.54%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:36.44%| Não:60.51%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:36.7%| Não:57.22%| Não sabe:1.36%| Não respondeu:0.01%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:43.32%| Não:52.28%| Não sabe:0.29%| Não respondeu:0.23%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 8.23%
+        Textos variados
+                -> 2017: Sim:79.95%| Não:17.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:77.81%| Não:17.45%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:79.01%| Não:17.11%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.96%
+        Notícias
+                -> 2017: Sim:75.33%| Não:21.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:73.57%| Não:21.73%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:77.63%| Não:18.49%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 3.26%
+        Planos de aula
+                -> 2017: Sim:57.87%| Não:39.17%| Não sabe:0.0%| Não respondeu:0.04%| Não utilizou recursos obtidos da Internet:2.92%| 
+                -> 2018: Sim:55.71%| Não:39.59%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:4.7%| 
+                -> 2019: Sim:60.78%| Não:35.34%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 3.83%
+   Particular:
+        Total: 2017(60676) 2018(69977) 2019(58903) 
+        Filmes ou animações
+                -> 2017: Sim:72.13%| Não:25.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:67.65%| Não:29.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:72.28%| Não:26.01%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.3%
+        Videoaulas
+                -> 2017: Sim:69.07%| Não:28.92%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:66.74%| Não:30.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:68.31%| Não:29.96%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 1.04%
+        Imagens, figuras, ilustrações ou fotos
+                -> 2017: Sim:95.73%| Não:2.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:89.24%| Não:8.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:94.74%| Não:3.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 1.28%
+        Listas com indicações de leitura
+                -> 2017: Sim:69.95%| Não:28.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:58.9%| Não:38.51%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:70.02%| Não:28.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.3%
+        Podcasts
+                -> 2017: Sim:17.49%| Não:76.01%| Não sabe:4.49%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:12.48%| Não:80.93%| Não sabe:4.01%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:18.58%| Não:78.73%| Não sabe:0.95%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não sabe que foi de 3.54%
+        Questões de prova ou avaliações
+                -> 2017: Sim:85.52%| Não:12.29%| Não sabe:0.18%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:77.12%| Não:20.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:70.56%| Não:27.73%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 15.44%
+        Apresentações prontas
+                -> 2017: Sim:41.34%| Não:56.6%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:28.02%| Não:69.39%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:31.93%| Não:66.12%| Não sabe:0.23%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 9.52%
+        Jogos
+                -> 2017: Sim:45.17%| Não:52.81%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:47.53%| Não:49.88%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:33.42%| Não:64.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 12.05%
+        Programas educacionais de computador ou software
+                -> 2017: Sim:47.06%| Não:50.94%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:46.73%| Não:50.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:52.57%| Não:45.56%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 5.51%
+        Textos variados
+                -> 2017: Sim:87.21%| Não:10.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:84.64%| Não:12.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:82.37%| Não:15.91%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 5.12%
+        Notícias
+                -> 2017: Sim:87.69%| Não:10.31%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:81.11%| Não:16.18%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:85.65%| Não:12.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 2.32%
+        Planos de aula
+                -> 2017: Sim:53.61%| Não:44.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.01%| 
+                -> 2018: Sim:49.17%| Não:48.01%| Não sabe:0.24%| Não respondeu:0.0%| Não utilizou recursos obtidos na Internet:2.59%| 
+                -> 2019: Sim:41.67%| Não:56.56%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 12.18%

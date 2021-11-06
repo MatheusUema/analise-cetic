@@ -1,0 +1,48 @@
+TOTAL PARA O INDICADOR C4A – ESCOLAS URBANAS, POR NÚMERO DE PROFESSORES QUE RECEBERAM FORMAÇÃO PARA USO DE COMPUTADOR E INTERNET EM ATIVIDADES DE ENSINO E DE APRENDIZAGEM
+Em termos de TOTAL:
+    Total: 2018(74905) 2019(75115) 
+    -> 2018: Até 20:22.91%| De 21 a 40:9.09%| 41 ou mais:4.27%| Nenhum:58.16%| Não sabe:5.56%| Não respondeu:0.01%| 
+    -> 2019: Até 20:24.67%| De 21 a 40:11.66%| De 41 ou mais:4.02%| Nenhum:53.01%| Não sabe:6.64%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(5877) 2019(5909) 
+        -> 2018: Até 20:24.77%| De 21 a 40:5.1%| 41 ou mais:4.7%| Nenhum:65.32%| Não sabe:0.1%| Não respondeu:0.0%| 
+        -> 2019: Até 20:24.72%| De 21 a 40:10.93%| De 41 ou mais:3.25%| Nenhum:56.54%| Não sabe:4.55%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2018(5594) 2019(5592) 
+        -> 2018: Até 20:11.44%| De 21 a 40:11.35%| 41 ou mais:4.33%| Nenhum:64.19%| Não sabe:8.58%| Não respondeu:0.11%| 
+        -> 2019: Até 20:20.71%| De 21 a 40:7.89%| De 41 ou mais:7.78%| Nenhum:54.6%| Não sabe:9.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2018(23305) 2019(23405) 
+        -> 2018: Até 20:21.03%| De 21 a 40:10.72%| 41 ou mais:2.64%| Nenhum:57.86%| Não sabe:7.75%| Não respondeu:0.0%| 
+        -> 2019: Até 20:27.28%| De 21 a 40:6.7%| De 41 ou mais:3.02%| Nenhum:54.03%| Não sabe:8.97%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2018(29109) 2019(29187) 
+        -> 2018: Até 20:23.44%| De 21 a 40:7.25%| 41 ou mais:4.36%| Nenhum:60.99%| Não sabe:3.96%| Não respondeu:0.0%| 
+        -> 2019: Até 20:19.41%| De 21 a 40:17.79%| De 41 ou mais:3.43%| Nenhum:53.69%| Não sabe:5.69%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2018(11020) 2019(11024) 
+        -> 2018: Até 20:30.29%| De 21 a 40:11.51%| 41 ou mais:7.22%| Nenhum:44.44%| Não sabe:6.54%| Não respondeu:0.0%| 
+        -> 2019: Até 20:35.05%| De 21 a 40:8.28%| De 41 ou mais:6.2%| Nenhum:46.37%| Não sabe:4.1%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(30532) 2019(30468) 
+        -> 2018: Até 20:18.23%| De 21 a 40:7.64%| 41 ou mais:2.36%| Nenhum:68.36%| Não sabe:3.41%| Não respondeu:0.0%| 
+        -> 2019: Até 20:20.64%| De 21 a 40:3.62%| De 41 ou mais:2.78%| Nenhum:64.26%| Não sabe:8.7%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2018(23584) 2019(23448) 
+        -> 2018: Até 20:21.94%| De 21 a 40:6.07%| 41 ou mais:4.01%| Nenhum:62.97%| Não sabe:5.02%| Não respondeu:0.0%| 
+        -> 2019: Até 20:25.91%| De 21 a 40:11.65%| De 41 ou mais:3.06%| Nenhum:50.64%| Não sabe:8.74%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2018(20789) 2019(21201) 
+        -> 2018: Até 20:30.87%| De 21 a 40:14.66%| 41 ou mais:7.38%| Nenhum:37.73%| Não sabe:9.34%| Não respondeu:0.03%| 
+        -> 2019: Até 20:29.09%| De 21 a 40:23.24%| De 41 ou mais:6.86%| Nenhum:39.46%| Não sabe:1.34%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores

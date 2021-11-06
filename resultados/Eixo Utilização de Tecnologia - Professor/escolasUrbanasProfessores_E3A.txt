@@ -1,0 +1,642 @@
+TOTAL PARA O INDICADOR E3A – PROFESSORES DE ESCOLAS URBANAS, POR USO DO COMPUTADOR OU DA INTERNET PARA INTERAGIR COM OS ALUNOS
+Em termos de TOTAL:
+    Total: 2017(286862) 2018(309699) 2019(304138) 
+    Avaliou o desempenho dos alunos usando computador e Internet
+        -> 2017: Sim:43.87%| Não:55.9%| Não sabe:0.23%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:39.66%| Não:60.21%| Não sabe:0.11%| Não respondeu:0.02%| 
+        -> 2019: Sim:43.06%| Não:56.8%| Não sabe:0.15%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 0.9%
+    Utilizou programas educativos de computador, simulações, projeções com os alunos
+        -> 2017: Sim:41.15%| Não:58.62%| Não sabe:0.17%| Não respondeu:0.06%| Não se aplica:0.0%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Criou sites, páginas na Internet ou blogs com os alunos
+        -> 2017: Sim:3.32%| Não:96.68%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:4.07%| Não:95.9%| Não sabe:0.0%| Não respondeu:0.02%| 
+        -> 2019: Sim:6.23%| Não:93.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 2.91%
+    Criou um jogo de computador ou aplicativo com os alunos
+        -> 2017: Sim:1.99%| Não:98.01%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:3.82%| Não:96.15%| Não sabe:0.0%| Não respondeu:0.02%| 
+        -> 2019: Sim:3.28%| Não:96.72%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 1.29%
+    Disponibilizou conteúdo na Internet para os alunos
+        -> 2017: Sim:47.92%| Não:52.07%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:43.06%| Não:56.86%| Não sabe:0.0%| Não respondeu:0.07%| 
+        -> 2019: Sim:51.49%| Não:48.46%| Não sabe:0.05%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 3.61%
+    Tirou dúvidas dos alunos pela Internet
+        -> 2017: Sim:42.06%| Não:57.93%| Não sabe:0.0%| Não respondeu:0.01%| Não se aplica:0.0%| 
+        -> 2018: Sim:44.73%| Não:55.26%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:47.74%| Não:52.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+        A principal variação foi de Sim que foi de 5.68%
+    Recebeu trabalhos ou lições pela Internet
+        -> 2017: Sim:29.27%| Não:70.72%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+        -> 2018: Sim:27.79%| Não:72.19%| Não sabe:0.0%| Não respondeu:0.01%| 
+        -> 2019: Sim:35.07%| Não:64.91%| Não sabe:0.02%| Não respondeu:0.0%| 
+        A principal variação foi de Não que foi de 5.81%
+    Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+        -> 2017: Sim:14.31%| Não:85.59%| Não sabe:0.0%| Não respondeu:0.1%| Não se aplica:0.0%| 
+        -> 2018: Sim:15.55%| Não:84.37%| Não sabe:0.02%| Não respondeu:0.06%| 
+        -> 2019: Sim:19.63%| Não:80.3%| Não sabe:0.0%| Não respondeu:0.07%| 
+        A principal variação foi de Sim que foi de 5.32%
+    Utilizou programas educativos de computador, simulações e projeções com os alunos
+        -> 2017: Não possui 
+        -> 2018: Sim:31.73%| Não:68.25%| Não sabe:0.0%| Não respondeu:0.02%| 
+        -> 2019: Sim:40.1%| Não:59.85%| Não sabe:0.06%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+    Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+        -> 2017: Não possui 
+        -> 2018: Não possui 
+        -> 2019: Sim:51.18%| Não:48.8%| Não sabe:0.02%| Não respondeu:0.0%| 
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+        Não foi possível analisar com anos anteriores
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(226129) 2018(227753) 2019(224797) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:46.66%| Não:53.05%| Não sabe:0.29%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:37.23%| Não:62.61%| Não sabe:0.15%| Não respondeu:0.02%| 
+                -> 2019: Sim:40.93%| Não:58.87%| Não sabe:0.2%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.82%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:42.1%| Não:57.61%| Não sabe:0.2%| Não respondeu:0.08%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:3.17%| Não:96.83%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:2.56%| Não:97.42%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:3.93%| Não:96.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.76%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:1.89%| Não:98.11%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:4.25%| Não:95.73%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:3.09%| Não:96.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.2%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:47.08%| Não:52.92%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:41.62%| Não:58.28%| Não sabe:0.0%| Não respondeu:0.1%| 
+                -> 2019: Sim:48.5%| Não:51.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.43%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:43.28%| Não:56.72%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:44.4%| Não:55.59%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:46.51%| Não:53.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.23%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:28.52%| Não:71.48%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:27.43%| Não:72.55%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:33.97%| Não:66.02%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 5.46%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:15.36%| Não:84.52%| Não sabe:0.0%| Não respondeu:0.12%| Não se aplica:0.0%| 
+                -> 2018: Sim:15.89%| Não:83.99%| Não sabe:0.03%| Não respondeu:0.08%| 
+                -> 2019: Sim:17.95%| Não:82.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.59%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:30.58%| Não:69.4%| Não sabe:0.0%| Não respondeu:0.02%| 
+                -> 2019: Sim:35.84%| Não:64.08%| Não sabe:0.08%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:53.9%| Não:46.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Masculino:
+        Total: 2017(60733) 2018(81946) 2019(79341) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:33.49%| Não:66.51%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:46.41%| Não:53.54%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2019: Sim:49.08%| Não:50.92%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 15.59%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:37.61%| Não:62.34%| Não sabe:0.05%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:3.89%| Não:96.11%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:8.27%| Não:91.68%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2019: Sim:12.76%| Não:87.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.87%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:2.39%| Não:97.61%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:2.64%| Não:97.32%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2019: Sim:3.8%| Não:96.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.41%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:51.02%| Não:48.94%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:47.06%| Não:52.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:59.94%| Não:39.87%| Não sabe:0.2%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.07%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:37.55%| Não:62.41%| Não sabe:0.0%| Não respondeu:0.04%| Não se aplica:0.0%| 
+                -> 2018: Sim:45.66%| Não:54.34%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:51.25%| Não:48.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 13.7%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:32.08%| Não:67.88%| Não sabe:0.04%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:28.8%| Não:71.2%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:38.2%| Não:61.77%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.12%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:10.41%| Não:89.55%| Não sabe:0.0%| Não respondeu:0.04%| Não se aplica:0.0%| 
+                -> 2018: Sim:14.59%| Não:85.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:24.4%| Não:75.35%| Não sabe:0.0%| Não respondeu:0.25%| 
+                A principal variação foi de Não que foi de 14.2%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:34.91%| Não:65.05%| Não sabe:0.0%| Não respondeu:0.05%| 
+                -> 2019: Sim:52.14%| Não:47.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:43.49%| Não:56.46%| Não sabe:0.05%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(19750) 2018(22935) 2019(25940) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:36.36%| Não:63.64%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:37.45%| Não:62.38%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:37.3%| Não:62.27%| Não sabe:0.43%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.37%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:36.66%| Não:63.19%| Não sabe:0.15%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:3.34%| Não:96.65%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:4.39%| Não:95.43%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:4.43%| Não:95.54%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.11%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:1.42%| Não:98.58%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:2.45%| Não:97.38%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:3.24%| Não:96.73%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 1.85%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:46.99%| Não:52.88%| Não sabe:0.13%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:42.81%| Não:57.02%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:46.95%| Não:53.01%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.13%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:37.82%| Não:62.06%| Não sabe:0.0%| Não respondeu:0.13%| Não se aplica:0.0%| 
+                -> 2018: Sim:37.93%| Não:61.9%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:47.96%| Não:52.01%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 10.14%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:14.52%| Não:85.28%| Não sabe:0.2%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:18.83%| Não:81.0%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:26.09%| Não:73.78%| Não sabe:0.13%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.57%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:15.17%| Não:83.99%| Não sabe:0.0%| Não respondeu:0.83%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.86%| Não:85.97%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:20.62%| Não:79.35%| Não sabe:0.03%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.45%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:36.65%| Não:63.18%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:33.93%| Não:65.37%| Não sabe:0.7%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:45.89%| Não:54.09%| Não sabe:0.03%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Centro-Oeste:
+        Total: 2017(24678) 2018(26513) 2019(25144) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:58.68%| Não:41.32%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:51.34%| Não:48.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:51.61%| Não:48.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.07%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:49.49%| Não:50.51%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:5.33%| Não:94.67%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:7.46%| Não:92.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:6.49%| Não:93.51%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.16%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:3.4%| Não:96.6%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:3.96%| Não:96.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:3.06%| Não:96.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.34%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:55.98%| Não:44.02%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:43.75%| Não:56.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:54.91%| Não:44.48%| Não sabe:0.62%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.07%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:41.3%| Não:58.71%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:44.82%| Não:55.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.1%| Não:54.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.82%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:34.53%| Não:65.48%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:31.75%| Não:68.25%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.8%| Não:59.14%| Não sabe:0.06%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 6.34%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:22.05%| Não:77.95%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:15.16%| Não:84.58%| Não sabe:0.26%| Não respondeu:0.0%| 
+                -> 2019: Sim:23.85%| Não:76.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.8%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:35.01%| Não:64.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.47%| Não:59.53%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:53.85%| Não:45.99%| Não sabe:0.16%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Nordeste:
+        Total: 2017(80127) 2018(86821) 2019(94679) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:35.88%| Não:64.12%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:38.71%| Não:61.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:45.01%| Não:54.99%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 9.13%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:34.11%| Não:65.32%| Não sabe:0.56%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:3.19%| Não:96.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:4.78%| Não:95.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:5.89%| Não:94.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.7%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:2.37%| Não:97.63%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:2.81%| Não:97.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:2.29%| Não:97.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.08%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:53.97%| Não:46.04%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:53.29%| Não:46.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.81%| Não:49.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.16%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:38.77%| Não:61.24%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:46.04%| Não:53.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:50.94%| Não:49.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 12.18%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:31.87%| Não:68.13%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.41%| Não:73.59%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:34.34%| Não:65.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.48%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:15.49%| Não:84.51%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:17.77%| Não:82.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:15.22%| Não:84.57%| Não sabe:0.0%| Não respondeu:0.21%| 
+                A principal variação foi de Sim que foi de 0.27%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:31.35%| Não:68.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:39.29%| Não:60.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:45.35%| Não:54.65%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sudeste:
+        Total: 2017(125467) 2018(132979) 2019(121294) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:49.15%| Não:50.33%| Não sabe:0.53%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:41.3%| Não:58.59%| Não sabe:0.12%| Não respondeu:0.0%| 
+                -> 2019: Sim:40.45%| Não:59.28%| Não sabe:0.27%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.95%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:42.98%| Não:57.02%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:2.5%| Não:97.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:3.07%| Não:96.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:7.2%| Não:92.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.7%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:1.37%| Não:98.63%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:5.34%| Não:94.66%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:3.52%| Não:96.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.15%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:43.35%| Não:56.65%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:38.39%| Não:61.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:52.27%| Não:47.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 8.92%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:43.69%| Não:56.31%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:45.72%| Não:54.28%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:46.76%| Não:53.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 3.07%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:28.04%| Não:71.96%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:29.85%| Não:70.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:35.52%| Não:64.48%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.48%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:10.88%| Não:89.01%| Não sabe:0.0%| Não respondeu:0.11%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.67%| Não:86.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:22.78%| Não:77.22%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 11.9%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:31.67%| Não:68.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:41.89%| Não:58.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:55.25%| Não:44.75%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Sul:
+        Total: 2017(36840) 2018(40449) 2019(37082) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:37.37%| Não:62.63%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:29.88%| Não:69.59%| Não sabe:0.44%| Não respondeu:0.09%| 
+                -> 2019: Sim:44.82%| Não:55.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.45%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:47.05%| Não:52.44%| Não sabe:0.0%| Não respondeu:0.5%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:5.05%| Não:94.95%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:3.46%| Não:96.45%| Não sabe:0.0%| Não respondeu:0.09%| 
+                -> 2019: Sim:5.02%| Não:94.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.03%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:2.67%| Não:97.33%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:1.7%| Não:98.21%| Não sabe:0.0%| Não respondeu:0.09%| 
+                -> 2019: Sim:5.16%| Não:94.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.49%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:45.43%| Não:54.57%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:36.14%| Não:63.39%| Não sabe:0.0%| Não respondeu:0.47%| 
+                -> 2019: Sim:51.51%| Não:48.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.08%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:46.51%| Não:53.49%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:42.46%| Não:57.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:44.45%| Não:55.55%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 2.06%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:32.19%| Não:67.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:26.51%| Não:73.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:37.85%| Não:62.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 5.66%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:17.77%| Não:82.23%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:18.21%| Não:81.42%| Não sabe:0.0%| Não respondeu:0.37%| 
+                -> 2019: Sim:17.04%| Não:82.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.73%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:27.8%| Não:72.11%| Não sabe:0.0%| Não respondeu:0.09%| 
+                -> 2019: Sim:40.33%| Não:59.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:54.65%| Não:45.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(104786) 2018(113288) 2019(125491) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:39.78%| Não:60.22%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:37.46%| Não:62.4%| Não sabe:0.14%| Não respondeu:0.0%| 
+                -> 2019: Sim:38.11%| Não:61.81%| Não sabe:0.08%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.67%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:38.11%| Não:61.29%| Não sabe:0.43%| Não respondeu:0.18%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:1.3%| Não:98.7%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:2.77%| Não:97.23%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:3.79%| Não:96.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.49%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:1.17%| Não:98.83%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:5.29%| Não:94.71%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:1.83%| Não:98.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.66%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:40.24%| Não:59.74%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:34.21%| Não:65.63%| Não sabe:0.0%| Não respondeu:0.17%| 
+                -> 2019: Sim:46.71%| Não:53.29%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 6.47%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:36.12%| Não:63.86%| Não sabe:0.0%| Não respondeu:0.02%| Não se aplica:0.0%| 
+                -> 2018: Sim:44.11%| Não:55.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:43.21%| Não:56.79%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 7.09%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:17.21%| Não:82.76%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:17.03%| Não:82.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:30.96%| Não:69.01%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 13.75%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:7.46%| Não:92.26%| Não sabe:0.0%| Não respondeu:0.29%| Não se aplica:0.0%| 
+                -> 2018: Sim:13.79%| Não:86.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:17.33%| Não:82.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 9.87%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:30.42%| Não:69.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:38.85%| Não:61.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:51.38%| Não:48.62%| Não sabe:0.0%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Pública Estadual:
+        Total: 2017(121401) 2018(126434) 2019(119744) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:42.98%| Não:56.48%| Não sabe:0.54%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:42.63%| Não:57.17%| Não sabe:0.14%| Não respondeu:0.06%| 
+                -> 2019: Sim:43.14%| Não:56.57%| Não sabe:0.28%| Não respondeu:0.0%| 
+                A principal variação foi de Não sabe que foi de 0.26%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:34.49%| Não:65.48%| Não sabe:0.02%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:4.19%| Não:95.81%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:4.61%| Não:95.33%| Não sabe:0.0%| Não respondeu:0.06%| 
+                -> 2019: Sim:7.35%| Não:92.64%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 3.17%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:1.68%| Não:98.32%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:1.93%| Não:98.01%| Não sabe:0.0%| Não respondeu:0.06%| 
+                -> 2019: Sim:3.63%| Não:96.37%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.95%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:48.02%| Não:51.98%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:46.08%| Não:53.89%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:49.9%| Não:50.1%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.88%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:35.43%| Não:64.57%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:40.97%| Não:59.0%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:43.9%| Não:56.09%| Não sabe:0.01%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 8.48%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:28.01%| Não:71.98%| Não sabe:0.01%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:25.89%| Não:74.08%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Sim:30.93%| Não:69.05%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 2.93%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:13.63%| Não:86.37%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.59%| Não:83.21%| Não sabe:0.05%| Não respondeu:0.15%| 
+                -> 2019: Sim:17.97%| Não:81.85%| Não sabe:0.01%| Não respondeu:0.17%| 
+                A principal variação foi de Não que foi de 4.52%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:29.07%| Não:70.87%| Não sabe:0.0%| Não respondeu:0.06%| 
+                -> 2019: Sim:33.89%| Não:66.1%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:44.42%| Não:55.57%| Não sabe:0.01%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+   Particular:
+        Total: 2017(60675) 2018(69977) 2019(58902) 
+        Avaliou o desempenho dos alunos usando computador e Internet
+                -> 2017: Sim:52.72%| Não:47.28%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:37.83%| Não:62.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:53.42%| Não:46.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.7%
+        Utilizou programas educativos de computador, simulações, projeções com os alunos
+                -> 2017: Sim:59.73%| Não:40.27%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Criou sites, páginas na Internet ou blogs com os alunos
+                -> 2017: Sim:5.07%| Não:94.93%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:5.2%| Não:94.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:9.16%| Não:90.84%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.09%
+        Criou um jogo de computador ou aplicativo com os alunos
+                -> 2017: Sim:4.04%| Não:95.96%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:4.87%| Não:95.13%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:5.64%| Não:94.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 1.6%
+        Disponibilizou conteúdo na Internet para os alunos
+                -> 2017: Sim:60.97%| Não:39.03%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:51.95%| Não:48.05%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:64.89%| Não:34.85%| Não sabe:0.26%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 4.18%
+        Tirou dúvidas dos alunos pela Internet
+                -> 2017: Sim:65.62%| Não:34.38%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:52.53%| Não:47.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:65.23%| Não:34.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.39%
+        Recebeu trabalhos ou lições pela Internet
+                -> 2017: Sim:52.61%| Não:47.39%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:48.67%| Não:51.33%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:52.24%| Não:47.76%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Sim que foi de 0.37%
+        Desenvolveu projetos no computador ou na Internet com os alunos (projetos científicos, artísticos e sociais)
+                -> 2017: Sim:27.5%| Não:72.5%| Não sabe:0.0%| Não respondeu:0.0%| Não se aplica:0.0%| 
+                -> 2018: Sim:16.53%| Não:83.47%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:27.9%| Não:72.1%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não que foi de 0.4%
+        Utilizou programas educativos de computador, simulações e projeções com os alunos
+                -> 2017: Não possui 
+                -> 2018: Sim:38.65%| Não:61.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Sim:55.35%| Não:44.35%| Não sabe:0.29%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+        Desenvolveu atividades no computador ou na Internet com o uso de música, vídeos, fotografia
+                -> 2017: Não possui 
+                -> 2018: Não possui 
+                -> 2019: Sim:64.5%| Não:35.43%| Não sabe:0.07%| Não respondeu:0.0%| 
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores
+                Não foi possível analisar com anos anteriores

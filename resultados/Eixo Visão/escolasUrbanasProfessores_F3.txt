@@ -1,0 +1,466 @@
+TOTAL PARA O INDICADOR F3 – PROFESSORES DE ESCOLAS URBANAS, POR PERCEPÇÃO SOBRE POSSÍVEIS IMPACTOS DAS TIC EM PRÁTICAS PEDAGÓGICAS
+Em termos de TOTAL:
+    Total: 2017(289396) 2018(310630) 2019(305596) 
+    Passou a adotar novos métodos de ensino
+        -> 2017: Concorda:88.43%| Não concorda nem discorda:4.38%| Discorda:7.09%| Não sabe:0.05%| Não respondeu:0.05%| 
+        -> 2018: Concorda:86.28%| Não concorda nem discorda:7.45%| Discorda:6.09%| Não sabe:0.02%| Não respondeu:0.16%| 
+        -> 2019: Concorda:87.83%| Não concorda nem discorda:6.87%| Discorda:4.83%| Não sabe:0.47%| Não respondeu:0.0%| 
+        A principal variação foi de Não concorda nem discorda que foi de 2.49%
+    Passou a fazer avaliações mais individualizadas dos alunos
+        -> 2017: Concorda:73.92%| Não concorda nem discorda:11.81%| Discorda:14.05%| Não sabe:0.17%| Não respondeu:0.05%| 
+        -> 2018: Concorda:70.29%| Não concorda nem discorda:13.98%| Discorda:15.54%| Não sabe:0.02%| Não respondeu:0.16%| 
+        -> 2019: Concorda:71.03%| Não concorda nem discorda:12.18%| Discorda:16.19%| Não sabe:0.61%| Não respondeu:0.0%| 
+        A principal variação foi de Concorda que foi de 2.89%
+    Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+        -> 2017: Concorda:93.21%| Não concorda nem discorda:3.85%| Discorda:2.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+        -> 2018: Concorda:91.8%| Não concorda nem discorda:4.79%| Discorda:3.24%| Não sabe:0.01%| Não respondeu:0.16%| 
+        -> 2019: Concorda:91.0%| Não concorda nem discorda:3.56%| Discorda:4.96%| Não sabe:0.47%| Não respondeu:0.0%| 
+        A principal variação foi de Concorda que foi de 2.21%
+    Passou a ter contato com professores e com especialistas de outras escolas
+        -> 2017: Concorda:67.17%| Não concorda nem discorda:10.09%| Discorda:22.69%| Não sabe:0.0%| Não respondeu:0.05%| 
+        -> 2018: Concorda:65.73%| Não concorda nem discorda:11.35%| Discorda:22.77%| Não sabe:0.0%| Não respondeu:0.15%| 
+        -> 2019: Concorda:65.6%| Não concorda nem discorda:14.67%| Discorda:19.26%| Não sabe:0.47%| Não respondeu:0.0%| 
+        A principal variação foi de Não concorda nem discorda que foi de 4.58%
+    Passou a cumprir suas tarefas administrativas com maior facilidade
+        -> 2017: Concorda:83.78%| Não concorda nem discorda:7.47%| Discorda:8.65%| Não sabe:0.05%| Não respondeu:0.05%| 
+        -> 2018: Concorda:85.3%| Não concorda nem discorda:6.72%| Discorda:7.67%| Não sabe:0.0%| Não respondeu:0.31%| 
+        -> 2019: Concorda:83.5%| Não concorda nem discorda:9.52%| Discorda:6.63%| Não sabe:0.35%| Não respondeu:0.0%| 
+        A principal variação foi de Não concorda nem discorda que foi de 2.05%
+    Passou a ter menos trabalho
+        -> 2017: Concorda:52.57%| Não concorda nem discorda:13.6%| Discorda:32.88%| Não sabe:0.87%| Não respondeu:0.08%| 
+        -> 2018: Não possui 
+        -> 2019: Não possui 
+        A principal variação foi de  que foi de 0%
+    Passou a colaborar mais com outros colegas da escola
+        -> 2017: Concorda:76.57%| Não concorda nem discorda:11.75%| Discorda:11.46%| Não sabe:0.18%| Não respondeu:0.05%| 
+        -> 2018: Concorda:79.55%| Não concorda nem discorda:10.81%| Discorda:9.38%| Não sabe:0.11%| Não respondeu:0.15%| 
+        -> 2019: Concorda:82.7%| Não concorda nem discorda:10.3%| Discorda:6.69%| Não sabe:0.3%| Não respondeu:0.0%| 
+        A principal variação foi de Concorda que foi de 6.13%
+    Passou a se comunicar com os alunos com maior facilidade
+        -> 2017: Concorda:69.3%| Não concorda nem discorda:12.61%| Discorda:16.54%| Não sabe:0.01%| Não respondeu:1.54%| 
+        -> 2018: Concorda:71.21%| Não concorda nem discorda:10.73%| Discorda:17.61%| Não sabe:0.0%| Não respondeu:0.45%| 
+        -> 2019: Concorda:71.34%| Não concorda nem discorda:14.88%| Discorda:13.38%| Não sabe:0.33%| Não respondeu:0.08%| 
+        A principal variação foi de Discorda que foi de 3.16%
+Em termos de SEXO:
+   Feminino:
+        Total: 2017(227328) 2018(228486) 2019(225701) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:91.16%| Não concorda nem discorda:3.14%| Discorda:5.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:87.95%| Não concorda nem discorda:7.39%| Discorda:4.54%| Não sabe:0.03%| Não respondeu:0.1%| 
+                -> 2019: Concorda:89.49%| Não concorda nem discorda:5.96%| Discorda:3.91%| Não sabe:0.64%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.82%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:76.27%| Não concorda nem discorda:10.1%| Discorda:13.41%| Não sabe:0.22%| Não respondeu:0.0%| 
+                -> 2018: Concorda:73.95%| Não concorda nem discorda:13.5%| Discorda:12.42%| Não sabe:0.03%| Não respondeu:0.1%| 
+                -> 2019: Concorda:70.0%| Não concorda nem discorda:11.75%| Discorda:17.44%| Não sabe:0.82%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.27%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:93.38%| Não concorda nem discorda:3.61%| Discorda:3.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:92.71%| Não concorda nem discorda:4.85%| Discorda:2.33%| Não sabe:0.01%| Não respondeu:0.1%| 
+                -> 2019: Concorda:91.27%| Não concorda nem discorda:3.1%| Discorda:4.99%| Não sabe:0.64%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.11%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:68.35%| Não concorda nem discorda:10.53%| Discorda:21.06%| Não sabe:0.0%| Não respondeu:0.06%| 
+                -> 2018: Concorda:68.01%| Não concorda nem discorda:11.91%| Discorda:19.99%| Não sabe:0.0%| Não respondeu:0.1%| 
+                -> 2019: Concorda:63.6%| Não concorda nem discorda:15.86%| Discorda:19.91%| Não sabe:0.64%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 5.33%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:85.62%| Não concorda nem discorda:5.97%| Discorda:8.27%| Não sabe:0.07%| Não respondeu:0.06%| 
+                -> 2018: Concorda:86.4%| Não concorda nem discorda:5.95%| Discorda:7.34%| Não sabe:0.0%| Não respondeu:0.32%| 
+                -> 2019: Concorda:81.09%| Não concorda nem discorda:10.66%| Discorda:7.78%| Não sabe:0.47%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.69%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:51.73%| Não concorda nem discorda:13.63%| Discorda:33.44%| Não sabe:1.1%| Não respondeu:0.1%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:77.6%| Não concorda nem discorda:11.32%| Discorda:10.81%| Não sabe:0.2%| Não respondeu:0.06%| 
+                -> 2018: Concorda:80.55%| Não concorda nem discorda:10.78%| Discorda:8.43%| Não sabe:0.15%| Não respondeu:0.1%| 
+                -> 2019: Concorda:82.18%| Não concorda nem discorda:10.25%| Discorda:7.15%| Não sabe:0.41%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.58%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:69.1%| Não concorda nem discorda:12.6%| Discorda:16.33%| Não sabe:0.01%| Não respondeu:1.97%| 
+                -> 2018: Concorda:71.49%| Não concorda nem discorda:9.8%| Discorda:18.2%| Não sabe:0.0%| Não respondeu:0.51%| 
+                -> 2019: Concorda:68.09%| Não concorda nem discorda:16.61%| Discorda:14.75%| Não sabe:0.44%| Não respondeu:0.1%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.01%
+   Masculino:
+        Total: 2017(62068) 2018(82146) 2019(79894) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:78.43%| Não concorda nem discorda:8.94%| Discorda:12.15%| Não sabe:0.23%| Não respondeu:0.24%| 
+                -> 2018: Concorda:81.63%| Não concorda nem discorda:7.62%| Discorda:10.41%| Não sabe:0.0%| Não respondeu:0.35%| 
+                -> 2019: Concorda:83.15%| Não concorda nem discorda:9.42%| Discorda:7.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 4.72%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:65.29%| Não concorda nem discorda:18.06%| Discorda:16.41%| Não sabe:0.0%| Não respondeu:0.24%| 
+                -> 2018: Concorda:60.12%| Não concorda nem discorda:15.31%| Discorda:24.22%| Não sabe:0.0%| Não respondeu:0.35%| 
+                -> 2019: Concorda:73.94%| Não concorda nem discorda:13.38%| Discorda:12.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 8.65%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:92.55%| Não concorda nem discorda:4.71%| Discorda:2.73%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:89.27%| Não concorda nem discorda:4.61%| Discorda:5.77%| Não sabe:0.0%| Não respondeu:0.35%| 
+                -> 2019: Concorda:90.25%| Não concorda nem discorda:4.86%| Discorda:4.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.3%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:62.87%| Não concorda nem discorda:8.44%| Discorda:28.69%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:59.4%| Não concorda nem discorda:9.82%| Discorda:30.48%| Não sabe:0.0%| Não respondeu:0.3%| 
+                -> 2019: Concorda:71.25%| Não concorda nem discorda:11.31%| Discorda:17.43%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 11.26%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:77.02%| Não concorda nem discorda:12.97%| Discorda:10.01%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:82.24%| Não concorda nem discorda:8.85%| Discorda:8.61%| Não sabe:0.0%| Não respondeu:0.3%| 
+                -> 2019: Concorda:90.32%| Não concorda nem discorda:6.31%| Discorda:3.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 13.3%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:55.66%| Não concorda nem discorda:13.51%| Discorda:30.83%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:72.79%| Não concorda nem discorda:13.3%| Discorda:13.83%| Não sabe:0.08%| Não respondeu:0.0%| 
+                -> 2018: Concorda:76.75%| Não concorda nem discorda:10.92%| Discorda:12.03%| Não sabe:0.0%| Não respondeu:0.3%| 
+                -> 2019: Concorda:84.17%| Não concorda nem discorda:10.45%| Discorda:5.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 11.38%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:70.02%| Não concorda nem discorda:12.66%| Discorda:17.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:70.4%| Não concorda nem discorda:13.31%| Discorda:15.98%| Não sabe:0.0%| Não respondeu:0.3%| 
+                -> 2019: Concorda:80.5%| Não concorda nem discorda:9.99%| Discorda:9.49%| Não sabe:0.0%| Não respondeu:0.02%| 
+                A principal variação foi de Concorda que foi de 10.48%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(20208) 2018(23100) 2019(26015) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:86.91%| Não concorda nem discorda:6.63%| Discorda:5.76%| Não sabe:0.7%| Não respondeu:0.0%| 
+                -> 2018: Concorda:85.71%| Não concorda nem discorda:6.88%| Discorda:6.52%| Não sabe:0.3%| Não respondeu:0.59%| 
+                -> 2019: Concorda:88.01%| Não concorda nem discorda:6.6%| Discorda:5.29%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 1.1%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:80.38%| Não concorda nem discorda:9.25%| Discorda:10.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:73.83%| Não concorda nem discorda:12.15%| Discorda:13.16%| Não sabe:0.28%| Não respondeu:0.59%| 
+                -> 2019: Concorda:74.38%| Não concorda nem discorda:11.15%| Discorda:14.38%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 6.0%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:93.37%| Não concorda nem discorda:2.93%| Discorda:3.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:88.1%| Não concorda nem discorda:6.51%| Discorda:4.81%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:90.23%| Não concorda nem discorda:4.45%| Discorda:5.23%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 3.14%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:63.36%| Não concorda nem discorda:10.47%| Discorda:26.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:65.98%| Não concorda nem discorda:10.31%| Discorda:23.12%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:59.35%| Não concorda nem discorda:12.98%| Discorda:27.58%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.01%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:83.83%| Não concorda nem discorda:7.75%| Discorda:7.66%| Não sabe:0.76%| Não respondeu:0.0%| 
+                -> 2018: Concorda:78.6%| Não concorda nem discorda:12.48%| Discorda:8.34%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:84.37%| Não concorda nem discorda:9.23%| Discorda:5.83%| Não sabe:0.58%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 1.83%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:58.69%| Não concorda nem discorda:17.2%| Discorda:24.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:80.24%| Não concorda nem discorda:11.13%| Discorda:8.63%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:78.92%| Não concorda nem discorda:10.48%| Discorda:10.01%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:80.11%| Não concorda nem discorda:11.48%| Discorda:8.32%| Não sabe:0.1%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 0.35%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:74.17%| Não concorda nem discorda:12.88%| Discorda:12.96%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:71.53%| Não concorda nem discorda:10.54%| Discorda:17.35%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:75.86%| Não concorda nem discorda:9.27%| Discorda:14.73%| Não sabe:0.1%| Não respondeu:0.05%| 
+                A principal variação foi de Não concorda nem discorda que foi de 3.61%
+   Centro-Oeste:
+        Total: 2017(24935) 2018(26988) 2019(25514) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:90.03%| Não concorda nem discorda:3.4%| Discorda:6.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:86.58%| Não concorda nem discorda:7.86%| Discorda:5.56%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:88.53%| Não concorda nem discorda:5.5%| Discorda:5.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.1%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:78.52%| Não concorda nem discorda:9.04%| Discorda:12.04%| Não sabe:0.4%| Não respondeu:0.0%| 
+                -> 2018: Concorda:73.92%| Não concorda nem discorda:11.93%| Discorda:14.15%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:75.08%| Não concorda nem discorda:8.93%| Discorda:16.0%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 3.96%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:96.88%| Não concorda nem discorda:1.95%| Discorda:1.17%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:92.92%| Não concorda nem discorda:4.7%| Discorda:2.38%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:93.0%| Não concorda nem discorda:4.59%| Discorda:2.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 3.88%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:71.89%| Não concorda nem discorda:3.99%| Discorda:24.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:64.62%| Não concorda nem discorda:12.34%| Discorda:23.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:70.54%| Não concorda nem discorda:9.27%| Discorda:20.19%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 5.28%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:91.02%| Não concorda nem discorda:4.58%| Discorda:4.41%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:91.74%| Não concorda nem discorda:5.4%| Discorda:2.86%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:89.91%| Não concorda nem discorda:5.06%| Discorda:5.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 1.11%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:62.16%| Não concorda nem discorda:11.96%| Discorda:25.88%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:84.03%| Não concorda nem discorda:7.72%| Discorda:8.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:84.57%| Não concorda nem discorda:7.17%| Discorda:8.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:86.42%| Não concorda nem discorda:6.79%| Discorda:6.8%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.39%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:78.97%| Não concorda nem discorda:6.08%| Discorda:14.95%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:70.49%| Não concorda nem discorda:12.19%| Discorda:17.32%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:73.47%| Não concorda nem discorda:12.3%| Discorda:13.95%| Não sabe:0.29%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.22%
+   Nordeste:
+        Total: 2017(81269) 2018(87048) 2019(94784) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:89.4%| Não concorda nem discorda:3.03%| Discorda:7.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:90.57%| Não concorda nem discorda:5.43%| Discorda:3.96%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:91.72%| Não concorda nem discorda:5.36%| Discorda:2.91%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 4.66%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:73.26%| Não concorda nem discorda:12.67%| Discorda:13.78%| Não sabe:0.29%| Não respondeu:0.0%| 
+                -> 2018: Concorda:79.23%| Não concorda nem discorda:8.57%| Discorda:12.15%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:75.26%| Não concorda nem discorda:11.35%| Discorda:13.39%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.0%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:95.46%| Não concorda nem discorda:2.48%| Discorda:2.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:94.32%| Não concorda nem discorda:2.72%| Discorda:2.91%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:91.6%| Não concorda nem discorda:2.8%| Discorda:5.61%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 3.86%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:70.42%| Não concorda nem discorda:10.4%| Discorda:19.0%| Não sabe:0.0%| Não respondeu:0.18%| 
+                -> 2018: Concorda:69.08%| Não concorda nem discorda:13.14%| Discorda:17.77%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:66.12%| Não concorda nem discorda:16.84%| Discorda:17.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.44%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:83.86%| Não concorda nem discorda:6.65%| Discorda:9.31%| Não sabe:0.0%| Não respondeu:0.18%| 
+                -> 2018: Concorda:85.34%| Não concorda nem discorda:7.55%| Discorda:6.53%| Não sabe:0.0%| Não respondeu:0.59%| 
+                -> 2019: Concorda:88.24%| Não concorda nem discorda:6.36%| Discorda:5.4%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.38%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:62.09%| Não concorda nem discorda:12.82%| Discorda:24.91%| Não sabe:0.0%| Não respondeu:0.18%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:80.49%| Não concorda nem discorda:7.85%| Discorda:11.49%| Não sabe:0.0%| Não respondeu:0.18%| 
+                -> 2018: Concorda:81.9%| Não concorda nem discorda:8.81%| Discorda:8.9%| Não sabe:0.39%| Não respondeu:0.0%| 
+                -> 2019: Concorda:83.07%| Não concorda nem discorda:10.67%| Discorda:6.26%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 5.23%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:73.28%| Não concorda nem discorda:13.51%| Discorda:13.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:80.94%| Não concorda nem discorda:6.71%| Discorda:11.27%| Não sabe:0.0%| Não respondeu:1.08%| 
+                -> 2019: Concorda:72.45%| Não concorda nem discorda:16.96%| Discorda:10.34%| Não sabe:0.0%| Não respondeu:0.25%| 
+                A principal variação foi de Não concorda nem discorda que foi de 3.45%
+   Sudeste:
+        Total: 2017(126143) 2018(133029) 2019(122199) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:86.93%| Não concorda nem discorda:5.6%| Discorda:7.34%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Concorda:85.83%| Não concorda nem discorda:7.97%| Discorda:6.16%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:84.61%| Não concorda nem discorda:8.25%| Discorda:5.98%| Não sabe:1.16%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.65%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:73.55%| Não concorda nem discorda:13.2%| Discorda:13.13%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Concorda:64.05%| Não concorda nem discorda:17.62%| Discorda:18.29%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:66.13%| Não concorda nem discorda:13.31%| Discorda:19.09%| Não sabe:1.47%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 7.42%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:90.69%| Não concorda nem discorda:5.18%| Discorda:4.12%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:91.5%| Não concorda nem discorda:4.58%| Discorda:3.87%| Não sabe:0.02%| Não respondeu:0.04%| 
+                -> 2019: Concorda:89.31%| Não concorda nem discorda:3.64%| Discorda:5.89%| Não sabe:1.16%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 1.77%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:63.73%| Não concorda nem discorda:12.7%| Discorda:23.58%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:64.21%| Não concorda nem discorda:9.86%| Discorda:25.89%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:64.07%| Não concorda nem discorda:14.57%| Discorda:20.2%| Não sabe:1.16%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 3.38%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:82.71%| Não concorda nem discorda:8.05%| Discorda:9.24%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:85.12%| Não concorda nem discorda:5.67%| Discorda:9.17%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:78.87%| Não concorda nem discorda:12.62%| Discorda:7.77%| Não sabe:0.74%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.57%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:44.31%| Não concorda nem discorda:14.68%| Discorda:39.08%| Não sabe:1.92%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:72.01%| Não concorda nem discorda:15.57%| Discorda:12.05%| Não sabe:0.36%| Não respondeu:0.0%| 
+                -> 2018: Concorda:76.25%| Não concorda nem discorda:13.49%| Discorda:10.23%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:82.51%| Não concorda nem discorda:10.53%| Discorda:6.22%| Não sabe:0.74%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 10.5%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:62.92%| Não concorda nem discorda:15.09%| Discorda:18.45%| Não sabe:0.0%| Não respondeu:3.54%| 
+                -> 2018: Concorda:65.94%| Não concorda nem discorda:13.86%| Discorda:20.16%| Não sabe:0.0%| Não respondeu:0.04%| 
+                -> 2019: Concorda:68.54%| Não concorda nem discorda:14.65%| Discorda:16.07%| Não sabe:0.74%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 5.62%
+   Sul:
+        Total: 2017(36840) 2018(40466) 2019(37081) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:91.15%| Não concorda nem discorda:2.64%| Discorda:6.21%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:78.64%| Não concorda nem discorda:10.11%| Discorda:10.56%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:87.9%| Não concorda nem discorda:7.25%| Discorda:4.85%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.61%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:69.98%| Não concorda nem discorda:8.41%| Discorda:21.16%| Não sabe:0.44%| Não respondeu:0.0%| 
+                -> 2018: Concorda:67.13%| Não concorda nem discorda:16.07%| Discorda:16.11%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:71.23%| Não concorda nem discorda:13.51%| Discorda:15.21%| Não sabe:0.06%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 5.95%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:94.28%| Não concorda nem discorda:4.08%| Discorda:1.64%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:88.76%| Não concorda nem discorda:9.0%| Discorda:1.56%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:94.24%| Não concorda nem discorda:3.95%| Discorda:1.81%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 0.17%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:70.7%| Não concorda nem discorda:4.37%| Discorda:24.93%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:64.11%| Não concorda nem discorda:12.33%| Discorda:22.87%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:70.31%| Não concorda nem discorda:14.33%| Discorda:15.36%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 9.96%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:82.32%| Não concorda nem discorda:9.11%| Discorda:8.57%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:85.32%| Não concorda nem discorda:5.97%| Discorda:8.02%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:81.65%| Não concorda nem discorda:10.68%| Discorda:7.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 1.57%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:50.02%| Não concorda nem discorda:10.77%| Discorda:38.76%| Não sabe:0.21%| Não respondeu:0.23%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:76.44%| Não concorda nem discorda:10.32%| Discorda:13.11%| Não sabe:0.13%| Não respondeu:0.0%| 
+                -> 2018: Concorda:82.33%| Não concorda nem discorda:8.96%| Discorda:8.02%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:81.69%| Não concorda nem discorda:10.2%| Discorda:8.11%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 5.25%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:73.13%| Não concorda nem discorda:6.41%| Discorda:20.41%| Não sabe:0.06%| Não respondeu:0.0%| 
+                -> 2018: Concorda:67.86%| Não concorda nem discorda:8.23%| Discorda:23.22%| Não sabe:0.0%| Não respondeu:0.69%| 
+                -> 2019: Concorda:73.07%| Não concorda nem discorda:15.99%| Discorda:10.94%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 9.58%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(106123) 2018(113616) 2019(126404) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:90.2%| Não concorda nem discorda:2.92%| Discorda:6.89%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:89.11%| Não concorda nem discorda:5.81%| Discorda:5.06%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Concorda:87.35%| Não concorda nem discorda:5.22%| Discorda:6.71%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 2.85%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:76.49%| Não concorda nem discorda:11.57%| Discorda:11.85%| Não sabe:0.09%| Não respondeu:0.0%| 
+                -> 2018: Concorda:76.1%| Não concorda nem discorda:7.32%| Discorda:16.55%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Concorda:72.98%| Não concorda nem discorda:6.84%| Discorda:19.16%| Não sabe:1.02%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 7.31%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:93.57%| Não concorda nem discorda:4.41%| Discorda:2.02%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:94.37%| Não concorda nem discorda:3.25%| Discorda:2.33%| Não sabe:0.02%| Não respondeu:0.03%| 
+                -> 2019: Concorda:87.47%| Não concorda nem discorda:3.64%| Discorda:8.18%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 6.16%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:66.04%| Não concorda nem discorda:11.44%| Discorda:22.52%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:66.88%| Não concorda nem discorda:10.31%| Discorda:22.78%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Concorda:60.1%| Não concorda nem discorda:18.39%| Discorda:20.79%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.95%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:84.95%| Não concorda nem discorda:5.35%| Discorda:9.7%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:84.06%| Não concorda nem discorda:6.42%| Discorda:9.49%| Não sabe:0.0%| Não respondeu:0.03%| 
+                -> 2019: Concorda:78.35%| Não concorda nem discorda:13.0%| Discorda:7.83%| Não sabe:0.82%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 7.65%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:57.91%| Não concorda nem discorda:10.74%| Discorda:28.91%| Não sabe:2.36%| Não respondeu:0.08%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:80.33%| Não concorda nem discorda:10.37%| Discorda:9.3%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:80.5%| Não concorda nem discorda:9.45%| Discorda:9.72%| Não sabe:0.3%| Não respondeu:0.03%| 
+                -> 2019: Concorda:82.33%| Não concorda nem discorda:10.38%| Discorda:6.57%| Não sabe:0.72%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 2.73%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:69.15%| Não concorda nem discorda:11.81%| Discorda:19.04%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:69.67%| Não concorda nem discorda:9.91%| Discorda:19.57%| Não sabe:0.0%| Não respondeu:0.85%| 
+                -> 2019: Concorda:61.97%| Não concorda nem discorda:18.52%| Discorda:18.61%| Não sabe:0.72%| Não respondeu:0.19%| 
+                A principal variação foi de Concorda que foi de 7.18%
+   Pública Estadual:
+        Total: 2017(122456) 2018(127038) 2019(120290) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:84.97%| Não concorda nem discorda:6.27%| Discorda:8.52%| Não sabe:0.12%| Não respondeu:0.12%| 
+                -> 2018: Concorda:79.87%| Não concorda nem discorda:11.49%| Discorda:8.22%| Não sabe:0.05%| Não respondeu:0.37%| 
+                -> 2019: Concorda:87.25%| Não concorda nem discorda:7.51%| Discorda:4.79%| Não sabe:0.45%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 3.73%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:70.62%| Não concorda nem discorda:11.68%| Discorda:17.25%| Não sabe:0.32%| Não respondeu:0.12%| 
+                -> 2018: Concorda:66.05%| Não concorda nem discorda:17.0%| Discorda:16.52%| Não sabe:0.05%| Não respondeu:0.37%| 
+                -> 2019: Concorda:68.5%| Não concorda nem discorda:16.58%| Discorda:14.46%| Não sabe:0.47%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 4.9%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:91.72%| Não concorda nem discorda:4.1%| Discorda:4.18%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:87.51%| Não concorda nem discorda:7.09%| Discorda:5.03%| Não sabe:0.0%| Não respondeu:0.37%| 
+                -> 2019: Concorda:92.43%| Não concorda nem discorda:4.57%| Discorda:2.55%| Não sabe:0.45%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 1.63%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:61.18%| Não concorda nem discorda:11.57%| Discorda:27.13%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Concorda:57.83%| Não concorda nem discorda:13.02%| Discorda:28.81%| Não sabe:0.0%| Não respondeu:0.34%| 
+                -> 2019: Concorda:66.12%| Não concorda nem discorda:12.41%| Discorda:21.02%| Não sabe:0.45%| Não respondeu:0.0%| 
+                A principal variação foi de Discorda que foi de 6.11%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:80.22%| Não concorda nem discorda:9.83%| Discorda:9.71%| Não sabe:0.12%| Não respondeu:0.12%| 
+                -> 2018: Concorda:84.48%| Não concorda nem discorda:6.67%| Discorda:8.39%| Não sabe:0.0%| Não respondeu:0.46%| 
+                -> 2019: Concorda:85.18%| Não concorda nem discorda:8.63%| Discorda:6.17%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.96%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:45.13%| Não concorda nem discorda:16.76%| Discorda:38.0%| Não sabe:0.0%| Não respondeu:0.12%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:68.58%| Não concorda nem discorda:15.7%| Discorda:15.55%| Não sabe:0.04%| Não respondeu:0.12%| 
+                -> 2018: Concorda:75.41%| Não concorda nem discorda:11.65%| Discorda:12.6%| Não sabe:0.0%| Não respondeu:0.34%| 
+                -> 2019: Concorda:79.76%| Não concorda nem discorda:12.31%| Discorda:7.91%| Não sabe:0.02%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 11.18%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:64.61%| Não concorda nem discorda:16.91%| Discorda:18.46%| Não sabe:0.02%| Não respondeu:0.0%| 
+                -> 2018: Concorda:71.75%| Não concorda nem discorda:9.68%| Discorda:18.22%| Não sabe:0.0%| Não respondeu:0.34%| 
+                -> 2019: Concorda:75.39%| Não concorda nem discorda:13.69%| Discorda:10.83%| Não sabe:0.08%| Não respondeu:0.01%| 
+                A principal variação foi de Concorda que foi de 10.78%
+   Particular:
+        Total: 2017(60816) 2018(69976) 2019(58902) 
+        Passou a adotar novos métodos de ensino
+                -> 2017: Concorda:92.3%| Não concorda nem discorda:3.15%| Discorda:4.54%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:93.32%| Não concorda nem discorda:2.78%| Discorda:3.9%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:90.04%| Não concorda nem discorda:9.08%| Discorda:0.87%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 5.93%
+        Passou a fazer avaliações mais individualizadas dos alunos
+                -> 2017: Concorda:76.06%| Não concorda nem discorda:12.48%| Discorda:11.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:68.55%| Não concorda nem discorda:19.31%| Discorda:12.14%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:72.02%| Não concorda nem discorda:14.63%| Discorda:13.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 4.04%
+        Passou a ter acesso a materiais mais diversificados ou de melhor qualidade
+                -> 2017: Concorda:95.57%| Não concorda nem discorda:2.35%| Discorda:2.07%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:95.42%| Não concorda nem discorda:3.12%| Discorda:1.46%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:95.67%| Não concorda nem discorda:1.36%| Discorda:2.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 0.99%
+        Passou a ter contato com professores e com especialistas de outras escolas
+                -> 2017: Concorda:81.21%| Não concorda nem discorda:4.73%| Discorda:14.06%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:78.2%| Não concorda nem discorda:10.02%| Discorda:11.78%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:76.33%| Não concorda nem discorda:11.3%| Discorda:12.37%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 6.57%
+        Passou a cumprir suas tarefas administrativas com maior facilidade
+                -> 2017: Concorda:88.9%| Não concorda nem discorda:6.43%| Discorda:4.67%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Concorda:88.8%| Não concorda nem discorda:7.27%| Discorda:3.41%| Não sabe:0.0%| Não respondeu:0.52%| 
+                -> 2019: Concorda:91.15%| Não concorda nem discorda:3.88%| Discorda:4.98%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não concorda nem discorda que foi de 2.55%
+        Passou a ter menos trabalho
+                -> 2017: Concorda:58.25%| Não concorda nem discorda:12.26%| Discorda:29.49%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2018: Não possui 
+                -> 2019: Não possui 
+                A principal variação foi de  que foi de 0%
+        Passou a colaborar mais com outros colegas da escola
+                -> 2017: Concorda:86.06%| Não concorda nem discorda:6.19%| Discorda:6.99%| Não sabe:0.75%| Não respondeu:0.0%| 
+                -> 2018: Concorda:85.52%| Não concorda nem discorda:11.51%| Discorda:2.97%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:89.52%| Não concorda nem discorda:6.04%| Discorda:4.44%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Concorda que foi de 3.46%
+        Passou a se comunicar com os alunos com maior facilidade
+                -> 2017: Concorda:79.0%| Não concorda nem discorda:5.36%| Discorda:8.3%| Não sabe:0.0%| Não respondeu:7.35%| 
+                -> 2018: Concorda:72.7%| Não concorda nem discorda:13.98%| Discorda:13.31%| Não sabe:0.0%| Não respondeu:0.0%| 
+                -> 2019: Concorda:83.17%| Não concorda nem discorda:9.48%| Discorda:7.35%| Não sabe:0.0%| Não respondeu:0.0%| 
+                A principal variação foi de Não respondeu que foi de 7.35%

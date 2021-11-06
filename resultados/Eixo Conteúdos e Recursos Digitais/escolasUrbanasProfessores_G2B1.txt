@@ -1,0 +1,422 @@
+TOTAL PARA O INDICADOR G2B1 – PROFESSORES DE ESCOLAS URBANAS, POR PLATAFORMAS ACESSADAS PARA A PREPARAÇÃO DE AULAS
+Em termos de TOTAL:
+    Total: 2018(309699) 2019(304139) 
+    Sites de editoras
+        -> 2018: Sim:55.75%| Não:40.65%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:56.77%| Não:38.61%| Não sabe:0.2%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 2.04%
+    Blogs de professores e de escolas
+        -> 2018: Sim:71.88%| Não:24.57%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:75.56%| Não:20.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 4.55%
+    Portal do professor do MEC
+        -> 2018: Sim:55.79%| Não:40.58%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:56.78%| Não:38.73%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.85%
+    Sites de escolas
+        -> 2018: Sim:69.77%| Não:26.66%| Não sabe:0.02%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:68.28%| Não:27.3%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Sim que foi de 1.49%
+    Enciclopédias digitais
+        -> 2018: Sim:56.67%| Não:39.74%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:53.97%| Não:41.49%| Não sabe:0.12%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Sim que foi de 2.7%
+    Redes sociais
+        -> 2018: Sim:27.48%| Não:68.96%| Não sabe:0.0%| Não respondeu:0.01%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:30.67%| Não:64.86%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 4.1%
+    Sites de revistas ou jornais
+        -> 2018: Sim:64.54%| Não:31.86%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:70.58%| Não:24.95%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 6.91%
+    Plataforma do MEC de Recursos Educacionais Digitais
+        -> 2018: Sim:46.44%| Não:50.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:49.16%| Não:46.18%| Não sabe:0.23%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 3.84%
+    Outros
+        -> 2018: Sim:14.41%| Não:82.05%| Não utilizou recursos obtidos da Internet:3.55%| 
+        -> 2019: Sim:14.93%| Não:80.64%| Não utilizou recursos obtidos da Internet:4.42%| 
+        A principal variação foi de Não que foi de 1.41%
+Em termos de SEXO:
+   Feminino:
+        Total: 2018(227752) 2019(224797) 
+        Sites de editoras
+                -> 2018: Sim:56.64%| Não:40.56%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:56.6%| Não:38.58%| Não sabe:0.27%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 1.98%
+        Blogs de professores e de escolas
+                -> 2018: Sim:74.1%| Não:23.17%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:76.4%| Não:19.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 4.12%
+        Portal do professor do MEC
+                -> 2018: Sim:60.76%| Não:36.44%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:58.85%| Não:36.53%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 1.91%
+        Sites de escolas
+                -> 2018: Sim:73.04%| Não:24.21%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:68.97%| Não:26.47%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 4.07%
+        Enciclopédias digitais
+                -> 2018: Sim:57.95%| Não:39.27%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:54.0%| Não:41.28%| Não sabe:0.17%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Sim que foi de 3.95%
+        Redes sociais
+                -> 2018: Sim:27.2%| Não:70.05%| Não sabe:0.0%| Não respondeu:0.02%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:34.0%| Não:61.38%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 8.67%
+        Sites de revistas ou jornais
+                -> 2018: Sim:67.13%| Não:30.07%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:71.51%| Não:23.87%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 6.2%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:50.64%| Não:46.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:49.71%| Não:45.46%| Não sabe:0.28%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.82%
+        Outros
+                -> 2018: Sim:13.35%| Não:83.92%| Não utilizou recursos obtidos da Internet:2.73%| 
+                -> 2019: Sim:13.79%| Não:81.66%| Não utilizou recursos obtidos da Internet:4.55%| 
+                A principal variação foi de Não que foi de 2.26%
+   Masculino:
+        Total: 2018(81946) 2019(79341) 
+        Sites de editoras
+                -> 2018: Sim:53.25%| Não:40.88%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:57.26%| Não:38.68%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 4.01%
+        Blogs de professores e de escolas
+                -> 2018: Sim:65.71%| Não:28.48%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:73.17%| Não:22.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 7.46%
+        Portal do professor do MEC
+                -> 2018: Sim:41.97%| Não:52.1%| Não sabe:0.12%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:50.92%| Não:44.97%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 8.95%
+        Sites de escolas
+                -> 2018: Sim:60.68%| Não:33.46%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:66.3%| Não:29.64%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 5.62%
+        Enciclopédias digitais
+                -> 2018: Sim:53.13%| Não:41.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:53.86%| Não:42.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.75%
+        Redes sociais
+                -> 2018: Sim:28.26%| Não:65.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:21.23%| Não:74.71%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não que foi de 8.78%
+        Sites de revistas ou jornais
+                -> 2018: Sim:57.36%| Não:36.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:67.93%| Não:28.01%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 10.57%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:34.77%| Não:59.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:47.59%| Não:48.24%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Sim que foi de 12.82%
+        Outros
+                -> 2018: Sim:17.35%| Não:76.83%| Não utilizou recursos obtidos da Internet:5.81%| 
+                -> 2019: Sim:18.17%| Não:77.77%| Não utilizou recursos obtidos da Internet:4.06%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.75%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2018(22935) 2019(25940) 
+        Sites de editoras
+                -> 2018: Sim:51.62%| Não:43.59%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:55.4%| Não:40.78%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 3.78%
+        Blogs de professores e de escolas
+                -> 2018: Sim:63.32%| Não:31.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:71.09%| Não:25.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 7.77%
+        Portal do professor do MEC
+                -> 2018: Sim:54.07%| Não:41.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:50.83%| Não:45.2%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 4.05%
+        Sites de escolas
+                -> 2018: Sim:66.78%| Não:28.43%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:65.62%| Não:30.56%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 2.13%
+        Enciclopédias digitais
+                -> 2018: Sim:47.81%| Não:47.26%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:54.3%| Não:41.71%| Não sabe:0.17%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 6.49%
+        Redes sociais
+                -> 2018: Sim:31.8%| Não:63.41%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:32.77%| Não:63.42%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 0.97%
+        Sites de revistas ou jornais
+                -> 2018: Sim:65.45%| Não:29.77%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:59.38%| Não:36.8%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 7.03%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:40.27%| Não:54.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:40.12%| Não:56.06%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Não que foi de 1.13%
+        Outros
+                -> 2018: Sim:18.52%| Não:76.69%| Não utilizou recursos obtidos da Internet:4.79%| 
+                -> 2019: Sim:21.84%| Não:74.34%| Não utilizou recursos obtidos da Internet:3.82%| 
+                A principal variação foi de Sim que foi de 3.32%
+   Centro-Oeste:
+        Total: 2018(26514) 2019(25144) 
+        Sites de editoras
+                -> 2018: Sim:51.48%| Não:44.97%| Não sabe:0.03%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:60.38%| Não:37.81%| Não sabe:0.37%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 8.9%
+        Blogs de professores e de escolas
+                -> 2018: Sim:73.73%| Não:22.74%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:73.3%| Não:25.26%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 2.52%
+        Portal do professor do MEC
+                -> 2018: Sim:53.59%| Não:42.49%| Não sabe:0.4%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:56.65%| Não:41.9%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 3.06%
+        Sites de escolas
+                -> 2018: Sim:66.88%| Não:29.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:68.43%| Não:30.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 2.08%
+        Enciclopédias digitais
+                -> 2018: Sim:52.4%| Não:44.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:56.86%| Não:41.69%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.46%
+        Redes sociais
+                -> 2018: Sim:27.12%| Não:69.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:20.82%| Não:77.73%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 8.37%
+        Sites de revistas ou jornais
+                -> 2018: Sim:66.33%| Não:30.15%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:69.72%| Não:28.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 3.39%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:42.95%| Não:53.52%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:48.71%| Não:49.49%| Não sabe:0.36%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 5.76%
+        Outros
+                -> 2018: Sim:13.89%| Não:82.59%| Não utilizou recursos obtidos da Internet:3.52%| 
+                -> 2019: Sim:18.24%| Não:80.31%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.35%
+   Nordeste:
+        Total: 2018(86821) 2019(94678) 
+        Sites de editoras
+                -> 2018: Sim:54.84%| Não:41.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:56.85%| Não:36.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 5.0%
+        Blogs de professores e de escolas
+                -> 2018: Sim:67.78%| Não:28.44%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:76.05%| Não:17.18%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 11.26%
+        Portal do professor do MEC
+                -> 2018: Sim:54.94%| Não:41.16%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:57.92%| Não:35.16%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 6.0%
+        Sites de escolas
+                -> 2018: Sim:67.82%| Não:28.35%| Não sabe:0.05%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:63.34%| Não:29.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 4.48%
+        Enciclopédias digitais
+                -> 2018: Sim:53.62%| Não:42.6%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:48.43%| Não:44.8%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 5.19%
+        Redes sociais
+                -> 2018: Sim:26.59%| Não:69.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:28.44%| Não:64.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 4.84%
+        Sites de revistas ou jornais
+                -> 2018: Sim:63.35%| Não:32.68%| Não sabe:0.19%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:60.33%| Não:32.75%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Sim que foi de 3.02%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:46.0%| Não:50.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:46.51%| Não:46.72%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não que foi de 3.5%
+        Outros
+                -> 2018: Sim:13.62%| Não:82.59%| Não utilizou recursos obtidos da Internet:3.78%| 
+                -> 2019: Sim:13.14%| Não:80.1%| Não utilizou recursos obtidos da Internet:6.77%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 2.99%
+   Sudeste:
+        Total: 2018(132980) 2019(121294) 
+        Sites de editoras
+                -> 2018: Sim:57.7%| Não:39.53%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:53.18%| Não:42.15%| Não sabe:0.42%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 4.52%
+        Blogs de professores e de escolas
+                -> 2018: Sim:75.09%| Não:22.28%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:76.17%| Não:19.57%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 2.71%
+        Portal do professor do MEC
+                -> 2018: Sim:57.32%| Não:40.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:56.38%| Não:39.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.62%
+        Sites de escolas
+                -> 2018: Sim:70.35%| Não:27.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:71.73%| Não:24.02%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 3.0%
+        Enciclopédias digitais
+                -> 2018: Sim:62.66%| Não:34.64%| Não sabe:0.07%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:56.58%| Não:38.9%| Não sabe:0.27%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Sim que foi de 6.08%
+        Redes sociais
+                -> 2018: Sim:28.52%| Não:68.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:33.81%| Não:61.93%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 6.92%
+        Sites de revistas ou jornais
+                -> 2018: Sim:66.02%| Não:31.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:80.12%| Não:15.62%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 15.74%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:48.54%| Não:48.83%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:52.79%| Não:42.57%| Não sabe:0.38%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não que foi de 6.26%
+        Outros
+                -> 2018: Sim:14.57%| Não:82.8%| Não utilizou recursos obtidos da Internet:2.63%| 
+                -> 2019: Sim:14.29%| Não:81.45%| Não utilizou recursos obtidos da Internet:4.25%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 1.62%
+   Sul:
+        Total: 2018(40450) 2019(37081) 
+        Sites de editoras
+                -> 2018: Sim:56.4%| Não:38.24%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:66.81%| Não:31.74%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 10.41%
+        Blogs de professores e de escolas
+                -> 2018: Sim:73.78%| Não:20.86%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:76.93%| Não:21.63%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 3.92%
+        Portal do professor do MEC
+                -> 2018: Sim:55.0%| Não:39.52%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:59.43%| Não:39.12%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.43%
+        Sites de escolas
+                -> 2018: Sim:75.65%| Não:18.9%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:71.34%| Não:27.22%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não que foi de 8.32%
+        Enciclopédias digitais
+                -> 2018: Sim:51.35%| Não:43.29%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:57.35%| Não:41.21%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 6.0%
+        Redes sociais
+                -> 2018: Sim:23.74%| Não:70.79%| Não sabe:0.0%| Não respondeu:0.11%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:31.26%| Não:66.87%| Não sabe:0.43%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 7.52%
+        Sites de revistas ou jornais
+                -> 2018: Sim:60.58%| Não:34.05%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:73.94%| Não:24.62%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 13.36%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:46.26%| Não:48.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:50.64%| Não:47.49%| Não sabe:0.43%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Sim que foi de 4.38%
+        Outros
+                -> 2018: Sim:13.56%| Não:81.07%| Não utilizou recursos obtidos da Internet:5.36%| 
+                -> 2019: Sim:14.52%| Não:84.03%| Não utilizou recursos obtidos da Internet:1.44%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 3.92%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2018(113287) 2019(125492) 
+        Sites de editoras
+                -> 2018: Sim:46.41%| Não:50.74%| Não sabe:0.01%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:50.7%| Não:43.08%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 7.66%
+        Blogs de professores e de escolas
+                -> 2018: Sim:75.36%| Não:21.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:77.05%| Não:16.74%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 5.05%
+        Portal do professor do MEC
+                -> 2018: Sim:58.6%| Não:38.52%| Não sabe:0.04%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:54.16%| Não:39.48%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 4.44%
+        Sites de escolas
+                -> 2018: Sim:73.09%| Não:24.07%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:67.75%| Não:26.03%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Sim que foi de 5.34%
+        Enciclopédias digitais
+                -> 2018: Sim:56.74%| Não:40.38%| Não sabe:0.03%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:56.4%| Não:37.38%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 3.37%
+        Redes sociais
+                -> 2018: Sim:34.02%| Não:63.13%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:37.47%| Não:56.32%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 6.81%
+        Sites de revistas ou jornais
+                -> 2018: Sim:67.5%| Não:29.5%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:66.54%| Não:27.13%| Não sabe:0.11%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 3.37%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:43.59%| Não:53.56%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:44.96%| Não:48.45%| Não sabe:0.37%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não que foi de 5.11%
+        Outros
+                -> 2018: Sim:13.86%| Não:83.29%| Não utilizou recursos obtidos da Internet:2.85%| 
+                -> 2019: Sim:11.13%| Não:82.65%| Não utilizou recursos obtidos da Internet:6.22%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 3.37%
+   Pública Estadual:
+        Total: 2018(126435) 2019(119746) 
+        Sites de editoras
+                -> 2018: Sim:53.72%| Não:41.43%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:57.85%| Não:37.84%| Não sabe:0.43%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 4.13%
+        Blogs de professores e de escolas
+                -> 2018: Sim:67.81%| Não:27.49%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:73.37%| Não:22.75%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 5.56%
+        Portal do professor do MEC
+                -> 2018: Sim:58.59%| Não:36.62%| Não sabe:0.08%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:60.53%| Não:35.58%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 1.94%
+        Sites de escolas
+                -> 2018: Sim:59.25%| Não:35.99%| Não sabe:0.06%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:68.32%| Não:27.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 9.07%
+        Enciclopédias digitais
+                -> 2018: Sim:56.51%| Não:38.79%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:49.6%| Não:46.2%| Não sabe:0.31%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 7.41%
+        Redes sociais
+                -> 2018: Sim:26.72%| Não:68.54%| Não sabe:0.0%| Não respondeu:0.03%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:24.4%| Não:71.59%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Não que foi de 3.05%
+        Sites de revistas ou jornais
+                -> 2018: Sim:62.32%| Não:32.97%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:70.27%| Não:25.85%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 7.95%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:48.41%| Não:46.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:53.54%| Não:42.45%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 5.13%
+        Outros
+                -> 2018: Sim:14.66%| Não:80.64%| Não utilizou recursos obtidos da Internet:4.7%| 
+                -> 2019: Sim:15.89%| Não:80.23%| Não utilizou recursos obtidos da Internet:3.88%| 
+                A principal variação foi de Sim que foi de 1.23%
+   Particular:
+        Total: 2018(69977) 2019(58903) 
+        Sites de editoras
+                -> 2018: Sim:74.52%| Não:22.89%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:67.5%| Não:30.62%| Não sabe:0.16%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 7.73%
+        Blogs de professores e de escolas
+                -> 2018: Sim:73.6%| Não:23.81%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:76.82%| Não:21.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 3.22%
+        Portal do professor do MEC
+                -> 2018: Sim:46.19%| Não:51.08%| Não sabe:0.14%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:54.74%| Não:43.54%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 8.55%
+        Sites de escolas
+                -> 2018: Sim:83.43%| Não:13.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:69.3%| Não:28.99%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não que foi de 15.0%
+        Enciclopédias digitais
+                -> 2018: Sim:56.85%| Não:40.44%| Não sabe:0.13%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:57.65%| Não:40.64%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Não utilizou recursos obtidos da Internet que foi de 0.88%
+        Redes sociais
+                -> 2018: Sim:18.25%| Não:79.16%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:28.92%| Não:69.36%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 10.67%
+        Sites de revistas ou jornais
+                -> 2018: Sim:63.76%| Não:33.66%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:79.82%| Não:18.46%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 16.06%
+        Plataforma do MEC de Recursos Educacionais Digitais
+                -> 2018: Sim:47.49%| Não:49.92%| Não sabe:0.0%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:49.19%| Não:48.94%| Não sabe:0.15%| Não respondeu:0.0%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 1.7%
+        Outros
+                -> 2018: Sim:14.84%| Não:82.57%| Não utilizou recursos obtidos da Internet:2.59%| 
+                -> 2019: Sim:21.09%| Não:77.2%| Não utilizou recursos obtidos da Internet:1.71%| 
+                A principal variação foi de Sim que foi de 6.25%

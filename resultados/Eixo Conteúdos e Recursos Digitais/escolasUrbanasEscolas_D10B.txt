@@ -1,0 +1,57 @@
+TOTAL PARA O INDICADOR D10B – ESCOLAS QUE UTILIZAM SISTEMA DE GESTÃO ESCOLAR ON-LINE
+Em termos de TOTAL:
+    Total: 2017(74773) 2018(74907) 2019(75116) 
+    -> 2017: Sim:72.59%| Não:24.39%| Não sabe:0.08%| Não respondeu:0.0%| Não possui Internet:2.94%| 
+    -> 2018: Sim:82.13%| Não:15.62%| Não sabe:0.43%| Não respondeu:0.0%| Não possui Internet:1.81%| 
+    -> 2019: Sim:77.54%| Não:21.31%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:1.15%| 
+        A principal variação foi de Sim que foi de 4.95%
+Em termos de REGIÃO:
+   Norte:
+        Total: 2017(5818) 2018(5878) 2019(5908) 
+        -> 2017: Sim:77.78%| Não:13.61%| Não sabe:0.33%| Não respondeu:0.0%| Não possui Internet:8.28%| 
+        -> 2018: Sim:70.31%| Não:17.18%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:12.5%| 
+        -> 2019: Sim:74.48%| Não:22.04%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:3.49%| 
+                A principal variação foi de Não que foi de 8.43%
+   Centro-Oeste:
+        Total: 2017(5583) 2018(5595) 2019(5592) 
+        -> 2017: Sim:93.07%| Não:6.68%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.25%| 
+        -> 2018: Sim:86.17%| Não:13.83%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Sim:83.96%| Não:15.63%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.41%| 
+                A principal variação foi de Sim que foi de 9.11%
+   Nordeste:
+        Total: 2017(23391) 2018(23304) 2019(23405) 
+        -> 2017: Sim:58.15%| Não:36.66%| Não sabe:0.19%| Não respondeu:0.0%| Não possui Internet:4.99%| 
+        -> 2018: Sim:74.23%| Não:23.1%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:2.67%| 
+        -> 2019: Sim:67.25%| Não:30.66%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:2.09%| 
+                A principal variação foi de Sim que foi de 9.1%
+   Sudeste:
+        Total: 2017(28999) 2018(29109) 2019(29187) 
+        -> 2017: Sim:74.55%| Não:23.61%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:1.84%| 
+        -> 2018: Sim:87.0%| Não:11.89%| Não sabe:1.11%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Sim:81.34%| Não:18.16%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.5%| 
+                A principal variação foi de Sim que foi de 6.79%
+   Sul:
+        Total: 2017(10984) 2018(11020) 2019(11024) 
+        -> 2017: Sim:84.97%| Não:15.03%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2018: Sim:90.25%| Não:9.75%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2019: Sim:87.68%| Não:12.32%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 2.71%
+Em termos de DEPENDÊNCIA ADMINISTRATIVA:
+   Pública Municipal:
+        Total: 2017(30422) 2018(30533) 2019(30468) 
+        -> 2017: Sim:63.94%| Não:29.54%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:6.51%| 
+        -> 2018: Sim:78.81%| Não:17.68%| Não sabe:1.06%| Não respondeu:0.0%| Não possui Internet:2.45%| 
+        -> 2019: Sim:70.67%| Não:27.12%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:2.21%| 
+                A principal variação foi de Sim que foi de 6.73%
+   Pública Estadual:
+        Total: 2017(23634) 2018(23583) 2019(23448) 
+        -> 2017: Sim:95.18%| Não:3.91%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.91%| 
+        -> 2018: Sim:97.32%| Não:2.65%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.02%| 
+        -> 2019: Sim:98.21%| Não:0.98%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.81%| 
+                A principal variação foi de Sim que foi de 3.03%
+   Particular:
+        Total: 2017(20717) 2018(20790) 2019(21200) 
+        -> 2017: Sim:59.5%| Não:40.19%| Não sabe:0.3%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+        -> 2018: Sim:69.79%| Não:27.31%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:2.9%| 
+        -> 2019: Sim:64.54%| Não:35.46%| Não sabe:0.0%| Não respondeu:0.0%| Não possui Internet:0.0%| 
+                A principal variação foi de Sim que foi de 5.04%
